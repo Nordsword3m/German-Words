@@ -81,6 +81,12 @@ class Validator {
       this.errors[fieldName] = `'${field}' must have ${count} words`;
     }
   }
+
+  validateEqual(fieldName: string, val1: string, val2: string) {
+    if (val1 !== val2) {
+      this.errors[fieldName] = `'${val1}' must be equal to '${val2}'`;
+    }
+  }
 }
 
 export const validateWordBase = (word: WordBase) => {
@@ -191,6 +197,23 @@ export const validateAdjective = (adjective: Adjective) => {
   validator.validateIsBoolean("pluralOnly", adjective.pluralOnly);
 
   validator.validateCondition("predicativeOnly/pluralOnly", () => !adjective.predicativeOnly || !adjective.pluralOnly, "Can't be predicativeOnly and pluralOnly at the same time");
+  validator.validateCondition("singularOnly/pluralOnly", () => !adjective.singularOnly || !adjective.pluralOnly, "Can't be singularOnly and pluralOnly at the same time");
+
+  if (adjective.absolute) {
+    validator.validateIsNull("absolute", adjective.comparative);
+    validator.validateIsNull("absolute", adjective.superlative);
+  } else {
+    validator.validateWord("comparative", adjective.comparative, "", false, true);
+    validator.validateWord("superlative", adjective.superlative, " ", false, true);
+  }
+
+  if (adjective.notDeclinable) {
+    if (!adjective.pluralOnly) {
+      validator.validateEqual("notDeclinable", adjective.strong.nominative.m, adjective.weak.genitive.f);
+    } else {
+      validator.validateEqual("notDeclinable", adjective.strong.nominative.p, adjective.weak.genitive.p);
+    }
+  }
 
   Cases.forEach((c) => {
     GenderedForms.forEach((g) => {
@@ -210,9 +233,6 @@ export const validateAdjective = (adjective: Adjective) => {
       }
     });
   });
-
-  validator.validateWord("comparative", adjective.comparative, "", false, true);
-  validator.validateWord("superlative", adjective.superlative, " ", false, true);
 
   validator.assertValid(adjective);
 }

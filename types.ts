@@ -66,6 +66,8 @@ export type Adjective = WordBase & {
   singularOnly: boolean;
   pluralOnly: boolean;
   predicativeOnly: boolean;
+  absolute: boolean;
+  notDeclinable: boolean;
   noMixed: boolean;
   strong: Declension;
   weak: Declension;

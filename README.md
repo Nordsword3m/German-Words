@@ -112,6 +112,8 @@ type Adjective = WordBase & {
   pluralOnly: boolean;
   predicativeOnly: boolean;
   noMixed: boolean;
+  absolute: boolean;
+  notDeclinable: boolean;
   strong: Declension;
   weak: Declension;
   mixed: Declension;
@@ -123,6 +125,8 @@ type Adjective = WordBase & {
 - `pluralOnly`: A boolean indicating if the adjective only has a plural form (e.g. `acht`, `neun`).
 - `predicativeOnly`: A boolean indicating if the adjective only has a predicative form (e.g. `allein`, `egal`, `mehr`).
 - `noMixed`: A boolean indicating if the adjective does not have a mixed declension (e.g. `eins`).
+- `absolute`: A boolean indicating if the adjective is an absolute adjective, aka doesn't have any comparative forms (e.g. `extra`, `vegan`, `kostenlos`).
+- `notDeclinable`: A boolean indicating if the adjective is not declinable (e.g. `klasse`, `super`, `mehr`).
 - `strong`: The strong declension of the adjective.
 - `weak`: The weak declension of the adjective.
 - `mixed`: The mixed declension of the adjective.
