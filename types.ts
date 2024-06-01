@@ -34,7 +34,7 @@ export type Noun = WordBase & {
   };
 };
 
-export const Pronouns = ["ich", "du", "es", "wir", "ihr", "Sie"];
+export const Pronouns = ["ich", "du", "es", "ihr", "Sie"];
 export type Pronoun = typeof Pronouns[number]
 
 export type Conjugation = {
@@ -47,7 +47,7 @@ export type Verb = WordBase & {
   simple: Conjugation;
   conjunctive1: Conjugation;
   conjunctive2: Conjugation;
-  imperative: { "du": string, "wir": string, "ihr": string, "Sie": string } | null;
+  imperative: { "du": string, "ihr": string, "Sie": string } | null;
   perfect: string;
   gerund: string;
   zuinfinitive: string;

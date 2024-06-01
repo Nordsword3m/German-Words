@@ -73,7 +73,7 @@ type Verb = WordBase & {
   simple: Conjugation;
   conjunctive1: Conjugation;
   conjunctive2: Conjugation;
-  imperative: { "du": string, "wir": string, "ihr": string, "Sie": string } | null;
+  imperative: { "du": string "ihr": string, "Sie": string } | null;
   perfect: string;
   gerund: string;
   zuinfinitive: string;
@@ -99,9 +99,10 @@ type Conjugation = {
 - `ich`
 - `du`
 - `es`
-- `wir`
 - `ihr`
 - `Sie`
+Note conjugaions with `er` and `sie` are assumed to always be the same as `es`. This is also assumed for `wir` and `Sie`
+
 
 #### Adjective
 Each adjective entry in the list is represented by the following type

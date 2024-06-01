@@ -170,9 +170,6 @@ export const validateVerb = (verb: Verb) => {
     validator.validateWord("imperative.du", verb.imperative.du, " ");
     validator.validateWordCount("imperative.du", verb.imperative.du, verb.separable ? 3 : 2);
 
-    validator.validateWord("imperative.wir", verb.imperative.wir, " ");
-    validator.validateWordCount("imperative.wir", verb.imperative.wir, verb.separable ? 3 : 2);
-
     validator.validateWord("imperative.ihr", verb.imperative.ihr, " ");
     validator.validateWordCount("imperative.ihr", verb.imperative.ihr, verb.separable ? 3 : 2);
 
