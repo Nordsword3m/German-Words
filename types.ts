@@ -73,5 +73,7 @@ export type Adjective = WordBase & {
   weak: Declension;
   mixed: Declension;
   comparative: string;
+  isComparative: boolean;
   superlative: string;
+  isSuperlative: boolean;
 };

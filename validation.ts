@@ -195,9 +195,13 @@ export const validateAdjective = (adjective: Adjective) => {
 
   validator.validateIsBoolean("predicativeOnly", adjective.predicativeOnly);
   validator.validateIsBoolean("pluralOnly", adjective.pluralOnly);
+  validator.validateIsBoolean("isComparative", adjective.isComparative);
+  validator.validateIsBoolean("isSuperlative", adjective.isSuperlative);
 
   validator.validateCondition("predicativeOnly/pluralOnly", () => !adjective.predicativeOnly || !adjective.pluralOnly, "Can't be predicativeOnly and pluralOnly at the same time");
   validator.validateCondition("singularOnly/pluralOnly", () => !adjective.singularOnly || !adjective.pluralOnly, "Can't be singularOnly and pluralOnly at the same time");
+
+  validator.validateCondition("isComparative/isSuperlative", () => !adjective.isComparative || !adjective.isSuperlative, "Can't be isComparative and isSuperlative at the same time");
 
   if (adjective.absolute) {
     validator.validateIsNull("absolute", adjective.comparative);

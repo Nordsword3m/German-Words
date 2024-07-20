@@ -118,7 +118,9 @@ type Adjective = WordBase & {
   weak: Declension;
   mixed: Declension;
   comparative: string;
+  isComparative: boolean;
   superlative: string;
+  isSuperlative: boolean;
 };
 ```
 - `singularOnly`: A boolean indicating if the adjective only has a singular form (e.g. `eins`).
@@ -131,7 +133,9 @@ type Adjective = WordBase & {
 - `weak`: The weak declension of the adjective.
 - `mixed`: The mixed declension of the adjective.
 - `comparative`: The comparative form of the adjective.
+- `isComparative`: A boolean indicating if the adjective is a comparative form (e.g. 'weniger`, `kleiner`, `schneller`).
 - `superlative`: The superlative form of the adjective.
+- `isSuperlative`: A boolean indicating if the adjective is a superlative form (e.g. `falschesten`, `ältesten`, `klügsten`).
 `Declension` is an object that holds each gendered form of the adjective for each case. It is defined as follows:
 ```typescript
 type Declension = {
