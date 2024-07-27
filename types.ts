@@ -11,6 +11,7 @@ export type WordBase = {
   type: WordType;
   level: Level | null;
   translations: string[];
+  frequency: number | undefined;
 };
 
 export const Genders = ["m", "f", "n"];

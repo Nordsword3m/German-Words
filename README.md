@@ -13,10 +13,11 @@ type WordBase = {
   type: WordType;
   level: Level | null;
   translations: string[];
+  frequency: number | undefined;
 };
 ```
 - `lemma`: The base form/lemma, aka what you would search for in a dictionary (e.g. `'laufen'`, `'Hund'`, `'grün'`, `'weglaufen'`).
-- `type`: The type of word. `WordTye` is an enum with the following values:
+- `type`: The type of word. `WordType` is an enum with the following values:
   - `noun`
   - `verb`
   - `adjective`
@@ -28,6 +29,8 @@ type WordBase = {
   - `C1`
   - `C2`
 - `translations`: A list of English translations for the word.
+- `frequency`: The frequency of this word, as it appears in the Leipzig Web-public Germany 2019 1M Corpora. Note, not every word has an associated frequency. The frequency is a number between 0 and 1, where 1 means the word appears in every sentence.
+
 
 ### Word Types
 Each entry in the list can be classified into on of three types: Noun, Verb, or Adjective. Each type extends the `WordBase` type providing additional information specific to that type.
