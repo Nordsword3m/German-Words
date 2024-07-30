@@ -124,6 +124,7 @@ type Adjective = WordBase & {
   isComparative: boolean;
   superlative: string;
   isSuperlative: boolean;
+  commonNouns?: string[];
 };
 ```
 - `singularOnly`: A boolean indicating if the adjective only has a singular form (e.g. `eins`).
@@ -139,6 +140,8 @@ type Adjective = WordBase & {
 - `isComparative`: A boolean indicating if the adjective is a comparative form (e.g. 'weniger`, `kleiner`, `schneller`).
 - `superlative`: The superlative form of the adjective.
 - `isSuperlative`: A boolean indicating if the adjective is a superlative form (e.g. `falschesten`, `ältesten`, `klügsten`).
+- `commonNouns`: A list of noun lemmas commonly used with this adjective as they appear in the Leipzig Web-public Germany 2019 1M Corpora.
+
 `Declension` is an object that holds each gendered form of the adjective for each case. It is defined as follows:
 ```typescript
 type Declension = {

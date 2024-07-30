@@ -77,4 +77,5 @@ export type Adjective = WordBase & {
   isComparative: boolean;
   superlative: string;
   isSuperlative: boolean;
+  commonNouns?: string[];
 };
