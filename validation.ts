@@ -18,7 +18,7 @@ class Validator {
     return true;
   }
 
-  validateWord(fieldName: string, word: string, allowedChars: string = "", numbersAllowed: boolean = false, nullAllowed: boolean = false): boolean {
+  validateWord(fieldName: string, word: string | undefined, allowedChars: string = "", numbersAllowed: boolean = false, nullAllowed: boolean = false): boolean {
     if (word === null && nullAllowed) { return true; }
 
     let regex = new RegExp(`^[a-zA-ZäöüÄÖÜßé${allowedChars}${numbersAllowed ? "0-9" : ""}]+$`, "g");
@@ -73,6 +73,12 @@ class Validator {
   validateIsNull(fieldName: string, field: any) {
     if (field !== null) {
       this.errors[fieldName] = `'${field}' must be null`;
+    }
+  }
+
+  validateIsUndefined(fieldName: string, field: any) {
+    if (field !== undefined) {
+      this.errors[fieldName] = `'${field}' must be undefined`;
     }
   }
 
@@ -151,36 +157,38 @@ export const validateVerb = (verb: Verb) => {
 
   if (verb.separable) {
     validator.validateContains("lemma", verb.lemma, "_");
-    validator.validateCondition("zuinfinitive", () => /[a-zäöü]zu[a-zäöü]/.test(verb.zuinfinitive) || /[a-zäöü] zu [a-zäöü]/.test(verb.zuinfinitive), "'zu' must be sandwiched");
+    validator.validateCondition("zuinfinitive", () => /[a-zäöüß]zu[a-zäöü]/.test(verb.zuinfinitive) || /[a-zäöüß] zu [a-zäöü]/.test(verb.zuinfinitive), "'zu' must be sandwiched");
   } else {
     validator.validateNotContains("lemma", verb.lemma, "_");
     validator.validateContains("zuinfinitive", verb.zuinfinitive, "zu");
   }
 
+  const numBaseWords = verb.separable ? (verb.present.ich.split(" ").length) : 1;
+
   Pronouns.forEach((p) => {
     validator.validateWord(`present.${p}`, verb.present[p], "\/" + separableChar);
-    validator.validateWordCount(`present.${p}`, verb.present[p], verb.separable ? 2 : 1);
+    validator.validateWordCount(`present.${p}`, verb.present[p], numBaseWords);
 
     validator.validateWord(`simple.${p}`, verb.simple[p], "\/" + separableChar);
-    validator.validateWordCount(`simple.${p}`, verb.simple[p], verb.separable ? 2 : 1);
+    validator.validateWordCount(`simple.${p}`, verb.simple[p], numBaseWords);
 
     validator.validateWord(`conjunctive1.${p}`, verb.conjunctive1[p], separableChar);
-    validator.validateWordCount(`conjunctive1.${p}`, verb.conjunctive1[p], verb.separable ? 2 : 1);
+    validator.validateWordCount(`conjunctive1.${p}`, verb.conjunctive1[p], numBaseWords);
 
     validator.validateWord(`conjunctive2.${p}`, verb.conjunctive2[p], "\/" + separableChar);
-    validator.validateWordCount(`conjunctive2.${p}`, verb.conjunctive2[p], verb.separable ? 2 : 1);
+    validator.validateWordCount(`conjunctive2.${p}`, verb.conjunctive2[p], numBaseWords);
   });
 
 
   if (verb.imperative) {
     validator.validateWord("imperative.du", verb.imperative.du, " ");
-    validator.validateWordCount("imperative.du", verb.imperative.du, verb.separable ? 3 : 2);
+    validator.validateWordCount("imperative.du", verb.imperative.du, numBaseWords + 1);
 
     validator.validateWord("imperative.ihr", verb.imperative.ihr, " ");
-    validator.validateWordCount("imperative.ihr", verb.imperative.ihr, verb.separable ? 3 : 2);
+    validator.validateWordCount("imperative.ihr", verb.imperative.ihr, numBaseWords + 1);
 
     validator.validateWord("imperative.Sie", verb.imperative.Sie, " ");
-    validator.validateWordCount("imperative.Sie", verb.imperative.Sie, verb.separable ? 3 : 2);
+    validator.validateWordCount("imperative.Sie", verb.imperative.Sie, numBaseWords + 1);
 
     validator.validateWord("perfect", verb.perfect, " ");
     validator.validateWord("gerund", verb.gerund, " ");
@@ -204,10 +212,19 @@ export const validateAdjective = (adjective: Adjective) => {
   validator.validateCondition("isComparative/isSuperlative", () => !adjective.isComparative || !adjective.isSuperlative, "Can't be isComparative and isSuperlative at the same time");
 
   if (adjective.absolute) {
-    validator.validateIsNull("absolute", adjective.comparative);
-    validator.validateIsNull("absolute", adjective.superlative);
+    validator.validateIsUndefined("absolute", adjective.comparative);
+    validator.validateIsUndefined("absolute", adjective.superlative);
   } else {
-    validator.validateWord("comparative", adjective.comparative, "", false, true);
+    if (adjective.superlativeOnly) {
+      validator.validateIsUndefined("superlativeOnly", adjective.comparative);
+    } else {
+      if (adjective.noComparative) {
+        validator.validateIsUndefined("comparative", adjective.comparative);
+      } else {
+        validator.validateWord("comparative", adjective.comparative, "", false, true);
+      }
+    }
+
     validator.validateWord("superlative", adjective.superlative, " ", false, true);
   }
 

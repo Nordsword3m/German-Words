@@ -9,9 +9,9 @@ export type Level = typeof Levels[number];
 export type WordBase = {
   lemma: string;
   type: WordType;
-  level: Level | null;
-  translations: string[];
-  frequency: number | undefined;
+  level?: Level;
+  translations?: string[];
+  frequency?: number;
 };
 
 export const Genders = ["m", "f", "n"];
@@ -73,9 +73,11 @@ export type Adjective = WordBase & {
   strong: Declension;
   weak: Declension;
   mixed: Declension;
-  comparative: string;
+  comparative?: string;
   isComparative: boolean;
-  superlative: string;
+  noComparative: boolean;
+  superlative?: string;
   isSuperlative: boolean;
+  superlativeOnly: boolean;
   commonNouns?: string[];
 };
