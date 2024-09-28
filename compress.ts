@@ -1,4 +1,4 @@
-import { Adjective, Case, Cases, Form, Forms, GenderedForm, GenderedForms, Level, Noun, Pronouns, Verb, Word, WordBase } from "./types";
+import { Adjective, Case, Cases, Form, Forms, Gender, GenderedForm, GenderedForms, Level, Noun, Pronouns, Verb, Word, WordBase, WordType } from "./types";
 
 const compressionSteps: [string, string][] = [
   ["=er|=e|=es|=e|=en|=e|=es|=e|=em|=er|=em|=en|=en|=er|=en|=er\t=e|=e|=e|=en|=en|=e|=e|=en|=en|=en|=en|=en|=en|=en|=en|=en\t=er|=e|=es|=en|=en|=e|=es|=en|=en|=en|=en|=en|=en|=en|=en|=en", "$a%"],
@@ -104,6 +104,10 @@ export const compressWords = (words: Word[]): string => {
   return compressed;
 };
 
+const zipArraysToObject = <KeyType extends string, ValueType>(keys: KeyType[], values: ValueType[]): { [key in KeyType]: ValueType } => {
+  return Object.fromEntries(keys.map((key, i) => [key, values[i]])) as { [key in KeyType]: ValueType };
+}
+
 export const decompressWords = (compressed: string): Word[] => {
   let uncompressed = compressed;
 
@@ -117,7 +121,7 @@ export const decompressWords = (compressed: string): Word[] => {
     const [type, lemma, level, translations, frequency] = raw;
     const base: WordBase = {
       lemma,
-      type,
+      type: type as WordType,
     }
 
     if (frequency) {
@@ -141,7 +145,7 @@ export const decompressWords = (compressed: string): Word[] => {
         const form = Forms[i % Forms.length];
 
         if (!acc[kase]) {
-          acc[kase] = {};
+          acc[kase] = {} as { [key in Form]: string };
         }
 
         if (!acc[kase][form]) {
@@ -153,7 +157,7 @@ export const decompressWords = (compressed: string): Word[] => {
 
       const noun: Noun = {
         ...base,
-        gender: gender === "" ? null : gender,
+        gender: gender === "" ? null : gender as Gender,
         noArticle: noArticle === "t",
         singularOnly: singularOnly === "t",
         pluralOnly: pluralOnly === "t",
@@ -184,10 +188,10 @@ export const decompressWords = (compressed: string): Word[] => {
       const verb: Verb = {
         ...base,
         separable: separable === "t",
-        present: Object.fromEntries(Pronouns.map((pronoun, i) => [pronoun, present[i]])),
-        simple: Object.fromEntries(Pronouns.map((pronoun, i) => [pronoun, simple[i]])),
-        conjunctive1: Object.fromEntries(Pronouns.map((pronoun, i) => [pronoun, conjunctive1[i]])),
-        conjunctive2: Object.fromEntries(Pronouns.map((pronoun, i) => [pronoun, conjunctive2[i]])),
+        present: zipArraysToObject(Pronouns, present),
+        simple: zipArraysToObject(Pronouns, simple),
+        conjunctive1: zipArraysToObject(Pronouns, conjunctive1),
+        conjunctive2: zipArraysToObject(Pronouns, conjunctive2),
         imperative: null,
         perfect: replaceBits(perfect),
         gerund: replaceBits(gerund),
@@ -213,7 +217,7 @@ export const decompressWords = (compressed: string): Word[] => {
         const form = GenderedForms[i % GenderedForms.length];
 
         if (!acc[kase]) {
-          acc[kase] = {};
+          acc[kase] = { m: undefined, f: undefined, n: undefined, p: undefined };
         }
 
         if (!acc[kase][form]) {
@@ -228,7 +232,7 @@ export const decompressWords = (compressed: string): Word[] => {
         const form = GenderedForms[i % GenderedForms.length];
 
         if (!acc[kase]) {
-          acc[kase] = {};
+          acc[kase] = {} as { [key in GenderedForm]: string };
         }
 
         if (!acc[kase][form]) {
@@ -243,7 +247,7 @@ export const decompressWords = (compressed: string): Word[] => {
         const form = GenderedForms[i % GenderedForms.length];
 
         if (!acc[kase]) {
-          acc[kase] = {};
+          acc[kase] = {} as { [key in GenderedForm]: string };
         }
 
         if (!acc[kase][form]) {

@@ -1,4 +1,4 @@
-import { Adjective, WordBase, Cases, Forms, GenderedForms, Genders, Levels, Noun, Pronouns, Verb, WordTypes } from "./types.js";
+import { Adjective, WordBase, Cases, Forms, GenderedForms, Genders, Levels, Noun, Pronouns, Verb, WordTypes } from "./types";
 
 class Validator {
   errors: { [key: string]: string } = {};
@@ -46,6 +46,12 @@ class Validator {
     }
   }
 
+  validateOneOfTypeOrNull<T>(fieldName: string, field: T, validValues: T[]) {
+    if (field !== null && !validValues.includes(field)) {
+      this.errors[fieldName] = `'${field}' must be one of ${validValues.join(", ")}`;
+    }
+  }
+
   validateIsBoolean(fieldName: string, field: boolean) {
     if (typeof field !== "boolean") {
       this.errors[fieldName] = `'${field}' must be a boolean`;
@@ -72,7 +78,7 @@ class Validator {
 
   validateIsNull(fieldName: string, field: any) {
     if (field !== null) {
-      this.errors[fieldName] = `'${field}' must be null`;
+      this.errors[fieldName] = `'${field}' must be undefined`;
     }
   }
 
@@ -127,7 +133,7 @@ export const validateNoun = (noun: Noun) => {
     validator.validateIsNull("gender", noun.gender);
   } else {
     if (!noun.pluralOnly) {
-      validator.validateOneOfType("gender", noun.gender, Genders);
+      validator.validateOneOfTypeOrNull("gender", noun.gender, Genders);
     }
   }
 
