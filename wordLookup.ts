@@ -1,5 +1,24 @@
 import { Adjective, Noun, Verb, Word, WordType } from './types';
-import { getAllValues } from '../src/utils';
+
+const flattenObject = (obj: object) => {
+  const result = {};
+
+  for (const i in obj) {
+    if (typeof obj[i] === 'object' && !Array.isArray(obj[i])) {
+      const temp = flattenObject(obj[i]);
+      for (const j in temp) {
+        result[i + '.' + j] = temp[j];
+      }
+    } else {
+      result[i] = obj[i];
+    }
+  }
+  return result;
+};
+
+const getAllValues = (obj: object): string[] => {
+  return Object.values(flattenObject(obj));
+};
 
 export const getNounLookups = (noun: Noun): string[] => {
   return getAllValues(noun.cases);
