@@ -1,101 +1,166 @@
-import { Adjective, Case, Cases, Form, Forms, Gender, GenderedForm, GenderedForms, Level, Noun, Pronouns, Verb, Word, WordBase, WordType } from "./types";
+import {
+  Adjective,
+  Case,
+  Cases,
+  Form,
+  Forms,
+  Gender,
+  GenderedForm,
+  GenderedForms,
+  Level,
+  Noun,
+  Pronouns,
+  Verb,
+  Word,
+  WordBase,
+  WordType
+} from './types';
 
 const compressionSteps: [string, string][] = [
-  ["=er|=e|=es|=e|=en|=e|=es|=e|=em|=er|=em|=en|=en|=er|=en|=er\t=e|=e|=e|=en|=en|=e|=e|=en|=en|=en|=en|=en|=en|=en|=en|=en\t=er|=e|=es|=en|=en|=e|=es|=en|=en|=en|=en|=en|=en|=en|=en|=en", "$a%"],
-  ["=ster|=ste|=stes|=ste|=sten|=ste|=stes|=ste|=stem|=ster|=stem|=sten|=sten|=ster|=sten|=ster\t=ste|=ste|=ste|=sten|=sten|=ste|=ste|=sten|=sten|=sten|=sten|=sten|=sten|=sten|=sten|=sten\t=ster|=ste|=stes|=sten|=sten|=ste|=stes|=sten|=sten|=sten|=sten|=sten|=sten|=sten|=sten|=sten", "$b%"],
-  ["=le|=lst|=lt|=lt|=ln\t=lte|=ltest|=lte|=ltet|=lten\t=le|=lst|=le|=lt|=ln\t=lte|=ltest|=lte|=ltet|=lten", "$c%"],
-  ["=e|=st|=t|=t|=en\t=te|=test|=te|=tet|=ten\t=e|=est|=e|=et|=en\t=te|=test|=te|=tet|=ten\t=e du\t=t ihr\t=en Sie\t=t\t=end\tzu =en", "$d%"],
-  ["f\tf\tf\tf\t=|=en|=|=en|=|=en|=|=en", "$e%"],
-  ["|=t|=t|=en\t=te|=test|=te|=tet|=ten\t=e|=est|=e|=et|=en\t=te|=test|=te|=tet|=ten\t=e du\t=t ihr\t=en Sie", "$f%"],
-  ["\tf\tf\tf\tf\tf\tf\t$a%\t=", "$g%"],
-  ["\tf\tf\tf\tf\t=|=n|=|=n|=|=n|=|=n\n", "$h%"],
-  ["\tf\tf\tf\t=|=e|=|=e|=|=en|=es|=e\n", "$i%"],
-  ["\tf\t=e|=est|=et|=et|=en\t=ete|=etest|=ete|=etet|=eten\t=e|=est|=e|=et|=en\t=ete|=etest|=ete|=etet|=eten\t=e du\t=et ihr\t=en Sie\t", "$j%"],
-  ["t ~|=en ~\t=te ~|=test ~|=te ~|=tet ~|=ten ~\t=e ", "$k%"],
-  ["\tt\t=e ~|=st ~|=t ~|=$k%~|=est ~|=e ~|=e$k%du ~\t=t ihr ~\t=en Sie ~\t~ge=t\t~=end\t~zu=en", "$l%"],
-  ["\tf\tf\tf\tf\tf\tf\t$b%\t=er\tf\tam =sten\t", "$m%"],
-  ["|=rt|=rn\t=rte|=rtest|=rte|=rtet|=rten\t=re", "$n%"],
-  ["en ~\t=e ~|=est ~|=e ~|=et ~|=en ~\t", "$o%"],
-  ["\tf\t=e|=st$f%\tge=t\t=end\tzu =en\n", "$p%"],
-  ["\tf\tf\tf\t=|=|=|=|=|=", "$q%"],
-  ["sten\tf\t\nadjective\t", "$r%"],
-  ["\tf\tf\tf\tt\tf\tf\t$a%\t\tf\t\tf\t", "$s%"],
-  ["\tf\tt\tf\t=||=||=||=", "$t%"],
-  ["00$g%er\tf\tam =sten\tf\t", "$u%"],
-  ["du ~\t=t ihr ~\t=en Sie ~\t~ge", "$v%"],
-  ["\t~=end\t~zu=en\nverb\ther", "$w%"],
-  ["\t\tf\tf\tf\tf\tf\tf\t$b%\t=r\tf\tam =", "$x%"],
-  ["\tf\tf\tf\t=|=s|=|=s|=|=s|=s|=s\n", "$y%"],
-  ["\tf\tf\tf\t=|=e|=|=e|=|=en|=s|=e\n", "$z%"],
+  [
+    '=er|=e|=es|=e|=en|=e|=es|=e|=em|=er|=em|=en|=en|=er|=en|=er\t=e|=e|=e|=en|=en|=e|=e|=en|=en|=en|=en|=en|=en|=en|=en|=en\t=er|=e|=es|=en|=en|=e|=es|=en|=en|=en|=en|=en|=en|=en|=en|=en',
+    '$a%'
+  ],
+  [
+    '=ster|=ste|=stes|=ste|=sten|=ste|=stes|=ste|=stem|=ster|=stem|=sten|=sten|=ster|=sten|=ster\t=ste|=ste|=ste|=sten|=sten|=ste|=ste|=sten|=sten|=sten|=sten|=sten|=sten|=sten|=sten|=sten\t=ster|=ste|=stes|=sten|=sten|=ste|=stes|=sten|=sten|=sten|=sten|=sten|=sten|=sten|=sten|=sten',
+    '$b%'
+  ],
+  [
+    '=le|=lst|=lt|=lt|=ln\t=lte|=ltest|=lte|=ltet|=lten\t=le|=lst|=le|=lt|=ln\t=lte|=ltest|=lte|=ltet|=lten',
+    '$c%'
+  ],
+  [
+    '=e|=st|=t|=t|=en\t=te|=test|=te|=tet|=ten\t=e|=est|=e|=et|=en\t=te|=test|=te|=tet|=ten\t=e du\t=t ihr\t=en Sie\t=t\t=end\tzu =en',
+    '$d%'
+  ],
+  ['f\tf\tf\tf\t=|=en|=|=en|=|=en|=|=en', '$e%'],
+  [
+    '|=t|=t|=en\t=te|=test|=te|=tet|=ten\t=e|=est|=e|=et|=en\t=te|=test|=te|=tet|=ten\t=e du\t=t ihr\t=en Sie',
+    '$f%'
+  ],
+  ['\tf\tf\tf\tf\tf\tf\t$a%\t=', '$g%'],
+  ['\tf\tf\tf\tf\t=|=n|=|=n|=|=n|=|=n\n', '$h%'],
+  ['\tf\tf\tf\t=|=e|=|=e|=|=en|=es|=e\n', '$i%'],
+  [
+    '\tf\t=e|=est|=et|=et|=en\t=ete|=etest|=ete|=etet|=eten\t=e|=est|=e|=et|=en\t=ete|=etest|=ete|=etet|=eten\t=e du\t=et ihr\t=en Sie\t',
+    '$j%'
+  ],
+  ['t ~|=en ~\t=te ~|=test ~|=te ~|=tet ~|=ten ~\t=e ', '$k%'],
+  [
+    '\tt\t=e ~|=st ~|=t ~|=$k%~|=est ~|=e ~|=e$k%du ~\t=t ihr ~\t=en Sie ~\t~ge=t\t~=end\t~zu=en',
+    '$l%'
+  ],
+  ['\tf\tf\tf\tf\tf\tf\t$b%\t=er\tf\tam =sten\t', '$m%'],
+  ['|=rt|=rn\t=rte|=rtest|=rte|=rtet|=rten\t=re', '$n%'],
+  ['en ~\t=e ~|=est ~|=e ~|=et ~|=en ~\t', '$o%'],
+  ['\tf\t=e|=st$f%\tge=t\t=end\tzu =en\n', '$p%'],
+  ['\tf\tf\tf\t=|=|=|=|=|=', '$q%'],
+  ['sten\tf\t\nadjective\t', '$r%'],
+  ['\tf\tf\tf\tt\tf\tf\t$a%\t\tf\t\tf\t', '$s%'],
+  ['\tf\tt\tf\t=||=||=||=', '$t%'],
+  ['00$g%er\tf\tam =sten\tf\t', '$u%'],
+  ['du ~\t=t ihr ~\t=en Sie ~\t~ge', '$v%'],
+  ['\t~=end\t~zu=en\nverb\ther', '$w%'],
+  ['\t\tf\tf\tf\tf\tf\tf\t$b%\t=r\tf\tam =', '$x%'],
+  ['\tf\tf\tf\t=|=s|=|=s|=|=s|=s|=s\n', '$y%'],
+  ['\tf\tf\tf\t=|=e|=|=e|=|=en|=s|=e\n', '$z%']
 ];
 
 export const compressWords = (words: Word[]): string => {
-  let compressed = words.map((word): string[] => {
-    const wordData: string[] = [word.type, word.lemma, word.level ?? "", word.translations?.join("|") ?? "", word.frequency?.toString() ?? ""];
-
-    if (word.type === "noun") {
-      const noun = word as Noun;
-      return [
-        ...wordData,
-        noun.gender,
-        noun.noArticle ? "t" : "f",
-        noun.singularOnly ? "t" : "f",
-        noun.pluralOnly ? "t" : "f",
-        Cases.map(kase => Forms.map(form => noun.cases[kase][form]?.replace(word.lemma, "=") ?? "")).flat().join("|"),
+  let compressed = words
+    .map((word): string[] => {
+      const wordData: string[] = [
+        word.type,
+        word.lemma,
+        word.level ?? '',
+        word.translations?.join('|') ?? '',
+        word.frequency?.toString() ?? ''
       ];
-    } else if (word.type === "verb") {
-      const verb = word as Verb;
 
-      const replaceBits = (s: string) => {
-        const fauxLemma = verb.lemma.split("_").slice(-1)[0].slice(0, -2);
+      if (word.type === 'noun') {
+        const noun = word as Noun;
+        return [
+          ...wordData,
+          noun.gender,
+          noun.noArticle ? 't' : 'f',
+          noun.singularOnly ? 't' : 'f',
+          noun.pluralOnly ? 't' : 'f',
+          Cases.map((kase) =>
+            Forms.map((form) => noun.cases[kase][form]?.replace(word.lemma, '=') ?? '')
+          )
+            .flat()
+            .join('|')
+        ];
+      } else if (word.type === 'verb') {
+        const verb = word as Verb;
 
-        let res = s?.replaceAll(fauxLemma, "=");
+        const replaceBits = (s: string) => {
+          const fauxLemma = verb.lemma.split('_').slice(-1)[0].slice(0, -2);
 
-        if (verb.separable) {
-          res = res?.replaceAll(verb.lemma.split("_")[0], "~");
-        }
+          let res = s?.replaceAll(fauxLemma, '=');
 
-        return res ?? "";
+          if (verb.separable) {
+            res = res?.replaceAll(verb.lemma.split('_')[0], '~');
+          }
+
+          return res ?? '';
+        };
+
+        return [
+          ...wordData,
+          verb.separable ? 't' : 'f',
+          Pronouns.map((pronoun) => replaceBits(verb.present[pronoun])).join('|'),
+          Pronouns.map((pronoun) => replaceBits(verb.simple[pronoun])).join('|'),
+          Pronouns.map((pronoun) => replaceBits(verb.conjunctive1[pronoun])).join('|'),
+          Pronouns.map((pronoun) => replaceBits(verb.conjunctive2[pronoun])).join('|'),
+          replaceBits(verb.imperative?.du ?? ''),
+          replaceBits(verb.imperative?.ihr ?? ''),
+          replaceBits(verb.imperative?.Sie ?? ''),
+          replaceBits(verb.perfect),
+          replaceBits(verb.gerund),
+          replaceBits(verb.zuinfinitive)
+        ];
+      } else if (word.type === 'adjective') {
+        const adjective = word as Adjective;
+        const fauxLemma = adjective.lemma.endsWith('sten')
+          ? adjective.lemma.slice(0, -4)
+          : adjective.lemma;
+        return [
+          ...wordData,
+          adjective.singularOnly ? 't' : 'f',
+          adjective.pluralOnly ? 't' : 'f',
+          adjective.predicativeOnly ? 't' : 'f',
+          adjective.absolute ? 't' : 'f',
+          adjective.notDeclinable ? 't' : 'f',
+          adjective.noMixed ? 't' : 'f',
+          Cases.map((kase) =>
+            GenderedForms.map((form) => adjective.strong[kase][form]?.replace(fauxLemma, '=') ?? '')
+          )
+            .flat()
+            .join('|'),
+          Cases.map((kase) =>
+            GenderedForms.map((form) => adjective.weak[kase][form]?.replace(fauxLemma, '=') ?? '')
+          )
+            .flat()
+            .join('|'),
+          Cases.map((kase) =>
+            GenderedForms.map((form) => adjective.mixed[kase][form]?.replace(fauxLemma, '=') ?? '')
+          )
+            .flat()
+            .join('|'),
+          adjective.comparative?.replace(fauxLemma, '='),
+          adjective.isComparative ? 't' : 'f',
+          adjective.noComparative ? 't' : 'f',
+          adjective.superlative?.replace(fauxLemma, '='),
+          adjective.isSuperlative ? 't' : 'f',
+          adjective.superlativeOnly ? 't' : 'f',
+          adjective.commonNouns?.join('|') ?? ''
+        ];
       }
-
-      return [
-        ...wordData,
-        verb.separable ? "t" : "f",
-        Pronouns.map(pronoun => replaceBits(verb.present[pronoun])).join("|"),
-        Pronouns.map(pronoun => replaceBits(verb.simple[pronoun])).join("|"),
-        Pronouns.map(pronoun => replaceBits(verb.conjunctive1[pronoun])).join("|"),
-        Pronouns.map(pronoun => replaceBits(verb.conjunctive2[pronoun])).join("|"),
-        replaceBits(verb.imperative?.du ?? ""),
-        replaceBits(verb.imperative?.ihr ?? ""),
-        replaceBits(verb.imperative?.Sie ?? ""),
-        replaceBits(verb.perfect),
-        replaceBits(verb.gerund),
-        replaceBits(verb.zuinfinitive),
-      ];
-    } else if (word.type === "adjective") {
-      const adjective = word as Adjective;
-      const fauxLemma = adjective.lemma.endsWith("sten") ? adjective.lemma.slice(0, -4) : adjective.lemma;
-      return [
-        ...wordData,
-        adjective.singularOnly ? "t" : "f",
-        adjective.pluralOnly ? "t" : "f",
-        adjective.predicativeOnly ? "t" : "f",
-        adjective.absolute ? "t" : "f",
-        adjective.notDeclinable ? "t" : "f",
-        adjective.noMixed ? "t" : "f",
-        Cases.map(kase => GenderedForms.map(form => adjective.strong[kase][form]?.replace(fauxLemma, "=") ?? "")).flat().join("|"),
-        Cases.map(kase => GenderedForms.map(form => adjective.weak[kase][form]?.replace(fauxLemma, "=") ?? "")).flat().join("|"),
-        Cases.map(kase => GenderedForms.map(form => adjective.mixed[kase][form]?.replace(fauxLemma, "=") ?? "")).flat().join("|"),
-        adjective.comparative?.replace(fauxLemma, "="),
-        adjective.isComparative ? "t" : "f",
-        adjective.noComparative ? "t" : "f",
-        adjective.superlative?.replace(fauxLemma, "="),
-        adjective.isSuperlative ? "t" : "f",
-        adjective.superlativeOnly ? "t" : "f",
-        adjective.commonNouns?.join("|") ?? "",
-      ];
-    }
-  }).filter(Boolean).map((wordData: string[]) => wordData.join("\t")).join("\n");
+    })
+    .filter(Boolean)
+    .map((wordData: string[]) => wordData.join('\t'))
+    .join('\n');
 
   compressionSteps.forEach(([from, to]) => {
     compressed = compressed.replaceAll(from, to);
@@ -104,9 +169,14 @@ export const compressWords = (words: Word[]): string => {
   return compressed;
 };
 
-const zipArraysToObject = <KeyType extends string, ValueType>(keys: KeyType[], values: ValueType[]): { [key in KeyType]: ValueType } => {
-  return Object.fromEntries(keys.map((key, i) => [key, values[i]])) as { [key in KeyType]: ValueType };
-}
+const zipArraysToObject = <KeyType extends string, ValueType>(
+  keys: KeyType[],
+  values: ValueType[]
+): { [key in KeyType]: ValueType } => {
+  return Object.fromEntries(keys.map((key, i) => [key, values[i]])) as {
+    [key in KeyType]: ValueType;
+  };
+};
 
 export const decompressWords = (compressed: string): Word[] => {
   let uncompressed = compressed;
@@ -115,14 +185,14 @@ export const decompressWords = (compressed: string): Word[] => {
     uncompressed = uncompressed.replaceAll(to, from);
   });
 
-  const result: Word[] = uncompressed.split("\n").map((line: string) => {
-    const raw = line.split("\t");
+  const result: Word[] = uncompressed.split('\n').map((line: string) => {
+    const raw = line.split('\t');
 
     const [type, lemma, level, translations, frequency] = raw;
     const base: WordBase = {
       lemma,
-      type: type as WordType,
-    }
+      type: type as WordType
+    };
 
     if (frequency) {
       base.frequency = parseFloat(frequency);
@@ -133,61 +203,75 @@ export const decompressWords = (compressed: string): Word[] => {
     }
 
     if (translations.length > 0) {
-      base.translations = translations.split("|");
+      base.translations = translations.split('|');
     }
 
-
-    if (type === "noun") {
+    if (type === 'noun') {
       const [gender, noArticle, singularOnly, pluralOnly, casesRaw] = raw.slice(5);
 
-      const cases = casesRaw.split("|").reduce((acc, cur, i) => {
-        const kase = Cases[Math.floor(i / Forms.length)];
-        const form = Forms[i % Forms.length];
+      const cases = casesRaw.split('|').reduce(
+        (acc, cur, i) => {
+          const kase = Cases[Math.floor(i / Forms.length)];
+          const form = Forms[i % Forms.length];
 
-        if (!acc[kase]) {
-          acc[kase] = {} as { [key in Form]: string };
-        }
+          if (!acc[kase]) {
+            acc[kase] = {} as { [key in Form]: string };
+          }
 
-        if (!acc[kase][form]) {
-          acc[kase][form] = cur === "" ? null : cur.replace("=", lemma);
-        }
+          if (!acc[kase][form]) {
+            acc[kase][form] = cur === '' ? null : cur.replace('=', lemma);
+          }
 
-        return acc;
-      }, {} as { [key in Case]: { [key in Form]: string } });
+          return acc;
+        },
+        {} as { [key in Case]: { [key in Form]: string } }
+      );
 
       const noun: Noun = {
         ...base,
-        gender: gender === "" ? null : gender as Gender,
-        noArticle: noArticle === "t",
-        singularOnly: singularOnly === "t",
-        pluralOnly: pluralOnly === "t",
-        cases: cases,
-      }
+        gender: gender === '' ? null : (gender as Gender),
+        noArticle: noArticle === 't',
+        singularOnly: singularOnly === 't',
+        pluralOnly: pluralOnly === 't',
+        cases: cases
+      };
 
       return noun;
-    } else if (type === "verb") {
-      const [separable, presentRaw, simpleRaw, conjunctive1Raw, conjunctive2Raw, imperativeDu, imperativeIhr, imperativeSie, perfect, gerund, zuinfinitive] = raw.slice(5);
+    } else if (type === 'verb') {
+      const [
+        separable,
+        presentRaw,
+        simpleRaw,
+        conjunctive1Raw,
+        conjunctive2Raw,
+        imperativeDu,
+        imperativeIhr,
+        imperativeSie,
+        perfect,
+        gerund,
+        zuinfinitive
+      ] = raw.slice(5);
 
       const replaceBits = (s: string) => {
-        const fauxLemma = lemma.split("_").slice(-1)[0].slice(0, -2);
+        const fauxLemma = lemma.split('_').slice(-1)[0].slice(0, -2);
 
-        let res = s?.replaceAll("=", fauxLemma);
+        let res = s?.replaceAll('=', fauxLemma);
 
-        if (separable === "t") {
-          res = res?.replaceAll("~", lemma.split("_")[0]);
+        if (separable === 't') {
+          res = res?.replaceAll('~', lemma.split('_')[0]);
         }
 
-        return res ?? "";
-      }
+        return res ?? '';
+      };
 
-      const present = replaceBits(presentRaw).split("|");
-      const simple = replaceBits(simpleRaw).split("|");
-      const conjunctive1 = replaceBits(conjunctive1Raw).split("|");
-      const conjunctive2 = replaceBits(conjunctive2Raw).split("|");
+      const present = replaceBits(presentRaw).split('|');
+      const simple = replaceBits(simpleRaw).split('|');
+      const conjunctive1 = replaceBits(conjunctive1Raw).split('|');
+      const conjunctive2 = replaceBits(conjunctive2Raw).split('|');
 
       const verb: Verb = {
         ...base,
-        separable: separable === "t",
+        separable: separable === 't',
         present: zipArraysToObject(Pronouns, present),
         simple: zipArraysToObject(Pronouns, simple),
         conjunctive1: zipArraysToObject(Pronouns, conjunctive1),
@@ -195,95 +279,130 @@ export const decompressWords = (compressed: string): Word[] => {
         imperative: null,
         perfect: replaceBits(perfect),
         gerund: replaceBits(gerund),
-        zuinfinitive: replaceBits(zuinfinitive),
+        zuinfinitive: replaceBits(zuinfinitive)
       };
 
-      if (imperativeDu !== "") {
+      if (imperativeDu !== '') {
         verb.imperative = {
           du: replaceBits(imperativeDu),
           ihr: replaceBits(imperativeIhr),
-          Sie: replaceBits(imperativeSie),
+          Sie: replaceBits(imperativeSie)
         };
       }
 
       return verb;
-    } else if (type === "adjective") {
-      const [singularOnly, pluralOnly, predicativeOnly, absolute, notDeclinable, noMixed, strongRaw, weakRaw, mixedRaw, comparative, isComparative, noComparative, superlative, isSuperlative, superlativeOnly, commonNounsRaw] = raw.slice(5);
+    } else if (type === 'adjective') {
+      const [
+        singularOnly,
+        pluralOnly,
+        predicativeOnly,
+        absolute,
+        notDeclinable,
+        noMixed,
+        strongRaw,
+        weakRaw,
+        mixedRaw,
+        comparative,
+        isComparative,
+        noComparative,
+        superlative,
+        isSuperlative,
+        superlativeOnly,
+        commonNounsRaw
+      ] = raw.slice(5);
 
-      const fauxLemma = lemma.endsWith("sten") ? lemma.slice(0, -4) : lemma;
+      const fauxLemma = lemma.endsWith('sten') ? lemma.slice(0, -4) : lemma;
 
-      const strong = strongRaw.replaceAll("=", fauxLemma).split("|").reduce((acc, cur, i) => {
-        const kase = Cases[Math.floor(i / GenderedForms.length)];
-        const form = GenderedForms[i % GenderedForms.length];
+      const strong = strongRaw
+        .replaceAll('=', fauxLemma)
+        .split('|')
+        .reduce(
+          (acc, cur, i) => {
+            const kase = Cases[Math.floor(i / GenderedForms.length)];
+            const form = GenderedForms[i % GenderedForms.length];
 
-        if (!acc[kase]) {
-          acc[kase] = { m: undefined, f: undefined, n: undefined, p: undefined };
-        }
+            if (!acc[kase]) {
+              acc[kase] = { m: undefined, f: undefined, n: undefined, p: undefined };
+            }
 
-        if (!acc[kase][form]) {
-          acc[kase][form] = cur === "" ? null : cur.replace("=", lemma);
-        }
+            if (!acc[kase][form]) {
+              acc[kase][form] = cur === '' ? null : cur.replace('=', lemma);
+            }
 
-        return acc;
-      }, {} as { [key in Case]: { [key in GenderedForm]: string } });
+            return acc;
+          },
+          {} as { [key in Case]: { [key in GenderedForm]: string } }
+        );
 
-      const weak = weakRaw.replaceAll("=", fauxLemma).split("|").reduce((acc, cur, i) => {
-        const kase = Cases[Math.floor(i / GenderedForms.length)];
-        const form = GenderedForms[i % GenderedForms.length];
+      const weak = weakRaw
+        .replaceAll('=', fauxLemma)
+        .split('|')
+        .reduce(
+          (acc, cur, i) => {
+            const kase = Cases[Math.floor(i / GenderedForms.length)];
+            const form = GenderedForms[i % GenderedForms.length];
 
-        if (!acc[kase]) {
-          acc[kase] = {} as { [key in GenderedForm]: string };
-        }
+            if (!acc[kase]) {
+              acc[kase] = {} as { [key in GenderedForm]: string };
+            }
 
-        if (!acc[kase][form]) {
-          acc[kase][form] = cur === "" ? null : cur.replace("=", lemma);
-        }
+            if (!acc[kase][form]) {
+              acc[kase][form] = cur === '' ? null : cur.replace('=', lemma);
+            }
 
-        return acc;
-      }, {} as { [key in Case]: { [key in GenderedForm]: string } });
+            return acc;
+          },
+          {} as { [key in Case]: { [key in GenderedForm]: string } }
+        );
 
-      const mixed = mixedRaw.replaceAll("=", fauxLemma).split("|").reduce((acc, cur, i) => {
-        const kase = Cases[Math.floor(i / GenderedForms.length)];
-        const form = GenderedForms[i % GenderedForms.length];
+      const mixed = mixedRaw
+        .replaceAll('=', fauxLemma)
+        .split('|')
+        .reduce(
+          (acc, cur, i) => {
+            const kase = Cases[Math.floor(i / GenderedForms.length)];
+            const form = GenderedForms[i % GenderedForms.length];
 
-        if (!acc[kase]) {
-          acc[kase] = {} as { [key in GenderedForm]: string };
-        }
+            if (!acc[kase]) {
+              acc[kase] = {} as { [key in GenderedForm]: string };
+            }
 
-        if (!acc[kase][form]) {
-          acc[kase][form] = cur === "" ? null : cur.replace("=", lemma);
-        }
+            if (!acc[kase][form]) {
+              acc[kase][form] = cur === '' ? null : cur.replace('=', lemma);
+            }
 
-        return acc;
-      }, {} as { [key in Case]: { [key in GenderedForm]: string } });
+            return acc;
+          },
+          {} as { [key in Case]: { [key in GenderedForm]: string } }
+        );
 
       const adjective: Adjective = {
         ...base,
-        singularOnly: singularOnly === "t",
-        pluralOnly: pluralOnly === "t",
-        predicativeOnly: predicativeOnly === "t",
-        absolute: absolute === "t",
-        notDeclinable: notDeclinable === "t",
-        noMixed: noMixed === "t",
+        singularOnly: singularOnly === 't',
+        pluralOnly: pluralOnly === 't',
+        predicativeOnly: predicativeOnly === 't',
+        absolute: absolute === 't',
+        notDeclinable: notDeclinable === 't',
+        noMixed: noMixed === 't',
         strong,
         weak,
         mixed,
-        isComparative: isComparative === "t",
-        noComparative: noComparative === "t",
-        isSuperlative: isSuperlative === "t",
-        superlativeOnly: superlativeOnly === "t",
-      }
+        isComparative: isComparative === 't',
+        noComparative: noComparative === 't',
+        isSuperlative: isSuperlative === 't',
+        superlativeOnly: superlativeOnly === 't'
+      };
 
       if (comparative) {
-        adjective.comparative = comparative.replaceAll("=", fauxLemma);
+        adjective.comparative = comparative.replaceAll('=', fauxLemma);
       }
 
       if (superlative) {
-        adjective.superlative = superlative.replaceAll("=", fauxLemma);
+        adjective.superlative = superlative.replaceAll('=', fauxLemma);
       }
 
       if (commonNounsRaw) {
-        adjective.commonNouns = commonNounsRaw.split("|");
+        adjective.commonNouns = commonNounsRaw.split('|');
       }
 
       return adjective;

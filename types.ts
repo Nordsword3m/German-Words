@@ -1,27 +1,27 @@
 export enum WordType {
-  Noun = "noun",
-  Verb = "verb",
-  Adjective = "adjective",
+  Noun = 'noun',
+  Verb = 'verb',
+  Adjective = 'adjective'
 }
 export const WordTypes = Object.values(WordType);
 
 export type Word = Noun | Verb | Adjective;
 
 export type WordInfo = {
-  searchWord: string,
-  pageWord: string,
-  fileName: string,
-  type: WordType
+  searchWord: string;
+  pageWord: string;
+  fileName: string;
+  type: WordType;
   gender: Gender;
 };
 
 export enum Level {
-  A1 = "A1",
-  A2 = "A2",
-  B1 = "B1",
-  B2 = "B2",
-  C1 = "C1",
-  C2 = "C2",
+  A1 = 'A1',
+  A2 = 'A2',
+  B1 = 'B1',
+  B2 = 'B2',
+  C1 = 'C1',
+  C2 = 'C2'
 }
 export const Levels = Object.values(Level);
 
@@ -34,23 +34,23 @@ export type WordBase = {
 };
 
 export enum Gender {
-  Masculine = "m",
-  Feminine = "f",
-  Neuter = "n",
+  Masculine = 'm',
+  Feminine = 'f',
+  Neuter = 'n'
 }
 export const Genders = Object.values(Gender);
 
 export enum Case {
-  Nominative = "nominative",
-  Accusative = "accusative",
-  Dative = "dative",
-  Genitive = "genitive",
+  Nominative = 'nominative',
+  Accusative = 'accusative',
+  Dative = 'dative',
+  Genitive = 'genitive'
 }
 export const Cases = Object.values(Case);
 
 export enum Form {
-  Singular = "singular",
-  Plural = "plural",
+  Singular = 'singular',
+  Plural = 'plural'
 }
 export const Forms = Object.values(Form);
 
@@ -67,11 +67,11 @@ export type Noun = WordBase & {
 };
 
 export enum Pronoun {
-  Ich = "ich",
-  Du = "du",
-  Es = "es",
-  Ihr = "ihr",
-  Sie = "Sie",
+  Ich = 'ich',
+  Du = 'du',
+  Es = 'es',
+  Ihr = 'ihr',
+  Sie = 'Sie'
 }
 export const Pronouns = Object.values(Pronoun);
 
@@ -85,17 +85,17 @@ export type Verb = WordBase & {
   simple: Conjugation;
   conjunctive1: Conjugation;
   conjunctive2: Conjugation;
-  imperative: { "du": string, "ihr": string, "Sie": string } | null;
+  imperative: { du: string; ihr: string; Sie: string } | null;
   perfect: string;
   gerund: string;
   zuinfinitive: string;
 };
 
 export enum GenderedForm {
-  Masculine = "m",
-  Feminine = "f",
-  Neuter = "n",
-  Plural = "p",
+  Masculine = 'm',
+  Feminine = 'f',
+  Neuter = 'n',
+  Plural = 'p'
 }
 export const GenderedForms = Object.values(GenderedForm);
 
