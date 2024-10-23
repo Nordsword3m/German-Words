@@ -117,17 +117,33 @@ type SpacyData = {
 
 const removePunctuation = (word: string) => word.replace(/[.,/#!?$%^&*;:{}=\-_`~()]/g, '').trim();
 
-export const tagSentence = async (TAG_API: string, sentence: string): Promise<SentenceToken[]> => {
-  return fetch(`${TAG_API}?s=${encodeURIComponent(sentence)}`)
-    .then(async (response) => response.json())
-    .then((data: SpacyData) => {
-      return data.tokens.map((t) => ({
-        id: t.id,
-        start: t.start,
-        end: t.end,
-        tag: t.tag,
-        token: removePunctuation(data.text.slice(t.start, t.end))
-      }));
+export const tagSentence = async (
+  TAG_API: string,
+  sentence: string,
+  logger?: (msg: string, data: object | string | number) => void
+): Promise<SentenceToken[]> => {
+  return await fetch(`${TAG_API}?s=${encodeURIComponent(sentence)}`)
+    .then(async (response) => {
+      const raw = await response.text();
+
+      try {
+        const parsed = JSON.parse(raw) as SpacyData;
+        logger?.('Tagged sentence', { sentence, parsed });
+        return parsed.tokens.map((t) => ({
+          id: t.id,
+          start: t.start,
+          end: t.end,
+          tag: t.tag,
+          token: removePunctuation(parsed.text.slice(t.start, t.end))
+        }));
+      } catch (err) {
+        logger?.('Failed to tag sentence', { sentence, raw, err: (err as Error).message });
+        return undefined;
+      }
+    })
+    .catch((err) => {
+      logger?.('Failed to tag sentence', { sentence, err: (err as Error).message });
+      return undefined;
     });
 };
 
