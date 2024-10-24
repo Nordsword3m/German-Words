@@ -155,7 +155,11 @@ export const tagSentenceBatch = async (
 ): Promise<SentenceToken[][]> => {
   const taggedSentences: SentenceToken[][] = [];
 
-  const idxs = [...Array(Math.ceil(sentences.length / batchSize)).keys()];
+  const idxs = [
+    ...Array(Math.ceil(sentences.length / batchSize))
+      .fill(0)
+      .map((_, i) => i * batchSize)
+  ];
 
   const itt = tqdm && sentences.length > batchSize ? tqdm(idxs) : idxs;
 

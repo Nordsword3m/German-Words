@@ -129,11 +129,11 @@ class Validator {
 export const validateWordBase = (word: WordBase) => {
   const validator = new Validator();
 
-  validator.validateWord('word', word.lemma, '\\_');
+  validator.validateWord('word', word.lemma, '·');
   validator.validateCondition(
     'word',
-    () => (word.lemma.match(/_/g) || []).length <= 1,
-    "Word must have at most one '_'"
+    () => (word.lemma.match(/·/g) || []).length <= 1,
+    "Word must have at most one '·'"
   );
   validator.validateOneOfType('type', word.type, WordTypes);
 
@@ -143,7 +143,7 @@ export const validateWordBase = (word: WordBase) => {
 
   if (word.translations) {
     word.translations.forEach((translations, i) => {
-      validator.validateWord(`translations[${i}]`, translations, " \\-\\'éè”", true);
+      validator.validateWord(`translations[${i}]`, translations, " \\-\\'éè”&", true);
     });
   }
 
@@ -195,7 +195,7 @@ export const validateVerb = (verb: Verb) => {
   const separableChar = verb.separable ? ' ' : '';
 
   if (verb.separable) {
-    validator.validateContains('lemma', verb.lemma, '_');
+    validator.validateContains('lemma', verb.lemma, '·');
     validator.validateCondition(
       'zuinfinitive',
       () =>
@@ -204,7 +204,7 @@ export const validateVerb = (verb: Verb) => {
       "'zu' must be sandwiched"
     );
   } else {
-    validator.validateNotContains('lemma', verb.lemma, '_');
+    validator.validateNotContains('lemma', verb.lemma, '·');
     validator.validateContains('zuinfinitive', verb.zuinfinitive, 'zu');
   }
 
