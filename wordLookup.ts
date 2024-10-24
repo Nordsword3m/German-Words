@@ -43,7 +43,7 @@ export const getVerbLookups = (verb: Verb): string[] => {
       imperative: verb.imperative,
       perfect: verb.perfect,
       zuinfinitive: verb.zuinfinitive,
-      lemma: verb.lemma.replace(/_/g, '')
+      lemma: verb.lemma.replace(/·/g, '')
     })
   ];
 };

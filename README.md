@@ -94,7 +94,7 @@ type Verb = WordBase & {
 };
 ```
 
-- `separable`: A boolean indicating if the verb is separable. The sepearation is indicated by an underscore `_` in `WordBase.lemma` (e.g. `'weg_laufen'`, `'an_rufen'`, `'mit_kommen'`). Note, some verbs can be both separable and inseparable (e.g. `'anerkennen'` can be both `'an_erkennen'` and `'anerkennen'`).
+- `separable`: A boolean indicating if the verb is separable. The sepearation is indicated by a dot `·` in `WordBase.lemma` (e.g. `'weg·laufen'`, `'an·rufen'`, `'mit·kommen'`). Note, some verbs can be both separable and inseparable (e.g. `'anerkennen'` can be both `'an·erkennen'` and `'anerkennen'`).
 - `present`: The present tense conjugation of the verb.
 - `simple`: The simple past tense conjugation of the verb.
 - `conjunctive1`: The first conjunctive conjugation of the verb.

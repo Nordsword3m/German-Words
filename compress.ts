@@ -95,12 +95,12 @@ export const compressWords = (words: Word[]): string => {
         const verb = word as Verb;
 
         const replaceBits = (s: string) => {
-          const fauxLemma = verb.lemma.split('_').slice(-1)[0].slice(0, -2);
+          const fauxLemma = verb.lemma.split('·').slice(-1)[0].slice(0, -2);
 
           let res = s?.replaceAll(fauxLemma, '=');
 
           if (verb.separable) {
-            res = res?.replaceAll(verb.lemma.split('_')[0], '~');
+            res = res?.replaceAll(verb.lemma.split('·')[0], '~');
           }
 
           return res ?? '';
@@ -253,12 +253,12 @@ export const decompressWords = (compressed: string): Word[] => {
       ] = raw.slice(5);
 
       const replaceBits = (s: string) => {
-        const fauxLemma = lemma.split('_').slice(-1)[0].slice(0, -2);
+        const fauxLemma = lemma.split('·').slice(-1)[0].slice(0, -2);
 
         let res = s?.replaceAll('=', fauxLemma);
 
         if (separable === 't') {
-          res = res?.replaceAll('~', lemma.split('_')[0]);
+          res = res?.replaceAll('~', lemma.split('·')[0]);
         }
 
         return res ?? '';
