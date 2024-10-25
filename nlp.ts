@@ -122,7 +122,8 @@ export const tagSentence = async (
   sentence: string,
   logger?: (msg: string, data: object | string | number) => void
 ): Promise<SentenceToken[]> => {
-  return await fetch(`${TAG_API}?s=${encodeURIComponent(sentence)}`)
+  const url = `${TAG_API}?s=${encodeURIComponent(sentence)}`;
+  return await fetch(url)
     .then(async (response) => {
       const raw = await response.text();
 
@@ -137,7 +138,7 @@ export const tagSentence = async (
           token: removePunctuation(parsed.text.slice(t.start, t.end)).toLowerCase()
         }));
       } catch (err) {
-        logger?.('Failed to tag sentence', { sentence, raw, err: (err as Error).message });
+        logger?.('Failed to tag sentence', { sentence, url, raw, err: (err as Error).message });
         return undefined;
       }
     })
