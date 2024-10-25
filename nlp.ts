@@ -138,12 +138,16 @@ export const tagSentence = async (
           token: removePunctuation(parsed.text.slice(t.start, t.end)).toLowerCase()
         }));
       } catch (err) {
-        logger?.('Failed to tag sentence', { sentence, url, raw, err: (err as Error).message });
+        logger?.('Failed to process tagged sentence', {
+          sentence,
+          raw,
+          err: (err as Error).message
+        });
         return undefined;
       }
     })
     .catch((err) => {
-      logger?.('Failed to tag sentence', { sentence, err: (err as Error).message });
+      logger?.('Failed to tag sentence', { sentence, url, err: (err as Error).message });
       return undefined;
     });
 };
