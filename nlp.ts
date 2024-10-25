@@ -134,7 +134,7 @@ export const tagSentence = async (
           start: t.start,
           end: t.end,
           tag: t.tag,
-          token: removePunctuation(parsed.text.slice(t.start, t.end))
+          token: removePunctuation(parsed.text.slice(t.start, t.end)).toLowerCase()
         }));
       } catch (err) {
         logger?.('Failed to tag sentence', { sentence, raw, err: (err as Error).message });
@@ -180,7 +180,7 @@ export const tagSentenceBatch = async (
               start: t.start,
               end: t.end,
               tag: t.tag,
-              token: removePunctuation(d.text.slice(t.start, t.end))
+              token: removePunctuation(d.text.slice(t.start, t.end)).toLowerCase()
             }))
           );
         }))
