@@ -34,7 +34,7 @@ class Validator {
 
   validateWord(
     fieldName: string,
-    word: string | undefined,
+    word: string | null | undefined,
     allowedChars: string = '',
     numbersAllowed: boolean = false,
     nullAllowed: boolean = false
@@ -101,13 +101,13 @@ class Validator {
     }
   }
 
-  validateIsNull(fieldName: string, field: string) {
+  validateIsNull(fieldName: string, field: string | null) {
     if (field !== null) {
       this.errors[fieldName] = `'${field}' must be undefined`;
     }
   }
 
-  validateIsUndefined(fieldName: string, field: string) {
+  validateIsUndefined(fieldName: string, field: string | undefined) {
     if (field !== undefined) {
       this.errors[fieldName] = `'${field}' must be undefined`;
     }
@@ -119,7 +119,7 @@ class Validator {
     }
   }
 
-  validateEqual(fieldName: string, val1: string, val2: string) {
+  validateEqual(fieldName: string, val1: string | null, val2: string | null) {
     if (val1 !== val2) {
       this.errors[fieldName] = `'${val1}' must be equal to '${val2}'`;
     }

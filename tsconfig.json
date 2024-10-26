@@ -6,8 +6,16 @@
     "moduleResolution": "node",
     "sourceMap": true,
     "outDir": "dist",
+    "noEmit": true,
+    "isolatedModules": true,
+    "strict": true,
+    "allowImportingTsExtensions": true,
+    "allowArbitraryExtensions": true,
+    "resolveJsonModule": true,
+    "resolvePackageJsonImports": false,
+    "allowSyntheticDefaultImports": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": false
   },
-  "lib": [
-    "es2021"
-  ]
+  "lib": ["es2021"]
 }

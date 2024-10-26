@@ -15,6 +15,7 @@ import {
   WordBase,
   WordType
 } from './types';
+import { filterFalsey } from './utils';
 
 const compressionSteps: [string, string][] = [
   [
@@ -81,7 +82,7 @@ export const compressWords = (words: Word[]): string => {
         const noun = word as Noun;
         return [
           ...wordData,
-          noun.gender,
+          noun.gender ?? '',
           noun.noArticle ? 't' : 'f',
           noun.singularOnly ? 't' : 'f',
           noun.pluralOnly ? 't' : 'f',
@@ -89,7 +90,7 @@ export const compressWords = (words: Word[]): string => {
             Forms.map((form) => noun.cases[kase][form]?.replace(word.lemma, '=') ?? '')
           )
             .flat()
-            .join('|')
+            .join('|') ?? ''
         ];
       } else if (word.type === 'verb') {
         const verb = word as Verb;
@@ -148,15 +149,17 @@ export const compressWords = (words: Word[]): string => {
           )
             .flat()
             .join('|'),
-          adjective.comparative?.replace(fauxLemma, '='),
+          adjective.comparative?.replace(fauxLemma, '=') ?? '',
           adjective.isComparative ? 't' : 'f',
           adjective.noComparative ? 't' : 'f',
-          adjective.superlative?.replace(fauxLemma, '='),
+          adjective.superlative?.replace(fauxLemma, '=') ?? '',
           adjective.isSuperlative ? 't' : 'f',
           adjective.superlativeOnly ? 't' : 'f',
           adjective.commonNouns?.join('|') ?? ''
         ];
       }
+
+      return [];
     })
     .filter(Boolean)
     .map((wordData: string[]) => wordData.join('\t'))
@@ -185,229 +188,231 @@ export const decompressWords = (compressed: string): Word[] => {
     uncompressed = uncompressed.replaceAll(to, from);
   });
 
-  const result: Word[] = uncompressed.split('\n').map((line: string) => {
-    const raw = line.split('\t');
+  const result: Word[] = filterFalsey(
+    uncompressed.split('\n').map((line: string) => {
+      const raw = line.split('\t');
 
-    const [type, lemma, level, translations, frequency] = raw;
-    const base: WordBase = {
-      lemma,
-      type: type as WordType
-    };
-
-    if (frequency) {
-      base.frequency = parseFloat(frequency);
-    }
-
-    if (level) {
-      base.level = level as Level;
-    }
-
-    if (translations.length > 0) {
-      base.translations = translations.split('|');
-    }
-
-    if (type === 'noun') {
-      const [gender, noArticle, singularOnly, pluralOnly, casesRaw] = raw.slice(5);
-
-      const cases = casesRaw.split('|').reduce(
-        (acc, cur, i) => {
-          const kase = Cases[Math.floor(i / Forms.length)];
-          const form = Forms[i % Forms.length];
-
-          if (!acc[kase]) {
-            acc[kase] = {} as { [key in Form]: string };
-          }
-
-          if (!acc[kase][form]) {
-            acc[kase][form] = cur === '' ? null : cur.replace('=', lemma);
-          }
-
-          return acc;
-        },
-        {} as { [key in Case]: { [key in Form]: string } }
-      );
-
-      const noun: Noun = {
-        ...base,
-        gender: gender === '' ? null : (gender as Gender),
-        noArticle: noArticle === 't',
-        singularOnly: singularOnly === 't',
-        pluralOnly: pluralOnly === 't',
-        cases: cases
+      const [type, lemma, level, translations, frequency] = raw;
+      const base: WordBase = {
+        lemma,
+        type: type as WordType
       };
 
-      return noun;
-    } else if (type === 'verb') {
-      const [
-        separable,
-        presentRaw,
-        simpleRaw,
-        conjunctive1Raw,
-        conjunctive2Raw,
-        imperativeDu,
-        imperativeIhr,
-        imperativeSie,
-        perfect,
-        gerund,
-        zuinfinitive
-      ] = raw.slice(5);
+      if (frequency) {
+        base.frequency = parseFloat(frequency);
+      }
 
-      const replaceBits = (s: string) => {
-        const fauxLemma = lemma.split('·').slice(-1)[0].slice(0, -2);
+      if (level) {
+        base.level = level as Level;
+      }
 
-        let res = s?.replaceAll('=', fauxLemma);
+      if (translations.length > 0) {
+        base.translations = translations.split('|');
+      }
 
-        if (separable === 't') {
-          res = res?.replaceAll('~', lemma.split('·')[0]);
+      if (type === 'noun') {
+        const [gender, noArticle, singularOnly, pluralOnly, casesRaw] = raw.slice(5);
+
+        const cases = casesRaw.split('|').reduce(
+          (acc, cur, i) => {
+            const kase = Cases[Math.floor(i / Forms.length)];
+            const form = Forms[i % Forms.length];
+
+            if (!acc[kase]) {
+              acc[kase] = {} as { [key in Form]: string };
+            }
+
+            if (!acc[kase][form]) {
+              acc[kase][form] = cur === '' ? null : cur.replace('=', lemma);
+            }
+
+            return acc;
+          },
+          {} as { [key in Case]: { [key in Form]: string | null } }
+        );
+
+        const noun: Noun = {
+          ...base,
+          gender: gender === '' ? null : (gender as Gender),
+          noArticle: noArticle === 't',
+          singularOnly: singularOnly === 't',
+          pluralOnly: pluralOnly === 't',
+          cases: cases
+        };
+
+        return noun;
+      } else if (type === 'verb') {
+        const [
+          separable,
+          presentRaw,
+          simpleRaw,
+          conjunctive1Raw,
+          conjunctive2Raw,
+          imperativeDu,
+          imperativeIhr,
+          imperativeSie,
+          perfect,
+          gerund,
+          zuinfinitive
+        ] = raw.slice(5);
+
+        const replaceBits = (s: string) => {
+          const fauxLemma = lemma.split('·').slice(-1)[0].slice(0, -2);
+
+          let res = s?.replaceAll('=', fauxLemma);
+
+          if (separable === 't') {
+            res = res?.replaceAll('~', lemma.split('·')[0]);
+          }
+
+          return res ?? '';
+        };
+
+        const present = replaceBits(presentRaw).split('|');
+        const simple = replaceBits(simpleRaw).split('|');
+        const conjunctive1 = replaceBits(conjunctive1Raw).split('|');
+        const conjunctive2 = replaceBits(conjunctive2Raw).split('|');
+
+        const verb: Verb = {
+          ...base,
+          separable: separable === 't',
+          present: zipArraysToObject(Pronouns, present),
+          simple: zipArraysToObject(Pronouns, simple),
+          conjunctive1: zipArraysToObject(Pronouns, conjunctive1),
+          conjunctive2: zipArraysToObject(Pronouns, conjunctive2),
+          imperative: null,
+          perfect: replaceBits(perfect),
+          gerund: replaceBits(gerund),
+          zuinfinitive: replaceBits(zuinfinitive)
+        };
+
+        if (imperativeDu !== '') {
+          verb.imperative = {
+            du: replaceBits(imperativeDu),
+            ihr: replaceBits(imperativeIhr),
+            Sie: replaceBits(imperativeSie)
+          };
         }
 
-        return res ?? '';
-      };
+        return verb;
+      } else if (type === 'adjective') {
+        const [
+          singularOnly,
+          pluralOnly,
+          predicativeOnly,
+          absolute,
+          notDeclinable,
+          noMixed,
+          strongRaw,
+          weakRaw,
+          mixedRaw,
+          comparative,
+          isComparative,
+          noComparative,
+          superlative,
+          isSuperlative,
+          superlativeOnly,
+          commonNounsRaw
+        ] = raw.slice(5);
 
-      const present = replaceBits(presentRaw).split('|');
-      const simple = replaceBits(simpleRaw).split('|');
-      const conjunctive1 = replaceBits(conjunctive1Raw).split('|');
-      const conjunctive2 = replaceBits(conjunctive2Raw).split('|');
+        const fauxLemma = lemma.endsWith('sten') ? lemma.slice(0, -4) : lemma;
 
-      const verb: Verb = {
-        ...base,
-        separable: separable === 't',
-        present: zipArraysToObject(Pronouns, present),
-        simple: zipArraysToObject(Pronouns, simple),
-        conjunctive1: zipArraysToObject(Pronouns, conjunctive1),
-        conjunctive2: zipArraysToObject(Pronouns, conjunctive2),
-        imperative: null,
-        perfect: replaceBits(perfect),
-        gerund: replaceBits(gerund),
-        zuinfinitive: replaceBits(zuinfinitive)
-      };
+        const strong = strongRaw
+          .replaceAll('=', fauxLemma)
+          .split('|')
+          .reduce(
+            (acc, cur, i) => {
+              const kase = Cases[Math.floor(i / GenderedForms.length)];
+              const form = GenderedForms[i % GenderedForms.length];
 
-      if (imperativeDu !== '') {
-        verb.imperative = {
-          du: replaceBits(imperativeDu),
-          ihr: replaceBits(imperativeIhr),
-          Sie: replaceBits(imperativeSie)
+              if (!acc[kase]) {
+                acc[kase] = { m: '', f: '', n: '', p: '' };
+              }
+
+              if (!acc[kase][form]) {
+                acc[kase][form] = cur === '' ? null : cur.replace('=', lemma);
+              }
+
+              return acc;
+            },
+            {} as { [key in Case]: { [key in GenderedForm]: string | null } }
+          );
+
+        const weak = weakRaw
+          .replaceAll('=', fauxLemma)
+          .split('|')
+          .reduce(
+            (acc, cur, i) => {
+              const kase = Cases[Math.floor(i / GenderedForms.length)];
+              const form = GenderedForms[i % GenderedForms.length];
+
+              if (!acc[kase]) {
+                acc[kase] = {} as { [key in GenderedForm]: string };
+              }
+
+              if (!acc[kase][form]) {
+                acc[kase][form] = cur === '' ? null : cur.replace('=', lemma);
+              }
+
+              return acc;
+            },
+            {} as { [key in Case]: { [key in GenderedForm]: string | null } }
+          );
+
+        const mixed = mixedRaw
+          .replaceAll('=', fauxLemma)
+          .split('|')
+          .reduce(
+            (acc, cur, i) => {
+              const kase = Cases[Math.floor(i / GenderedForms.length)];
+              const form = GenderedForms[i % GenderedForms.length];
+
+              if (!acc[kase]) {
+                acc[kase] = {} as { [key in GenderedForm]: string };
+              }
+
+              if (!acc[kase][form]) {
+                acc[kase][form] = cur === '' ? null : cur.replace('=', lemma);
+              }
+
+              return acc;
+            },
+            {} as { [key in Case]: { [key in GenderedForm]: string | null } }
+          );
+
+        const adjective: Adjective = {
+          ...base,
+          singularOnly: singularOnly === 't',
+          pluralOnly: pluralOnly === 't',
+          predicativeOnly: predicativeOnly === 't',
+          absolute: absolute === 't',
+          notDeclinable: notDeclinable === 't',
+          noMixed: noMixed === 't',
+          strong,
+          weak,
+          mixed,
+          isComparative: isComparative === 't',
+          noComparative: noComparative === 't',
+          isSuperlative: isSuperlative === 't',
+          superlativeOnly: superlativeOnly === 't'
         };
+
+        if (comparative) {
+          adjective.comparative = comparative.replaceAll('=', fauxLemma);
+        }
+
+        if (superlative) {
+          adjective.superlative = superlative.replaceAll('=', fauxLemma);
+        }
+
+        if (commonNounsRaw) {
+          adjective.commonNouns = commonNounsRaw.split('|');
+        }
+
+        return adjective;
       }
-
-      return verb;
-    } else if (type === 'adjective') {
-      const [
-        singularOnly,
-        pluralOnly,
-        predicativeOnly,
-        absolute,
-        notDeclinable,
-        noMixed,
-        strongRaw,
-        weakRaw,
-        mixedRaw,
-        comparative,
-        isComparative,
-        noComparative,
-        superlative,
-        isSuperlative,
-        superlativeOnly,
-        commonNounsRaw
-      ] = raw.slice(5);
-
-      const fauxLemma = lemma.endsWith('sten') ? lemma.slice(0, -4) : lemma;
-
-      const strong = strongRaw
-        .replaceAll('=', fauxLemma)
-        .split('|')
-        .reduce(
-          (acc, cur, i) => {
-            const kase = Cases[Math.floor(i / GenderedForms.length)];
-            const form = GenderedForms[i % GenderedForms.length];
-
-            if (!acc[kase]) {
-              acc[kase] = { m: undefined, f: undefined, n: undefined, p: undefined };
-            }
-
-            if (!acc[kase][form]) {
-              acc[kase][form] = cur === '' ? null : cur.replace('=', lemma);
-            }
-
-            return acc;
-          },
-          {} as { [key in Case]: { [key in GenderedForm]: string } }
-        );
-
-      const weak = weakRaw
-        .replaceAll('=', fauxLemma)
-        .split('|')
-        .reduce(
-          (acc, cur, i) => {
-            const kase = Cases[Math.floor(i / GenderedForms.length)];
-            const form = GenderedForms[i % GenderedForms.length];
-
-            if (!acc[kase]) {
-              acc[kase] = {} as { [key in GenderedForm]: string };
-            }
-
-            if (!acc[kase][form]) {
-              acc[kase][form] = cur === '' ? null : cur.replace('=', lemma);
-            }
-
-            return acc;
-          },
-          {} as { [key in Case]: { [key in GenderedForm]: string } }
-        );
-
-      const mixed = mixedRaw
-        .replaceAll('=', fauxLemma)
-        .split('|')
-        .reduce(
-          (acc, cur, i) => {
-            const kase = Cases[Math.floor(i / GenderedForms.length)];
-            const form = GenderedForms[i % GenderedForms.length];
-
-            if (!acc[kase]) {
-              acc[kase] = {} as { [key in GenderedForm]: string };
-            }
-
-            if (!acc[kase][form]) {
-              acc[kase][form] = cur === '' ? null : cur.replace('=', lemma);
-            }
-
-            return acc;
-          },
-          {} as { [key in Case]: { [key in GenderedForm]: string } }
-        );
-
-      const adjective: Adjective = {
-        ...base,
-        singularOnly: singularOnly === 't',
-        pluralOnly: pluralOnly === 't',
-        predicativeOnly: predicativeOnly === 't',
-        absolute: absolute === 't',
-        notDeclinable: notDeclinable === 't',
-        noMixed: noMixed === 't',
-        strong,
-        weak,
-        mixed,
-        isComparative: isComparative === 't',
-        noComparative: noComparative === 't',
-        isSuperlative: isSuperlative === 't',
-        superlativeOnly: superlativeOnly === 't'
-      };
-
-      if (comparative) {
-        adjective.comparative = comparative.replaceAll('=', fauxLemma);
-      }
-
-      if (superlative) {
-        adjective.superlative = superlative.replaceAll('=', fauxLemma);
-      }
-
-      if (commonNounsRaw) {
-        adjective.commonNouns = commonNounsRaw.split('|');
-      }
-
-      return adjective;
-    }
-  });
+    })
+  );
 
   return result;
 };

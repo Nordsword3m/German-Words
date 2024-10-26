@@ -9,10 +9,10 @@ export type Word = Noun | Verb | Adjective;
 
 export type WordInfo = {
   searchWord: string;
-  pageWord: string;
-  fileName: string;
-  type: WordType;
-  gender: Gender;
+  pageWord: string | null;
+  fileName: string | null;
+  type: WordType | null;
+  gender: Gender | null;
 };
 
 export enum Level {
@@ -61,7 +61,7 @@ export type Noun = WordBase & {
   pluralOnly: boolean;
   cases: {
     [key in Case]: {
-      [key in Form]: string;
+      [key in Form]: string | null;
     };
   };
 };
@@ -79,13 +79,19 @@ export type Conjugation = {
   [key in Pronoun]: string;
 };
 
+export type Imperative = {
+  [Pronoun.Du]: string;
+  [Pronoun.Ihr]: string;
+  [Pronoun.Sie]: string;
+};
+
 export type Verb = WordBase & {
   separable: boolean;
   present: Conjugation;
   simple: Conjugation;
   conjunctive1: Conjugation;
   conjunctive2: Conjugation;
-  imperative: { du: string; ihr: string; Sie: string } | null;
+  imperative: Imperative | null;
   perfect: string;
   gerund: string;
   zuinfinitive: string;
@@ -101,7 +107,7 @@ export const GenderedForms = Object.values(GenderedForm);
 
 export type Declension = {
   [key in Case]: {
-    [key in GenderedForm]: string;
+    [key in GenderedForm]: string | null;
   };
 };
 

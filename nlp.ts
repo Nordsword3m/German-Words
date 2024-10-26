@@ -121,7 +121,7 @@ export const tagSentence = async (
   TAG_API: string,
   sentence: string,
   logger?: (msg: string, data: object | string | number) => void
-): Promise<SentenceToken[]> => {
+): Promise<SentenceToken[] | undefined> => {
   const url = `${TAG_API}?s=${encodeURIComponent(sentence)}`;
   return await fetch(url)
     .then(async (response) => {
@@ -156,7 +156,8 @@ export const tagSentenceBatch = async (
   TAG_API: string,
   sentences: string[],
   batchSize = 1,
-  tqdm = undefined
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  tqdm: any = undefined
 ): Promise<SentenceToken[][]> => {
   const taggedSentences: SentenceToken[][] = [];
 
@@ -259,7 +260,8 @@ export const getVocabWords = (
   sentence: string,
   TAG_API: string,
   lookupTables: LookupTables
-): Promise<(Word | undefined)[]> =>
+): Promise<(Word | undefined)[] | undefined> =>
   tagSentence(TAG_API, sentence).then((tagged) => {
+    if (!tagged) return undefined;
     return matchSentence(tagged, lookupTables);
   });
