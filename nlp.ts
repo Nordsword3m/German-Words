@@ -1,4 +1,5 @@
 import { Word } from './types';
+import { removeEmojis } from './utils';
 import { LookupTables } from './wordLookup';
 
 export enum Tag {
@@ -122,7 +123,7 @@ export const tagSentence = async (
   sentence: string,
   logger?: (msg: string, data: object | string | number) => void
 ): Promise<SentenceToken[] | undefined> => {
-  const url = `${TAG_API}?s=${encodeURIComponent(sentence)}`;
+  const url = `${TAG_API}?s=${encodeURIComponent(removeEmojis(sentence))}`;
   return await fetch(url)
     .then(async (response) => {
       const raw = await response.text();
@@ -173,7 +174,12 @@ export const tagSentenceBatch = async (
     taggedSentences.push(
       ...(await fetch(TAG_API, {
         method: 'POST',
-        body: JSON.stringify({ s: sentences.slice(i, i + batchSize).map(encodeURIComponent) }),
+        body: JSON.stringify({
+          s: sentences
+            .slice(i, i + batchSize)
+            .map(removeEmojis)
+            .map(encodeURIComponent)
+        }),
         headers: {
           'Content-Type': 'application/json'
         }

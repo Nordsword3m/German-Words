@@ -44,3 +44,6 @@ export const getAllValues = (obj: object): string[] => {
 
 export const filterFalsey = <Type>(arr: (Type | false | null | undefined)[]): Type[] =>
   arr.filter(Boolean) as Type[];
+
+export const removeEmojis = (text: string): string =>
+  text.replaceAll(/[^\p{L}\p{N}\p{P}\p{Z}^$\n+]/gu, '');
