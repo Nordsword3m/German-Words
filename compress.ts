@@ -26,19 +26,13 @@ const compressionSteps: [string, string][] = [
     '=ster|=ste|=stes|=ste|=sten|=ste|=stes|=ste|=stem|=ster|=stem|=sten|=sten|=ster|=sten|=ster\t=ste|=ste|=ste|=sten|=sten|=ste|=ste|=sten|=sten|=sten|=sten|=sten|=sten|=sten|=sten|=sten\t=ster|=ste|=stes|=sten|=sten|=ste|=stes|=sten|=sten|=sten|=sten|=sten|=sten|=sten|=sten|=sten',
     '$b%'
   ],
-  [
-    '=le|=lst|=lt|=lt|=ln\t=lte|=ltest|=lte|=ltet|=lten\t=le|=lst|=le|=lt|=ln\t=lte|=ltest|=lte|=ltet|=lten',
-    '$c%'
-  ],
+  ['=le|=lst|=lt|=lt|=ln\t=lte|=ltest|=lte|=ltet|=lten\t=le|=lst|=le|=lt|=ln\t=lte|=ltest|=lte|=ltet|=lten', '$c%'],
   [
     '=e|=st|=t|=t|=en\t=te|=test|=te|=tet|=ten\t=e|=est|=e|=et|=en\t=te|=test|=te|=tet|=ten\t=e du\t=t ihr\t=en Sie\t=t\t=end\tzu =en',
     '$d%'
   ],
   ['f\tf\tf\tf\t=|=en|=|=en|=|=en|=|=en', '$e%'],
-  [
-    '|=t|=t|=en\t=te|=test|=te|=tet|=ten\t=e|=est|=e|=et|=en\t=te|=test|=te|=tet|=ten\t=e du\t=t ihr\t=en Sie',
-    '$f%'
-  ],
+  ['|=t|=t|=en\t=te|=test|=te|=tet|=ten\t=e|=est|=e|=et|=en\t=te|=test|=te|=tet|=ten\t=e du\t=t ihr\t=en Sie', '$f%'],
   ['\tf\tf\tf\tf\tf\tf\t$a%\t=', '$g%'],
   ['\tf\tf\tf\tf\t=|=n|=|=n|=|=n|=|=n\n', '$h%'],
   ['\tf\tf\tf\t=|=e|=|=e|=|=en|=es|=e\n', '$i%'],
@@ -47,10 +41,7 @@ const compressionSteps: [string, string][] = [
     '$j%'
   ],
   ['t ~|=en ~\t=te ~|=test ~|=te ~|=tet ~|=ten ~\t=e ', '$k%'],
-  [
-    '\tt\t=e ~|=st ~|=t ~|=$k%~|=est ~|=e ~|=e$k%du ~\t=t ihr ~\t=en Sie ~\t~ge=t\t~=end\t~zu=en',
-    '$l%'
-  ],
+  ['\tt\t=e ~|=st ~|=t ~|=$k%~|=est ~|=e ~|=e$k%du ~\t=t ihr ~\t=en Sie ~\t~ge=t\t~=end\t~zu=en', '$l%'],
   ['\tf\tf\tf\tf\tf\tf\t$b%\t=er\tf\tam =sten\t', '$m%'],
   ['|=rt|=rn\t=rte|=rtest|=rte|=rtet|=rten\t=re', '$n%'],
   ['en ~\t=e ~|=est ~|=e ~|=et ~|=en ~\t', '$o%'],
@@ -86,9 +77,7 @@ export const compressWords = (words: Word[]): string => {
           noun.noArticle ? 't' : 'f',
           noun.singularOnly ? 't' : 'f',
           noun.pluralOnly ? 't' : 'f',
-          Cases.map((kase) =>
-            Forms.map((form) => noun.cases[kase][form]?.replace(word.lemma, '=') ?? '')
-          )
+          Cases.map((kase) => Forms.map((form) => noun.cases[kase][form]?.replace(word.lemma, '=') ?? ''))
             .flat()
             .join('|') ?? ''
         ];
@@ -123,9 +112,7 @@ export const compressWords = (words: Word[]): string => {
         ];
       } else if (word.type === 'adjective') {
         const adjective = word as Adjective;
-        const fauxLemma = adjective.lemma.endsWith('sten')
-          ? adjective.lemma.slice(0, -4)
-          : adjective.lemma;
+        const fauxLemma = adjective.lemma.endsWith('sten') ? adjective.lemma.slice(0, -4) : adjective.lemma;
         return [
           ...wordData,
           adjective.singularOnly ? 't' : 'f',
@@ -134,19 +121,13 @@ export const compressWords = (words: Word[]): string => {
           adjective.absolute ? 't' : 'f',
           adjective.notDeclinable ? 't' : 'f',
           adjective.noMixed ? 't' : 'f',
-          Cases.map((kase) =>
-            GenderedForms.map((form) => adjective.strong[kase][form]?.replace(fauxLemma, '=') ?? '')
-          )
+          Cases.map((kase) => GenderedForms.map((form) => adjective.strong[kase][form]?.replace(fauxLemma, '=') ?? ''))
             .flat()
             .join('|'),
-          Cases.map((kase) =>
-            GenderedForms.map((form) => adjective.weak[kase][form]?.replace(fauxLemma, '=') ?? '')
-          )
+          Cases.map((kase) => GenderedForms.map((form) => adjective.weak[kase][form]?.replace(fauxLemma, '=') ?? ''))
             .flat()
             .join('|'),
-          Cases.map((kase) =>
-            GenderedForms.map((form) => adjective.mixed[kase][form]?.replace(fauxLemma, '=') ?? '')
-          )
+          Cases.map((kase) => GenderedForms.map((form) => adjective.mixed[kase][form]?.replace(fauxLemma, '=') ?? ''))
             .flat()
             .join('|'),
           adjective.comparative?.replace(fauxLemma, '=') ?? '',
