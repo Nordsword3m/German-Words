@@ -13,6 +13,12 @@ export const filterObject = <Type>(
   return fromEntries(entries(obj).filter(([k, v]) => condition(k, v)));
 };
 
+export const filterObjectFalsey = <Type>(obj: {
+  [key: string]: Type | false | null | undefined;
+}): { [key: string]: Type } => {
+  return filterObject(obj, (_, v) => Boolean(v)) as { [key: string]: Type };
+};
+
 export const mapObject = <keyVal extends string, oldVal, newVal>(
   obj: { [k in keyVal]: oldVal },
   func: (k: keyVal, v: oldVal) => [keyVal, newVal]
