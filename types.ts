@@ -104,6 +104,18 @@ export enum GenderedForm {
   Plural = 'p'
 }
 export const GenderedForms = Object.values(GenderedForm);
+export const toShortGenderedForm = (g: GenderedForm) => {
+  switch (g) {
+    case GenderedForm.Masculine:
+      return 'Masc';
+    case GenderedForm.Feminine:
+      return 'Fem';
+    case GenderedForm.Neuter:
+      return 'Neut';
+    case GenderedForm.Plural:
+      return 'Plural';
+  }
+};
 
 export type Declension = {
   [key in Case]: {
