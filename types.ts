@@ -48,6 +48,21 @@ export enum Case {
 }
 export const Cases = Object.values(Case);
 
+export const ShortCases = ['Nom.', 'Acc.', 'Dat.', 'Gen.'];
+export type ShortCase = (typeof ShortCases)[number];
+export const toShortCase = (c: Case): ShortCase => {
+  switch (c) {
+    case Case.Nominative:
+      return 'Nom.';
+    case Case.Accusative:
+      return 'Acc.';
+    case Case.Dative:
+      return 'Dat.';
+    case Case.Genitive:
+      return 'Gen.';
+  }
+};
+
 export enum Form {
   Singular = 'singular',
   Plural = 'plural'

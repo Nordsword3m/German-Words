@@ -1,6 +1,5 @@
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
-export const keys = <Type extends string>(obj: { [key in Type]: any }) =>
-  Object.keys(obj) as Type[];
+export const keys = <Type extends string>(obj: { [key in Type]: any }) => Object.keys(obj) as Type[];
 export const entries = <KeyType extends string, ValueType>(obj: { [key in KeyType]: ValueType }) =>
   Object.entries(obj) as [KeyType, ValueType][];
 export const fromEntries = <KeyType extends string, ValueType>(e: [KeyType, ValueType][]) =>
@@ -48,8 +47,6 @@ export const getAllValues = (obj: object): string[] => {
   return Object.values(flattenObject(obj));
 };
 
-export const filterFalsey = <Type>(arr: (Type | false | null | undefined)[]): Type[] =>
-  arr.filter(Boolean) as Type[];
+export const filterFalsey = <Type>(arr: (Type | false | null | undefined)[]): Type[] => arr.filter(Boolean) as Type[];
 
-export const removeEmojis = (text: string): string =>
-  text.replaceAll(/[^\p{L}\p{N}\p{P}\p{Z}^$\n+]/gu, '');
+export const removeEmojis = (text: string): string => text.replaceAll(/[^\p{L}\p{N}\p{P}\p{Z}^$\n+]/gu, '');
