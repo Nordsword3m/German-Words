@@ -70,7 +70,8 @@ export enum Tag {
 }
 
 export const isNounTag = (tag: Tag) => tag === Tag.Noun;
-export const isAdjectiveTag = (tag: Tag) => [Tag.AttributiveAdjective, Tag.AdverbialPredicateAdjective].includes(tag);
+export const isAdjectiveTag = (tag: Tag) =>
+  [Tag.AttributiveAdjective, Tag.AdverbialPredicateAdjective].includes(tag);
 export const isVerbTag = (tag: Tag) =>
   [
     Tag.FiniteAuxiliaryVerb,
@@ -96,46 +97,36 @@ export const isWordTag = (tag: Tag) =>
     Tag.Whitespace,
     Tag.Number
   ].includes(tag);
-export const isPunctuationTag = (tag: Tag) => [Tag.InternalPunct, Tag.SentenceFinalPunct, Tag.Comma].includes(tag);
+export const isPunctuationTag = (tag: Tag) =>
+  [Tag.InternalPunct, Tag.SentenceFinalPunct, Tag.Comma].includes(tag);
 
-type SpacyToken = {
-  id: number;
-  start: number;
-  end: number;
+export enum SpacyCase {
+  Nom = 'Nom',
+  Acc = 'Acc',
+  Dat = 'Dat',
+  Gen = 'Gen'
+}
+
+export type SpacyToken = {
+  text: string;
+  case: SpacyCase;
   tag: Tag;
 };
-
-export type SentenceToken = SpacyToken & {
-  token: string;
-};
-
-type SpacyData = {
-  text: string;
-  tokens: SpacyToken[];
-};
-
-const removePunctuation = (word: string) => word.replace(/[.,/#!?$%^&*;:{}=\-_`~()]/g, '').trim();
 
 export const tagSentence = async (
   TAG_API: string,
   sentence: string,
   logger?: (msg: string, data: object | string | number) => void
-): Promise<SentenceToken[] | undefined> => {
+): Promise<SpacyToken[] | undefined> => {
   const url = `${TAG_API}?s=${encodeURIComponent(removeEmojis(sentence))}`;
   return await fetch(url)
     .then(async (response) => {
       const raw = await response.text();
 
       try {
-        const parsed = JSON.parse(raw) as SpacyData;
+        const parsed = JSON.parse(raw) as SpacyToken[];
         logger?.('Tagged sentence', { sentence, parsed });
-        return parsed.tokens.map((t) => ({
-          id: t.id,
-          start: t.start,
-          end: t.end,
-          tag: t.tag,
-          token: removePunctuation(parsed.text.slice(t.start, t.end)).toLowerCase()
-        }));
+        return parsed;
       } catch (err) {
         logger?.('Failed to process tagged sentence', {
           sentence,
@@ -157,8 +148,8 @@ export const tagSentenceBatch = async (
   batchSize = 1,
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   tqdm: any = undefined
-): Promise<SentenceToken[][]> => {
-  const taggedSentences: SentenceToken[][] = [];
+): Promise<SpacyToken[][]> => {
+  const taggedSentences: SpacyToken[][] = [];
 
   const idxs = [
     ...Array(Math.ceil(sentences.length / batchSize))
@@ -182,24 +173,19 @@ export const tagSentenceBatch = async (
         }
       })
         .then(async (response) => response.json())
-        .then((data: SpacyData[]) => {
-          return data.map((d) =>
-            d.tokens?.map((t) => ({
-              id: t.id,
-              start: t.start,
-              end: t.end,
-              tag: t.tag,
-              token: removePunctuation(d.text.slice(t.start, t.end)).toLowerCase()
-            }))
-          );
+        .then((data: SpacyToken[][]) => {
+          return data;
         }))
     );
   }
 
-  return taggedSentences;
+  return filterFalsey(taggedSentences);
 };
 
-export const matchSentence = (sentence: SentenceToken[], lookupTables: LookupTables): (Word | undefined)[] => {
+export const matchSentence = (
+  sentence: SpacyToken[],
+  lookupTables: LookupTables
+): (Word | undefined)[] => {
   const matched: (Word | undefined)[] = [];
   let firstVerbMatchedIdx = -1;
   let firstVerbSentenceIdx = -1;
@@ -214,31 +200,37 @@ export const matchSentence = (sentence: SentenceToken[], lookupTables: LookupTab
     }
 
     if (isNounTag(token.tag)) {
-      matched.push(lookupTables.nounLookupTable[token.token]);
+      matched.push(lookupTables.nounLookupTable[token.text]);
     } else if (isAdjectiveTag(token.tag)) {
-      if (firstVerbMatchedIdx !== -1 && (i === sentence.length - 1 || isPunctuationTag(sentence[i + 1].tag))) {
+      if (
+        firstVerbMatchedIdx !== -1 &&
+        (i === sentence.length - 1 || isPunctuationTag(sentence[i + 1].tag))
+      ) {
         matched[firstVerbMatchedIdx] =
-          lookupTables.verbLookupTable[token.token + sentence[firstVerbSentenceIdx].token] ??
+          lookupTables.verbLookupTable[token.text + sentence[firstVerbSentenceIdx].text] ??
           matched[firstVerbMatchedIdx];
         matched.push(undefined);
       } else {
-        matched.push(lookupTables.adjectiveLookupTable[token.token]);
+        matched.push(lookupTables.adjectiveLookupTable[token.text]);
       }
     } else if (isVerbTag(token.tag)) {
       if (firstVerbMatchedIdx === -1) {
         firstVerbMatchedIdx = matched.length;
         firstVerbSentenceIdx = i;
       }
-      matched.push(lookupTables.verbLookupTable[token.token]);
+      matched.push(lookupTables.verbLookupTable[token.text]);
     } else if (firstVerbMatchedIdx !== -1 && token.tag === Tag.SeparableVerbalParticle) {
       matched[firstVerbMatchedIdx] =
-        lookupTables.verbLookupTable[token.token + sentence[firstVerbSentenceIdx].token] ??
+        lookupTables.verbLookupTable[token.text + sentence[firstVerbSentenceIdx].text] ??
         matched[firstVerbMatchedIdx];
       matched.push(undefined);
     } else if (token.tag === Tag.Adverb) {
-      if (firstVerbMatchedIdx !== -1 && (i === sentence.length - 1 || isPunctuationTag(sentence[i + 1].tag))) {
+      if (
+        firstVerbMatchedIdx !== -1 &&
+        (i === sentence.length - 1 || isPunctuationTag(sentence[i + 1].tag))
+      ) {
         matched[firstVerbMatchedIdx] =
-          lookupTables.verbLookupTable[token.token + sentence[firstVerbSentenceIdx].token] ??
+          lookupTables.verbLookupTable[token.text + sentence[firstVerbSentenceIdx].text] ??
           matched[firstVerbMatchedIdx];
       }
       matched.push(undefined);
