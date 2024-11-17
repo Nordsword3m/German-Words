@@ -26,25 +26,24 @@ export const mapObject = <keyVal extends string, oldVal, newVal>(
 };
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
-export const flattenObject = (obj: { [key: string]: any }) => {
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  const result: { [key: string]: any } = {};
-
-  for (const i in obj) {
-    if (typeof obj[i] === 'object' && !Array.isArray(obj[i])) {
-      const temp = flattenObject(obj[i]);
-      for (const j in temp) {
-        result[i + '.' + j] = temp[j];
-      }
+const allValues = (obj: any, cb: (val: any) => void) => {
+  for (const key in obj) {
+    if (typeof obj[key] === 'object') {
+      allValues(obj[key], cb);
     } else {
-      result[i] = obj[i];
+      cb(obj[key]);
     }
   }
-  return result;
 };
 
 export const getAllValues = (obj: object): string[] => {
-  return Object.values(flattenObject(obj));
+  const res: string[] = [];
+
+  allValues(obj, (val) => {
+    res.push(val);
+  });
+
+  return res;
 };
 
 export const filterFalsey = <Type>(arr: (Type | false | null | undefined)[]): Type[] => arr.filter(Boolean) as Type[];
