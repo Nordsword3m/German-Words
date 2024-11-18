@@ -1,5 +1,3331 @@
 [
   {
+    "lemma": "Adler",
+    "type": "noun",
+    "translations": [
+      "eagle",
+      "Aquila",
+      "erne",
+      "spread eagle"
+    ],
+    "level": "C2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Adler",
+        "plural": "Adler"
+      },
+      "accusative": {
+        "singular": "Adler",
+        "plural": "Adler"
+      },
+      "dative": {
+        "singular": "Adler",
+        "plural": "Adlern"
+      },
+      "genitive": {
+        "singular": "Adlers",
+        "plural": "Adler"
+      }
+    }
+  },
+  {
+    "lemma": "Adlernase",
+    "type": "noun",
+    "translations": [
+      "aquiline nose",
+      "Roman nose"
+    ],
+    "level": "C2",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Adlernase",
+        "plural": "Adlernasen"
+      },
+      "accusative": {
+        "singular": "Adlernase",
+        "plural": "Adlernasen"
+      },
+      "dative": {
+        "singular": "Adlernase",
+        "plural": "Adlernasen"
+      },
+      "genitive": {
+        "singular": "Adlernase",
+        "plural": "Adlernasen"
+      }
+    }
+  },
+  {
+    "lemma": "Admiral",
+    "type": "noun",
+    "translations": [
+      "admiral",
+      "red admiral",
+      "Red Admiral"
+    ],
+    "level": "C2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Admiral",
+        "plural": "Admirale"
+      },
+      "accusative": {
+        "singular": "Admiral",
+        "plural": "Admirale"
+      },
+      "dative": {
+        "singular": "Admiral",
+        "plural": "Admiralen"
+      },
+      "genitive": {
+        "singular": "Admirals",
+        "plural": "Admirale"
+      }
+    }
+  },
+  {
+    "lemma": "Adrenalin",
+    "type": "noun",
+    "translations": [
+      "adrenaline",
+      "epinephrine",
+      "adrenalin"
+    ],
+    "level": "B1",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": true,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Adrenalin",
+        "plural": null
+      },
+      "accusative": {
+        "singular": "Adrenalin",
+        "plural": null
+      },
+      "dative": {
+        "singular": "Adrenalin",
+        "plural": null
+      },
+      "genitive": {
+        "singular": "Adrenalins",
+        "plural": null
+      }
+    }
+  },
+  {
+    "lemma": "Adressat",
+    "type": "noun",
+    "translations": [
+      "addressee",
+      "receiver",
+      "recipient",
+      "consignee",
+      "drawee",
+      "payer",
+      "target group"
+    ],
+    "level": "B1",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Adressat",
+        "plural": "Adressaten"
+      },
+      "accusative": {
+        "singular": "Adressaten",
+        "plural": "Adressaten"
+      },
+      "dative": {
+        "singular": "Adressaten",
+        "plural": "Adressaten"
+      },
+      "genitive": {
+        "singular": "Adressaten",
+        "plural": "Adressaten"
+      }
+    }
+  },
+  {
+    "lemma": "Adresse",
+    "type": "noun",
+    "translations": [
+      "address",
+      "address information",
+      "mailing address"
+    ],
+    "level": "A1",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Adresse",
+        "plural": "Adressen"
+      },
+      "accusative": {
+        "singular": "Adresse",
+        "plural": "Adressen"
+      },
+      "dative": {
+        "singular": "Adresse",
+        "plural": "Adressen"
+      },
+      "genitive": {
+        "singular": "Adresse",
+        "plural": "Adressen"
+      }
+    }
+  },
+  {
+    "lemma": "Aerodynamik",
+    "type": "noun",
+    "translations": [
+      "aerodynamics"
+    ],
+    "level": "C2",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": true,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Aerodynamik",
+        "plural": null
+      },
+      "accusative": {
+        "singular": "Aerodynamik",
+        "plural": null
+      },
+      "dative": {
+        "singular": "Aerodynamik",
+        "plural": null
+      },
+      "genitive": {
+        "singular": "Aerodynamik",
+        "plural": null
+      }
+    }
+  },
+  {
+    "lemma": "aerodynamischsten",
+    "type": "adjective",
+    "translations": [
+      "aerodynamic"
+    ],
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "aerodynamischster",
+        "f": "aerodynamischste",
+        "n": "aerodynamischstes",
+        "p": "aerodynamischste"
+      },
+      "accusative": {
+        "m": "aerodynamischsten",
+        "f": "aerodynamischste",
+        "n": "aerodynamischstes",
+        "p": "aerodynamischste"
+      },
+      "dative": {
+        "m": "aerodynamischstem",
+        "f": "aerodynamischster",
+        "n": "aerodynamischstem",
+        "p": "aerodynamischsten"
+      },
+      "genitive": {
+        "m": "aerodynamischsten",
+        "f": "aerodynamischster",
+        "n": "aerodynamischsten",
+        "p": "aerodynamischster"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "aerodynamischste",
+        "f": "aerodynamischste",
+        "n": "aerodynamischste",
+        "p": "aerodynamischsten"
+      },
+      "accusative": {
+        "m": "aerodynamischsten",
+        "f": "aerodynamischste",
+        "n": "aerodynamischste",
+        "p": "aerodynamischsten"
+      },
+      "dative": {
+        "m": "aerodynamischsten",
+        "f": "aerodynamischsten",
+        "n": "aerodynamischsten",
+        "p": "aerodynamischsten"
+      },
+      "genitive": {
+        "m": "aerodynamischsten",
+        "f": "aerodynamischsten",
+        "n": "aerodynamischsten",
+        "p": "aerodynamischsten"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "aerodynamischster",
+        "f": "aerodynamischste",
+        "n": "aerodynamischstes",
+        "p": "aerodynamischsten"
+      },
+      "accusative": {
+        "m": "aerodynamischsten",
+        "f": "aerodynamischste",
+        "n": "aerodynamischstes",
+        "p": "aerodynamischsten"
+      },
+      "dative": {
+        "m": "aerodynamischsten",
+        "f": "aerodynamischsten",
+        "n": "aerodynamischsten",
+        "p": "aerodynamischsten"
+      },
+      "genitive": {
+        "m": "aerodynamischsten",
+        "f": "aerodynamischsten",
+        "n": "aerodynamischsten",
+        "p": "aerodynamischsten"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": true,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "aerodynamischer",
+    "superlative": "am aerodynamischsten"
+  },
+  {
+    "lemma": "Affäre",
+    "type": "noun",
+    "translations": [
+      "affair",
+      "scandal",
+      "business",
+      "carry-on"
+    ],
+    "level": "C2",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Affäre",
+        "plural": "Affären"
+      },
+      "accusative": {
+        "singular": "Affäre",
+        "plural": "Affären"
+      },
+      "dative": {
+        "singular": "Affäre",
+        "plural": "Affären"
+      },
+      "genitive": {
+        "singular": "Affäre",
+        "plural": "Affären"
+      }
+    }
+  },
+  {
+    "lemma": "Affe",
+    "type": "noun",
+    "translations": [
+      "monkey",
+      "ape",
+      "Unkner",
+      "apeman",
+      "idiot"
+    ],
+    "level": "B1",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Affe",
+        "plural": "Affen"
+      },
+      "accusative": {
+        "singular": "Affen",
+        "plural": "Affen"
+      },
+      "dative": {
+        "singular": "Affen",
+        "plural": "Affen"
+      },
+      "genitive": {
+        "singular": "Affen",
+        "plural": "Affen"
+      }
+    }
+  },
+  {
+    "lemma": "affektiert",
+    "type": "adjective",
+    "translations": [
+      "affected",
+      "artificial"
+    ],
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "affektierter",
+        "f": "affektierte",
+        "n": "affektiertes",
+        "p": "affektierte"
+      },
+      "accusative": {
+        "m": "affektierten",
+        "f": "affektierte",
+        "n": "affektiertes",
+        "p": "affektierte"
+      },
+      "dative": {
+        "m": "affektiertem",
+        "f": "affektierter",
+        "n": "affektiertem",
+        "p": "affektierten"
+      },
+      "genitive": {
+        "m": "affektierten",
+        "f": "affektierter",
+        "n": "affektierten",
+        "p": "affektierter"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "affektierte",
+        "f": "affektierte",
+        "n": "affektierte",
+        "p": "affektierten"
+      },
+      "accusative": {
+        "m": "affektierten",
+        "f": "affektierte",
+        "n": "affektierte",
+        "p": "affektierten"
+      },
+      "dative": {
+        "m": "affektierten",
+        "f": "affektierten",
+        "n": "affektierten",
+        "p": "affektierten"
+      },
+      "genitive": {
+        "m": "affektierten",
+        "f": "affektierten",
+        "n": "affektierten",
+        "p": "affektierten"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "affektierter",
+        "f": "affektierte",
+        "n": "affektiertes",
+        "p": "affektierten"
+      },
+      "accusative": {
+        "m": "affektierten",
+        "f": "affektierte",
+        "n": "affektiertes",
+        "p": "affektierten"
+      },
+      "dative": {
+        "m": "affektierten",
+        "f": "affektierten",
+        "n": "affektierten",
+        "p": "affektierten"
+      },
+      "genitive": {
+        "m": "affektierten",
+        "f": "affektierten",
+        "n": "affektierten",
+        "p": "affektierten"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": false,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "affektierter",
+    "superlative": "am affektiertesten"
+  },
+  {
+    "lemma": "affektierter",
+    "type": "adjective",
+    "translations": [
+      "affected",
+      "artificial"
+    ],
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "affektierterer",
+        "f": "affektiertere",
+        "n": "affektierteres",
+        "p": "affektiertere"
+      },
+      "accusative": {
+        "m": "affektierteren",
+        "f": "affektiertere",
+        "n": "affektierteres",
+        "p": "affektiertere"
+      },
+      "dative": {
+        "m": "affektierterem",
+        "f": "affektierterer",
+        "n": "affektierterem",
+        "p": "affektierteren"
+      },
+      "genitive": {
+        "m": "affektierteren",
+        "f": "affektierterer",
+        "n": "affektierteren",
+        "p": "affektierterer"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "affektiertere",
+        "f": "affektiertere",
+        "n": "affektiertere",
+        "p": "affektierteren"
+      },
+      "accusative": {
+        "m": "affektierteren",
+        "f": "affektiertere",
+        "n": "affektiertere",
+        "p": "affektierteren"
+      },
+      "dative": {
+        "m": "affektierteren",
+        "f": "affektierteren",
+        "n": "affektierteren",
+        "p": "affektierteren"
+      },
+      "genitive": {
+        "m": "affektierteren",
+        "f": "affektierteren",
+        "n": "affektierteren",
+        "p": "affektierteren"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "affektierterer",
+        "f": "affektiertere",
+        "n": "affektierteres",
+        "p": "affektierteren"
+      },
+      "accusative": {
+        "m": "affektierteren",
+        "f": "affektiertere",
+        "n": "affektierteres",
+        "p": "affektierteren"
+      },
+      "dative": {
+        "m": "affektierteren",
+        "f": "affektierteren",
+        "n": "affektierteren",
+        "p": "affektierteren"
+      },
+      "genitive": {
+        "m": "affektierteren",
+        "f": "affektierteren",
+        "n": "affektierteren",
+        "p": "affektierteren"
+      }
+    },
+    "isComparative": true,
+    "isSuperlative": false,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "affektierter",
+    "superlative": "am affektiertesten"
+  },
+  {
+    "lemma": "affektiertesten",
+    "type": "adjective",
+    "translations": [
+      "affected",
+      "artificial"
+    ],
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "affektiertester",
+        "f": "affektierteste",
+        "n": "affektiertestes",
+        "p": "affektierteste"
+      },
+      "accusative": {
+        "m": "affektiertesten",
+        "f": "affektierteste",
+        "n": "affektiertestes",
+        "p": "affektierteste"
+      },
+      "dative": {
+        "m": "affektiertestem",
+        "f": "affektiertester",
+        "n": "affektiertestem",
+        "p": "affektiertesten"
+      },
+      "genitive": {
+        "m": "affektiertesten",
+        "f": "affektiertester",
+        "n": "affektiertesten",
+        "p": "affektiertester"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "affektierteste",
+        "f": "affektierteste",
+        "n": "affektierteste",
+        "p": "affektiertesten"
+      },
+      "accusative": {
+        "m": "affektiertesten",
+        "f": "affektierteste",
+        "n": "affektierteste",
+        "p": "affektiertesten"
+      },
+      "dative": {
+        "m": "affektiertesten",
+        "f": "affektiertesten",
+        "n": "affektiertesten",
+        "p": "affektiertesten"
+      },
+      "genitive": {
+        "m": "affektiertesten",
+        "f": "affektiertesten",
+        "n": "affektiertesten",
+        "p": "affektiertesten"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "affektiertester",
+        "f": "affektierteste",
+        "n": "affektiertestes",
+        "p": "affektiertesten"
+      },
+      "accusative": {
+        "m": "affektiertesten",
+        "f": "affektierteste",
+        "n": "affektiertestes",
+        "p": "affektiertesten"
+      },
+      "dative": {
+        "m": "affektiertesten",
+        "f": "affektiertesten",
+        "n": "affektiertesten",
+        "p": "affektiertesten"
+      },
+      "genitive": {
+        "m": "affektiertesten",
+        "f": "affektiertesten",
+        "n": "affektiertesten",
+        "p": "affektiertesten"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": true,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "affektierter",
+    "superlative": "am affektiertesten"
+  },
+  {
+    "lemma": "affenartig",
+    "type": "adjective",
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "affenartiger",
+        "f": "affenartige",
+        "n": "affenartiges",
+        "p": "affenartige"
+      },
+      "accusative": {
+        "m": "affenartigen",
+        "f": "affenartige",
+        "n": "affenartiges",
+        "p": "affenartige"
+      },
+      "dative": {
+        "m": "affenartigem",
+        "f": "affenartiger",
+        "n": "affenartigem",
+        "p": "affenartigen"
+      },
+      "genitive": {
+        "m": "affenartigen",
+        "f": "affenartiger",
+        "n": "affenartigen",
+        "p": "affenartiger"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "affenartige",
+        "f": "affenartige",
+        "n": "affenartige",
+        "p": "affenartigen"
+      },
+      "accusative": {
+        "m": "affenartigen",
+        "f": "affenartige",
+        "n": "affenartige",
+        "p": "affenartigen"
+      },
+      "dative": {
+        "m": "affenartigen",
+        "f": "affenartigen",
+        "n": "affenartigen",
+        "p": "affenartigen"
+      },
+      "genitive": {
+        "m": "affenartigen",
+        "f": "affenartigen",
+        "n": "affenartigen",
+        "p": "affenartigen"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "affenartiger",
+        "f": "affenartige",
+        "n": "affenartiges",
+        "p": "affenartigen"
+      },
+      "accusative": {
+        "m": "affenartigen",
+        "f": "affenartige",
+        "n": "affenartiges",
+        "p": "affenartigen"
+      },
+      "dative": {
+        "m": "affenartigen",
+        "f": "affenartigen",
+        "n": "affenartigen",
+        "p": "affenartigen"
+      },
+      "genitive": {
+        "m": "affenartigen",
+        "f": "affenartigen",
+        "n": "affenartigen",
+        "p": "affenartigen"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": false,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "affenartiger",
+    "superlative": "am affenartigsten"
+  },
+  {
+    "lemma": "affenartiger",
+    "type": "adjective",
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "affenartigerer",
+        "f": "affenartigere",
+        "n": "affenartigeres",
+        "p": "affenartigere"
+      },
+      "accusative": {
+        "m": "affenartigeren",
+        "f": "affenartigere",
+        "n": "affenartigeres",
+        "p": "affenartigere"
+      },
+      "dative": {
+        "m": "affenartigerem",
+        "f": "affenartigerer",
+        "n": "affenartigerem",
+        "p": "affenartigeren"
+      },
+      "genitive": {
+        "m": "affenartigeren",
+        "f": "affenartigerer",
+        "n": "affenartigeren",
+        "p": "affenartigerer"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "affenartigere",
+        "f": "affenartigere",
+        "n": "affenartigere",
+        "p": "affenartigeren"
+      },
+      "accusative": {
+        "m": "affenartigeren",
+        "f": "affenartigere",
+        "n": "affenartigere",
+        "p": "affenartigeren"
+      },
+      "dative": {
+        "m": "affenartigeren",
+        "f": "affenartigeren",
+        "n": "affenartigeren",
+        "p": "affenartigeren"
+      },
+      "genitive": {
+        "m": "affenartigeren",
+        "f": "affenartigeren",
+        "n": "affenartigeren",
+        "p": "affenartigeren"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "affenartigerer",
+        "f": "affenartigere",
+        "n": "affenartigeres",
+        "p": "affenartigeren"
+      },
+      "accusative": {
+        "m": "affenartigeren",
+        "f": "affenartigere",
+        "n": "affenartigeres",
+        "p": "affenartigeren"
+      },
+      "dative": {
+        "m": "affenartigeren",
+        "f": "affenartigeren",
+        "n": "affenartigeren",
+        "p": "affenartigeren"
+      },
+      "genitive": {
+        "m": "affenartigeren",
+        "f": "affenartigeren",
+        "n": "affenartigeren",
+        "p": "affenartigeren"
+      }
+    },
+    "isComparative": true,
+    "isSuperlative": false,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "affenartiger",
+    "superlative": "am affenartigsten"
+  },
+  {
+    "lemma": "affenartigsten",
+    "type": "adjective",
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "affenartigster",
+        "f": "affenartigste",
+        "n": "affenartigstes",
+        "p": "affenartigste"
+      },
+      "accusative": {
+        "m": "affenartigsten",
+        "f": "affenartigste",
+        "n": "affenartigstes",
+        "p": "affenartigste"
+      },
+      "dative": {
+        "m": "affenartigstem",
+        "f": "affenartigster",
+        "n": "affenartigstem",
+        "p": "affenartigsten"
+      },
+      "genitive": {
+        "m": "affenartigsten",
+        "f": "affenartigster",
+        "n": "affenartigsten",
+        "p": "affenartigster"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "affenartigste",
+        "f": "affenartigste",
+        "n": "affenartigste",
+        "p": "affenartigsten"
+      },
+      "accusative": {
+        "m": "affenartigsten",
+        "f": "affenartigste",
+        "n": "affenartigste",
+        "p": "affenartigsten"
+      },
+      "dative": {
+        "m": "affenartigsten",
+        "f": "affenartigsten",
+        "n": "affenartigsten",
+        "p": "affenartigsten"
+      },
+      "genitive": {
+        "m": "affenartigsten",
+        "f": "affenartigsten",
+        "n": "affenartigsten",
+        "p": "affenartigsten"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "affenartigster",
+        "f": "affenartigste",
+        "n": "affenartigstes",
+        "p": "affenartigsten"
+      },
+      "accusative": {
+        "m": "affenartigsten",
+        "f": "affenartigste",
+        "n": "affenartigstes",
+        "p": "affenartigsten"
+      },
+      "dative": {
+        "m": "affenartigsten",
+        "f": "affenartigsten",
+        "n": "affenartigsten",
+        "p": "affenartigsten"
+      },
+      "genitive": {
+        "m": "affenartigsten",
+        "f": "affenartigsten",
+        "n": "affenartigsten",
+        "p": "affenartigsten"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": true,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "affenartiger",
+    "superlative": "am affenartigsten"
+  },
+  {
+    "lemma": "afrikanischsten",
+    "type": "adjective",
+    "translations": [
+      "African"
+    ],
+    "level": "A2",
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "afrikanischster",
+        "f": "afrikanischste",
+        "n": "afrikanischstes",
+        "p": "afrikanischste"
+      },
+      "accusative": {
+        "m": "afrikanischsten",
+        "f": "afrikanischste",
+        "n": "afrikanischstes",
+        "p": "afrikanischste"
+      },
+      "dative": {
+        "m": "afrikanischstem",
+        "f": "afrikanischster",
+        "n": "afrikanischstem",
+        "p": "afrikanischsten"
+      },
+      "genitive": {
+        "m": "afrikanischsten",
+        "f": "afrikanischster",
+        "n": "afrikanischsten",
+        "p": "afrikanischster"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "afrikanischste",
+        "f": "afrikanischste",
+        "n": "afrikanischste",
+        "p": "afrikanischsten"
+      },
+      "accusative": {
+        "m": "afrikanischsten",
+        "f": "afrikanischste",
+        "n": "afrikanischste",
+        "p": "afrikanischsten"
+      },
+      "dative": {
+        "m": "afrikanischsten",
+        "f": "afrikanischsten",
+        "n": "afrikanischsten",
+        "p": "afrikanischsten"
+      },
+      "genitive": {
+        "m": "afrikanischsten",
+        "f": "afrikanischsten",
+        "n": "afrikanischsten",
+        "p": "afrikanischsten"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "afrikanischster",
+        "f": "afrikanischste",
+        "n": "afrikanischstes",
+        "p": "afrikanischsten"
+      },
+      "accusative": {
+        "m": "afrikanischsten",
+        "f": "afrikanischste",
+        "n": "afrikanischstes",
+        "p": "afrikanischsten"
+      },
+      "dative": {
+        "m": "afrikanischsten",
+        "f": "afrikanischsten",
+        "n": "afrikanischsten",
+        "p": "afrikanischsten"
+      },
+      "genitive": {
+        "m": "afrikanischsten",
+        "f": "afrikanischsten",
+        "n": "afrikanischsten",
+        "p": "afrikanischsten"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": true,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "afrikanischer",
+    "superlative": "am afrikanischsten"
+  },
+  {
+    "lemma": "Aggregation",
+    "type": "noun",
+    "translations": [
+      "aggregation",
+      "sum"
+    ],
+    "level": "C2",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Aggregation",
+        "plural": "Aggregationen"
+      },
+      "accusative": {
+        "singular": "Aggregation",
+        "plural": "Aggregationen"
+      },
+      "dative": {
+        "singular": "Aggregation",
+        "plural": "Aggregationen"
+      },
+      "genitive": {
+        "singular": "Aggregation",
+        "plural": "Aggregationen"
+      }
+    }
+  },
+  {
+    "lemma": "Agilität",
+    "type": "noun",
+    "translations": [
+      "agility"
+    ],
+    "level": "C2",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": true,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Agilität",
+        "plural": null
+      },
+      "accusative": {
+        "singular": "Agilität",
+        "plural": null
+      },
+      "dative": {
+        "singular": "Agilität",
+        "plural": null
+      },
+      "genitive": {
+        "singular": "Agilität",
+        "plural": null
+      }
+    }
+  },
+  {
+    "lemma": "Agonie",
+    "type": "noun",
+    "translations": [
+      "agony",
+      "death throes",
+      "throe",
+      "throes",
+      "throes of death"
+    ],
+    "level": "C2",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Agonie",
+        "plural": "Agonien"
+      },
+      "accusative": {
+        "singular": "Agonie",
+        "plural": "Agonien"
+      },
+      "dative": {
+        "singular": "Agonie",
+        "plural": "Agonien"
+      },
+      "genitive": {
+        "singular": "Agonie",
+        "plural": "Agonien"
+      }
+    }
+  },
+  {
+    "lemma": "Agreement",
+    "type": "noun",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Agreement",
+        "plural": "Agreements"
+      },
+      "accusative": {
+        "singular": "Agreement",
+        "plural": "Agreements"
+      },
+      "dative": {
+        "singular": "Agreement",
+        "plural": "Agreements"
+      },
+      "genitive": {
+        "singular": "Agreements",
+        "plural": "Agreements"
+      }
+    }
+  },
+  {
+    "lemma": "ägyptischsten",
+    "type": "adjective",
+    "translations": [
+      "Egyptian"
+    ],
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "ägyptischster",
+        "f": "ägyptischste",
+        "n": "ägyptischstes",
+        "p": "ägyptischste"
+      },
+      "accusative": {
+        "m": "ägyptischsten",
+        "f": "ägyptischste",
+        "n": "ägyptischstes",
+        "p": "ägyptischste"
+      },
+      "dative": {
+        "m": "ägyptischstem",
+        "f": "ägyptischster",
+        "n": "ägyptischstem",
+        "p": "ägyptischsten"
+      },
+      "genitive": {
+        "m": "ägyptischsten",
+        "f": "ägyptischster",
+        "n": "ägyptischsten",
+        "p": "ägyptischster"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "ägyptischste",
+        "f": "ägyptischste",
+        "n": "ägyptischste",
+        "p": "ägyptischsten"
+      },
+      "accusative": {
+        "m": "ägyptischsten",
+        "f": "ägyptischste",
+        "n": "ägyptischste",
+        "p": "ägyptischsten"
+      },
+      "dative": {
+        "m": "ägyptischsten",
+        "f": "ägyptischsten",
+        "n": "ägyptischsten",
+        "p": "ägyptischsten"
+      },
+      "genitive": {
+        "m": "ägyptischsten",
+        "f": "ägyptischsten",
+        "n": "ägyptischsten",
+        "p": "ägyptischsten"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "ägyptischster",
+        "f": "ägyptischste",
+        "n": "ägyptischstes",
+        "p": "ägyptischsten"
+      },
+      "accusative": {
+        "m": "ägyptischsten",
+        "f": "ägyptischste",
+        "n": "ägyptischstes",
+        "p": "ägyptischsten"
+      },
+      "dative": {
+        "m": "ägyptischsten",
+        "f": "ägyptischsten",
+        "n": "ägyptischsten",
+        "p": "ägyptischsten"
+      },
+      "genitive": {
+        "m": "ägyptischsten",
+        "f": "ägyptischsten",
+        "n": "ägyptischsten",
+        "p": "ägyptischsten"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": true,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "ägyptischer",
+    "superlative": "am ägyptischsten"
+  },
+  {
+    "lemma": "Ah",
+    "type": "noun",
+    "translations": [
+      "Oh",
+      "Uh"
+    ],
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Ah",
+        "plural": "Ahs"
+      },
+      "accusative": {
+        "singular": "Ah",
+        "plural": "Ahs"
+      },
+      "dative": {
+        "singular": "Ah",
+        "plural": "Ahs"
+      },
+      "genitive": {
+        "singular": "Ahs",
+        "plural": "Ahs"
+      }
+    }
+  },
+  {
+    "lemma": "Ahle",
+    "type": "noun",
+    "translations": [
+      "awl",
+      "bodkin",
+      "broach",
+      "pricker"
+    ],
+    "level": "C2",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Ahle",
+        "plural": "Ahlen"
+      },
+      "accusative": {
+        "singular": "Ahle",
+        "plural": "Ahlen"
+      },
+      "dative": {
+        "singular": "Ahle",
+        "plural": "Ahlen"
+      },
+      "genitive": {
+        "singular": "Ahle",
+        "plural": "Ahlen"
+      }
+    }
+  },
+  {
+    "lemma": "Ahorn",
+    "type": "noun",
+    "translations": [
+      "maple",
+      "acer"
+    ],
+    "level": "C2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Ahorn",
+        "plural": "Ahorne"
+      },
+      "accusative": {
+        "singular": "Ahorn",
+        "plural": "Ahorne"
+      },
+      "dative": {
+        "singular": "Ahorn",
+        "plural": "Ahornen"
+      },
+      "genitive": {
+        "singular": "Ahorns",
+        "plural": "Ahorne"
+      }
+    }
+  },
+  {
+    "lemma": "Ai",
+    "type": "noun",
+    "translations": [
+      "sloth"
+    ],
+    "level": "C2",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Ai",
+        "plural": "Ais"
+      },
+      "accusative": {
+        "singular": "Ai",
+        "plural": "Ais"
+      },
+      "dative": {
+        "singular": "Ai",
+        "plural": "Ais"
+      },
+      "genitive": {
+        "singular": "Ais",
+        "plural": "Ais"
+      }
+    }
+  },
+  {
+    "lemma": "Air",
+    "type": "noun",
+    "translations": [
+      "air"
+    ],
+    "level": "C2",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Air",
+        "plural": "Airs"
+      },
+      "accusative": {
+        "singular": "Air",
+        "plural": "Airs"
+      },
+      "dative": {
+        "singular": "Air",
+        "plural": "Airs"
+      },
+      "genitive": {
+        "singular": "Airs",
+        "plural": "Airs"
+      }
+    }
+  },
+  {
+    "lemma": "Airbag",
+    "type": "noun",
+    "translations": [
+      "airbag",
+      "air cushion",
+      "air bag",
+      "airbag cushion",
+      "bolsa de aire",
+      "inflatable restraint"
+    ],
+    "level": "C1",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Airbag",
+        "plural": "Airbags"
+      },
+      "accusative": {
+        "singular": "Airbag",
+        "plural": "Airbags"
+      },
+      "dative": {
+        "singular": "Airbag",
+        "plural": "Airbags"
+      },
+      "genitive": {
+        "singular": "Airbags",
+        "plural": "Airbags"
+      }
+    }
+  },
+  {
+    "lemma": "Airline",
+    "type": "noun",
+    "translations": [
+      "airline",
+      "air carrier"
+    ],
+    "level": "C2",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Airline",
+        "plural": "Airlines"
+      },
+      "accusative": {
+        "singular": "Airline",
+        "plural": "Airlines"
+      },
+      "dative": {
+        "singular": "Airline",
+        "plural": "Airlines"
+      },
+      "genitive": {
+        "singular": "Airline",
+        "plural": "Airlines"
+      }
+    }
+  },
+  {
+    "lemma": "Airmail",
+    "type": "noun",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": true,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Airmail",
+        "plural": null
+      },
+      "accusative": {
+        "singular": "Airmail",
+        "plural": null
+      },
+      "dative": {
+        "singular": "Airmail",
+        "plural": null
+      },
+      "genitive": {
+        "singular": "Airmail",
+        "plural": null
+      }
+    }
+  },
+  {
+    "lemma": "Airport",
+    "type": "noun",
+    "translations": [
+      "airport"
+    ],
+    "level": "C2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Airport",
+        "plural": "Airports"
+      },
+      "accusative": {
+        "singular": "Airport",
+        "plural": "Airports"
+      },
+      "dative": {
+        "singular": "Airport",
+        "plural": "Airports"
+      },
+      "genitive": {
+        "singular": "Airports",
+        "plural": "Airports"
+      }
+    }
+  },
+  {
+    "lemma": "Akademikerin",
+    "type": "noun",
+    "translations": [
+      "graduate",
+      "academic",
+      "academician",
+      "college graduate",
+      "scholarly person",
+      "university graduate"
+    ],
+    "level": "C1",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Akademikerin",
+        "plural": "Akademikerinnen"
+      },
+      "accusative": {
+        "singular": "Akademikerin",
+        "plural": "Akademikerinnen"
+      },
+      "dative": {
+        "singular": "Akademikerin",
+        "plural": "Akademikerinnen"
+      },
+      "genitive": {
+        "singular": "Akademikerin",
+        "plural": "Akademikerinnen"
+      }
+    }
+  },
+  {
+    "lemma": "akademischsten",
+    "type": "adjective",
+    "translations": [
+      "academic"
+    ],
+    "level": "C1",
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "akademischster",
+        "f": "akademischste",
+        "n": "akademischstes",
+        "p": "akademischste"
+      },
+      "accusative": {
+        "m": "akademischsten",
+        "f": "akademischste",
+        "n": "akademischstes",
+        "p": "akademischste"
+      },
+      "dative": {
+        "m": "akademischstem",
+        "f": "akademischster",
+        "n": "akademischstem",
+        "p": "akademischsten"
+      },
+      "genitive": {
+        "m": "akademischsten",
+        "f": "akademischster",
+        "n": "akademischsten",
+        "p": "akademischster"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "akademischste",
+        "f": "akademischste",
+        "n": "akademischste",
+        "p": "akademischsten"
+      },
+      "accusative": {
+        "m": "akademischsten",
+        "f": "akademischste",
+        "n": "akademischste",
+        "p": "akademischsten"
+      },
+      "dative": {
+        "m": "akademischsten",
+        "f": "akademischsten",
+        "n": "akademischsten",
+        "p": "akademischsten"
+      },
+      "genitive": {
+        "m": "akademischsten",
+        "f": "akademischsten",
+        "n": "akademischsten",
+        "p": "akademischsten"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "akademischster",
+        "f": "akademischste",
+        "n": "akademischstes",
+        "p": "akademischsten"
+      },
+      "accusative": {
+        "m": "akademischsten",
+        "f": "akademischste",
+        "n": "akademischstes",
+        "p": "akademischsten"
+      },
+      "dative": {
+        "m": "akademischsten",
+        "f": "akademischsten",
+        "n": "akademischsten",
+        "p": "akademischsten"
+      },
+      "genitive": {
+        "m": "akademischsten",
+        "f": "akademischsten",
+        "n": "akademischsten",
+        "p": "akademischsten"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": true,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "akademischer",
+    "superlative": "am akademischsten"
+  },
+  {
+    "lemma": "Akkordeon",
+    "type": "noun",
+    "translations": [
+      "accordion"
+    ],
+    "level": "C2",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Akkordeon",
+        "plural": "Akkordeons"
+      },
+      "accusative": {
+        "singular": "Akkordeon",
+        "plural": "Akkordeons"
+      },
+      "dative": {
+        "singular": "Akkordeon",
+        "plural": "Akkordeons"
+      },
+      "genitive": {
+        "singular": "Akkordeons",
+        "plural": "Akkordeons"
+      }
+    }
+  },
+  {
+    "lemma": "Akkumulator",
+    "type": "noun",
+    "translations": [
+      "accumulator",
+      "battery",
+      "rechargeable battery",
+      "storage battery",
+      "accumulator battery",
+      "cell",
+      "recharchable battery",
+      "secondary battery",
+      "secondary cell",
+      "storage cell",
+      "storage-battery"
+    ],
+    "level": "C2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Akkumulator",
+        "plural": "Akkumulatoren"
+      },
+      "accusative": {
+        "singular": "Akkumulator",
+        "plural": "Akkumulatoren"
+      },
+      "dative": {
+        "singular": "Akkumulator",
+        "plural": "Akkumulatoren"
+      },
+      "genitive": {
+        "singular": "Akkumulators",
+        "plural": "Akkumulatoren"
+      }
+    }
+  },
+  {
+    "lemma": "Akne",
+    "type": "noun",
+    "translations": [
+      "acne"
+    ],
+    "level": "C2",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Akne",
+        "plural": "Aknen"
+      },
+      "accusative": {
+        "singular": "Akne",
+        "plural": "Aknen"
+      },
+      "dative": {
+        "singular": "Akne",
+        "plural": "Aknen"
+      },
+      "genitive": {
+        "singular": "Akne",
+        "plural": "Aknen"
+      }
+    }
+  },
+  {
+    "lemma": "Akt",
+    "type": "noun",
+    "translations": [
+      "act",
+      "nude",
+      "action",
+      "ceremony",
+      "sexual act",
+      "file",
+      "actuality",
+      "court proceeding",
+      "deed",
+      "protein kinase B",
+      "ramp",
+      "reel"
+    ],
+    "level": "B2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Akt",
+        "plural": "Akte"
+      },
+      "accusative": {
+        "singular": "Akt",
+        "plural": "Akte"
+      },
+      "dative": {
+        "singular": "Akt",
+        "plural": "Akten"
+      },
+      "genitive": {
+        "singular": "Aktes",
+        "plural": "Akte"
+      }
+    }
+  },
+  {
+    "lemma": "Akte",
+    "type": "noun",
+    "translations": [
+      "file",
+      "record",
+      "document",
+      "act",
+      "dossier",
+      "paper",
+      "records"
+    ],
+    "level": "B1",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Akte",
+        "plural": "Akten"
+      },
+      "accusative": {
+        "singular": "Akte",
+        "plural": "Akten"
+      },
+      "dative": {
+        "singular": "Akte",
+        "plural": "Akten"
+      },
+      "genitive": {
+        "singular": "Akte",
+        "plural": "Akten"
+      }
+    }
+  },
+  {
+    "lemma": "Aktenkoffer",
+    "type": "noun",
+    "translations": [
+      "briefcase",
+      "attache case",
+      "attaché case"
+    ],
+    "level": "C2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Aktenkoffer",
+        "plural": "Aktenkoffer"
+      },
+      "accusative": {
+        "singular": "Aktenkoffer",
+        "plural": "Aktenkoffer"
+      },
+      "dative": {
+        "singular": "Aktenkoffer",
+        "plural": "Aktenkoffern"
+      },
+      "genitive": {
+        "singular": "Aktenkoffers",
+        "plural": "Aktenkoffer"
+      }
+    }
+  },
+  {
+    "lemma": "Aktenschrank",
+    "type": "noun",
+    "translations": [
+      "filing cabinet"
+    ],
+    "level": "C2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Aktenschrank",
+        "plural": "Aktenschränke"
+      },
+      "accusative": {
+        "singular": "Aktenschrank",
+        "plural": "Aktenschränke"
+      },
+      "dative": {
+        "singular": "Aktenschrank",
+        "plural": "Aktenschränken"
+      },
+      "genitive": {
+        "singular": "Aktenschrankes",
+        "plural": "Aktenschränke"
+      }
+    }
+  },
+  {
+    "lemma": "Aktentasche",
+    "type": "noun",
+    "translations": [
+      "briefcase",
+      "despatch case",
+      "dispatch case"
+    ],
+    "level": "C2",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Aktentasche",
+        "plural": "Aktentaschen"
+      },
+      "accusative": {
+        "singular": "Aktentasche",
+        "plural": "Aktentaschen"
+      },
+      "dative": {
+        "singular": "Aktentasche",
+        "plural": "Aktentaschen"
+      },
+      "genitive": {
+        "singular": "Aktentasche",
+        "plural": "Aktentaschen"
+      }
+    }
+  },
+  {
+    "lemma": "Akupunkteur",
+    "type": "noun",
+    "translations": [
+      "acupuncturist"
+    ],
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Akupunkteur",
+        "plural": "Akupunkteure"
+      },
+      "accusative": {
+        "singular": "Akupunkteur",
+        "plural": "Akupunkteure"
+      },
+      "dative": {
+        "singular": "Akupunkteur",
+        "plural": "Akupunkteuren"
+      },
+      "genitive": {
+        "singular": "Akupunkteurs",
+        "plural": "Akupunkteure"
+      }
+    }
+  },
+  {
+    "lemma": "Akupunkteurin",
+    "type": "noun",
+    "translations": [
+      "acupuncturist"
+    ],
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Akupunkteurin",
+        "plural": "Akupunkteurinnen"
+      },
+      "accusative": {
+        "singular": "Akupunkteurin",
+        "plural": "Akupunkteurinnen"
+      },
+      "dative": {
+        "singular": "Akupunkteurin",
+        "plural": "Akupunkteurinnen"
+      },
+      "genitive": {
+        "singular": "Akupunkteurin",
+        "plural": "Akupunkteurinnen"
+      }
+    }
+  },
+  {
+    "lemma": "Akupunktur",
+    "type": "noun",
+    "translations": [
+      "acupuncture"
+    ],
+    "level": "B2",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Akupunktur",
+        "plural": "Akupunkturen"
+      },
+      "accusative": {
+        "singular": "Akupunktur",
+        "plural": "Akupunkturen"
+      },
+      "dative": {
+        "singular": "Akupunktur",
+        "plural": "Akupunkturen"
+      },
+      "genitive": {
+        "singular": "Akupunktur",
+        "plural": "Akupunkturen"
+      }
+    }
+  },
+  {
+    "lemma": "Akzent",
+    "type": "noun",
+    "translations": [
+      "accent",
+      "emphasis",
+      "stress"
+    ],
+    "level": "A1",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Akzent",
+        "plural": "Akzente"
+      },
+      "accusative": {
+        "singular": "Akzent",
+        "plural": "Akzente"
+      },
+      "dative": {
+        "singular": "Akzent",
+        "plural": "Akzenten"
+      },
+      "genitive": {
+        "singular": "Akzentes",
+        "plural": "Akzente"
+      }
+    }
+  },
+  {
+    "lemma": "akzeptabelsten",
+    "type": "adjective",
+    "translations": [
+      "acceptable"
+    ],
+    "level": "B2",
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "akzeptabelster",
+        "f": "akzeptabelste",
+        "n": "akzeptabelstes",
+        "p": "akzeptabelste"
+      },
+      "accusative": {
+        "m": "akzeptabelsten",
+        "f": "akzeptabelste",
+        "n": "akzeptabelstes",
+        "p": "akzeptabelste"
+      },
+      "dative": {
+        "m": "akzeptabelstem",
+        "f": "akzeptabelster",
+        "n": "akzeptabelstem",
+        "p": "akzeptabelsten"
+      },
+      "genitive": {
+        "m": "akzeptabelsten",
+        "f": "akzeptabelster",
+        "n": "akzeptabelsten",
+        "p": "akzeptabelster"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "akzeptabelste",
+        "f": "akzeptabelste",
+        "n": "akzeptabelste",
+        "p": "akzeptabelsten"
+      },
+      "accusative": {
+        "m": "akzeptabelsten",
+        "f": "akzeptabelste",
+        "n": "akzeptabelste",
+        "p": "akzeptabelsten"
+      },
+      "dative": {
+        "m": "akzeptabelsten",
+        "f": "akzeptabelsten",
+        "n": "akzeptabelsten",
+        "p": "akzeptabelsten"
+      },
+      "genitive": {
+        "m": "akzeptabelsten",
+        "f": "akzeptabelsten",
+        "n": "akzeptabelsten",
+        "p": "akzeptabelsten"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "akzeptabelster",
+        "f": "akzeptabelste",
+        "n": "akzeptabelstes",
+        "p": "akzeptabelsten"
+      },
+      "accusative": {
+        "m": "akzeptabelsten",
+        "f": "akzeptabelste",
+        "n": "akzeptabelstes",
+        "p": "akzeptabelsten"
+      },
+      "dative": {
+        "m": "akzeptabelsten",
+        "f": "akzeptabelsten",
+        "n": "akzeptabelsten",
+        "p": "akzeptabelsten"
+      },
+      "genitive": {
+        "m": "akzeptabelsten",
+        "f": "akzeptabelsten",
+        "n": "akzeptabelsten",
+        "p": "akzeptabelsten"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": true,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "akzeptabler",
+    "superlative": "am akzeptabelsten"
+  },
+  {
+    "lemma": "Akzeptanz",
+    "type": "noun",
+    "translations": [
+      "acceptance",
+      "acceptability",
+      "accepting"
+    ],
+    "level": "C1",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": true,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Akzeptanz",
+        "plural": null
+      },
+      "accusative": {
+        "singular": "Akzeptanz",
+        "plural": null
+      },
+      "dative": {
+        "singular": "Akzeptanz",
+        "plural": null
+      },
+      "genitive": {
+        "singular": "Akzeptanz",
+        "plural": null
+      }
+    }
+  },
+  {
+    "lemma": "Alarm",
+    "type": "noun",
+    "translations": [
+      "alarm",
+      "alert",
+      "warning signal"
+    ],
+    "level": "B1",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Alarm",
+        "plural": "Alarme"
+      },
+      "accusative": {
+        "singular": "Alarm",
+        "plural": "Alarme"
+      },
+      "dative": {
+        "singular": "Alarm",
+        "plural": "Alarmen"
+      },
+      "genitive": {
+        "singular": "Alarmes",
+        "plural": "Alarme"
+      }
+    }
+  },
+  {
+    "lemma": "Alarmglocke",
+    "type": "noun",
+    "translations": [
+      "alarm bell",
+      "tocsin",
+      "warning bell"
+    ],
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Alarmglocke",
+        "plural": "Alarmglocken"
+      },
+      "accusative": {
+        "singular": "Alarmglocke",
+        "plural": "Alarmglocken"
+      },
+      "dative": {
+        "singular": "Alarmglocke",
+        "plural": "Alarmglocken"
+      },
+      "genitive": {
+        "singular": "Alarmglocke",
+        "plural": "Alarmglocken"
+      }
+    }
+  },
+  {
+    "lemma": "Alarmzeichen",
+    "type": "noun",
+    "translations": [
+      "alarm signal"
+    ],
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Alarmzeichen",
+        "plural": "Alarmzeichen"
+      },
+      "accusative": {
+        "singular": "Alarmzeichen",
+        "plural": "Alarmzeichen"
+      },
+      "dative": {
+        "singular": "Alarmzeichen",
+        "plural": "Alarmzeichen"
+      },
+      "genitive": {
+        "singular": "Alarmzeichens",
+        "plural": "Alarmzeichen"
+      }
+    }
+  },
+  {
+    "lemma": "Albernheit",
+    "type": "noun",
+    "translations": [
+      "foolishness",
+      "absurdity",
+      "childishness",
+      "daffing",
+      "daftness",
+      "fatuity",
+      "goofiness",
+      "inanity",
+      "silliness",
+      "silly remark",
+      "tomfoolery",
+      "triviality"
+    ],
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Albernheit",
+        "plural": "Albernheiten"
+      },
+      "accusative": {
+        "singular": "Albernheit",
+        "plural": "Albernheiten"
+      },
+      "dative": {
+        "singular": "Albernheit",
+        "plural": "Albernheiten"
+      },
+      "genitive": {
+        "singular": "Albernheit",
+        "plural": "Albernheiten"
+      }
+    }
+  },
+  {
+    "lemma": "albernsten",
+    "type": "adjective",
+    "translations": [
+      "silly",
+      "childish"
+    ],
+    "level": "C1",
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "albernster",
+        "f": "albernste",
+        "n": "albernstes",
+        "p": "albernste"
+      },
+      "accusative": {
+        "m": "albernsten",
+        "f": "albernste",
+        "n": "albernstes",
+        "p": "albernste"
+      },
+      "dative": {
+        "m": "albernstem",
+        "f": "albernster",
+        "n": "albernstem",
+        "p": "albernsten"
+      },
+      "genitive": {
+        "m": "albernsten",
+        "f": "albernster",
+        "n": "albernsten",
+        "p": "albernster"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "albernste",
+        "f": "albernste",
+        "n": "albernste",
+        "p": "albernsten"
+      },
+      "accusative": {
+        "m": "albernsten",
+        "f": "albernste",
+        "n": "albernste",
+        "p": "albernsten"
+      },
+      "dative": {
+        "m": "albernsten",
+        "f": "albernsten",
+        "n": "albernsten",
+        "p": "albernsten"
+      },
+      "genitive": {
+        "m": "albernsten",
+        "f": "albernsten",
+        "n": "albernsten",
+        "p": "albernsten"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "albernster",
+        "f": "albernste",
+        "n": "albernstes",
+        "p": "albernsten"
+      },
+      "accusative": {
+        "m": "albernsten",
+        "f": "albernste",
+        "n": "albernstes",
+        "p": "albernsten"
+      },
+      "dative": {
+        "m": "albernsten",
+        "f": "albernsten",
+        "n": "albernsten",
+        "p": "albernsten"
+      },
+      "genitive": {
+        "m": "albernsten",
+        "f": "albernsten",
+        "n": "albernsten",
+        "p": "albernsten"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": true,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "alberner",
+    "superlative": "am albernsten"
+  },
+  {
+    "lemma": "Albtraum",
+    "type": "noun",
+    "translations": [
+      "nightmare",
+      "bad dream"
+    ],
+    "level": "B2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Albtraum",
+        "plural": "Albträume"
+      },
+      "accusative": {
+        "singular": "Albtraum",
+        "plural": "Albträume"
+      },
+      "dative": {
+        "singular": "Albtraum",
+        "plural": "Albträumen"
+      },
+      "genitive": {
+        "singular": "Albtraumes",
+        "plural": "Albträume"
+      }
+    }
+  },
+  {
+    "lemma": "Alchemie",
+    "type": "noun",
+    "translations": [
+      "alchemy"
+    ],
+    "level": "C2",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": true,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Alchemie",
+        "plural": null
+      },
+      "accusative": {
+        "singular": "Alchemie",
+        "plural": null
+      },
+      "dative": {
+        "singular": "Alchemie",
+        "plural": null
+      },
+      "genitive": {
+        "singular": "Alchemie",
+        "plural": null
+      }
+    }
+  },
+  {
+    "lemma": "Alchemist",
+    "type": "noun",
+    "translations": [
+      "alchemist"
+    ],
+    "level": "C2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Alchemist",
+        "plural": "Alchemisten"
+      },
+      "accusative": {
+        "singular": "Alchemisten",
+        "plural": "Alchemisten"
+      },
+      "dative": {
+        "singular": "Alchemisten",
+        "plural": "Alchemisten"
+      },
+      "genitive": {
+        "singular": "Alchemisten",
+        "plural": "Alchemisten"
+      }
+    }
+  },
+  {
+    "lemma": "alerter",
+    "type": "adjective",
+    "translations": [
+      "alert"
+    ],
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "alerterer",
+        "f": "alertere",
+        "n": "alerteres",
+        "p": "alertere"
+      },
+      "accusative": {
+        "m": "alerteren",
+        "f": "alertere",
+        "n": "alerteres",
+        "p": "alertere"
+      },
+      "dative": {
+        "m": "alerterem",
+        "f": "alerterer",
+        "n": "alerterem",
+        "p": "alerteren"
+      },
+      "genitive": {
+        "m": "alerteren",
+        "f": "alerterer",
+        "n": "alerteren",
+        "p": "alerterer"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "alertere",
+        "f": "alertere",
+        "n": "alertere",
+        "p": "alerteren"
+      },
+      "accusative": {
+        "m": "alerteren",
+        "f": "alertere",
+        "n": "alertere",
+        "p": "alerteren"
+      },
+      "dative": {
+        "m": "alerteren",
+        "f": "alerteren",
+        "n": "alerteren",
+        "p": "alerteren"
+      },
+      "genitive": {
+        "m": "alerteren",
+        "f": "alerteren",
+        "n": "alerteren",
+        "p": "alerteren"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "alerterer",
+        "f": "alertere",
+        "n": "alerteres",
+        "p": "alerteren"
+      },
+      "accusative": {
+        "m": "alerteren",
+        "f": "alertere",
+        "n": "alerteres",
+        "p": "alerteren"
+      },
+      "dative": {
+        "m": "alerteren",
+        "f": "alerteren",
+        "n": "alerteren",
+        "p": "alerteren"
+      },
+      "genitive": {
+        "m": "alerteren",
+        "f": "alerteren",
+        "n": "alerteren",
+        "p": "alerteren"
+      }
+    },
+    "isComparative": true,
+    "isSuperlative": false,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "alerter",
+    "superlative": "am alertesten"
+  },
+  {
+    "lemma": "alertesten",
+    "type": "adjective",
+    "translations": [
+      "alert"
+    ],
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "alertester",
+        "f": "alerteste",
+        "n": "alertestes",
+        "p": "alerteste"
+      },
+      "accusative": {
+        "m": "alertesten",
+        "f": "alerteste",
+        "n": "alertestes",
+        "p": "alerteste"
+      },
+      "dative": {
+        "m": "alertestem",
+        "f": "alertester",
+        "n": "alertestem",
+        "p": "alertesten"
+      },
+      "genitive": {
+        "m": "alertesten",
+        "f": "alertester",
+        "n": "alertesten",
+        "p": "alertester"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "alerteste",
+        "f": "alerteste",
+        "n": "alerteste",
+        "p": "alertesten"
+      },
+      "accusative": {
+        "m": "alertesten",
+        "f": "alerteste",
+        "n": "alerteste",
+        "p": "alertesten"
+      },
+      "dative": {
+        "m": "alertesten",
+        "f": "alertesten",
+        "n": "alertesten",
+        "p": "alertesten"
+      },
+      "genitive": {
+        "m": "alertesten",
+        "f": "alertesten",
+        "n": "alertesten",
+        "p": "alertesten"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "alertester",
+        "f": "alerteste",
+        "n": "alertestes",
+        "p": "alertesten"
+      },
+      "accusative": {
+        "m": "alertesten",
+        "f": "alerteste",
+        "n": "alertestes",
+        "p": "alertesten"
+      },
+      "dative": {
+        "m": "alertesten",
+        "f": "alertesten",
+        "n": "alertesten",
+        "p": "alertesten"
+      },
+      "genitive": {
+        "m": "alertesten",
+        "f": "alertesten",
+        "n": "alertesten",
+        "p": "alertesten"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": true,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "alerter",
+    "superlative": "am alertesten"
+  },
+  {
+    "lemma": "Algebra",
+    "type": "noun",
+    "translations": [
+      "algebra"
+    ],
+    "level": "C2",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Algebra",
+        "plural": "Algebren"
+      },
+      "accusative": {
+        "singular": "Algebra",
+        "plural": "Algebren"
+      },
+      "dative": {
+        "singular": "Algebra",
+        "plural": "Algebren"
+      },
+      "genitive": {
+        "singular": "Algebra",
+        "plural": "Algebren"
+      }
+    }
+  },
+  {
+    "lemma": "Algorithmus",
+    "type": "noun",
+    "translations": [
+      "algorithm"
+    ],
+    "level": "C2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Algorithmus",
+        "plural": "Algorithmen"
+      },
+      "accusative": {
+        "singular": "Algorithmus",
+        "plural": "Algorithmen"
+      },
+      "dative": {
+        "singular": "Algorithmus",
+        "plural": "Algorithmen"
+      },
+      "genitive": {
+        "singular": "Algorithmus",
+        "plural": "Algorithmen"
+      }
+    }
+  },
+  {
+    "lemma": "Alibi",
+    "type": "noun",
+    "translations": [
+      "alibi",
+      "excuse"
+    ],
+    "level": "C1",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Alibi",
+        "plural": "Alibis"
+      },
+      "accusative": {
+        "singular": "Alibi",
+        "plural": "Alibis"
+      },
+      "dative": {
+        "singular": "Alibi",
+        "plural": "Alibis"
+      },
+      "genitive": {
+        "singular": "Alibis",
+        "plural": "Alibis"
+      }
+    }
+  },
+  {
+    "lemma": "alkoholischsten",
+    "type": "adjective",
+    "translations": [
+      "alcoholic"
+    ],
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "alkoholischster",
+        "f": "alkoholischste",
+        "n": "alkoholischstes",
+        "p": "alkoholischste"
+      },
+      "accusative": {
+        "m": "alkoholischsten",
+        "f": "alkoholischste",
+        "n": "alkoholischstes",
+        "p": "alkoholischste"
+      },
+      "dative": {
+        "m": "alkoholischstem",
+        "f": "alkoholischster",
+        "n": "alkoholischstem",
+        "p": "alkoholischsten"
+      },
+      "genitive": {
+        "m": "alkoholischsten",
+        "f": "alkoholischster",
+        "n": "alkoholischsten",
+        "p": "alkoholischster"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "alkoholischste",
+        "f": "alkoholischste",
+        "n": "alkoholischste",
+        "p": "alkoholischsten"
+      },
+      "accusative": {
+        "m": "alkoholischsten",
+        "f": "alkoholischste",
+        "n": "alkoholischste",
+        "p": "alkoholischsten"
+      },
+      "dative": {
+        "m": "alkoholischsten",
+        "f": "alkoholischsten",
+        "n": "alkoholischsten",
+        "p": "alkoholischsten"
+      },
+      "genitive": {
+        "m": "alkoholischsten",
+        "f": "alkoholischsten",
+        "n": "alkoholischsten",
+        "p": "alkoholischsten"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "alkoholischster",
+        "f": "alkoholischste",
+        "n": "alkoholischstes",
+        "p": "alkoholischsten"
+      },
+      "accusative": {
+        "m": "alkoholischsten",
+        "f": "alkoholischste",
+        "n": "alkoholischstes",
+        "p": "alkoholischsten"
+      },
+      "dative": {
+        "m": "alkoholischsten",
+        "f": "alkoholischsten",
+        "n": "alkoholischsten",
+        "p": "alkoholischsten"
+      },
+      "genitive": {
+        "m": "alkoholischsten",
+        "f": "alkoholischsten",
+        "n": "alkoholischsten",
+        "p": "alkoholischsten"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": true,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "alkoholischer",
+    "superlative": "am alkoholischsten"
+  },
+  {
+    "lemma": "All",
+    "type": "noun",
+    "translations": [
+      "universe",
+      "outer space",
+      "space"
+    ],
+    "level": "C2",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": true,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "All",
+        "plural": null
+      },
+      "accusative": {
+        "singular": "All",
+        "plural": null
+      },
+      "dative": {
+        "singular": "All",
+        "plural": null
+      },
+      "genitive": {
+        "singular": "Alls",
+        "plural": null
+      }
+    }
+  },
+  {
+    "lemma": "Allee",
+    "type": "noun",
+    "translations": [
+      "avenue",
+      "alley",
+      "boulevard",
+      "parkway",
+      "tree-lined walk"
+    ],
+    "level": "C2",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Allee",
+        "plural": "Alleen"
+      },
+      "accusative": {
+        "singular": "Allee",
+        "plural": "Alleen"
+      },
+      "dative": {
+        "singular": "Allee",
+        "plural": "Alleen"
+      },
+      "genitive": {
+        "singular": "Allee",
+        "plural": "Alleen"
+      }
+    }
+  },
+  {
+    "lemma": "allein",
+    "type": "adjective",
+    "translations": [
+      "alone"
+    ],
+    "level": "A1",
+    "predicativeOnly": true,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": true,
+    "notDeclinable": true,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": null
+      },
+      "accusative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": null
+      },
+      "dative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": null
+      },
+      "genitive": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": null
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": null
+      },
+      "accusative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": null
+      },
+      "dative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": null
+      },
+      "genitive": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": null
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": null
+      },
+      "accusative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": null
+      },
+      "dative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": null
+      },
+      "genitive": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": null
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": false,
+    "superlativeOnly": false,
+    "noComparative": false
+  },
+  {
+    "lemma": "Aller",
+    "type": "noun",
+    "level": "C2",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": true,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Aller",
+        "plural": null
+      },
+      "accusative": {
+        "singular": "Aller",
+        "plural": null
+      },
+      "dative": {
+        "singular": "Aller",
+        "plural": null
+      },
+      "genitive": {
+        "singular": "Aller",
+        "plural": null
+      }
+    }
+  },
+  {
+    "lemma": "Allergie",
+    "type": "noun",
+    "translations": [
+      "allergy",
+      "atopy"
+    ],
+    "level": "B1",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Allergie",
+        "plural": "Allergien"
+      },
+      "accusative": {
+        "singular": "Allergie",
+        "plural": "Allergien"
+      },
+      "dative": {
+        "singular": "Allergie",
+        "plural": "Allergien"
+      },
+      "genitive": {
+        "singular": "Allergie",
+        "plural": "Allergien"
+      }
+    }
+  },
+  {
+    "lemma": "allergischsten",
+    "type": "adjective",
+    "translations": [
+      "allergic"
+    ],
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "allergischster",
+        "f": "allergischste",
+        "n": "allergischstes",
+        "p": "allergischste"
+      },
+      "accusative": {
+        "m": "allergischsten",
+        "f": "allergischste",
+        "n": "allergischstes",
+        "p": "allergischste"
+      },
+      "dative": {
+        "m": "allergischstem",
+        "f": "allergischster",
+        "n": "allergischstem",
+        "p": "allergischsten"
+      },
+      "genitive": {
+        "m": "allergischsten",
+        "f": "allergischster",
+        "n": "allergischsten",
+        "p": "allergischster"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "allergischste",
+        "f": "allergischste",
+        "n": "allergischste",
+        "p": "allergischsten"
+      },
+      "accusative": {
+        "m": "allergischsten",
+        "f": "allergischste",
+        "n": "allergischste",
+        "p": "allergischsten"
+      },
+      "dative": {
+        "m": "allergischsten",
+        "f": "allergischsten",
+        "n": "allergischsten",
+        "p": "allergischsten"
+      },
+      "genitive": {
+        "m": "allergischsten",
+        "f": "allergischsten",
+        "n": "allergischsten",
+        "p": "allergischsten"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "allergischster",
+        "f": "allergischste",
+        "n": "allergischstes",
+        "p": "allergischsten"
+      },
+      "accusative": {
+        "m": "allergischsten",
+        "f": "allergischste",
+        "n": "allergischstes",
+        "p": "allergischsten"
+      },
+      "dative": {
+        "m": "allergischsten",
+        "f": "allergischsten",
+        "n": "allergischsten",
+        "p": "allergischsten"
+      },
+      "genitive": {
+        "m": "allergischsten",
+        "f": "allergischsten",
+        "n": "allergischsten",
+        "p": "allergischsten"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": true,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "allergischer",
+    "superlative": "am allergischsten"
+  },
+  {
+    "lemma": "allerschlimmsten",
+    "type": "adjective",
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "allerschlimmster",
+        "f": "allerschlimmste",
+        "n": "allerschlimmstes",
+        "p": "allerschlimmste"
+      },
+      "accusative": {
+        "m": "allerschlimmsten",
+        "f": "allerschlimmste",
+        "n": "allerschlimmstes",
+        "p": "allerschlimmste"
+      },
+      "dative": {
+        "m": "allerschlimmstem",
+        "f": "allerschlimmster",
+        "n": "allerschlimmstem",
+        "p": "allerschlimmsten"
+      },
+      "genitive": {
+        "m": "allerschlimmsten",
+        "f": "allerschlimmster",
+        "n": "allerschlimmsten",
+        "p": "allerschlimmster"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "allerschlimmste",
+        "f": "allerschlimmste",
+        "n": "allerschlimmste",
+        "p": "allerschlimmsten"
+      },
+      "accusative": {
+        "m": "allerschlimmsten",
+        "f": "allerschlimmste",
+        "n": "allerschlimmste",
+        "p": "allerschlimmsten"
+      },
+      "dative": {
+        "m": "allerschlimmsten",
+        "f": "allerschlimmsten",
+        "n": "allerschlimmsten",
+        "p": "allerschlimmsten"
+      },
+      "genitive": {
+        "m": "allerschlimmsten",
+        "f": "allerschlimmsten",
+        "n": "allerschlimmsten",
+        "p": "allerschlimmsten"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "allerschlimmster",
+        "f": "allerschlimmste",
+        "n": "allerschlimmstes",
+        "p": "allerschlimmsten"
+      },
+      "accusative": {
+        "m": "allerschlimmsten",
+        "f": "allerschlimmste",
+        "n": "allerschlimmstes",
+        "p": "allerschlimmsten"
+      },
+      "dative": {
+        "m": "allerschlimmsten",
+        "f": "allerschlimmsten",
+        "n": "allerschlimmsten",
+        "p": "allerschlimmsten"
+      },
+      "genitive": {
+        "m": "allerschlimmsten",
+        "f": "allerschlimmsten",
+        "n": "allerschlimmsten",
+        "p": "allerschlimmsten"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": true,
+    "superlativeOnly": true,
+    "noComparative": false,
+    "superlative": "am allerschlimmsten"
+  },
+  {
     "lemma": "Alligator",
     "type": "noun",
     "translations": [
@@ -1975,36 +5301,6 @@
     }
   },
   {
-    "lemma": "Amen",
-    "type": "noun",
-    "translations": [
-      "amen"
-    ],
-    "level": "C2",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Amen",
-        "plural": "Amen"
-      },
-      "accusative": {
-        "singular": "Amen",
-        "plural": "Amen"
-      },
-      "dative": {
-        "singular": "Amen",
-        "plural": "Amen"
-      },
-      "genitive": {
-        "singular": "Amens",
-        "plural": "Amen"
-      }
-    }
-  },
-  {
     "lemma": "Amerikanisch",
     "type": "noun",
     "translations": [
@@ -3236,6 +6532,51 @@
     "zuinfinitive": "anzuwidern"
   },
   {
+    "lemma": "an·wurzeln",
+    "type": "verb",
+    "translations": [
+      "take root",
+      "get rooted"
+    ],
+    "separable": true,
+    "present": {
+      "ich": "wurzele an",
+      "du": "wurzelst an",
+      "es": "wurzelt an",
+      "ihr": "wurzelt an",
+      "Sie": "wurzeln an"
+    },
+    "simple": {
+      "ich": "wurzelte an",
+      "du": "wurzeltest an",
+      "es": "wurzelte an",
+      "ihr": "wurzeltet an",
+      "Sie": "wurzelten an"
+    },
+    "conjunctive1": {
+      "ich": "wurzele an",
+      "du": "wurzelst an",
+      "es": "wurzele an",
+      "ihr": "wurzelt an",
+      "Sie": "wurzeln an"
+    },
+    "conjunctive2": {
+      "ich": "wurzelte an",
+      "du": "wurzeltest an",
+      "es": "wurzelte an",
+      "ihr": "wurzeltet an",
+      "Sie": "wurzelten an"
+    },
+    "imperative": {
+      "du": "wurzele du an",
+      "ihr": "wurzelt ihr an",
+      "Sie": "wurzeln Sie an"
+    },
+    "perfect": "angewurzelt",
+    "gerund": "anwurzelnd",
+    "zuinfinitive": "anzuwurzeln"
+  },
+  {
     "lemma": "Analysis",
     "type": "noun",
     "translations": [
@@ -4456,52 +7797,6 @@
     }
   },
   {
-    "lemma": "Angabe",
-    "type": "noun",
-    "translations": [
-      "declaration",
-      "specification",
-      "statement",
-      "information",
-      "serve",
-      "swank",
-      "allegation",
-      "boasting",
-      "bragging",
-      "description",
-      "designation",
-      "details",
-      "indication",
-      "inscription",
-      "instruction",
-      "service",
-      "showing-off"
-    ],
-    "level": "A2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Angabe",
-        "plural": "Angaben"
-      },
-      "accusative": {
-        "singular": "Angabe",
-        "plural": "Angaben"
-      },
-      "dative": {
-        "singular": "Angabe",
-        "plural": "Angaben"
-      },
-      "genitive": {
-        "singular": "Angabe",
-        "plural": "Angaben"
-      }
-    }
-  },
-  {
     "lemma": "Angeber",
     "type": "noun",
     "translations": [
@@ -4585,6 +7880,100 @@
         "plural": "Angebereien"
       }
     }
+  },
+  {
+    "lemma": "angebotsorientiert",
+    "type": "adjective",
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "angebotsorientierter",
+        "f": "angebotsorientierte",
+        "n": "angebotsorientiertes",
+        "p": "angebotsorientierte"
+      },
+      "accusative": {
+        "m": "angebotsorientierten",
+        "f": "angebotsorientierte",
+        "n": "angebotsorientiertes",
+        "p": "angebotsorientierte"
+      },
+      "dative": {
+        "m": "angebotsorientiertem",
+        "f": "angebotsorientierter",
+        "n": "angebotsorientiertem",
+        "p": "angebotsorientierten"
+      },
+      "genitive": {
+        "m": "angebotsorientierten",
+        "f": "angebotsorientierter",
+        "n": "angebotsorientierten",
+        "p": "angebotsorientierter"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "angebotsorientierte",
+        "f": "angebotsorientierte",
+        "n": "angebotsorientierte",
+        "p": "angebotsorientierten"
+      },
+      "accusative": {
+        "m": "angebotsorientierten",
+        "f": "angebotsorientierte",
+        "n": "angebotsorientierte",
+        "p": "angebotsorientierten"
+      },
+      "dative": {
+        "m": "angebotsorientierten",
+        "f": "angebotsorientierten",
+        "n": "angebotsorientierten",
+        "p": "angebotsorientierten"
+      },
+      "genitive": {
+        "m": "angebotsorientierten",
+        "f": "angebotsorientierten",
+        "n": "angebotsorientierten",
+        "p": "angebotsorientierten"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "angebotsorientierter",
+        "f": "angebotsorientierte",
+        "n": "angebotsorientiertes",
+        "p": "angebotsorientierten"
+      },
+      "accusative": {
+        "m": "angebotsorientierten",
+        "f": "angebotsorientierte",
+        "n": "angebotsorientiertes",
+        "p": "angebotsorientierten"
+      },
+      "dative": {
+        "m": "angebotsorientierten",
+        "f": "angebotsorientierten",
+        "n": "angebotsorientierten",
+        "p": "angebotsorientierten"
+      },
+      "genitive": {
+        "m": "angebotsorientierten",
+        "f": "angebotsorientierten",
+        "n": "angebotsorientierten",
+        "p": "angebotsorientierten"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": false,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "angebotsorientierter",
+    "superlative": "am angebotsorientiertesten"
   },
   {
     "lemma": "angebotsorientierter",
@@ -5338,6 +8727,43 @@
     "noComparative": false,
     "comparative": "angeknackster",
     "superlative": "am angeknackstesten"
+  },
+  {
+    "lemma": "Angel",
+    "type": "noun",
+    "translations": [
+      "fishing pole",
+      "fishing rod",
+      "hinge",
+      "pivot",
+      "fishing-rod",
+      "fishing-rod and line",
+      "handle-end",
+      "tang"
+    ],
+    "level": "B2",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Angel",
+        "plural": "Angeln"
+      },
+      "accusative": {
+        "singular": "Angel",
+        "plural": "Angeln"
+      },
+      "dative": {
+        "singular": "Angel",
+        "plural": "Angeln"
+      },
+      "genitive": {
+        "singular": "Angel",
+        "plural": "Angeln"
+      }
+    }
   },
   {
     "lemma": "Angelegenheit",
@@ -6286,41 +9712,6 @@
       "genitive": {
         "singular": "Angreifers",
         "plural": "Angreifer"
-      }
-    }
-  },
-  {
-    "lemma": "Angriff",
-    "type": "noun",
-    "translations": [
-      "attack",
-      "offensive",
-      "assault",
-      "forwards",
-      "offense",
-      "onset"
-    ],
-    "level": "B2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Angriff",
-        "plural": "Angriffe"
-      },
-      "accusative": {
-        "singular": "Angriff",
-        "plural": "Angriffe"
-      },
-      "dative": {
-        "singular": "Angriff",
-        "plural": "Angriffen"
-      },
-      "genitive": {
-        "singular": "Angriffes",
-        "plural": "Angriffe"
       }
     }
   },
@@ -7359,6 +10750,55 @@
       "genitive": {
         "singular": "Anhaltspunktes",
         "plural": "Anhaltspunkte"
+      }
+    }
+  },
+  {
+    "lemma": "Anhang",
+    "type": "noun",
+    "translations": [
+      "attachment",
+      "appendix",
+      "addendum",
+      "addition",
+      "affix",
+      "annex",
+      "annexe",
+      "appendage",
+      "appendant",
+      "codicil",
+      "dependants",
+      "dependents",
+      "email attachment",
+      "family",
+      "fans",
+      "followers",
+      "notes",
+      "rider",
+      "schedule",
+      "subjoinder"
+    ],
+    "level": "B1",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Anhang",
+        "plural": "Anhänge"
+      },
+      "accusative": {
+        "singular": "Anhang",
+        "plural": "Anhänge"
+      },
+      "dative": {
+        "singular": "Anhang",
+        "plural": "Anhängen"
+      },
+      "genitive": {
+        "singular": "Anhanges",
+        "plural": "Anhänge"
       }
     }
   },
@@ -8488,105 +11928,6 @@
     }
   },
   {
-    "lemma": "anpassungsfähiger",
-    "type": "adjective",
-    "translations": [
-      "adaptable",
-      "flexible"
-    ],
-    "level": "B2",
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "anpassungsfähigerer",
-        "f": "anpassungsfähigere",
-        "n": "anpassungsfähigeres",
-        "p": "anpassungsfähigere"
-      },
-      "accusative": {
-        "m": "anpassungsfähigeren",
-        "f": "anpassungsfähigere",
-        "n": "anpassungsfähigeres",
-        "p": "anpassungsfähigere"
-      },
-      "dative": {
-        "m": "anpassungsfähigerem",
-        "f": "anpassungsfähigerer",
-        "n": "anpassungsfähigerem",
-        "p": "anpassungsfähigeren"
-      },
-      "genitive": {
-        "m": "anpassungsfähigeren",
-        "f": "anpassungsfähigerer",
-        "n": "anpassungsfähigeren",
-        "p": "anpassungsfähigerer"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "anpassungsfähigere",
-        "f": "anpassungsfähigere",
-        "n": "anpassungsfähigere",
-        "p": "anpassungsfähigeren"
-      },
-      "accusative": {
-        "m": "anpassungsfähigeren",
-        "f": "anpassungsfähigere",
-        "n": "anpassungsfähigere",
-        "p": "anpassungsfähigeren"
-      },
-      "dative": {
-        "m": "anpassungsfähigeren",
-        "f": "anpassungsfähigeren",
-        "n": "anpassungsfähigeren",
-        "p": "anpassungsfähigeren"
-      },
-      "genitive": {
-        "m": "anpassungsfähigeren",
-        "f": "anpassungsfähigeren",
-        "n": "anpassungsfähigeren",
-        "p": "anpassungsfähigeren"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "anpassungsfähigerer",
-        "f": "anpassungsfähigere",
-        "n": "anpassungsfähigeres",
-        "p": "anpassungsfähigeren"
-      },
-      "accusative": {
-        "m": "anpassungsfähigeren",
-        "f": "anpassungsfähigere",
-        "n": "anpassungsfähigeres",
-        "p": "anpassungsfähigeren"
-      },
-      "dative": {
-        "m": "anpassungsfähigeren",
-        "f": "anpassungsfähigeren",
-        "n": "anpassungsfähigeren",
-        "p": "anpassungsfähigeren"
-      },
-      "genitive": {
-        "m": "anpassungsfähigeren",
-        "f": "anpassungsfähigeren",
-        "n": "anpassungsfähigeren",
-        "p": "anpassungsfähigeren"
-      }
-    },
-    "isComparative": true,
-    "isSuperlative": false,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "anpassungsfähiger",
-    "superlative": "am anpassungsfähigsten"
-  },
-  {
     "lemma": "Anprobe",
     "type": "noun",
     "translations": [
@@ -8685,82 +12026,6 @@
       "genitive": {
         "singular": "Anrede",
         "plural": "Anreden"
-      }
-    }
-  },
-  {
-    "lemma": "Anregung",
-    "type": "noun",
-    "translations": [
-      "stimulus",
-      "excitation",
-      "encouragement",
-      "stimulation",
-      "suggestion",
-      "animation",
-      "challenge",
-      "fillip",
-      "idea",
-      "incitation",
-      "incitement",
-      "motivation",
-      "proposal"
-    ],
-    "level": "C2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Anregung",
-        "plural": "Anregungen"
-      },
-      "accusative": {
-        "singular": "Anregung",
-        "plural": "Anregungen"
-      },
-      "dative": {
-        "singular": "Anregung",
-        "plural": "Anregungen"
-      },
-      "genitive": {
-        "singular": "Anregung",
-        "plural": "Anregungen"
-      }
-    }
-  },
-  {
-    "lemma": "Anrichte",
-    "type": "noun",
-    "translations": [
-      "sideboard",
-      "buffet",
-      "credenza",
-      "dresser",
-      "pantry"
-    ],
-    "level": "C2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Anrichte",
-        "plural": "Anrichten"
-      },
-      "accusative": {
-        "singular": "Anrichte",
-        "plural": "Anrichten"
-      },
-      "dative": {
-        "singular": "Anrichte",
-        "plural": "Anrichten"
-      },
-      "genitive": {
-        "singular": "Anrichte",
-        "plural": "Anrichten"
       }
     }
   },
@@ -9121,51 +12386,6 @@
       "genitive": {
         "singular": "Anschlages",
         "plural": "Anschläge"
-      }
-    }
-  },
-  {
-    "lemma": "Anschluss",
-    "type": "noun",
-    "translations": [
-      "connection",
-      "annexation",
-      "connexion",
-      "contact",
-      "access",
-      "affiliation",
-      "alignment",
-      "attachment",
-      "branch connection",
-      "communications",
-      "continuity",
-      "extension",
-      "hookup",
-      "lead-out",
-      "link-up",
-      "pin"
-    ],
-    "level": "A1",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Anschluss",
-        "plural": "Anschlüsse"
-      },
-      "accusative": {
-        "singular": "Anschluss",
-        "plural": "Anschlüsse"
-      },
-      "dative": {
-        "singular": "Anschluss",
-        "plural": "Anschlüssen"
-      },
-      "genitive": {
-        "singular": "Anschlusses",
-        "plural": "Anschlüsse"
       }
     }
   },
@@ -9685,48 +12905,6 @@
     }
   },
   {
-    "lemma": "Anstand",
-    "type": "noun",
-    "translations": [
-      "decency",
-      "decorum",
-      "propriety",
-      "blind",
-      "hide",
-      "integrity",
-      "manners",
-      "modesty",
-      "pudicity",
-      "raised blind",
-      "raised hide",
-      "seemliness",
-      "sense of decency"
-    ],
-    "level": "C1",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Anstand",
-        "plural": "Anstände"
-      },
-      "accusative": {
-        "singular": "Anstand",
-        "plural": "Anstände"
-      },
-      "dative": {
-        "singular": "Anstand",
-        "plural": "Anständen"
-      },
-      "genitive": {
-        "singular": "Anstandes",
-        "plural": "Anstände"
-      }
-    }
-  },
-  {
     "lemma": "anständigsten",
     "type": "adjective",
     "translations": [
@@ -9853,51 +13031,6 @@
       "genitive": {
         "singular": "Ansteckers",
         "plural": "Anstecker"
-      }
-    }
-  },
-  {
-    "lemma": "Anstieg",
-    "type": "noun",
-    "translations": [
-      "rise",
-      "ascent",
-      "increase",
-      "incline",
-      "slope",
-      "boost",
-      "build-up",
-      "buildup",
-      "gain",
-      "hike",
-      "jump",
-      "rising",
-      "step-up",
-      "surge",
-      "upgrade",
-      "uphill stretch"
-    ],
-    "level": "B2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Anstieg",
-        "plural": "Anstiege"
-      },
-      "accusative": {
-        "singular": "Anstieg",
-        "plural": "Anstiege"
-      },
-      "dative": {
-        "singular": "Anstieg",
-        "plural": "Anstiegen"
-      },
-      "genitive": {
-        "singular": "Anstieges",
-        "plural": "Anstiege"
       }
     }
   },
@@ -10246,39 +13379,6 @@
     }
   },
   {
-    "lemma": "Antenne",
-    "type": "noun",
-    "translations": [
-      "antenna",
-      "aerial",
-      "feeler",
-      "feeling"
-    ],
-    "level": "C2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Antenne",
-        "plural": "Antennen"
-      },
-      "accusative": {
-        "singular": "Antenne",
-        "plural": "Antennen"
-      },
-      "dative": {
-        "singular": "Antenne",
-        "plural": "Antennen"
-      },
-      "genitive": {
-        "singular": "Antenne",
-        "plural": "Antennen"
-      }
-    }
-  },
-  {
     "lemma": "Anthologie",
     "type": "noun",
     "translations": [
@@ -10568,6 +13668,37 @@
       "genitive": {
         "singular": "Antihistaminikums",
         "plural": "Antihistaminika"
+      }
+    }
+  },
+  {
+    "lemma": "Antike",
+    "type": "noun",
+    "translations": [
+      "antiquity",
+      "ancient world"
+    ],
+    "level": "B1",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Antike",
+        "plural": "Antiken"
+      },
+      "accusative": {
+        "singular": "Antike",
+        "plural": "Antiken"
+      },
+      "dative": {
+        "singular": "Antike",
+        "plural": "Antiken"
+      },
+      "genitive": {
+        "singular": "Antike",
+        "plural": "Antiken"
       }
     }
   },
@@ -11425,6 +14556,52 @@
     }
   },
   {
+    "lemma": "Anzeige",
+    "type": "noun",
+    "translations": [
+      "advertisement",
+      "announcement",
+      "display",
+      "notification",
+      "report",
+      "notice",
+      "ad",
+      "advert",
+      "advice",
+      "annunciation",
+      "charge",
+      "gage",
+      "gauge",
+      "information",
+      "scale",
+      "signal",
+      "signaling"
+    ],
+    "level": "A1",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Anzeige",
+        "plural": "Anzeigen"
+      },
+      "accusative": {
+        "singular": "Anzeige",
+        "plural": "Anzeigen"
+      },
+      "dative": {
+        "singular": "Anzeige",
+        "plural": "Anzeigen"
+      },
+      "genitive": {
+        "singular": "Anzeige",
+        "plural": "Anzeigen"
+      }
+    }
+  },
+  {
     "lemma": "Anzeigetafel",
     "type": "noun",
     "translations": [
@@ -12126,40 +15303,6 @@
       "genitive": {
         "singular": "Apolls",
         "plural": "Apolls"
-      }
-    }
-  },
-  {
-    "lemma": "Apotheke",
-    "type": "noun",
-    "translations": [
-      "pharmacy",
-      "drugstore",
-      "chemists shop",
-      "apothecary",
-      "chemists"
-    ],
-    "level": "A1",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Apotheke",
-        "plural": "Apotheken"
-      },
-      "accusative": {
-        "singular": "Apotheke",
-        "plural": "Apotheken"
-      },
-      "dative": {
-        "singular": "Apotheke",
-        "plural": "Apotheken"
-      },
-      "genitive": {
-        "singular": "Apotheke",
-        "plural": "Apotheken"
       }
     }
   },
@@ -14381,6 +17524,106 @@
     }
   },
   {
+    "lemma": "ärger",
+    "type": "adjective",
+    "translations": [
+      "bad",
+      "much",
+      "very"
+    ],
+    "level": "B2",
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "ärgerer",
+        "f": "ärgere",
+        "n": "ärgeres",
+        "p": "ärgere"
+      },
+      "accusative": {
+        "m": "ärgeren",
+        "f": "ärgere",
+        "n": "ärgeres",
+        "p": "ärgere"
+      },
+      "dative": {
+        "m": "ärgerem",
+        "f": "ärgerer",
+        "n": "ärgerem",
+        "p": "ärgeren"
+      },
+      "genitive": {
+        "m": "ärgeren",
+        "f": "ärgerer",
+        "n": "ärgeren",
+        "p": "ärgerer"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "ärgere",
+        "f": "ärgere",
+        "n": "ärgere",
+        "p": "ärgeren"
+      },
+      "accusative": {
+        "m": "ärgeren",
+        "f": "ärgere",
+        "n": "ärgere",
+        "p": "ärgeren"
+      },
+      "dative": {
+        "m": "ärgeren",
+        "f": "ärgeren",
+        "n": "ärgeren",
+        "p": "ärgeren"
+      },
+      "genitive": {
+        "m": "ärgeren",
+        "f": "ärgeren",
+        "n": "ärgeren",
+        "p": "ärgeren"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "ärgerer",
+        "f": "ärgere",
+        "n": "ärgeres",
+        "p": "ärgeren"
+      },
+      "accusative": {
+        "m": "ärgeren",
+        "f": "ärgere",
+        "n": "ärgeres",
+        "p": "ärgeren"
+      },
+      "dative": {
+        "m": "ärgeren",
+        "f": "ärgeren",
+        "n": "ärgeren",
+        "p": "ärgeren"
+      },
+      "genitive": {
+        "m": "ärgeren",
+        "f": "ärgeren",
+        "n": "ärgeren",
+        "p": "ärgeren"
+      }
+    },
+    "isComparative": true,
+    "isSuperlative": false,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "ärger",
+    "superlative": "am ärgsten"
+  },
+  {
     "lemma": "arglistigsten",
     "type": "adjective",
     "translations": [
@@ -14476,37 +17719,6 @@
     "noComparative": false,
     "comparative": "arglistiger",
     "superlative": "am arglistigsten"
-  },
-  {
-    "lemma": "Argument",
-    "type": "noun",
-    "translations": [
-      "argument",
-      "point"
-    ],
-    "level": "B1",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Argument",
-        "plural": "Argumente"
-      },
-      "accusative": {
-        "singular": "Argument",
-        "plural": "Argumente"
-      },
-      "dative": {
-        "singular": "Argument",
-        "plural": "Argumenten"
-      },
-      "genitive": {
-        "singular": "Argumentes",
-        "plural": "Argumente"
-      }
-    }
   },
   {
     "lemma": "Argumentation",
@@ -15243,37 +18455,6 @@
       "genitive": {
         "singular": "Armgelenkes",
         "plural": "Armgelenke"
-      }
-    }
-  },
-  {
-    "lemma": "Armlänge",
-    "type": "noun",
-    "translations": [
-      "arms length",
-      "arm length",
-      "sleeve length"
-    ],
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Armlänge",
-        "plural": "Armlängen"
-      },
-      "accusative": {
-        "singular": "Armlänge",
-        "plural": "Armlängen"
-      },
-      "dative": {
-        "singular": "Armlänge",
-        "plural": "Armlängen"
-      },
-      "genitive": {
-        "singular": "Armlänge",
-        "plural": "Armlängen"
       }
     }
   },
@@ -16543,6 +19724,66 @@
       "genitive": {
         "singular": "Ärztin",
         "plural": "Ärztinnen"
+      }
+    }
+  },
+  {
+    "lemma": "As",
+    "type": "noun",
+    "translations": [
+      "as"
+    ],
+    "level": "C2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "As",
+        "plural": "Asse"
+      },
+      "accusative": {
+        "singular": "As",
+        "plural": "Asse"
+      },
+      "dative": {
+        "singular": "As",
+        "plural": "Assen"
+      },
+      "genitive": {
+        "singular": "Asses",
+        "plural": "Asse"
+      }
+    }
+  },
+  {
+    "lemma": "As",
+    "type": "noun",
+    "translations": [
+      "A flat"
+    ],
+    "level": "C2",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "As",
+        "plural": "As"
+      },
+      "accusative": {
+        "singular": "As",
+        "plural": "As"
+      },
+      "dative": {
+        "singular": "As",
+        "plural": "As"
+      },
+      "genitive": {
+        "singular": "As",
+        "plural": "As"
       }
     }
   },
@@ -18234,39 +21475,6 @@
     }
   },
   {
-    "lemma": "Atlas",
-    "type": "noun",
-    "translations": [
-      "atlas",
-      "Atlas",
-      "Atlas Mountains",
-      "sateen"
-    ],
-    "level": "C2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Atlas",
-        "plural": "Atlasse"
-      },
-      "accusative": {
-        "singular": "Atlas",
-        "plural": "Atlasse"
-      },
-      "dative": {
-        "singular": "Atlas",
-        "plural": "Atlassen"
-      },
-      "genitive": {
-        "singular": "Atlas",
-        "plural": "Atlasse"
-      }
-    }
-  },
-  {
     "lemma": "Atmosphäre",
     "type": "noun",
     "translations": [
@@ -18427,36 +21635,6 @@
     "noComparative": false,
     "comparative": "atmungsaktiver",
     "superlative": "am atmungsaktivsten"
-  },
-  {
-    "lemma": "Atom",
-    "type": "noun",
-    "translations": [
-      "atom"
-    ],
-    "level": "C2",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Atom",
-        "plural": "Atome"
-      },
-      "accusative": {
-        "singular": "Atom",
-        "plural": "Atome"
-      },
-      "dative": {
-        "singular": "Atom",
-        "plural": "Atomen"
-      },
-      "genitive": {
-        "singular": "Atoms",
-        "plural": "Atome"
-      }
-    }
   },
   {
     "lemma": "Atommodell",
@@ -19032,54 +22210,6 @@
     "perfect": "aufbehalten",
     "gerund": "aufbehaltend",
     "zuinfinitive": "aufzubehalten"
-  },
-  {
-    "lemma": "auf·binden",
-    "type": "verb",
-    "translations": [
-      "loose",
-      "turn up",
-      "undo",
-      "unlace",
-      "untie"
-    ],
-    "separable": true,
-    "present": {
-      "ich": "binde auf",
-      "du": "bindest auf",
-      "es": "bindet auf",
-      "ihr": "bindet auf",
-      "Sie": "binden auf"
-    },
-    "simple": {
-      "ich": "band auf",
-      "du": "bandest auf",
-      "es": "band auf",
-      "ihr": "bandet auf",
-      "Sie": "banden auf"
-    },
-    "conjunctive1": {
-      "ich": "binde auf",
-      "du": "bindest auf",
-      "es": "binde auf",
-      "ihr": "bindet auf",
-      "Sie": "binden auf"
-    },
-    "conjunctive2": {
-      "ich": "bände auf",
-      "du": "bändest auf",
-      "es": "bände auf",
-      "ihr": "bändet auf",
-      "Sie": "bänden auf"
-    },
-    "imperative": {
-      "du": "binde du auf",
-      "ihr": "bindet ihr auf",
-      "Sie": "binden Sie auf"
-    },
-    "perfect": "aufgebunden",
-    "gerund": "aufbindend",
-    "zuinfinitive": "aufzubinden"
   },
   {
     "lemma": "auf·brausen",
@@ -22695,6 +25825,40 @@
     }
   },
   {
+    "lemma": "Aufschrei",
+    "type": "noun",
+    "translations": [
+      "outcry",
+      "scream",
+      "exclamation",
+      "shriek",
+      "yelp"
+    ],
+    "level": "C2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Aufschrei",
+        "plural": "Aufschreie"
+      },
+      "accusative": {
+        "singular": "Aufschrei",
+        "plural": "Aufschreie"
+      },
+      "dative": {
+        "singular": "Aufschrei",
+        "plural": "Aufschreien"
+      },
+      "genitive": {
+        "singular": "Aufschreies",
+        "plural": "Aufschreie"
+      }
+    }
+  },
+  {
     "lemma": "Aufschrift",
     "type": "noun",
     "translations": [
@@ -22767,40 +25931,6 @@
       "genitive": {
         "singular": "Aufschubes",
         "plural": "Aufschübe"
-      }
-    }
-  },
-  {
-    "lemma": "Aufsehen",
-    "type": "noun",
-    "translations": [
-      "furor",
-      "furore",
-      "sensation",
-      "civil commotion",
-      "splash"
-    ],
-    "level": "B2",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": true,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Aufsehen",
-        "plural": null
-      },
-      "accusative": {
-        "singular": "Aufsehen",
-        "plural": null
-      },
-      "dative": {
-        "singular": "Aufsehen",
-        "plural": null
-      },
-      "genitive": {
-        "singular": "Aufsehens",
-        "plural": null
       }
     }
   },
@@ -22936,48 +26066,6 @@
     }
   },
   {
-    "lemma": "Aufstieg",
-    "type": "noun",
-    "translations": [
-      "ascent",
-      "rise",
-      "climb",
-      "advancement",
-      "ascension",
-      "promotion",
-      "aggrandisement",
-      "aggrandizement",
-      "ascendency",
-      "step",
-      "steps",
-      "upgrade",
-      "uplift"
-    ],
-    "level": "C2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Aufstieg",
-        "plural": "Aufstiege"
-      },
-      "accusative": {
-        "singular": "Aufstieg",
-        "plural": "Aufstiege"
-      },
-      "dative": {
-        "singular": "Aufstieg",
-        "plural": "Aufstiegen"
-      },
-      "genitive": {
-        "singular": "Aufstieges",
-        "plural": "Aufstiege"
-      }
-    }
-  },
-  {
     "lemma": "Aufstiegsmöglichkeit",
     "type": "noun",
     "translations": [
@@ -23052,46 +26140,6 @@
       "genitive": {
         "singular": "Aufteilung",
         "plural": "Aufteilungen"
-      }
-    }
-  },
-  {
-    "lemma": "Auftreten",
-    "type": "noun",
-    "translations": [
-      "occurrence",
-      "appearance",
-      "behavior",
-      "behaviour",
-      "conduct",
-      "air",
-      "demeanor",
-      "demeanour",
-      "incidence",
-      "manner",
-      "outbreak"
-    ],
-    "level": "B2",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": true,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Auftreten",
-        "plural": null
-      },
-      "accusative": {
-        "singular": "Auftreten",
-        "plural": null
-      },
-      "dative": {
-        "singular": "Auftreten",
-        "plural": null
-      },
-      "genitive": {
-        "singular": "Auftretens",
-        "plural": null
       }
     }
   },
@@ -23296,6 +26344,36 @@
       "genitive": {
         "singular": "Aufwartung",
         "plural": "Aufwartungen"
+      }
+    }
+  },
+  {
+    "lemma": "Aufwuchs",
+    "type": "noun",
+    "translations": [
+      "growth",
+      "aufwuchs"
+    ],
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Aufwuchs",
+        "plural": "Aufwüchse"
+      },
+      "accusative": {
+        "singular": "Aufwuchs",
+        "plural": "Aufwüchse"
+      },
+      "dative": {
+        "singular": "Aufwuchs",
+        "plural": "Aufwüchsen"
+      },
+      "genitive": {
+        "singular": "Aufwuchses",
+        "plural": "Aufwüchse"
       }
     }
   },
@@ -24710,6 +27788,50 @@
     "zuinfinitive": "auszuheulen"
   },
   {
+    "lemma": "aus·klügeln",
+    "type": "verb",
+    "translations": [
+      "contrive"
+    ],
+    "separable": true,
+    "present": {
+      "ich": "klügele aus",
+      "du": "klügelst aus",
+      "es": "klügelt aus",
+      "ihr": "klügelt aus",
+      "Sie": "klügeln aus"
+    },
+    "simple": {
+      "ich": "klügelte aus",
+      "du": "klügeltest aus",
+      "es": "klügelte aus",
+      "ihr": "klügeltet aus",
+      "Sie": "klügelten aus"
+    },
+    "conjunctive1": {
+      "ich": "klügele aus",
+      "du": "klügelst aus",
+      "es": "klügele aus",
+      "ihr": "klügelt aus",
+      "Sie": "klügeln aus"
+    },
+    "conjunctive2": {
+      "ich": "klügelte aus",
+      "du": "klügeltest aus",
+      "es": "klügelte aus",
+      "ihr": "klügeltet aus",
+      "Sie": "klügelten aus"
+    },
+    "imperative": {
+      "du": "klügele du aus",
+      "ihr": "klügelt ihr aus",
+      "Sie": "klügeln Sie aus"
+    },
+    "perfect": "ausgeklügelt",
+    "gerund": "ausklügelnd",
+    "zuinfinitive": "auszuklügeln"
+  },
+  {
     "lemma": "aus·knobeln",
     "type": "verb",
     "translations": [
@@ -25080,6 +28202,52 @@
     "zuinfinitive": "auszuwickeln"
   },
   {
+    "lemma": "aus·zehren",
+    "type": "verb",
+    "translations": [
+      "emaciate",
+      "deplete",
+      "etiolate"
+    ],
+    "separable": true,
+    "present": {
+      "ich": "zehre aus",
+      "du": "zehrst aus",
+      "es": "zehrt aus",
+      "ihr": "zehrt aus",
+      "Sie": "zehren aus"
+    },
+    "simple": {
+      "ich": "zehrte aus",
+      "du": "zehrtest aus",
+      "es": "zehrte aus",
+      "ihr": "zehrtet aus",
+      "Sie": "zehrten aus"
+    },
+    "conjunctive1": {
+      "ich": "zehre aus",
+      "du": "zehrest aus",
+      "es": "zehre aus",
+      "ihr": "zehret aus",
+      "Sie": "zehren aus"
+    },
+    "conjunctive2": {
+      "ich": "zehrte aus",
+      "du": "zehrtest aus",
+      "es": "zehrte aus",
+      "ihr": "zehrtet aus",
+      "Sie": "zehrten aus"
+    },
+    "imperative": {
+      "du": "zehre du aus",
+      "ihr": "zehrt ihr aus",
+      "Sie": "zehren Sie aus"
+    },
+    "perfect": "ausgezehrt",
+    "gerund": "auszehrend",
+    "zuinfinitive": "auszuzehren"
+  },
+  {
     "lemma": "Ausarbeitung",
     "type": "noun",
     "translations": [
@@ -25113,86 +28281,6 @@
       "genitive": {
         "singular": "Ausarbeitung",
         "plural": "Ausarbeitungen"
-      }
-    }
-  },
-  {
-    "lemma": "Ausbau",
-    "type": "noun",
-    "translations": [
-      "extension",
-      "removal",
-      "dismantling",
-      "expansion",
-      "annex",
-      "annexe",
-      "build-up",
-      "building up",
-      "buildup",
-      "consolidation",
-      "conversion",
-      "cribbing",
-      "cultivation",
-      "development",
-      "disassembling",
-      "disassembly",
-      "dismantlement",
-      "finishes",
-      "finishings",
-      "roll-out"
-    ],
-    "level": "B2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Ausbau",
-        "plural": "Ausbauten"
-      },
-      "accusative": {
-        "singular": "Ausbau",
-        "plural": "Ausbauten"
-      },
-      "dative": {
-        "singular": "Ausbau",
-        "plural": "Ausbauten"
-      },
-      "genitive": {
-        "singular": "Ausbaues",
-        "plural": "Ausbauten"
-      }
-    }
-  },
-  {
-    "lemma": "Ausbildungsplatz",
-    "type": "noun",
-    "translations": [
-      "apprentice position",
-      "training place"
-    ],
-    "level": "B1",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Ausbildungsplatz",
-        "plural": "Ausbildungsplätze"
-      },
-      "accusative": {
-        "singular": "Ausbildungsplatz",
-        "plural": "Ausbildungsplätze"
-      },
-      "dative": {
-        "singular": "Ausbildungsplatz",
-        "plural": "Ausbildungsplätzen"
-      },
-      "genitive": {
-        "singular": "Ausbildungsplatzes",
-        "plural": "Ausbildungsplätze"
       }
     }
   },
@@ -28233,40 +31321,6 @@
     }
   },
   {
-    "lemma": "Ausrede",
-    "type": "noun",
-    "translations": [
-      "pretext",
-      "excuse",
-      "alibi",
-      "plea",
-      "subterfuge"
-    ],
-    "level": "A2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Ausrede",
-        "plural": "Ausreden"
-      },
-      "accusative": {
-        "singular": "Ausrede",
-        "plural": "Ausreden"
-      },
-      "dative": {
-        "singular": "Ausrede",
-        "plural": "Ausreden"
-      },
-      "genitive": {
-        "singular": "Ausrede",
-        "plural": "Ausreden"
-      }
-    }
-  },
-  {
     "lemma": "Ausreise",
     "type": "noun",
     "translations": [
@@ -28998,105 +32052,6 @@
     "noComparative": false,
     "comparative": "außerirdischer",
     "superlative": "am außerirdischsten"
-  },
-  {
-    "lemma": "äußerlicher",
-    "type": "adjective",
-    "translations": [
-      "external",
-      "outward"
-    ],
-    "level": "B1",
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "äußerlicherer",
-        "f": "äußerlichere",
-        "n": "äußerlicheres",
-        "p": "äußerlichere"
-      },
-      "accusative": {
-        "m": "äußerlicheren",
-        "f": "äußerlichere",
-        "n": "äußerlicheres",
-        "p": "äußerlichere"
-      },
-      "dative": {
-        "m": "äußerlicherem",
-        "f": "äußerlicherer",
-        "n": "äußerlicherem",
-        "p": "äußerlicheren"
-      },
-      "genitive": {
-        "m": "äußerlicheren",
-        "f": "äußerlicherer",
-        "n": "äußerlicheren",
-        "p": "äußerlicherer"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "äußerlichere",
-        "f": "äußerlichere",
-        "n": "äußerlichere",
-        "p": "äußerlicheren"
-      },
-      "accusative": {
-        "m": "äußerlicheren",
-        "f": "äußerlichere",
-        "n": "äußerlichere",
-        "p": "äußerlicheren"
-      },
-      "dative": {
-        "m": "äußerlicheren",
-        "f": "äußerlicheren",
-        "n": "äußerlicheren",
-        "p": "äußerlicheren"
-      },
-      "genitive": {
-        "m": "äußerlicheren",
-        "f": "äußerlicheren",
-        "n": "äußerlicheren",
-        "p": "äußerlicheren"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "äußerlicherer",
-        "f": "äußerlichere",
-        "n": "äußerlicheres",
-        "p": "äußerlicheren"
-      },
-      "accusative": {
-        "m": "äußerlicheren",
-        "f": "äußerlichere",
-        "n": "äußerlicheres",
-        "p": "äußerlicheren"
-      },
-      "dative": {
-        "m": "äußerlicheren",
-        "f": "äußerlicheren",
-        "n": "äußerlicheren",
-        "p": "äußerlicheren"
-      },
-      "genitive": {
-        "m": "äußerlicheren",
-        "f": "äußerlicheren",
-        "n": "äußerlicheren",
-        "p": "äußerlicheren"
-      }
-    },
-    "isComparative": true,
-    "isSuperlative": false,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "äußerlicher",
-    "superlative": "am äußerlichsten"
   },
   {
     "lemma": "äußerlichsten",
@@ -30160,40 +33115,6 @@
       "genitive": {
         "singular": "Auswuchses",
         "plural": "Auswüchse"
-      }
-    }
-  },
-  {
-    "lemma": "Auszeit",
-    "type": "noun",
-    "translations": [
-      "time out",
-      "time-out",
-      "timeout",
-      "downtime",
-      "hiatus"
-    ],
-    "level": "B2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Auszeit",
-        "plural": "Auszeiten"
-      },
-      "accusative": {
-        "singular": "Auszeit",
-        "plural": "Auszeiten"
-      },
-      "dative": {
-        "singular": "Auszeit",
-        "plural": "Auszeiten"
-      },
-      "genitive": {
-        "singular": "Auszeit",
-        "plural": "Auszeiten"
       }
     }
   },
@@ -31280,40 +34201,6 @@
     "zuinfinitive": "zu babbeln"
   },
   {
-    "lemma": "Baby",
-    "type": "noun",
-    "translations": [
-      "infant",
-      "baby",
-      "babe",
-      "bub",
-      "child"
-    ],
-    "level": "A1",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Baby",
-        "plural": "Babys"
-      },
-      "accusative": {
-        "singular": "Baby",
-        "plural": "Babys"
-      },
-      "dative": {
-        "singular": "Baby",
-        "plural": "Babys"
-      },
-      "genitive": {
-        "singular": "Babys",
-        "plural": "Babys"
-      }
-    }
-  },
-  {
     "lemma": "Babynahrung",
     "type": "noun",
     "translations": [
@@ -31474,6 +34361,71 @@
       "genitive": {
         "singular": "Bachelors",
         "plural": "Bachelor"
+      }
+    }
+  },
+  {
+    "lemma": "Back",
+    "type": "noun",
+    "translations": [
+      "bowl",
+      "dixie",
+      "forecastle",
+      "mess",
+      "mess table",
+      "mess-tin"
+    ],
+    "level": "C2",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Back",
+        "plural": "Backen"
+      },
+      "accusative": {
+        "singular": "Back",
+        "plural": "Backen"
+      },
+      "dative": {
+        "singular": "Back",
+        "plural": "Backen"
+      },
+      "genitive": {
+        "singular": "Back",
+        "plural": "Backen"
+      }
+    }
+  },
+  {
+    "lemma": "Back",
+    "type": "noun",
+    "translations": [
+      "defender"
+    ],
+    "level": "C2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Back",
+        "plural": "Backs"
+      },
+      "accusative": {
+        "singular": "Back",
+        "plural": "Backs"
+      },
+      "dative": {
+        "singular": "Back",
+        "plural": "Backs"
+      },
+      "genitive": {
+        "singular": "Backs",
+        "plural": "Backs"
       }
     }
   },
@@ -31877,45 +34829,6 @@
     }
   },
   {
-    "lemma": "Bad",
-    "type": "noun",
-    "translations": [
-      "bath",
-      "bathroom",
-      "spa",
-      "bathhouse",
-      "bathing",
-      "swimming pool",
-      "baths",
-      "beach establishment",
-      "dip",
-      "seaside resort"
-    ],
-    "level": "A1",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Bad",
-        "plural": "Bäder"
-      },
-      "accusative": {
-        "singular": "Bad",
-        "plural": "Bäder"
-      },
-      "dative": {
-        "singular": "Bad",
-        "plural": "Bädern"
-      },
-      "genitive": {
-        "singular": "Bades",
-        "plural": "Bäder"
-      }
-    }
-  },
-  {
     "lemma": "Badeanzug",
     "type": "noun",
     "translations": [
@@ -32258,6 +35171,68 @@
       "genitive": {
         "singular": "Badminton",
         "plural": "Badmintons"
+      }
+    }
+  },
+  {
+    "lemma": "Baguette",
+    "type": "noun",
+    "translations": [
+      "baguette",
+      "French stick"
+    ],
+    "level": "C2",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Baguette",
+        "plural": "Baguettes"
+      },
+      "accusative": {
+        "singular": "Baguette",
+        "plural": "Baguettes"
+      },
+      "dative": {
+        "singular": "Baguette",
+        "plural": "Baguettes"
+      },
+      "genitive": {
+        "singular": "Baguettes",
+        "plural": "Baguettes"
+      }
+    }
+  },
+  {
+    "lemma": "Baguette",
+    "type": "noun",
+    "translations": [
+      "baguette",
+      "French stick"
+    ],
+    "level": "C2",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Baguette",
+        "plural": "Baguetten"
+      },
+      "accusative": {
+        "singular": "Baguette",
+        "plural": "Baguetten"
+      },
+      "dative": {
+        "singular": "Baguette",
+        "plural": "Baguetten"
+      },
+      "genitive": {
+        "singular": "Baguette",
+        "plural": "Baguetten"
       }
     }
   },
@@ -32928,147 +35903,6 @@
     }
   },
   {
-    "lemma": "Banane",
-    "type": "noun",
-    "translations": [
-      "banana"
-    ],
-    "level": "A1",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Banane",
-        "plural": "Bananen"
-      },
-      "accusative": {
-        "singular": "Banane",
-        "plural": "Bananen"
-      },
-      "dative": {
-        "singular": "Banane",
-        "plural": "Bananen"
-      },
-      "genitive": {
-        "singular": "Banane",
-        "plural": "Bananen"
-      }
-    }
-  },
-  {
-    "lemma": "Band",
-    "type": "noun",
-    "translations": [
-      "band",
-      "ribbon",
-      "tie",
-      "bond",
-      "ligament",
-      "tape",
-      "hinge",
-      "hoop",
-      "apron string",
-      "belt",
-      "bondage",
-      "bonds",
-      "conveyor belt",
-      "fetters",
-      "hair ribbon",
-      "hatband",
-      "line",
-      "measuring tape",
-      "metal band",
-      "musik band"
-    ],
-    "level": "A1",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Band",
-        "plural": "Bänder"
-      },
-      "accusative": {
-        "singular": "Band",
-        "plural": "Bänder"
-      },
-      "dative": {
-        "singular": "Band",
-        "plural": "Bändern"
-      },
-      "genitive": {
-        "singular": "Bandes",
-        "plural": "Bänder"
-      }
-    }
-  },
-  {
-    "lemma": "Band",
-    "type": "noun",
-    "translations": [
-      "band",
-      "group"
-    ],
-    "level": "A1",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Band",
-        "plural": "Bands"
-      },
-      "accusative": {
-        "singular": "Band",
-        "plural": "Bands"
-      },
-      "dative": {
-        "singular": "Band",
-        "plural": "Bands"
-      },
-      "genitive": {
-        "singular": "Band",
-        "plural": "Bands"
-      }
-    }
-  },
-  {
-    "lemma": "Band",
-    "type": "noun",
-    "translations": [
-      "volume",
-      "tome"
-    ],
-    "level": "A1",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Band",
-        "plural": "Bände"
-      },
-      "accusative": {
-        "singular": "Band",
-        "plural": "Bände"
-      },
-      "dative": {
-        "singular": "Band",
-        "plural": "Bänden"
-      },
-      "genitive": {
-        "singular": "Bandes",
-        "plural": "Bände"
-      }
-    }
-  },
-  {
     "lemma": "Bandage",
     "type": "noun",
     "translations": [
@@ -33607,6 +36441,47 @@
     "superlative": "am bangsten"
   },
   {
+    "lemma": "Bankett",
+    "type": "noun",
+    "translations": [
+      "banquet",
+      "hard shoulder",
+      "shoulder",
+      "banquette",
+      "bench",
+      "berm",
+      "feast",
+      "flank",
+      "graded shoulder",
+      "side-strip",
+      "unpaved shoulder",
+      "verge"
+    ],
+    "level": "C2",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Bankett",
+        "plural": "Bankette"
+      },
+      "accusative": {
+        "singular": "Bankett",
+        "plural": "Bankette"
+      },
+      "dative": {
+        "singular": "Bankett",
+        "plural": "Banketten"
+      },
+      "genitive": {
+        "singular": "Bankettes",
+        "plural": "Bankette"
+      }
+    }
+  },
+  {
     "lemma": "Bankkauffrau",
     "type": "noun",
     "translations": [
@@ -33910,67 +36785,6 @@
     }
   },
   {
-    "lemma": "Banner",
-    "type": "noun",
-    "translations": [
-      "banner",
-      "oriflamme",
-      "pennant",
-      "standard",
-      "streamer"
-    ],
-    "level": "C2",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Banner",
-        "plural": "Banner"
-      },
-      "accusative": {
-        "singular": "Banner",
-        "plural": "Banner"
-      },
-      "dative": {
-        "singular": "Banner",
-        "plural": "Bannern"
-      },
-      "genitive": {
-        "singular": "Banners",
-        "plural": "Banner"
-      }
-    }
-  },
-  {
-    "lemma": "Banner",
-    "type": "noun",
-    "level": "C2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Banner",
-        "plural": "Banner"
-      },
-      "accusative": {
-        "singular": "Banner",
-        "plural": "Banner"
-      },
-      "dative": {
-        "singular": "Banner",
-        "plural": "Bannern"
-      },
-      "genitive": {
-        "singular": "Banners",
-        "plural": "Banner"
-      }
-    }
-  },
-  {
     "lemma": "Bannkreis",
     "type": "noun",
     "translations": [
@@ -33998,93 +36812,6 @@
       "genitive": {
         "singular": "Bannkreises",
         "plural": "Bannkreise"
-      }
-    }
-  },
-  {
-    "lemma": "Bar",
-    "type": "noun",
-    "translations": [
-      "bar"
-    ],
-    "level": "A1",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Bar",
-        "plural": "Bars"
-      },
-      "accusative": {
-        "singular": "Bar",
-        "plural": "Bars"
-      },
-      "dative": {
-        "singular": "Bar",
-        "plural": "Bars"
-      },
-      "genitive": {
-        "singular": "Bar",
-        "plural": "Bars"
-      }
-    }
-  },
-  {
-    "lemma": "Bar",
-    "type": "noun",
-    "level": "A1",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Bar",
-        "plural": "Bare"
-      },
-      "accusative": {
-        "singular": "Bar",
-        "plural": "Bare"
-      },
-      "dative": {
-        "singular": "Bar",
-        "plural": "Baren"
-      },
-      "genitive": {
-        "singular": "Bares",
-        "plural": "Bare"
-      }
-    }
-  },
-  {
-    "lemma": "Bar",
-    "type": "noun",
-    "translations": [
-      "bar"
-    ],
-    "level": "A1",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Bar",
-        "plural": "Bars"
-      },
-      "accusative": {
-        "singular": "Bar",
-        "plural": "Bars"
-      },
-      "dative": {
-        "singular": "Bar",
-        "plural": "Bars"
-      },
-      "genitive": {
-        "singular": "Bars",
-        "plural": "Bars"
       }
     }
   },
@@ -34998,6 +37725,66 @@
     }
   },
   {
+    "lemma": "Base",
+    "type": "noun",
+    "translations": [
+      "aunt",
+      "cousin",
+      "base",
+      "paternal aunt"
+    ],
+    "level": "C2",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Base",
+        "plural": "Basen"
+      },
+      "accusative": {
+        "singular": "Base",
+        "plural": "Basen"
+      },
+      "dative": {
+        "singular": "Base",
+        "plural": "Basen"
+      },
+      "genitive": {
+        "singular": "Base",
+        "plural": "Basen"
+      }
+    }
+  },
+  {
+    "lemma": "Base",
+    "type": "noun",
+    "level": "C2",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Base",
+        "plural": "Bases"
+      },
+      "accusative": {
+        "singular": "Base",
+        "plural": "Bases"
+      },
+      "dative": {
+        "singular": "Base",
+        "plural": "Bases"
+      },
+      "genitive": {
+        "singular": "Base",
+        "plural": "Bases"
+      }
+    }
+  },
+  {
     "lemma": "Baseball",
     "type": "noun",
     "translations": [
@@ -35423,38 +38210,6 @@
     }
   },
   {
-    "lemma": "Bass",
-    "type": "noun",
-    "translations": [
-      "bass",
-      "double bass",
-      "basso"
-    ],
-    "level": "A2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Bass",
-        "plural": "Bässe"
-      },
-      "accusative": {
-        "singular": "Bass",
-        "plural": "Bässe"
-      },
-      "dative": {
-        "singular": "Bass",
-        "plural": "Bässen"
-      },
-      "genitive": {
-        "singular": "Basses",
-        "plural": "Bässe"
-      }
-    }
-  },
-  {
     "lemma": "Basset",
     "type": "noun",
     "translations": [
@@ -35480,6 +38235,39 @@
       "genitive": {
         "singular": "Bassets",
         "plural": "Bassets"
+      }
+    }
+  },
+  {
+    "lemma": "Bastard",
+    "type": "noun",
+    "translations": [
+      "bastard",
+      "hybrid",
+      "mongrel",
+      "mule"
+    ],
+    "level": "C2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Bastard",
+        "plural": "Bastarde"
+      },
+      "accusative": {
+        "singular": "Bastard",
+        "plural": "Bastarde"
+      },
+      "dative": {
+        "singular": "Bastard",
+        "plural": "Bastarden"
+      },
+      "genitive": {
+        "singular": "Bastards",
+        "plural": "Bastarde"
       }
     }
   },
@@ -37159,6 +39947,32 @@
     }
   },
   {
+    "lemma": "Baute",
+    "type": "noun",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Baute",
+        "plural": "Bauten"
+      },
+      "accusative": {
+        "singular": "Baute",
+        "plural": "Bauten"
+      },
+      "dative": {
+        "singular": "Baute",
+        "plural": "Bauten"
+      },
+      "genitive": {
+        "singular": "Baute",
+        "plural": "Bauten"
+      }
+    }
+  },
+  {
     "lemma": "Bautechnik",
     "type": "noun",
     "translations": [
@@ -37858,87 +40672,6 @@
     "noComparative": false
   },
   {
-    "lemma": "Becher",
-    "type": "noun",
-    "translations": [
-      "cup",
-      "mug",
-      "Crater",
-      "can",
-      "carton",
-      "glass",
-      "tub"
-    ],
-    "level": "A1",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Becher",
-        "plural": "Becher"
-      },
-      "accusative": {
-        "singular": "Becher",
-        "plural": "Becher"
-      },
-      "dative": {
-        "singular": "Becher",
-        "plural": "Bechern"
-      },
-      "genitive": {
-        "singular": "Bechers",
-        "plural": "Becher"
-      }
-    }
-  },
-  {
-    "lemma": "Becken",
-    "type": "noun",
-    "translations": [
-      "basin",
-      "pelvis",
-      "pool",
-      "bowl",
-      "cymbal",
-      "cymbals",
-      "reservoir",
-      "tank",
-      "accumulation lake",
-      "artificial lake",
-      "cell",
-      "cuvette",
-      "large valley",
-      "pan",
-      "pond",
-      "sink"
-    ],
-    "level": "C1",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Becken",
-        "plural": "Becken"
-      },
-      "accusative": {
-        "singular": "Becken",
-        "plural": "Becken"
-      },
-      "dative": {
-        "singular": "Becken",
-        "plural": "Becken"
-      },
-      "genitive": {
-        "singular": "Beckens",
-        "plural": "Becken"
-      }
-    }
-  },
-  {
     "lemma": "Beckenrand",
     "type": "noun",
     "translations": [
@@ -38432,100 +41165,6 @@
     "noComparative": false,
     "comparative": "bedeckter",
     "superlative": "am bedecktesten"
-  },
-  {
-    "lemma": "bedenkenswert",
-    "type": "adjective",
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "bedenkenswerter",
-        "f": "bedenkenswerte",
-        "n": "bedenkenswertes",
-        "p": "bedenkenswerte"
-      },
-      "accusative": {
-        "m": "bedenkenswerten",
-        "f": "bedenkenswerte",
-        "n": "bedenkenswertes",
-        "p": "bedenkenswerte"
-      },
-      "dative": {
-        "m": "bedenkenswertem",
-        "f": "bedenkenswerter",
-        "n": "bedenkenswertem",
-        "p": "bedenkenswerten"
-      },
-      "genitive": {
-        "m": "bedenkenswerten",
-        "f": "bedenkenswerter",
-        "n": "bedenkenswerten",
-        "p": "bedenkenswerter"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "bedenkenswerte",
-        "f": "bedenkenswerte",
-        "n": "bedenkenswerte",
-        "p": "bedenkenswerten"
-      },
-      "accusative": {
-        "m": "bedenkenswerten",
-        "f": "bedenkenswerte",
-        "n": "bedenkenswerte",
-        "p": "bedenkenswerten"
-      },
-      "dative": {
-        "m": "bedenkenswerten",
-        "f": "bedenkenswerten",
-        "n": "bedenkenswerten",
-        "p": "bedenkenswerten"
-      },
-      "genitive": {
-        "m": "bedenkenswerten",
-        "f": "bedenkenswerten",
-        "n": "bedenkenswerten",
-        "p": "bedenkenswerten"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "bedenkenswerter",
-        "f": "bedenkenswerte",
-        "n": "bedenkenswertes",
-        "p": "bedenkenswerten"
-      },
-      "accusative": {
-        "m": "bedenkenswerten",
-        "f": "bedenkenswerte",
-        "n": "bedenkenswertes",
-        "p": "bedenkenswerten"
-      },
-      "dative": {
-        "m": "bedenkenswerten",
-        "f": "bedenkenswerten",
-        "n": "bedenkenswerten",
-        "p": "bedenkenswerten"
-      },
-      "genitive": {
-        "m": "bedenkenswerten",
-        "f": "bedenkenswerten",
-        "n": "bedenkenswerten",
-        "p": "bedenkenswerten"
-      }
-    },
-    "isComparative": false,
-    "isSuperlative": false,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "bedenkenswerter",
-    "superlative": "am bedenkenswertesten"
   },
   {
     "lemma": "bedenkenswerter",
@@ -39409,105 +42048,6 @@
     }
   },
   {
-    "lemma": "bedrohlicher",
-    "type": "adjective",
-    "translations": [
-      "threatening",
-      "dangerous"
-    ],
-    "level": "B2",
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "bedrohlicherer",
-        "f": "bedrohlichere",
-        "n": "bedrohlicheres",
-        "p": "bedrohlichere"
-      },
-      "accusative": {
-        "m": "bedrohlicheren",
-        "f": "bedrohlichere",
-        "n": "bedrohlicheres",
-        "p": "bedrohlichere"
-      },
-      "dative": {
-        "m": "bedrohlicherem",
-        "f": "bedrohlicherer",
-        "n": "bedrohlicherem",
-        "p": "bedrohlicheren"
-      },
-      "genitive": {
-        "m": "bedrohlicheren",
-        "f": "bedrohlicherer",
-        "n": "bedrohlicheren",
-        "p": "bedrohlicherer"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "bedrohlichere",
-        "f": "bedrohlichere",
-        "n": "bedrohlichere",
-        "p": "bedrohlicheren"
-      },
-      "accusative": {
-        "m": "bedrohlicheren",
-        "f": "bedrohlichere",
-        "n": "bedrohlichere",
-        "p": "bedrohlicheren"
-      },
-      "dative": {
-        "m": "bedrohlicheren",
-        "f": "bedrohlicheren",
-        "n": "bedrohlicheren",
-        "p": "bedrohlicheren"
-      },
-      "genitive": {
-        "m": "bedrohlicheren",
-        "f": "bedrohlicheren",
-        "n": "bedrohlicheren",
-        "p": "bedrohlicheren"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "bedrohlicherer",
-        "f": "bedrohlichere",
-        "n": "bedrohlicheres",
-        "p": "bedrohlicheren"
-      },
-      "accusative": {
-        "m": "bedrohlicheren",
-        "f": "bedrohlichere",
-        "n": "bedrohlicheres",
-        "p": "bedrohlicheren"
-      },
-      "dative": {
-        "m": "bedrohlicheren",
-        "f": "bedrohlicheren",
-        "n": "bedrohlicheren",
-        "p": "bedrohlicheren"
-      },
-      "genitive": {
-        "m": "bedrohlicheren",
-        "f": "bedrohlicheren",
-        "n": "bedrohlicheren",
-        "p": "bedrohlicheren"
-      }
-    },
-    "isComparative": true,
-    "isSuperlative": false,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "bedrohlicher",
-    "superlative": "am bedrohlichsten"
-  },
-  {
     "lemma": "bedrohlichsten",
     "type": "adjective",
     "translations": [
@@ -39640,101 +42180,6 @@
     }
   },
   {
-    "lemma": "bedröppelt",
-    "type": "adjective",
-    "translations": [
-      "crestfallen"
-    ],
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": true,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "bedröppelter",
-        "f": "bedröppelte",
-        "n": "bedröppeltes",
-        "p": "bedröppelte"
-      },
-      "accusative": {
-        "m": "bedröppelten",
-        "f": "bedröppelte",
-        "n": "bedröppeltes",
-        "p": "bedröppelte"
-      },
-      "dative": {
-        "m": "bedröppeltem",
-        "f": "bedröppelter",
-        "n": "bedröppeltem",
-        "p": "bedröppelten"
-      },
-      "genitive": {
-        "m": "bedröppelten",
-        "f": "bedröppelter",
-        "n": "bedröppelten",
-        "p": "bedröppelter"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "bedröppelte",
-        "f": "bedröppelte",
-        "n": "bedröppelte",
-        "p": "bedröppelten"
-      },
-      "accusative": {
-        "m": "bedröppelten",
-        "f": "bedröppelte",
-        "n": "bedröppelte",
-        "p": "bedröppelten"
-      },
-      "dative": {
-        "m": "bedröppelten",
-        "f": "bedröppelten",
-        "n": "bedröppelten",
-        "p": "bedröppelten"
-      },
-      "genitive": {
-        "m": "bedröppelten",
-        "f": "bedröppelten",
-        "n": "bedröppelten",
-        "p": "bedröppelten"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "bedröppelter",
-        "f": "bedröppelte",
-        "n": "bedröppeltes",
-        "p": "bedröppelten"
-      },
-      "accusative": {
-        "m": "bedröppelten",
-        "f": "bedröppelte",
-        "n": "bedröppeltes",
-        "p": "bedröppelten"
-      },
-      "dative": {
-        "m": "bedröppelten",
-        "f": "bedröppelten",
-        "n": "bedröppelten",
-        "p": "bedröppelten"
-      },
-      "genitive": {
-        "m": "bedröppelten",
-        "f": "bedröppelten",
-        "n": "bedröppelten",
-        "p": "bedröppelten"
-      }
-    },
-    "isComparative": false,
-    "isSuperlative": false,
-    "superlativeOnly": false,
-    "noComparative": false
-  },
-  {
     "lemma": "Beeilung",
     "type": "noun",
     "gender": "f",
@@ -39829,37 +42274,6 @@
       "genitive": {
         "singular": "Beerdigung",
         "plural": "Beerdigungen"
-      }
-    }
-  },
-  {
-    "lemma": "Beere",
-    "type": "noun",
-    "translations": [
-      "berry",
-      "grape"
-    ],
-    "level": "A2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Beere",
-        "plural": "Beeren"
-      },
-      "accusative": {
-        "singular": "Beere",
-        "plural": "Beeren"
-      },
-      "dative": {
-        "singular": "Beere",
-        "plural": "Beeren"
-      },
-      "genitive": {
-        "singular": "Beere",
-        "plural": "Beeren"
       }
     }
   },
@@ -40165,44 +42579,6 @@
       "genitive": {
         "singular": "Befehles",
         "plural": "Befehle"
-      }
-    }
-  },
-  {
-    "lemma": "Befinden",
-    "type": "noun",
-    "translations": [
-      "condition",
-      "opinion",
-      "health",
-      "state",
-      "state of health",
-      "feeling",
-      "find",
-      "judgement",
-      "view"
-    ],
-    "level": "B2",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": true,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Befinden",
-        "plural": null
-      },
-      "accusative": {
-        "singular": "Befinden",
-        "plural": null
-      },
-      "dative": {
-        "singular": "Befinden",
-        "plural": null
-      },
-      "genitive": {
-        "singular": "Befindens",
-        "plural": null
       }
     }
   },
@@ -41334,6 +43710,47 @@
     }
   },
   {
+    "lemma": "begaben",
+    "type": "verb",
+    "separable": false,
+    "present": {
+      "ich": "begabe",
+      "du": "begabst",
+      "es": "begabt",
+      "ihr": "begabt",
+      "Sie": "begaben"
+    },
+    "simple": {
+      "ich": "begabte",
+      "du": "begabtest",
+      "es": "begabte",
+      "ihr": "begabtet",
+      "Sie": "begabten"
+    },
+    "conjunctive1": {
+      "ich": "begabe",
+      "du": "begabest",
+      "es": "begabe",
+      "ihr": "begabet",
+      "Sie": "begaben"
+    },
+    "conjunctive2": {
+      "ich": "begabte",
+      "du": "begabtest",
+      "es": "begabte",
+      "ihr": "begabtet",
+      "Sie": "begabten"
+    },
+    "imperative": {
+      "du": "begabe du",
+      "ihr": "begabt ihr",
+      "Sie": "begaben Sie"
+    },
+    "perfect": "begabt",
+    "gerund": "begabend",
+    "zuinfinitive": "zu begaben"
+  },
+  {
     "lemma": "Begabung",
     "type": "noun",
     "translations": [
@@ -42088,6 +44505,43 @@
     "noComparative": false,
     "comparative": "begrenzter",
     "superlative": "am begrenztesten"
+  },
+  {
+    "lemma": "Begriff",
+    "type": "noun",
+    "translations": [
+      "concept",
+      "notion",
+      "idea",
+      "term",
+      "perception",
+      "definition",
+      "epitome",
+      "expression"
+    ],
+    "level": "B1",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Begriff",
+        "plural": "Begriffe"
+      },
+      "accusative": {
+        "singular": "Begriff",
+        "plural": "Begriffe"
+      },
+      "dative": {
+        "singular": "Begriff",
+        "plural": "Begriffen"
+      },
+      "genitive": {
+        "singular": "Begriffes",
+        "plural": "Begriffe"
+      }
+    }
   },
   {
     "lemma": "begrifflichsten",
@@ -44538,50 +46992,6 @@
     "superlative": "am beiläufigsten"
   },
   {
-    "lemma": "Bein",
-    "type": "noun",
-    "translations": [
-      "leg",
-      "bone",
-      "coal fender",
-      "fender of coal",
-      "foot",
-      "mine post",
-      "mine prop",
-      "mine stick",
-      "post",
-      "prop",
-      "punch",
-      "puncheon",
-      "rib",
-      "roof stick",
-      "roof support prop"
-    ],
-    "level": "A1",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Bein",
-        "plural": "Beine"
-      },
-      "accusative": {
-        "singular": "Bein",
-        "plural": "Beine"
-      },
-      "dative": {
-        "singular": "Bein",
-        "plural": "Beinen"
-      },
-      "genitive": {
-        "singular": "Beines",
-        "plural": "Beine"
-      }
-    }
-  },
-  {
     "lemma": "Beinbruch",
     "type": "noun",
     "translations": [
@@ -46492,2333 +48902,6 @@
       "genitive": {
         "singular": "Belchens",
         "plural": "Belchen"
-      }
-    }
-  },
-  {
-    "lemma": "beleibt",
-    "type": "adjective",
-    "translations": [
-      "portly",
-      "stout",
-      "corpulent",
-      "obese"
-    ],
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "beleibter",
-        "f": "beleibte",
-        "n": "beleibtes",
-        "p": "beleibte"
-      },
-      "accusative": {
-        "m": "beleibten",
-        "f": "beleibte",
-        "n": "beleibtes",
-        "p": "beleibte"
-      },
-      "dative": {
-        "m": "beleibtem",
-        "f": "beleibter",
-        "n": "beleibtem",
-        "p": "beleibten"
-      },
-      "genitive": {
-        "m": "beleibten",
-        "f": "beleibter",
-        "n": "beleibten",
-        "p": "beleibter"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "beleibte",
-        "f": "beleibte",
-        "n": "beleibte",
-        "p": "beleibten"
-      },
-      "accusative": {
-        "m": "beleibten",
-        "f": "beleibte",
-        "n": "beleibte",
-        "p": "beleibten"
-      },
-      "dative": {
-        "m": "beleibten",
-        "f": "beleibten",
-        "n": "beleibten",
-        "p": "beleibten"
-      },
-      "genitive": {
-        "m": "beleibten",
-        "f": "beleibten",
-        "n": "beleibten",
-        "p": "beleibten"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "beleibter",
-        "f": "beleibte",
-        "n": "beleibtes",
-        "p": "beleibten"
-      },
-      "accusative": {
-        "m": "beleibten",
-        "f": "beleibte",
-        "n": "beleibtes",
-        "p": "beleibten"
-      },
-      "dative": {
-        "m": "beleibten",
-        "f": "beleibten",
-        "n": "beleibten",
-        "p": "beleibten"
-      },
-      "genitive": {
-        "m": "beleibten",
-        "f": "beleibten",
-        "n": "beleibten",
-        "p": "beleibten"
-      }
-    },
-    "isComparative": false,
-    "isSuperlative": false,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "beleibter",
-    "superlative": "am beleibtesten"
-  },
-  {
-    "lemma": "beleibtesten",
-    "type": "adjective",
-    "translations": [
-      "portly",
-      "stout",
-      "corpulent",
-      "obese"
-    ],
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "beleibtester",
-        "f": "beleibteste",
-        "n": "beleibtestes",
-        "p": "beleibteste"
-      },
-      "accusative": {
-        "m": "beleibtesten",
-        "f": "beleibteste",
-        "n": "beleibtestes",
-        "p": "beleibteste"
-      },
-      "dative": {
-        "m": "beleibtestem",
-        "f": "beleibtester",
-        "n": "beleibtestem",
-        "p": "beleibtesten"
-      },
-      "genitive": {
-        "m": "beleibtesten",
-        "f": "beleibtester",
-        "n": "beleibtesten",
-        "p": "beleibtester"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "beleibteste",
-        "f": "beleibteste",
-        "n": "beleibteste",
-        "p": "beleibtesten"
-      },
-      "accusative": {
-        "m": "beleibtesten",
-        "f": "beleibteste",
-        "n": "beleibteste",
-        "p": "beleibtesten"
-      },
-      "dative": {
-        "m": "beleibtesten",
-        "f": "beleibtesten",
-        "n": "beleibtesten",
-        "p": "beleibtesten"
-      },
-      "genitive": {
-        "m": "beleibtesten",
-        "f": "beleibtesten",
-        "n": "beleibtesten",
-        "p": "beleibtesten"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "beleibtester",
-        "f": "beleibteste",
-        "n": "beleibtestes",
-        "p": "beleibtesten"
-      },
-      "accusative": {
-        "m": "beleibtesten",
-        "f": "beleibteste",
-        "n": "beleibtestes",
-        "p": "beleibtesten"
-      },
-      "dative": {
-        "m": "beleibtesten",
-        "f": "beleibtesten",
-        "n": "beleibtesten",
-        "p": "beleibtesten"
-      },
-      "genitive": {
-        "m": "beleibtesten",
-        "f": "beleibtesten",
-        "n": "beleibtesten",
-        "p": "beleibtesten"
-      }
-    },
-    "isComparative": false,
-    "isSuperlative": true,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "beleibter",
-    "superlative": "am beleibtesten"
-  },
-  {
-    "lemma": "Beleidigung",
-    "type": "noun",
-    "translations": [
-      "insult",
-      "offense",
-      "affront",
-      "defamation",
-      "despite",
-      "flout",
-      "libel",
-      "indignity",
-      "offence",
-      "scathe",
-      "term of abuse"
-    ],
-    "level": "B2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Beleidigung",
-        "plural": "Beleidigungen"
-      },
-      "accusative": {
-        "singular": "Beleidigung",
-        "plural": "Beleidigungen"
-      },
-      "dative": {
-        "singular": "Beleidigung",
-        "plural": "Beleidigungen"
-      },
-      "genitive": {
-        "singular": "Beleidigung",
-        "plural": "Beleidigungen"
-      }
-    }
-  },
-  {
-    "lemma": "Beleuchtung",
-    "type": "noun",
-    "translations": [
-      "lighting",
-      "illumination",
-      "electric lighting",
-      "elucidation",
-      "examination",
-      "illuminating",
-      "light",
-      "lights"
-    ],
-    "level": "C1",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Beleuchtung",
-        "plural": "Beleuchtungen"
-      },
-      "accusative": {
-        "singular": "Beleuchtung",
-        "plural": "Beleuchtungen"
-      },
-      "dative": {
-        "singular": "Beleuchtung",
-        "plural": "Beleuchtungen"
-      },
-      "genitive": {
-        "singular": "Beleuchtung",
-        "plural": "Beleuchtungen"
-      }
-    }
-  },
-  {
-    "lemma": "belfern",
-    "type": "verb",
-    "translations": [
-      "bellow"
-    ],
-    "separable": false,
-    "present": {
-      "ich": "belfere",
-      "du": "belferst",
-      "es": "belfert",
-      "ihr": "belfert",
-      "Sie": "belfern"
-    },
-    "simple": {
-      "ich": "belferte",
-      "du": "belfertest",
-      "es": "belferte",
-      "ihr": "belfertet",
-      "Sie": "belferten"
-    },
-    "conjunctive1": {
-      "ich": "belfere",
-      "du": "belferst",
-      "es": "belfere",
-      "ihr": "belfert",
-      "Sie": "belfern"
-    },
-    "conjunctive2": {
-      "ich": "belferte",
-      "du": "belfertest",
-      "es": "belferte",
-      "ihr": "belfertet",
-      "Sie": "belferten"
-    },
-    "imperative": {
-      "du": "belfere du",
-      "ihr": "belfert ihr",
-      "Sie": "belfern Sie"
-    },
-    "perfect": "gebelfert",
-    "gerund": "belfernd",
-    "zuinfinitive": "zu belfern"
-  },
-  {
-    "lemma": "Belieben",
-    "type": "noun",
-    "translations": [
-      "pleasure"
-    ],
-    "level": "C1",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": true,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Belieben",
-        "plural": null
-      },
-      "accusative": {
-        "singular": "Belieben",
-        "plural": null
-      },
-      "dative": {
-        "singular": "Belieben",
-        "plural": null
-      },
-      "genitive": {
-        "singular": "Beliebens",
-        "plural": null
-      }
-    }
-  },
-  {
-    "lemma": "Beliebtheit",
-    "type": "noun",
-    "translations": [
-      "popularity",
-      "degree of esteem",
-      "degree of respect",
-      "vogue"
-    ],
-    "level": "C1",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": true,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Beliebtheit",
-        "plural": null
-      },
-      "accusative": {
-        "singular": "Beliebtheit",
-        "plural": null
-      },
-      "dative": {
-        "singular": "Beliebtheit",
-        "plural": null
-      },
-      "genitive": {
-        "singular": "Beliebtheit",
-        "plural": null
-      }
-    }
-  },
-  {
-    "lemma": "Belohnung",
-    "type": "noun",
-    "translations": [
-      "reward",
-      "award",
-      "gratification",
-      "guerdon",
-      "meed",
-      "prize",
-      "recompense",
-      "remuneration",
-      "requital",
-      "rewarding"
-    ],
-    "level": "C1",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Belohnung",
-        "plural": "Belohnungen"
-      },
-      "accusative": {
-        "singular": "Belohnung",
-        "plural": "Belohnungen"
-      },
-      "dative": {
-        "singular": "Belohnung",
-        "plural": "Belohnungen"
-      },
-      "genitive": {
-        "singular": "Belohnung",
-        "plural": "Belohnungen"
-      }
-    }
-  },
-  {
-    "lemma": "Belt",
-    "type": "noun",
-    "translations": [
-      "strait"
-    ],
-    "level": "C2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Belt",
-        "plural": "Belte"
-      },
-      "accusative": {
-        "singular": "Belt",
-        "plural": "Belte"
-      },
-      "dative": {
-        "singular": "Belt",
-        "plural": "Belten"
-      },
-      "genitive": {
-        "singular": "Beltes",
-        "plural": "Belte"
-      }
-    }
-  },
-  {
-    "lemma": "Belustigung",
-    "type": "noun",
-    "translations": [
-      "amusement",
-      "disport",
-      "merriment",
-      "merrymaking"
-    ],
-    "level": "C2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Belustigung",
-        "plural": "Belustigungen"
-      },
-      "accusative": {
-        "singular": "Belustigung",
-        "plural": "Belustigungen"
-      },
-      "dative": {
-        "singular": "Belustigung",
-        "plural": "Belustigungen"
-      },
-      "genitive": {
-        "singular": "Belustigung",
-        "plural": "Belustigungen"
-      }
-    }
-  },
-  {
-    "lemma": "Bemerkung",
-    "type": "noun",
-    "translations": [
-      "comment",
-      "remark",
-      "notice",
-      "note"
-    ],
-    "level": "B2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Bemerkung",
-        "plural": "Bemerkungen"
-      },
-      "accusative": {
-        "singular": "Bemerkung",
-        "plural": "Bemerkungen"
-      },
-      "dative": {
-        "singular": "Bemerkung",
-        "plural": "Bemerkungen"
-      },
-      "genitive": {
-        "singular": "Bemerkung",
-        "plural": "Bemerkungen"
-      }
-    }
-  },
-  {
-    "lemma": "bemitleidenswert",
-    "type": "adjective",
-    "translations": [
-      "pitiful",
-      "pathetic"
-    ],
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "bemitleidenswerter",
-        "f": "bemitleidenswerte",
-        "n": "bemitleidenswertes",
-        "p": "bemitleidenswerte"
-      },
-      "accusative": {
-        "m": "bemitleidenswerten",
-        "f": "bemitleidenswerte",
-        "n": "bemitleidenswertes",
-        "p": "bemitleidenswerte"
-      },
-      "dative": {
-        "m": "bemitleidenswertem",
-        "f": "bemitleidenswerter",
-        "n": "bemitleidenswertem",
-        "p": "bemitleidenswerten"
-      },
-      "genitive": {
-        "m": "bemitleidenswerten",
-        "f": "bemitleidenswerter",
-        "n": "bemitleidenswerten",
-        "p": "bemitleidenswerter"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "bemitleidenswerte",
-        "f": "bemitleidenswerte",
-        "n": "bemitleidenswerte",
-        "p": "bemitleidenswerten"
-      },
-      "accusative": {
-        "m": "bemitleidenswerten",
-        "f": "bemitleidenswerte",
-        "n": "bemitleidenswerte",
-        "p": "bemitleidenswerten"
-      },
-      "dative": {
-        "m": "bemitleidenswerten",
-        "f": "bemitleidenswerten",
-        "n": "bemitleidenswerten",
-        "p": "bemitleidenswerten"
-      },
-      "genitive": {
-        "m": "bemitleidenswerten",
-        "f": "bemitleidenswerten",
-        "n": "bemitleidenswerten",
-        "p": "bemitleidenswerten"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "bemitleidenswerter",
-        "f": "bemitleidenswerte",
-        "n": "bemitleidenswertes",
-        "p": "bemitleidenswerten"
-      },
-      "accusative": {
-        "m": "bemitleidenswerten",
-        "f": "bemitleidenswerte",
-        "n": "bemitleidenswertes",
-        "p": "bemitleidenswerten"
-      },
-      "dative": {
-        "m": "bemitleidenswerten",
-        "f": "bemitleidenswerten",
-        "n": "bemitleidenswerten",
-        "p": "bemitleidenswerten"
-      },
-      "genitive": {
-        "m": "bemitleidenswerten",
-        "f": "bemitleidenswerten",
-        "n": "bemitleidenswerten",
-        "p": "bemitleidenswerten"
-      }
-    },
-    "isComparative": false,
-    "isSuperlative": false,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "bemitleidenswerter",
-    "superlative": "am bemitleidenswertesten"
-  },
-  {
-    "lemma": "bemitleidenswerter",
-    "type": "adjective",
-    "translations": [
-      "pitiful",
-      "pathetic"
-    ],
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "bemitleidenswerterer",
-        "f": "bemitleidenswertere",
-        "n": "bemitleidenswerteres",
-        "p": "bemitleidenswertere"
-      },
-      "accusative": {
-        "m": "bemitleidenswerteren",
-        "f": "bemitleidenswertere",
-        "n": "bemitleidenswerteres",
-        "p": "bemitleidenswertere"
-      },
-      "dative": {
-        "m": "bemitleidenswerterem",
-        "f": "bemitleidenswerterer",
-        "n": "bemitleidenswerterem",
-        "p": "bemitleidenswerteren"
-      },
-      "genitive": {
-        "m": "bemitleidenswerteren",
-        "f": "bemitleidenswerterer",
-        "n": "bemitleidenswerteren",
-        "p": "bemitleidenswerterer"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "bemitleidenswertere",
-        "f": "bemitleidenswertere",
-        "n": "bemitleidenswertere",
-        "p": "bemitleidenswerteren"
-      },
-      "accusative": {
-        "m": "bemitleidenswerteren",
-        "f": "bemitleidenswertere",
-        "n": "bemitleidenswertere",
-        "p": "bemitleidenswerteren"
-      },
-      "dative": {
-        "m": "bemitleidenswerteren",
-        "f": "bemitleidenswerteren",
-        "n": "bemitleidenswerteren",
-        "p": "bemitleidenswerteren"
-      },
-      "genitive": {
-        "m": "bemitleidenswerteren",
-        "f": "bemitleidenswerteren",
-        "n": "bemitleidenswerteren",
-        "p": "bemitleidenswerteren"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "bemitleidenswerterer",
-        "f": "bemitleidenswertere",
-        "n": "bemitleidenswerteres",
-        "p": "bemitleidenswerteren"
-      },
-      "accusative": {
-        "m": "bemitleidenswerteren",
-        "f": "bemitleidenswertere",
-        "n": "bemitleidenswerteres",
-        "p": "bemitleidenswerteren"
-      },
-      "dative": {
-        "m": "bemitleidenswerteren",
-        "f": "bemitleidenswerteren",
-        "n": "bemitleidenswerteren",
-        "p": "bemitleidenswerteren"
-      },
-      "genitive": {
-        "m": "bemitleidenswerteren",
-        "f": "bemitleidenswerteren",
-        "n": "bemitleidenswerteren",
-        "p": "bemitleidenswerteren"
-      }
-    },
-    "isComparative": true,
-    "isSuperlative": false,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "bemitleidenswerter",
-    "superlative": "am bemitleidenswertesten"
-  },
-  {
-    "lemma": "bemitleidenswertesten",
-    "type": "adjective",
-    "translations": [
-      "pitiful",
-      "pathetic"
-    ],
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "bemitleidenswertester",
-        "f": "bemitleidenswerteste",
-        "n": "bemitleidenswertestes",
-        "p": "bemitleidenswerteste"
-      },
-      "accusative": {
-        "m": "bemitleidenswertesten",
-        "f": "bemitleidenswerteste",
-        "n": "bemitleidenswertestes",
-        "p": "bemitleidenswerteste"
-      },
-      "dative": {
-        "m": "bemitleidenswertestem",
-        "f": "bemitleidenswertester",
-        "n": "bemitleidenswertestem",
-        "p": "bemitleidenswertesten"
-      },
-      "genitive": {
-        "m": "bemitleidenswertesten",
-        "f": "bemitleidenswertester",
-        "n": "bemitleidenswertesten",
-        "p": "bemitleidenswertester"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "bemitleidenswerteste",
-        "f": "bemitleidenswerteste",
-        "n": "bemitleidenswerteste",
-        "p": "bemitleidenswertesten"
-      },
-      "accusative": {
-        "m": "bemitleidenswertesten",
-        "f": "bemitleidenswerteste",
-        "n": "bemitleidenswerteste",
-        "p": "bemitleidenswertesten"
-      },
-      "dative": {
-        "m": "bemitleidenswertesten",
-        "f": "bemitleidenswertesten",
-        "n": "bemitleidenswertesten",
-        "p": "bemitleidenswertesten"
-      },
-      "genitive": {
-        "m": "bemitleidenswertesten",
-        "f": "bemitleidenswertesten",
-        "n": "bemitleidenswertesten",
-        "p": "bemitleidenswertesten"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "bemitleidenswertester",
-        "f": "bemitleidenswerteste",
-        "n": "bemitleidenswertestes",
-        "p": "bemitleidenswertesten"
-      },
-      "accusative": {
-        "m": "bemitleidenswertesten",
-        "f": "bemitleidenswerteste",
-        "n": "bemitleidenswertestes",
-        "p": "bemitleidenswertesten"
-      },
-      "dative": {
-        "m": "bemitleidenswertesten",
-        "f": "bemitleidenswertesten",
-        "n": "bemitleidenswertesten",
-        "p": "bemitleidenswertesten"
-      },
-      "genitive": {
-        "m": "bemitleidenswertesten",
-        "f": "bemitleidenswertesten",
-        "n": "bemitleidenswertesten",
-        "p": "bemitleidenswertesten"
-      }
-    },
-    "isComparative": false,
-    "isSuperlative": true,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "bemitleidenswerter",
-    "superlative": "am bemitleidenswertesten"
-  },
-  {
-    "lemma": "Bemühen",
-    "type": "noun",
-    "translations": [
-      "effort",
-      "endeavor",
-      "anxiety",
-      "efforts",
-      "endeavour",
-      "endeavours"
-    ],
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": true,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Bemühen",
-        "plural": null
-      },
-      "accusative": {
-        "singular": "Bemühen",
-        "plural": null
-      },
-      "dative": {
-        "singular": "Bemühen",
-        "plural": null
-      },
-      "genitive": {
-        "singular": "Bemühens",
-        "plural": null
-      }
-    }
-  },
-  {
-    "lemma": "bemühter",
-    "type": "adjective",
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "bemühterer",
-        "f": "bemühtere",
-        "n": "bemühteres",
-        "p": "bemühtere"
-      },
-      "accusative": {
-        "m": "bemühteren",
-        "f": "bemühtere",
-        "n": "bemühteres",
-        "p": "bemühtere"
-      },
-      "dative": {
-        "m": "bemühterem",
-        "f": "bemühterer",
-        "n": "bemühterem",
-        "p": "bemühteren"
-      },
-      "genitive": {
-        "m": "bemühteren",
-        "f": "bemühterer",
-        "n": "bemühteren",
-        "p": "bemühterer"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "bemühtere",
-        "f": "bemühtere",
-        "n": "bemühtere",
-        "p": "bemühteren"
-      },
-      "accusative": {
-        "m": "bemühteren",
-        "f": "bemühtere",
-        "n": "bemühtere",
-        "p": "bemühteren"
-      },
-      "dative": {
-        "m": "bemühteren",
-        "f": "bemühteren",
-        "n": "bemühteren",
-        "p": "bemühteren"
-      },
-      "genitive": {
-        "m": "bemühteren",
-        "f": "bemühteren",
-        "n": "bemühteren",
-        "p": "bemühteren"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "bemühterer",
-        "f": "bemühtere",
-        "n": "bemühteres",
-        "p": "bemühteren"
-      },
-      "accusative": {
-        "m": "bemühteren",
-        "f": "bemühtere",
-        "n": "bemühteres",
-        "p": "bemühteren"
-      },
-      "dative": {
-        "m": "bemühteren",
-        "f": "bemühteren",
-        "n": "bemühteren",
-        "p": "bemühteren"
-      },
-      "genitive": {
-        "m": "bemühteren",
-        "f": "bemühteren",
-        "n": "bemühteren",
-        "p": "bemühteren"
-      }
-    },
-    "isComparative": true,
-    "isSuperlative": false,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "bemühter",
-    "superlative": "am bemühtesten"
-  },
-  {
-    "lemma": "bemühtesten",
-    "type": "adjective",
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "bemühtester",
-        "f": "bemühteste",
-        "n": "bemühtestes",
-        "p": "bemühteste"
-      },
-      "accusative": {
-        "m": "bemühtesten",
-        "f": "bemühteste",
-        "n": "bemühtestes",
-        "p": "bemühteste"
-      },
-      "dative": {
-        "m": "bemühtestem",
-        "f": "bemühtester",
-        "n": "bemühtestem",
-        "p": "bemühtesten"
-      },
-      "genitive": {
-        "m": "bemühtesten",
-        "f": "bemühtester",
-        "n": "bemühtesten",
-        "p": "bemühtester"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "bemühteste",
-        "f": "bemühteste",
-        "n": "bemühteste",
-        "p": "bemühtesten"
-      },
-      "accusative": {
-        "m": "bemühtesten",
-        "f": "bemühteste",
-        "n": "bemühteste",
-        "p": "bemühtesten"
-      },
-      "dative": {
-        "m": "bemühtesten",
-        "f": "bemühtesten",
-        "n": "bemühtesten",
-        "p": "bemühtesten"
-      },
-      "genitive": {
-        "m": "bemühtesten",
-        "f": "bemühtesten",
-        "n": "bemühtesten",
-        "p": "bemühtesten"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "bemühtester",
-        "f": "bemühteste",
-        "n": "bemühtestes",
-        "p": "bemühtesten"
-      },
-      "accusative": {
-        "m": "bemühtesten",
-        "f": "bemühteste",
-        "n": "bemühtestes",
-        "p": "bemühtesten"
-      },
-      "dative": {
-        "m": "bemühtesten",
-        "f": "bemühtesten",
-        "n": "bemühtesten",
-        "p": "bemühtesten"
-      },
-      "genitive": {
-        "m": "bemühtesten",
-        "f": "bemühtesten",
-        "n": "bemühtesten",
-        "p": "bemühtesten"
-      }
-    },
-    "isComparative": false,
-    "isSuperlative": true,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "bemühter",
-    "superlative": "am bemühtesten"
-  },
-  {
-    "lemma": "Bemühung",
-    "type": "noun",
-    "translations": [
-      "effort",
-      "endeavor",
-      "endeavour",
-      "push",
-      "services",
-      "study"
-    ],
-    "level": "C2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Bemühung",
-        "plural": "Bemühungen"
-      },
-      "accusative": {
-        "singular": "Bemühung",
-        "plural": "Bemühungen"
-      },
-      "dative": {
-        "singular": "Bemühung",
-        "plural": "Bemühungen"
-      },
-      "genitive": {
-        "singular": "Bemühung",
-        "plural": "Bemühungen"
-      }
-    }
-  },
-  {
-    "lemma": "Benehmen",
-    "type": "noun",
-    "translations": [
-      "behavior",
-      "conduct",
-      "manners",
-      "behaviour",
-      "deportment",
-      "bearing",
-      "demeanor",
-      "demeanour",
-      "discipline"
-    ],
-    "level": "A2",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": true,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Benehmen",
-        "plural": null
-      },
-      "accusative": {
-        "singular": "Benehmen",
-        "plural": null
-      },
-      "dative": {
-        "singular": "Benehmen",
-        "plural": null
-      },
-      "genitive": {
-        "singular": "Benehmens",
-        "plural": null
-      }
-    }
-  },
-  {
-    "lemma": "Bengel",
-    "type": "noun",
-    "translations": [
-      "rascal",
-      "brat",
-      "loon",
-      "tyke",
-      "urchin"
-    ],
-    "level": "C2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Bengel",
-        "plural": "Bengel"
-      },
-      "accusative": {
-        "singular": "Bengel",
-        "plural": "Bengel"
-      },
-      "dative": {
-        "singular": "Bengel",
-        "plural": "Bengeln"
-      },
-      "genitive": {
-        "singular": "Bengels",
-        "plural": "Bengel"
-      }
-    }
-  },
-  {
-    "lemma": "Benommenheit",
-    "type": "noun",
-    "translations": [
-      "stupor",
-      "daze",
-      "daze feeling",
-      "drowsiness",
-      "lightheadedness",
-      "numbness",
-      "obnubilation",
-      "stupefaction",
-      "torpidity",
-      "torpidness"
-    ],
-    "level": "C2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": true,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Benommenheit",
-        "plural": null
-      },
-      "accusative": {
-        "singular": "Benommenheit",
-        "plural": null
-      },
-      "dative": {
-        "singular": "Benommenheit",
-        "plural": null
-      },
-      "genitive": {
-        "singular": "Benommenheit",
-        "plural": null
-      }
-    }
-  },
-  {
-    "lemma": "Benotung",
-    "type": "noun",
-    "translations": [
-      "grading",
-      "mark",
-      "marking"
-    ],
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Benotung",
-        "plural": "Benotungen"
-      },
-      "accusative": {
-        "singular": "Benotung",
-        "plural": "Benotungen"
-      },
-      "dative": {
-        "singular": "Benotung",
-        "plural": "Benotungen"
-      },
-      "genitive": {
-        "singular": "Benotung",
-        "plural": "Benotungen"
-      }
-    }
-  },
-  {
-    "lemma": "Benutzer",
-    "type": "noun",
-    "translations": [
-      "user",
-      "member",
-      "visitor",
-      "borrower",
-      "hirer",
-      "operator",
-      "person renting",
-      "reader"
-    ],
-    "level": "C2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Benutzer",
-        "plural": "Benutzer"
-      },
-      "accusative": {
-        "singular": "Benutzer",
-        "plural": "Benutzer"
-      },
-      "dative": {
-        "singular": "Benutzer",
-        "plural": "Benutzern"
-      },
-      "genitive": {
-        "singular": "Benutzers",
-        "plural": "Benutzer"
-      }
-    }
-  },
-  {
-    "lemma": "Benutzername",
-    "type": "noun",
-    "translations": [
-      "username",
-      "access code",
-      "login name",
-      "user name"
-    ],
-    "level": "C2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Benutzername",
-        "plural": "Benutzernamen"
-      },
-      "accusative": {
-        "singular": "Benutzernamen",
-        "plural": "Benutzernamen"
-      },
-      "dative": {
-        "singular": "Benutzernamen",
-        "plural": "Benutzernamen"
-      },
-      "genitive": {
-        "singular": "Benutzernamens",
-        "plural": "Benutzernamen"
-      }
-    }
-  },
-  {
-    "lemma": "Benützung",
-    "type": "noun",
-    "translations": [
-      "use",
-      "utilization"
-    ],
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": true,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Benützung",
-        "plural": null
-      },
-      "accusative": {
-        "singular": "Benützung",
-        "plural": null
-      },
-      "dative": {
-        "singular": "Benützung",
-        "plural": null
-      },
-      "genitive": {
-        "singular": "Benützung",
-        "plural": null
-      }
-    }
-  },
-  {
-    "lemma": "benzen",
-    "type": "verb",
-    "translations": [
-      "beg persistently",
-      "complain"
-    ],
-    "separable": false,
-    "present": {
-      "ich": "benze",
-      "du": "benzt",
-      "es": "benzt",
-      "ihr": "benzt",
-      "Sie": "benzen"
-    },
-    "simple": {
-      "ich": "benzte",
-      "du": "benztest",
-      "es": "benzte",
-      "ihr": "benztet",
-      "Sie": "benzten"
-    },
-    "conjunctive1": {
-      "ich": "benze",
-      "du": "benzest",
-      "es": "benze",
-      "ihr": "benzet",
-      "Sie": "benzen"
-    },
-    "conjunctive2": {
-      "ich": "benzte",
-      "du": "benztest",
-      "es": "benzte",
-      "ihr": "benztet",
-      "Sie": "benzten"
-    },
-    "imperative": {
-      "du": "benze du",
-      "ihr": "benzt ihr",
-      "Sie": "benzen Sie"
-    },
-    "perfect": "gebenzt",
-    "gerund": "benzend",
-    "zuinfinitive": "zu benzen"
-  },
-  {
-    "lemma": "Benzin",
-    "type": "noun",
-    "translations": [
-      "gasoline",
-      "petrol",
-      "benzine",
-      "fuel",
-      "gas",
-      "motor spirit"
-    ],
-    "level": "A2",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Benzin",
-        "plural": "Benzine"
-      },
-      "accusative": {
-        "singular": "Benzin",
-        "plural": "Benzine"
-      },
-      "dative": {
-        "singular": "Benzin",
-        "plural": "Benzinen"
-      },
-      "genitive": {
-        "singular": "Benzins",
-        "plural": "Benzine"
-      }
-    }
-  },
-  {
-    "lemma": "Benzintank",
-    "type": "noun",
-    "translations": [
-      "fuel tank",
-      "gas tank",
-      "petrol tank",
-      "gasoline tank"
-    ],
-    "level": "C2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Benzintank",
-        "plural": "Benzintanks"
-      },
-      "accusative": {
-        "singular": "Benzintank",
-        "plural": "Benzintanks"
-      },
-      "dative": {
-        "singular": "Benzintank",
-        "plural": "Benzintanks"
-      },
-      "genitive": {
-        "singular": "Benzintanks",
-        "plural": "Benzintanks"
-      }
-    }
-  },
-  {
-    "lemma": "Benzol",
-    "type": "noun",
-    "translations": [
-      "benzene",
-      "benzol"
-    ],
-    "level": "C2",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Benzol",
-        "plural": "Benzole"
-      },
-      "accusative": {
-        "singular": "Benzol",
-        "plural": "Benzole"
-      },
-      "dative": {
-        "singular": "Benzol",
-        "plural": "Benzolen"
-      },
-      "genitive": {
-        "singular": "Benzols",
-        "plural": "Benzole"
-      }
-    }
-  },
-  {
-    "lemma": "Beobachter",
-    "type": "noun",
-    "translations": [
-      "observer",
-      "looker",
-      "lookout",
-      "monitor",
-      "scanner",
-      "watcher"
-    ],
-    "level": "C1",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Beobachter",
-        "plural": "Beobachter"
-      },
-      "accusative": {
-        "singular": "Beobachter",
-        "plural": "Beobachter"
-      },
-      "dative": {
-        "singular": "Beobachter",
-        "plural": "Beobachtern"
-      },
-      "genitive": {
-        "singular": "Beobachters",
-        "plural": "Beobachter"
-      }
-    }
-  },
-  {
-    "lemma": "Beobachtung",
-    "type": "noun",
-    "translations": [
-      "observation",
-      "monitoring",
-      "notice",
-      "observance",
-      "observations",
-      "sighting",
-      "study",
-      "supervision",
-      "surveillance",
-      "watching"
-    ],
-    "level": "C2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Beobachtung",
-        "plural": "Beobachtungen"
-      },
-      "accusative": {
-        "singular": "Beobachtung",
-        "plural": "Beobachtungen"
-      },
-      "dative": {
-        "singular": "Beobachtung",
-        "plural": "Beobachtungen"
-      },
-      "genitive": {
-        "singular": "Beobachtung",
-        "plural": "Beobachtungen"
-      }
-    }
-  },
-  {
-    "lemma": "bepflastern",
-    "type": "verb",
-    "translations": [
-      "plaster",
-      "band-aid",
-      "zap"
-    ],
-    "level": "C2",
-    "separable": false,
-    "present": {
-      "ich": "bepflastere",
-      "du": "bepflasterst",
-      "es": "bepflastert",
-      "ihr": "bepflastert",
-      "Sie": "bepflastern"
-    },
-    "simple": {
-      "ich": "bepflasterte",
-      "du": "bepflastertest",
-      "es": "bepflasterte",
-      "ihr": "bepflastertet",
-      "Sie": "bepflasterten"
-    },
-    "conjunctive1": {
-      "ich": "bepflastere",
-      "du": "bepflasterst",
-      "es": "bepflastere",
-      "ihr": "bepflastert",
-      "Sie": "bepflastern"
-    },
-    "conjunctive2": {
-      "ich": "bepflasterte",
-      "du": "bepflastertest",
-      "es": "bepflasterte",
-      "ihr": "bepflastertet",
-      "Sie": "bepflasterten"
-    },
-    "imperative": {
-      "du": "bepflastere du",
-      "ihr": "bepflastert ihr",
-      "Sie": "bepflastern Sie"
-    },
-    "perfect": "bepflastert",
-    "gerund": "bepflasternd",
-    "zuinfinitive": "zu bepflastern"
-  },
-  {
-    "lemma": "Bequemlichkeit",
-    "type": "noun",
-    "translations": [
-      "comfort",
-      "laziness",
-      "convenience",
-      "accommodativeness",
-      "ease",
-      "idleness",
-      "snugness"
-    ],
-    "level": "B2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Bequemlichkeit",
-        "plural": "Bequemlichkeiten"
-      },
-      "accusative": {
-        "singular": "Bequemlichkeit",
-        "plural": "Bequemlichkeiten"
-      },
-      "dative": {
-        "singular": "Bequemlichkeit",
-        "plural": "Bequemlichkeiten"
-      },
-      "genitive": {
-        "singular": "Bequemlichkeit",
-        "plural": "Bequemlichkeiten"
-      }
-    }
-  },
-  {
-    "lemma": "Beratungsgespräch",
-    "type": "noun",
-    "translations": [
-      "consultation",
-      "counseling interview",
-      "counselling interview"
-    ],
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Beratungsgespräch",
-        "plural": "Beratungsgespräche"
-      },
-      "accusative": {
-        "singular": "Beratungsgespräch",
-        "plural": "Beratungsgespräche"
-      },
-      "dative": {
-        "singular": "Beratungsgespräch",
-        "plural": "Beratungsgesprächen"
-      },
-      "genitive": {
-        "singular": "Beratungsgespräches",
-        "plural": "Beratungsgespräche"
-      }
-    }
-  },
-  {
-    "lemma": "Berechnung",
-    "type": "noun",
-    "translations": [
-      "calculation",
-      "computation",
-      "account",
-      "calculated effect",
-      "charge",
-      "charging",
-      "counting",
-      "evaluation",
-      "expedience",
-      "reckoning",
-      "scheming"
-    ],
-    "level": "B2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Berechnung",
-        "plural": "Berechnungen"
-      },
-      "accusative": {
-        "singular": "Berechnung",
-        "plural": "Berechnungen"
-      },
-      "dative": {
-        "singular": "Berechnung",
-        "plural": "Berechnungen"
-      },
-      "genitive": {
-        "singular": "Berechnung",
-        "plural": "Berechnungen"
-      }
-    }
-  },
-  {
-    "lemma": "berechtigtsten",
-    "type": "adjective",
-    "translations": [
-      "entitled",
-      "legitimate"
-    ],
-    "level": "B1",
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "berechtigtster",
-        "f": "berechtigtste",
-        "n": "berechtigtstes",
-        "p": "berechtigtste"
-      },
-      "accusative": {
-        "m": "berechtigtsten",
-        "f": "berechtigtste",
-        "n": "berechtigtstes",
-        "p": "berechtigtste"
-      },
-      "dative": {
-        "m": "berechtigtstem",
-        "f": "berechtigtster",
-        "n": "berechtigtstem",
-        "p": "berechtigtsten"
-      },
-      "genitive": {
-        "m": "berechtigtsten",
-        "f": "berechtigtster",
-        "n": "berechtigtsten",
-        "p": "berechtigtster"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "berechtigtste",
-        "f": "berechtigtste",
-        "n": "berechtigtste",
-        "p": "berechtigtsten"
-      },
-      "accusative": {
-        "m": "berechtigtsten",
-        "f": "berechtigtste",
-        "n": "berechtigtste",
-        "p": "berechtigtsten"
-      },
-      "dative": {
-        "m": "berechtigtsten",
-        "f": "berechtigtsten",
-        "n": "berechtigtsten",
-        "p": "berechtigtsten"
-      },
-      "genitive": {
-        "m": "berechtigtsten",
-        "f": "berechtigtsten",
-        "n": "berechtigtsten",
-        "p": "berechtigtsten"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "berechtigtster",
-        "f": "berechtigtste",
-        "n": "berechtigtstes",
-        "p": "berechtigtsten"
-      },
-      "accusative": {
-        "m": "berechtigtsten",
-        "f": "berechtigtste",
-        "n": "berechtigtstes",
-        "p": "berechtigtsten"
-      },
-      "dative": {
-        "m": "berechtigtsten",
-        "f": "berechtigtsten",
-        "n": "berechtigtsten",
-        "p": "berechtigtsten"
-      },
-      "genitive": {
-        "m": "berechtigtsten",
-        "f": "berechtigtsten",
-        "n": "berechtigtsten",
-        "p": "berechtigtsten"
-      }
-    },
-    "isComparative": false,
-    "isSuperlative": true,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "berechtigter",
-    "superlative": "am berechtigtesten"
-  },
-  {
-    "lemma": "Berechtigung",
-    "type": "noun",
-    "translations": [
-      "entitlement",
-      "authorization",
-      "authority",
-      "authorisation",
-      "eligibility",
-      "justifiability",
-      "permission",
-      "permit",
-      "power",
-      "qualification",
-      "rating",
-      "right",
-      "value set",
-      "warrant",
-      "warranty"
-    ],
-    "level": "B2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Berechtigung",
-        "plural": "Berechtigungen"
-      },
-      "accusative": {
-        "singular": "Berechtigung",
-        "plural": "Berechtigungen"
-      },
-      "dative": {
-        "singular": "Berechtigung",
-        "plural": "Berechtigungen"
-      },
-      "genitive": {
-        "singular": "Berechtigung",
-        "plural": "Berechtigungen"
-      }
-    }
-  },
-  {
-    "lemma": "Bereitung",
-    "type": "noun",
-    "translations": [
-      "preparation",
-      "production",
-      "manufacture"
-    ],
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": true,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Bereitung",
-        "plural": null
-      },
-      "accusative": {
-        "singular": "Bereitung",
-        "plural": null
-      },
-      "dative": {
-        "singular": "Bereitung",
-        "plural": null
-      },
-      "genitive": {
-        "singular": "Bereitung",
-        "plural": null
-      }
-    }
-  },
-  {
-    "lemma": "bereitwilliger",
-    "type": "adjective",
-    "translations": [
-      "willing"
-    ],
-    "level": "C1",
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "bereitwilligerer",
-        "f": "bereitwilligere",
-        "n": "bereitwilligeres",
-        "p": "bereitwilligere"
-      },
-      "accusative": {
-        "m": "bereitwilligeren",
-        "f": "bereitwilligere",
-        "n": "bereitwilligeres",
-        "p": "bereitwilligere"
-      },
-      "dative": {
-        "m": "bereitwilligerem",
-        "f": "bereitwilligerer",
-        "n": "bereitwilligerem",
-        "p": "bereitwilligeren"
-      },
-      "genitive": {
-        "m": "bereitwilligeren",
-        "f": "bereitwilligerer",
-        "n": "bereitwilligeren",
-        "p": "bereitwilligerer"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "bereitwilligere",
-        "f": "bereitwilligere",
-        "n": "bereitwilligere",
-        "p": "bereitwilligeren"
-      },
-      "accusative": {
-        "m": "bereitwilligeren",
-        "f": "bereitwilligere",
-        "n": "bereitwilligere",
-        "p": "bereitwilligeren"
-      },
-      "dative": {
-        "m": "bereitwilligeren",
-        "f": "bereitwilligeren",
-        "n": "bereitwilligeren",
-        "p": "bereitwilligeren"
-      },
-      "genitive": {
-        "m": "bereitwilligeren",
-        "f": "bereitwilligeren",
-        "n": "bereitwilligeren",
-        "p": "bereitwilligeren"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "bereitwilligerer",
-        "f": "bereitwilligere",
-        "n": "bereitwilligeres",
-        "p": "bereitwilligeren"
-      },
-      "accusative": {
-        "m": "bereitwilligeren",
-        "f": "bereitwilligere",
-        "n": "bereitwilligeres",
-        "p": "bereitwilligeren"
-      },
-      "dative": {
-        "m": "bereitwilligeren",
-        "f": "bereitwilligeren",
-        "n": "bereitwilligeren",
-        "p": "bereitwilligeren"
-      },
-      "genitive": {
-        "m": "bereitwilligeren",
-        "f": "bereitwilligeren",
-        "n": "bereitwilligeren",
-        "p": "bereitwilligeren"
-      }
-    },
-    "isComparative": true,
-    "isSuperlative": false,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "bereitwilliger",
-    "superlative": "am bereitwilligsten"
-  },
-  {
-    "lemma": "bereitwilligsten",
-    "type": "adjective",
-    "translations": [
-      "willing"
-    ],
-    "level": "C1",
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "bereitwilligster",
-        "f": "bereitwilligste",
-        "n": "bereitwilligstes",
-        "p": "bereitwilligste"
-      },
-      "accusative": {
-        "m": "bereitwilligsten",
-        "f": "bereitwilligste",
-        "n": "bereitwilligstes",
-        "p": "bereitwilligste"
-      },
-      "dative": {
-        "m": "bereitwilligstem",
-        "f": "bereitwilligster",
-        "n": "bereitwilligstem",
-        "p": "bereitwilligsten"
-      },
-      "genitive": {
-        "m": "bereitwilligsten",
-        "f": "bereitwilligster",
-        "n": "bereitwilligsten",
-        "p": "bereitwilligster"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "bereitwilligste",
-        "f": "bereitwilligste",
-        "n": "bereitwilligste",
-        "p": "bereitwilligsten"
-      },
-      "accusative": {
-        "m": "bereitwilligsten",
-        "f": "bereitwilligste",
-        "n": "bereitwilligste",
-        "p": "bereitwilligsten"
-      },
-      "dative": {
-        "m": "bereitwilligsten",
-        "f": "bereitwilligsten",
-        "n": "bereitwilligsten",
-        "p": "bereitwilligsten"
-      },
-      "genitive": {
-        "m": "bereitwilligsten",
-        "f": "bereitwilligsten",
-        "n": "bereitwilligsten",
-        "p": "bereitwilligsten"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "bereitwilligster",
-        "f": "bereitwilligste",
-        "n": "bereitwilligstes",
-        "p": "bereitwilligsten"
-      },
-      "accusative": {
-        "m": "bereitwilligsten",
-        "f": "bereitwilligste",
-        "n": "bereitwilligstes",
-        "p": "bereitwilligsten"
-      },
-      "dative": {
-        "m": "bereitwilligsten",
-        "f": "bereitwilligsten",
-        "n": "bereitwilligsten",
-        "p": "bereitwilligsten"
-      },
-      "genitive": {
-        "m": "bereitwilligsten",
-        "f": "bereitwilligsten",
-        "n": "bereitwilligsten",
-        "p": "bereitwilligsten"
-      }
-    },
-    "isComparative": false,
-    "isSuperlative": true,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "bereitwilliger",
-    "superlative": "am bereitwilligsten"
-  },
-  {
-    "lemma": "Bergbau",
-    "type": "noun",
-    "translations": [
-      "mining",
-      "coal mining",
-      "mining industry"
-    ],
-    "level": "C1",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": true,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Bergbau",
-        "plural": null
-      },
-      "accusative": {
-        "singular": "Bergbau",
-        "plural": null
-      },
-      "dative": {
-        "singular": "Bergbau",
-        "plural": null
-      },
-      "genitive": {
-        "singular": "Bergbaues",
-        "plural": null
-      }
-    }
-  },
-  {
-    "lemma": "Berghang",
-    "type": "noun",
-    "translations": [
-      "hillside",
-      "slope",
-      "bank",
-      "coast",
-      "hillslope",
-      "mountain side",
-      "mountain slope",
-      "mountainside"
-    ],
-    "level": "C2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Berghang",
-        "plural": "Berghänge"
-      },
-      "accusative": {
-        "singular": "Berghang",
-        "plural": "Berghänge"
-      },
-      "dative": {
-        "singular": "Berghang",
-        "plural": "Berghängen"
-      },
-      "genitive": {
-        "singular": "Berghanges",
-        "plural": "Berghänge"
-      }
-    }
-  },
-  {
-    "lemma": "Bergmann",
-    "type": "noun",
-    "translations": [
-      "miner",
-      "digger",
-      "collier",
-      "pitman"
-    ],
-    "level": "C2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Bergmann",
-        "plural": "Bergleute"
-      },
-      "accusative": {
-        "singular": "Bergmann",
-        "plural": "Bergleute"
-      },
-      "dative": {
-        "singular": "Bergmann",
-        "plural": "Bergleuten"
-      },
-      "genitive": {
-        "singular": "Bergmanns",
-        "plural": "Bergleute"
-      }
-    }
-  },
-  {
-    "lemma": "Bergsee",
-    "type": "noun",
-    "translations": [
-      "mountain lake"
-    ],
-    "level": "C2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Bergsee",
-        "plural": "Bergseen"
-      },
-      "accusative": {
-        "singular": "Bergsee",
-        "plural": "Bergseen"
-      },
-      "dative": {
-        "singular": "Bergsee",
-        "plural": "Bergseen"
-      },
-      "genitive": {
-        "singular": "Bergsees",
-        "plural": "Bergseen"
-      }
-    }
-  },
-  {
-    "lemma": "Bergspitze",
-    "type": "noun",
-    "translations": [
-      "peak",
-      "mountain peak",
-      "hilltop",
-      "mountaintop",
-      "pinnacle"
-    ],
-    "level": "C2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Bergspitze",
-        "plural": "Bergspitzen"
-      },
-      "accusative": {
-        "singular": "Bergspitze",
-        "plural": "Bergspitzen"
-      },
-      "dative": {
-        "singular": "Bergspitze",
-        "plural": "Bergspitzen"
-      },
-      "genitive": {
-        "singular": "Bergspitze",
-        "plural": "Bergspitzen"
-      }
-    }
-  },
-  {
-    "lemma": "bergsteigen",
-    "type": "verb",
-    "translations": [
-      "go mountaineering",
-      "mountaineer"
-    ],
-    "level": "C2",
-    "separable": false,
-    "present": {
-      "ich": "bergsteige",
-      "du": "bergsteigst",
-      "es": "bergsteigt",
-      "ihr": "bergsteigt",
-      "Sie": "bergsteigen"
-    },
-    "simple": {
-      "ich": "bergstieg",
-      "du": "bergstiegst",
-      "es": "bergstieg",
-      "ihr": "bergstiegt",
-      "Sie": "bergstiegen"
-    },
-    "conjunctive1": {
-      "ich": "bergsteige",
-      "du": "bergsteigest",
-      "es": "bergsteige",
-      "ihr": "bergsteiget",
-      "Sie": "bergsteigen"
-    },
-    "conjunctive2": {
-      "ich": "bergstiege",
-      "du": "bergstiegest",
-      "es": "bergstiege",
-      "ihr": "bergstieget",
-      "Sie": "bergstiegen"
-    },
-    "imperative": {
-      "du": "bergsteige du",
-      "ihr": "bergsteigt ihr",
-      "Sie": "bergsteigen Sie"
-    },
-    "perfect": "berggestiegen",
-    "gerund": "bergsteigend",
-    "zuinfinitive": "bergzusteigen"
-  },
-  {
-    "lemma": "Bergwacht",
-    "type": "noun",
-    "translations": [
-      "mountain rescue service"
-    ],
-    "level": "C2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Bergwacht",
-        "plural": "Bergwachten"
-      },
-      "accusative": {
-        "singular": "Bergwacht",
-        "plural": "Bergwachten"
-      },
-      "dative": {
-        "singular": "Bergwacht",
-        "plural": "Bergwachten"
-      },
-      "genitive": {
-        "singular": "Bergwacht",
-        "plural": "Bergwachten"
-      }
-    }
-  },
-  {
-    "lemma": "Bergwerksstollen",
-    "type": "noun",
-    "translations": [
-      "mine shaft",
-      "mine tunnel"
-    ],
-    "level": "C2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Bergwerksstollen",
-        "plural": "Bergwerksstollen"
-      },
-      "accusative": {
-        "singular": "Bergwerksstollen",
-        "plural": "Bergwerksstollen"
-      },
-      "dative": {
-        "singular": "Bergwerksstollen",
-        "plural": "Bergwerksstollen"
-      },
-      "genitive": {
-        "singular": "Bergwerksstollens",
-        "plural": "Bergwerksstollen"
       }
     }
   }

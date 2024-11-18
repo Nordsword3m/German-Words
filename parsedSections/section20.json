@@ -1,45 +1,869 @@
 [
   {
-    "lemma": "Schicht",
+    "lemma": "Scheinwerferlicht",
     "type": "noun",
     "translations": [
-      "layer",
-      "shift",
-      "stratum",
-      "class",
-      "thickness",
-      "bed",
-      "coating",
-      "course",
-      "deposit",
-      "film",
-      "horizon",
-      "level",
-      "order",
-      "seam",
-      "tier"
+      "spotlight",
+      "floodlight",
+      "headlight"
     ],
-    "level": "B1",
+    "level": "C2",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Scheinwerferlicht",
+        "plural": "Scheinwerferlichter"
+      },
+      "accusative": {
+        "singular": "Scheinwerferlicht",
+        "plural": "Scheinwerferlichter"
+      },
+      "dative": {
+        "singular": "Scheinwerferlicht",
+        "plural": "Scheinwerferlichtern"
+      },
+      "genitive": {
+        "singular": "Scheinwerferlichtes",
+        "plural": "Scheinwerferlichter"
+      }
+    }
+  },
+  {
+    "lemma": "Scheiße",
+    "type": "noun",
+    "translations": [
+      "shit"
+    ],
+    "level": "C2",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": true,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Scheiße",
+        "plural": null
+      },
+      "accusative": {
+        "singular": "Scheiße",
+        "plural": null
+      },
+      "dative": {
+        "singular": "Scheiße",
+        "plural": null
+      },
+      "genitive": {
+        "singular": "Scheiße",
+        "plural": null
+      }
+    }
+  },
+  {
+    "lemma": "Scheitel",
+    "type": "noun",
+    "translations": [
+      "vertex",
+      "apex",
+      "crown",
+      "parting",
+      "peak",
+      "summit",
+      "crest",
+      "maximum",
+      "part",
+      "upper fold apex",
+      "zenith"
+    ],
+    "level": "C2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Scheitel",
+        "plural": "Scheitel"
+      },
+      "accusative": {
+        "singular": "Scheitel",
+        "plural": "Scheitel"
+      },
+      "dative": {
+        "singular": "Scheitel",
+        "plural": "Scheiteln"
+      },
+      "genitive": {
+        "singular": "Scheitels",
+        "plural": "Scheitel"
+      }
+    }
+  },
+  {
+    "lemma": "Schellen",
+    "type": "noun",
+    "translations": [
+      "diamonds"
+    ],
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": true,
+    "cases": {
+      "nominative": {
+        "singular": null,
+        "plural": "Schellen"
+      },
+      "accusative": {
+        "singular": null,
+        "plural": "Schellen"
+      },
+      "dative": {
+        "singular": null,
+        "plural": "Schellen"
+      },
+      "genitive": {
+        "singular": null,
+        "plural": "Schellen"
+      }
+    }
+  },
+  {
+    "lemma": "Schellfisch",
+    "type": "noun",
+    "translations": [
+      "haddock"
+    ],
+    "level": "C2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Schellfisch",
+        "plural": "Schellfische"
+      },
+      "accusative": {
+        "singular": "Schellfisch",
+        "plural": "Schellfische"
+      },
+      "dative": {
+        "singular": "Schellfisch",
+        "plural": "Schellfischen"
+      },
+      "genitive": {
+        "singular": "Schellfisches",
+        "plural": "Schellfische"
+      }
+    }
+  },
+  {
+    "lemma": "Schelte",
+    "type": "noun",
+    "translations": [
+      "scolding",
+      "rebuke",
+      "reprimand",
+      "wigging",
+      "chastisement",
+      "chiding",
+      "dressing-down",
+      "reproof",
+      "reproval",
+      "talking-to",
+      "telling-off",
+      "ticking-off",
+      "tongue-lashing",
+      "trouble"
+    ],
+    "level": "C2",
     "gender": "f",
     "noArticle": false,
     "singularOnly": false,
     "pluralOnly": false,
     "cases": {
       "nominative": {
-        "singular": "Schicht",
-        "plural": "Schichten"
+        "singular": "Schelte",
+        "plural": "Schelten"
       },
       "accusative": {
-        "singular": "Schicht",
-        "plural": "Schichten"
+        "singular": "Schelte",
+        "plural": "Schelten"
       },
       "dative": {
-        "singular": "Schicht",
-        "plural": "Schichten"
+        "singular": "Schelte",
+        "plural": "Schelten"
       },
       "genitive": {
-        "singular": "Schicht",
-        "plural": "Schichten"
+        "singular": "Schelte",
+        "plural": "Schelten"
+      }
+    }
+  },
+  {
+    "lemma": "Schemel",
+    "type": "noun",
+    "translations": [
+      "stool",
+      "footstool"
+    ],
+    "level": "C2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Schemel",
+        "plural": "Schemel"
+      },
+      "accusative": {
+        "singular": "Schemel",
+        "plural": "Schemel"
+      },
+      "dative": {
+        "singular": "Schemel",
+        "plural": "Schemeln"
+      },
+      "genitive": {
+        "singular": "Schemels",
+        "plural": "Schemel"
+      }
+    }
+  },
+  {
+    "lemma": "Schenke",
+    "type": "noun",
+    "translations": [
+      "bar",
+      "pub",
+      "tavern",
+      "alehouse",
+      "inn",
+      "public bar",
+      "taproom"
+    ],
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Schenke",
+        "plural": "Schenken"
+      },
+      "accusative": {
+        "singular": "Schenke",
+        "plural": "Schenken"
+      },
+      "dative": {
+        "singular": "Schenke",
+        "plural": "Schenken"
+      },
+      "genitive": {
+        "singular": "Schenke",
+        "plural": "Schenken"
+      }
+    }
+  },
+  {
+    "lemma": "Schenke",
+    "type": "noun",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Schenke",
+        "plural": "Schenken"
+      },
+      "accusative": {
+        "singular": "Schenken",
+        "plural": "Schenken"
+      },
+      "dative": {
+        "singular": "Schenken",
+        "plural": "Schenken"
+      },
+      "genitive": {
+        "singular": "Schenken",
+        "plural": "Schenken"
+      }
+    }
+  },
+  {
+    "lemma": "Schere",
+    "type": "noun",
+    "translations": [
+      "scissors",
+      "claw",
+      "clipper",
+      "gap",
+      "pair of scissors",
+      "shears",
+      "spread"
+    ],
+    "level": "A1",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Schere",
+        "plural": "Scheren"
+      },
+      "accusative": {
+        "singular": "Schere",
+        "plural": "Scheren"
+      },
+      "dative": {
+        "singular": "Schere",
+        "plural": "Scheren"
+      },
+      "genitive": {
+        "singular": "Schere",
+        "plural": "Scheren"
+      }
+    }
+  },
+  {
+    "lemma": "Schererei",
+    "type": "noun",
+    "translations": [
+      "trouble",
+      "annoyance",
+      "bother"
+    ],
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Schererei",
+        "plural": "Scherereien"
+      },
+      "accusative": {
+        "singular": "Schererei",
+        "plural": "Scherereien"
+      },
+      "dative": {
+        "singular": "Schererei",
+        "plural": "Scherereien"
+      },
+      "genitive": {
+        "singular": "Schererei",
+        "plural": "Scherereien"
+      }
+    }
+  },
+  {
+    "lemma": "Scherz",
+    "type": "noun",
+    "translations": [
+      "joke",
+      "jest",
+      "badinage",
+      "banter",
+      "frolic",
+      "fun",
+      "hoax",
+      "jokes",
+      "sport",
+      "tomfoolery"
+    ],
+    "level": "A1",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Scherz",
+        "plural": "Scherze"
+      },
+      "accusative": {
+        "singular": "Scherz",
+        "plural": "Scherze"
+      },
+      "dative": {
+        "singular": "Scherz",
+        "plural": "Scherzen"
+      },
+      "genitive": {
+        "singular": "Scherzes",
+        "plural": "Scherze"
+      }
+    }
+  },
+  {
+    "lemma": "Scherzartikel",
+    "type": "noun",
+    "translations": [
+      "joke article",
+      "practical joke device"
+    ],
+    "level": "C2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Scherzartikel",
+        "plural": "Scherzartikel"
+      },
+      "accusative": {
+        "singular": "Scherzartikel",
+        "plural": "Scherzartikel"
+      },
+      "dative": {
+        "singular": "Scherzartikel",
+        "plural": "Scherzartikeln"
+      },
+      "genitive": {
+        "singular": "Scherzartikels",
+        "plural": "Scherzartikel"
+      }
+    }
+  },
+  {
+    "lemma": "schesen",
+    "type": "verb",
+    "separable": false,
+    "present": {
+      "ich": "schese",
+      "du": "schest",
+      "es": "schest",
+      "ihr": "schest",
+      "Sie": "schesen"
+    },
+    "simple": {
+      "ich": "scheste",
+      "du": "schestest",
+      "es": "scheste",
+      "ihr": "schestet",
+      "Sie": "schesten"
+    },
+    "conjunctive1": {
+      "ich": "schese",
+      "du": "schesest",
+      "es": "schese",
+      "ihr": "scheset",
+      "Sie": "schesen"
+    },
+    "conjunctive2": {
+      "ich": "scheste",
+      "du": "schestest",
+      "es": "scheste",
+      "ihr": "schestet",
+      "Sie": "schesten"
+    },
+    "imperative": {
+      "du": "schese du",
+      "ihr": "schest ihr",
+      "Sie": "schesen Sie"
+    },
+    "perfect": "geschest",
+    "gerund": "schesend",
+    "zuinfinitive": "zu schesen"
+  },
+  {
+    "lemma": "Scheu",
+    "type": "noun",
+    "translations": [
+      "shyness",
+      "timidity",
+      "aversion",
+      "awe",
+      "bashfulness",
+      "dread",
+      "timidness"
+    ],
+    "level": "B2",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": true,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Scheu",
+        "plural": null
+      },
+      "accusative": {
+        "singular": "Scheu",
+        "plural": null
+      },
+      "dative": {
+        "singular": "Scheu",
+        "plural": null
+      },
+      "genitive": {
+        "singular": "Scheu",
+        "plural": null
+      }
+    }
+  },
+  {
+    "lemma": "Scheuerleiste",
+    "type": "noun",
+    "translations": [
+      "baseboard",
+      "curbing rib",
+      "kerbing rib",
+      "mopboard",
+      "rubbing strake",
+      "sheer rail",
+      "skirting",
+      "skirting board",
+      "washboard"
+    ],
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Scheuerleiste",
+        "plural": "Scheuerleisten"
+      },
+      "accusative": {
+        "singular": "Scheuerleiste",
+        "plural": "Scheuerleisten"
+      },
+      "dative": {
+        "singular": "Scheuerleiste",
+        "plural": "Scheuerleisten"
+      },
+      "genitive": {
+        "singular": "Scheuerleiste",
+        "plural": "Scheuerleisten"
+      }
+    }
+  },
+  {
+    "lemma": "Scheune",
+    "type": "noun",
+    "translations": [
+      "barn",
+      "granary"
+    ],
+    "level": "C2",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Scheune",
+        "plural": "Scheunen"
+      },
+      "accusative": {
+        "singular": "Scheune",
+        "plural": "Scheunen"
+      },
+      "dative": {
+        "singular": "Scheune",
+        "plural": "Scheunen"
+      },
+      "genitive": {
+        "singular": "Scheune",
+        "plural": "Scheunen"
+      }
+    }
+  },
+  {
+    "lemma": "Scheusal",
+    "type": "noun",
+    "translations": [
+      "monster",
+      "beast"
+    ],
+    "level": "C2",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Scheusal",
+        "plural": "Scheusale"
+      },
+      "accusative": {
+        "singular": "Scheusal",
+        "plural": "Scheusale"
+      },
+      "dative": {
+        "singular": "Scheusal",
+        "plural": "Scheusalen"
+      },
+      "genitive": {
+        "singular": "Scheusals",
+        "plural": "Scheusale"
+      }
+    }
+  },
+  {
+    "lemma": "scheußlicher",
+    "type": "adjective",
+    "translations": [
+      "horrible",
+      "abominable",
+      "atrocious",
+      "awful"
+    ],
+    "level": "A2",
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "scheußlicherer",
+        "f": "scheußlichere",
+        "n": "scheußlicheres",
+        "p": "scheußlichere"
+      },
+      "accusative": {
+        "m": "scheußlicheren",
+        "f": "scheußlichere",
+        "n": "scheußlicheres",
+        "p": "scheußlichere"
+      },
+      "dative": {
+        "m": "scheußlicherem",
+        "f": "scheußlicherer",
+        "n": "scheußlicherem",
+        "p": "scheußlicheren"
+      },
+      "genitive": {
+        "m": "scheußlicheren",
+        "f": "scheußlicherer",
+        "n": "scheußlicheren",
+        "p": "scheußlicherer"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "scheußlichere",
+        "f": "scheußlichere",
+        "n": "scheußlichere",
+        "p": "scheußlicheren"
+      },
+      "accusative": {
+        "m": "scheußlicheren",
+        "f": "scheußlichere",
+        "n": "scheußlichere",
+        "p": "scheußlicheren"
+      },
+      "dative": {
+        "m": "scheußlicheren",
+        "f": "scheußlicheren",
+        "n": "scheußlicheren",
+        "p": "scheußlicheren"
+      },
+      "genitive": {
+        "m": "scheußlicheren",
+        "f": "scheußlicheren",
+        "n": "scheußlicheren",
+        "p": "scheußlicheren"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "scheußlicherer",
+        "f": "scheußlichere",
+        "n": "scheußlicheres",
+        "p": "scheußlicheren"
+      },
+      "accusative": {
+        "m": "scheußlicheren",
+        "f": "scheußlichere",
+        "n": "scheußlicheres",
+        "p": "scheußlicheren"
+      },
+      "dative": {
+        "m": "scheußlicheren",
+        "f": "scheußlicheren",
+        "n": "scheußlicheren",
+        "p": "scheußlicheren"
+      },
+      "genitive": {
+        "m": "scheußlicheren",
+        "f": "scheußlicheren",
+        "n": "scheußlicheren",
+        "p": "scheußlicheren"
+      }
+    },
+    "isComparative": true,
+    "isSuperlative": false,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "scheußlicher",
+    "superlative": "am scheußlichsten"
+  },
+  {
+    "lemma": "scheußlichsten",
+    "type": "adjective",
+    "translations": [
+      "horrible",
+      "abominable",
+      "atrocious",
+      "awful"
+    ],
+    "level": "A2",
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "scheußlichster",
+        "f": "scheußlichste",
+        "n": "scheußlichstes",
+        "p": "scheußlichste"
+      },
+      "accusative": {
+        "m": "scheußlichsten",
+        "f": "scheußlichste",
+        "n": "scheußlichstes",
+        "p": "scheußlichste"
+      },
+      "dative": {
+        "m": "scheußlichstem",
+        "f": "scheußlichster",
+        "n": "scheußlichstem",
+        "p": "scheußlichsten"
+      },
+      "genitive": {
+        "m": "scheußlichsten",
+        "f": "scheußlichster",
+        "n": "scheußlichsten",
+        "p": "scheußlichster"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "scheußlichste",
+        "f": "scheußlichste",
+        "n": "scheußlichste",
+        "p": "scheußlichsten"
+      },
+      "accusative": {
+        "m": "scheußlichsten",
+        "f": "scheußlichste",
+        "n": "scheußlichste",
+        "p": "scheußlichsten"
+      },
+      "dative": {
+        "m": "scheußlichsten",
+        "f": "scheußlichsten",
+        "n": "scheußlichsten",
+        "p": "scheußlichsten"
+      },
+      "genitive": {
+        "m": "scheußlichsten",
+        "f": "scheußlichsten",
+        "n": "scheußlichsten",
+        "p": "scheußlichsten"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "scheußlichster",
+        "f": "scheußlichste",
+        "n": "scheußlichstes",
+        "p": "scheußlichsten"
+      },
+      "accusative": {
+        "m": "scheußlichsten",
+        "f": "scheußlichste",
+        "n": "scheußlichstes",
+        "p": "scheußlichsten"
+      },
+      "dative": {
+        "m": "scheußlichsten",
+        "f": "scheußlichsten",
+        "n": "scheußlichsten",
+        "p": "scheußlichsten"
+      },
+      "genitive": {
+        "m": "scheußlichsten",
+        "f": "scheußlichsten",
+        "n": "scheußlichsten",
+        "p": "scheußlichsten"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": true,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "scheußlicher",
+    "superlative": "am scheußlichsten"
+  },
+  {
+    "lemma": "Schi",
+    "type": "noun",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Schi",
+        "plural": "Schier"
+      },
+      "accusative": {
+        "singular": "Schi",
+        "plural": "Schier"
+      },
+      "dative": {
+        "singular": "Schi",
+        "plural": "Schiern"
+      },
+      "genitive": {
+        "singular": "Schis",
+        "plural": "Schier"
+      }
+    }
+  },
+  {
+    "lemma": "Schick",
+    "type": "noun",
+    "translations": [
+      "peachiness",
+      "style"
+    ],
+    "level": "C2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": true,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Schick",
+        "plural": null
+      },
+      "accusative": {
+        "singular": "Schick",
+        "plural": null
+      },
+      "dative": {
+        "singular": "Schick",
+        "plural": null
+      },
+      "genitive": {
+        "singular": "Schickes",
+        "plural": null
       }
     }
   },
@@ -454,51 +1278,6 @@
     }
   },
   {
-    "lemma": "Schiene",
-    "type": "noun",
-    "translations": [
-      "rail",
-      "splint",
-      "approach",
-      "bar",
-      "busbar",
-      "contact",
-      "fishplate",
-      "guide rail",
-      "lease rod",
-      "main transmission line",
-      "night guard",
-      "rack",
-      "rails",
-      "runner",
-      "steel base plate",
-      "track"
-    ],
-    "level": "C2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Schiene",
-        "plural": "Schienen"
-      },
-      "accusative": {
-        "singular": "Schiene",
-        "plural": "Schienen"
-      },
-      "dative": {
-        "singular": "Schiene",
-        "plural": "Schienen"
-      },
-      "genitive": {
-        "singular": "Schiene",
-        "plural": "Schienen"
-      }
-    }
-  },
-  {
     "lemma": "Schienenstrang",
     "type": "noun",
     "translations": [
@@ -766,44 +1545,6 @@
       "genitive": {
         "singular": "Schießens",
         "plural": "Schießen"
-      }
-    }
-  },
-  {
-    "lemma": "Schiff",
-    "type": "noun",
-    "translations": [
-      "boat",
-      "ship",
-      "nave",
-      "aisle",
-      "boiler",
-      "craft",
-      "galley",
-      "transept",
-      "vessel"
-    ],
-    "level": "A1",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Schiff",
-        "plural": "Schiffe"
-      },
-      "accusative": {
-        "singular": "Schiff",
-        "plural": "Schiffe"
-      },
-      "dative": {
-        "singular": "Schiff",
-        "plural": "Schiffen"
-      },
-      "genitive": {
-        "singular": "Schiffes",
-        "plural": "Schiffe"
       }
     }
   },
@@ -1225,6 +1966,51 @@
     "superlative": "am schimmeligsten"
   },
   {
+    "lemma": "Schimmer",
+    "type": "noun",
+    "translations": [
+      "glimmer",
+      "gleam",
+      "shine",
+      "glint",
+      "loom",
+      "luster",
+      "lustre",
+      "nacreous luster",
+      "nacreous lustre",
+      "pearly luster",
+      "pearly lustre",
+      "ray",
+      "rays",
+      "sheen",
+      "shimmer",
+      "slightest trace"
+    ],
+    "level": "C2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Schimmer",
+        "plural": "Schimmer"
+      },
+      "accusative": {
+        "singular": "Schimmer",
+        "plural": "Schimmer"
+      },
+      "dative": {
+        "singular": "Schimmer",
+        "plural": "Schimmern"
+      },
+      "genitive": {
+        "singular": "Schimmers",
+        "plural": "Schimmer"
+      }
+    }
+  },
+  {
     "lemma": "Schimpanse",
     "type": "noun",
     "translations": [
@@ -1252,40 +2038,6 @@
       "genitive": {
         "singular": "Schimpansen",
         "plural": "Schimpansen"
-      }
-    }
-  },
-  {
-    "lemma": "Schimpf",
-    "type": "noun",
-    "translations": [
-      "abuse",
-      "affront",
-      "contumeliousness",
-      "dishonor",
-      "dishonour"
-    ],
-    "level": "C2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Schimpf",
-        "plural": "Schimpfe"
-      },
-      "accusative": {
-        "singular": "Schimpf",
-        "plural": "Schimpfe"
-      },
-      "dative": {
-        "singular": "Schimpf",
-        "plural": "Schimpfen"
-      },
-      "genitive": {
-        "singular": "Schimpfes",
-        "plural": "Schimpfe"
       }
     }
   },
@@ -2871,37 +3623,6 @@
     "noComparative": false
   },
   {
-    "lemma": "Schlafzimmer",
-    "type": "noun",
-    "translations": [
-      "bedroom",
-      "bedroom suite"
-    ],
-    "level": "A1",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Schlafzimmer",
-        "plural": "Schlafzimmer"
-      },
-      "accusative": {
-        "singular": "Schlafzimmer",
-        "plural": "Schlafzimmer"
-      },
-      "dative": {
-        "singular": "Schlafzimmer",
-        "plural": "Schlafzimmern"
-      },
-      "genitive": {
-        "singular": "Schlafzimmers",
-        "plural": "Schlafzimmer"
-      }
-    }
-  },
-  {
     "lemma": "Schlafzimmerfenster",
     "type": "noun",
     "translations": [
@@ -2958,55 +3679,6 @@
       "genitive": {
         "singular": "Schlafzimmertür",
         "plural": "Schlafzimmertüren"
-      }
-    }
-  },
-  {
-    "lemma": "Schlag",
-    "type": "noun",
-    "translations": [
-      "stroke",
-      "hit",
-      "strike",
-      "beat",
-      "blow",
-      "punch",
-      "slap",
-      "type",
-      "field",
-      "portion",
-      "shock",
-      "door",
-      "kind",
-      "slog",
-      "whipped cream",
-      "attack",
-      "bang",
-      "beating",
-      "birdsong",
-      "bolt of lightning"
-    ],
-    "level": "B2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Schlag",
-        "plural": "Schläge"
-      },
-      "accusative": {
-        "singular": "Schlag",
-        "plural": "Schläge"
-      },
-      "dative": {
-        "singular": "Schlag",
-        "plural": "Schlägen"
-      },
-      "genitive": {
-        "singular": "Schlages",
-        "plural": "Schläge"
       }
     }
   },
@@ -3313,105 +3985,6 @@
     "perfect": "geschlägert",
     "gerund": "schlägernd",
     "zuinfinitive": "zu schlägern"
-  },
-  {
-    "lemma": "schlagfertiger",
-    "type": "adjective",
-    "translations": [
-      "quick-witted",
-      "good at repartee"
-    ],
-    "level": "C1",
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "schlagfertigerer",
-        "f": "schlagfertigere",
-        "n": "schlagfertigeres",
-        "p": "schlagfertigere"
-      },
-      "accusative": {
-        "m": "schlagfertigeren",
-        "f": "schlagfertigere",
-        "n": "schlagfertigeres",
-        "p": "schlagfertigere"
-      },
-      "dative": {
-        "m": "schlagfertigerem",
-        "f": "schlagfertigerer",
-        "n": "schlagfertigerem",
-        "p": "schlagfertigeren"
-      },
-      "genitive": {
-        "m": "schlagfertigeren",
-        "f": "schlagfertigerer",
-        "n": "schlagfertigeren",
-        "p": "schlagfertigerer"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "schlagfertigere",
-        "f": "schlagfertigere",
-        "n": "schlagfertigere",
-        "p": "schlagfertigeren"
-      },
-      "accusative": {
-        "m": "schlagfertigeren",
-        "f": "schlagfertigere",
-        "n": "schlagfertigere",
-        "p": "schlagfertigeren"
-      },
-      "dative": {
-        "m": "schlagfertigeren",
-        "f": "schlagfertigeren",
-        "n": "schlagfertigeren",
-        "p": "schlagfertigeren"
-      },
-      "genitive": {
-        "m": "schlagfertigeren",
-        "f": "schlagfertigeren",
-        "n": "schlagfertigeren",
-        "p": "schlagfertigeren"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "schlagfertigerer",
-        "f": "schlagfertigere",
-        "n": "schlagfertigeres",
-        "p": "schlagfertigeren"
-      },
-      "accusative": {
-        "m": "schlagfertigeren",
-        "f": "schlagfertigere",
-        "n": "schlagfertigeres",
-        "p": "schlagfertigeren"
-      },
-      "dative": {
-        "m": "schlagfertigeren",
-        "f": "schlagfertigeren",
-        "n": "schlagfertigeren",
-        "p": "schlagfertigeren"
-      },
-      "genitive": {
-        "m": "schlagfertigeren",
-        "f": "schlagfertigeren",
-        "n": "schlagfertigeren",
-        "p": "schlagfertigeren"
-      }
-    },
-    "isComparative": true,
-    "isSuperlative": false,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "schlagfertiger",
-    "superlative": "am schlagfertigsten"
   },
   {
     "lemma": "Schlagfertigkeit",
@@ -4656,6 +5229,105 @@
         "plural": "Schlangenlinien"
       }
     }
+  },
+  {
+    "lemma": "schlanksten",
+    "type": "adjective",
+    "translations": [
+      "slim",
+      "slender"
+    ],
+    "level": "B1",
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "schlankster",
+        "f": "schlankste",
+        "n": "schlankstes",
+        "p": "schlankste"
+      },
+      "accusative": {
+        "m": "schlanksten",
+        "f": "schlankste",
+        "n": "schlankstes",
+        "p": "schlankste"
+      },
+      "dative": {
+        "m": "schlankstem",
+        "f": "schlankster",
+        "n": "schlankstem",
+        "p": "schlanksten"
+      },
+      "genitive": {
+        "m": "schlanksten",
+        "f": "schlankster",
+        "n": "schlanksten",
+        "p": "schlankster"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "schlankste",
+        "f": "schlankste",
+        "n": "schlankste",
+        "p": "schlanksten"
+      },
+      "accusative": {
+        "m": "schlanksten",
+        "f": "schlankste",
+        "n": "schlankste",
+        "p": "schlanksten"
+      },
+      "dative": {
+        "m": "schlanksten",
+        "f": "schlanksten",
+        "n": "schlanksten",
+        "p": "schlanksten"
+      },
+      "genitive": {
+        "m": "schlanksten",
+        "f": "schlanksten",
+        "n": "schlanksten",
+        "p": "schlanksten"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "schlankster",
+        "f": "schlankste",
+        "n": "schlankstes",
+        "p": "schlanksten"
+      },
+      "accusative": {
+        "m": "schlanksten",
+        "f": "schlankste",
+        "n": "schlankstes",
+        "p": "schlanksten"
+      },
+      "dative": {
+        "m": "schlanksten",
+        "f": "schlanksten",
+        "n": "schlanksten",
+        "p": "schlanksten"
+      },
+      "genitive": {
+        "m": "schlanksten",
+        "f": "schlanksten",
+        "n": "schlanksten",
+        "p": "schlanksten"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": true,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "schlanker",
+    "superlative": "am schlankesten"
   },
   {
     "lemma": "Schlauchboot",
@@ -6705,6 +7377,44 @@
     }
   },
   {
+    "lemma": "Schlichter",
+    "type": "noun",
+    "translations": [
+      "mediator",
+      "arbitrator",
+      "arbiter",
+      "conciliator",
+      "intermediary",
+      "intermediator",
+      "referee",
+      "troubleshooter",
+      "umpire"
+    ],
+    "level": "C2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Schlichter",
+        "plural": "Schlichter"
+      },
+      "accusative": {
+        "singular": "Schlichter",
+        "plural": "Schlichter"
+      },
+      "dative": {
+        "singular": "Schlichter",
+        "plural": "Schlichtern"
+      },
+      "genitive": {
+        "singular": "Schlichters",
+        "plural": "Schlichter"
+      }
+    }
+  },
+  {
     "lemma": "schlichtesten",
     "type": "adjective",
     "translations": [
@@ -8028,55 +8738,6 @@
     }
   },
   {
-    "lemma": "Schluss",
-    "type": "noun",
-    "translations": [
-      "conclusion",
-      "end",
-      "termination",
-      "close",
-      "closing",
-      "inference",
-      "closure",
-      "agreement",
-      "back",
-      "cadence",
-      "closing time",
-      "decision",
-      "deduction",
-      "finish",
-      "fit",
-      "fullback",
-      "last part",
-      "resolution",
-      "seat",
-      "short"
-    ],
-    "level": "A1",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Schluss",
-        "plural": "Schlüsse"
-      },
-      "accusative": {
-        "singular": "Schluss",
-        "plural": "Schlüsse"
-      },
-      "dative": {
-        "singular": "Schluss",
-        "plural": "Schlüssen"
-      },
-      "genitive": {
-        "singular": "Schlusses",
-        "plural": "Schlüsse"
-      }
-    }
-  },
-  {
     "lemma": "Schlüsselanhänger",
     "type": "noun",
     "translations": [
@@ -9094,52 +9755,6 @@
     }
   },
   {
-    "lemma": "Schmelze",
-    "type": "noun",
-    "translations": [
-      "melting",
-      "melt",
-      "molten mass",
-      "cast",
-      "flux",
-      "fused material",
-      "heat",
-      "ladle",
-      "liquefied material",
-      "liquid fused rock",
-      "magma",
-      "melted mass",
-      "molten metal",
-      "smelter",
-      "smeltery",
-      "smelting",
-      "thaw"
-    ],
-    "level": "C2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Schmelze",
-        "plural": "Schmelzen"
-      },
-      "accusative": {
-        "singular": "Schmelze",
-        "plural": "Schmelzen"
-      },
-      "dative": {
-        "singular": "Schmelze",
-        "plural": "Schmelzen"
-      },
-      "genitive": {
-        "singular": "Schmelze",
-        "plural": "Schmelzen"
-      }
-    }
-  },
-  {
     "lemma": "Schmelzer",
     "type": "noun",
     "translations": [
@@ -9537,103 +10152,6 @@
     "noComparative": false,
     "comparative": "schmerzerfüllter",
     "superlative": "am schmerzerfülltesten"
-  },
-  {
-    "lemma": "schmerzhaftesten",
-    "type": "adjective",
-    "translations": [
-      "painful"
-    ],
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "schmerzhaftester",
-        "f": "schmerzhafteste",
-        "n": "schmerzhaftestes",
-        "p": "schmerzhafteste"
-      },
-      "accusative": {
-        "m": "schmerzhaftesten",
-        "f": "schmerzhafteste",
-        "n": "schmerzhaftestes",
-        "p": "schmerzhafteste"
-      },
-      "dative": {
-        "m": "schmerzhaftestem",
-        "f": "schmerzhaftester",
-        "n": "schmerzhaftestem",
-        "p": "schmerzhaftesten"
-      },
-      "genitive": {
-        "m": "schmerzhaftesten",
-        "f": "schmerzhaftester",
-        "n": "schmerzhaftesten",
-        "p": "schmerzhaftester"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "schmerzhafteste",
-        "f": "schmerzhafteste",
-        "n": "schmerzhafteste",
-        "p": "schmerzhaftesten"
-      },
-      "accusative": {
-        "m": "schmerzhaftesten",
-        "f": "schmerzhafteste",
-        "n": "schmerzhafteste",
-        "p": "schmerzhaftesten"
-      },
-      "dative": {
-        "m": "schmerzhaftesten",
-        "f": "schmerzhaftesten",
-        "n": "schmerzhaftesten",
-        "p": "schmerzhaftesten"
-      },
-      "genitive": {
-        "m": "schmerzhaftesten",
-        "f": "schmerzhaftesten",
-        "n": "schmerzhaftesten",
-        "p": "schmerzhaftesten"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "schmerzhaftester",
-        "f": "schmerzhafteste",
-        "n": "schmerzhaftestes",
-        "p": "schmerzhaftesten"
-      },
-      "accusative": {
-        "m": "schmerzhaftesten",
-        "f": "schmerzhafteste",
-        "n": "schmerzhaftestes",
-        "p": "schmerzhaftesten"
-      },
-      "dative": {
-        "m": "schmerzhaftesten",
-        "f": "schmerzhaftesten",
-        "n": "schmerzhaftesten",
-        "p": "schmerzhaftesten"
-      },
-      "genitive": {
-        "m": "schmerzhaftesten",
-        "f": "schmerzhaftesten",
-        "n": "schmerzhaftesten",
-        "p": "schmerzhaftesten"
-      }
-    },
-    "isComparative": false,
-    "isSuperlative": true,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "schmerzhafter",
-    "superlative": "am schmerzhaftesten"
   },
   {
     "lemma": "schmerzlichsten",
@@ -10587,42 +11105,6 @@
     }
   },
   {
-    "lemma": "Schmuck",
-    "type": "noun",
-    "translations": [
-      "jewelry",
-      "ornament",
-      "adornment",
-      "embellishment",
-      "jewellery",
-      "ornamentation",
-      "piece of jewellery"
-    ],
-    "level": "A1",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Schmuck",
-        "plural": "Schmucke"
-      },
-      "accusative": {
-        "singular": "Schmuck",
-        "plural": "Schmucke"
-      },
-      "dative": {
-        "singular": "Schmuck",
-        "plural": "Schmucken"
-      },
-      "genitive": {
-        "singular": "Schmuckes",
-        "plural": "Schmucke"
-      }
-    }
-  },
-  {
     "lemma": "Schmuckstück",
     "type": "noun",
     "translations": [
@@ -11253,60 +11735,6 @@
     }
   },
   {
-    "lemma": "schnattern",
-    "type": "verb",
-    "translations": [
-      "babble",
-      "chatter",
-      "cackle",
-      "gabble",
-      "gaggle",
-      "gibber",
-      "jabber",
-      "quack",
-      "twitter",
-      "yatter"
-    ],
-    "level": "C2",
-    "separable": false,
-    "present": {
-      "ich": "schnattere",
-      "du": "schnatterst",
-      "es": "schnattert",
-      "ihr": "schnattert",
-      "Sie": "schnattern"
-    },
-    "simple": {
-      "ich": "schnatterte",
-      "du": "schnattertest",
-      "es": "schnatterte",
-      "ihr": "schnattertet",
-      "Sie": "schnatterten"
-    },
-    "conjunctive1": {
-      "ich": "schnattere",
-      "du": "schnatterst",
-      "es": "schnattere",
-      "ihr": "schnattert",
-      "Sie": "schnattern"
-    },
-    "conjunctive2": {
-      "ich": "schnatterte",
-      "du": "schnattertest",
-      "es": "schnatterte",
-      "ihr": "schnattertet",
-      "Sie": "schnatterten"
-    },
-    "imperative": {
-      "du": "schnattere du",
-      "ihr": "schnattert ihr",
-      "Sie": "schnattern Sie"
-    },
-    "perfect": "geschnattert",
-    "gerund": "schnatternd",
-    "zuinfinitive": "zu schnattern"
-  },
-  {
     "lemma": "schnatzen",
     "type": "verb",
     "separable": false,
@@ -11651,52 +12079,6 @@
       },
       "genitive": {
         "singular": "Schnecks",
-        "plural": "Schnecken"
-      }
-    }
-  },
-  {
-    "lemma": "Schnecke",
-    "type": "noun",
-    "translations": [
-      "snail",
-      "cochlea",
-      "scroll",
-      "slug",
-      "worm gear",
-      "Chelsea bun",
-      "auger",
-      "crumpet",
-      "fusee",
-      "loop",
-      "screw",
-      "snails",
-      "spiral",
-      "spiral staircase",
-      "volute",
-      "winding staircase",
-      "worm"
-    ],
-    "level": "C2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Schnecke",
-        "plural": "Schnecken"
-      },
-      "accusative": {
-        "singular": "Schnecke",
-        "plural": "Schnecken"
-      },
-      "dative": {
-        "singular": "Schnecke",
-        "plural": "Schnecken"
-      },
-      "genitive": {
-        "singular": "Schnecke",
         "plural": "Schnecken"
       }
     }
@@ -13386,6 +13768,93 @@
     }
   },
   {
+    "lemma": "schnöden",
+    "type": "verb",
+    "separable": false,
+    "present": {
+      "ich": "schnöde",
+      "du": "schnödest",
+      "es": "schnödet",
+      "ihr": "schnödet",
+      "Sie": "schnöden"
+    },
+    "simple": {
+      "ich": "schnödete",
+      "du": "schnödetest",
+      "es": "schnödete",
+      "ihr": "schnödetet",
+      "Sie": "schnödeten"
+    },
+    "conjunctive1": {
+      "ich": "schnöde",
+      "du": "schnödest",
+      "es": "schnöde",
+      "ihr": "schnödet",
+      "Sie": "schnöden"
+    },
+    "conjunctive2": {
+      "ich": "schnödete",
+      "du": "schnödetest",
+      "es": "schnödete",
+      "ihr": "schnödetet",
+      "Sie": "schnödeten"
+    },
+    "imperative": {
+      "du": "schnöde du",
+      "ihr": "schnödet ihr",
+      "Sie": "schnöden Sie"
+    },
+    "perfect": "geschnödet",
+    "gerund": "schnödend",
+    "zuinfinitive": "zu schnöden"
+  },
+  {
+    "lemma": "schnorcheln",
+    "type": "verb",
+    "translations": [
+      "snorkel",
+      "skin-dive"
+    ],
+    "level": "C2",
+    "separable": false,
+    "present": {
+      "ich": "schnorchele",
+      "du": "schnorchelst",
+      "es": "schnorchelt",
+      "ihr": "schnorchelt",
+      "Sie": "schnorcheln"
+    },
+    "simple": {
+      "ich": "schnorchelte",
+      "du": "schnorcheltest",
+      "es": "schnorchelte",
+      "ihr": "schnorcheltet",
+      "Sie": "schnorchelten"
+    },
+    "conjunctive1": {
+      "ich": "schnorchele",
+      "du": "schnorchelst",
+      "es": "schnorchele",
+      "ihr": "schnorchelt",
+      "Sie": "schnorcheln"
+    },
+    "conjunctive2": {
+      "ich": "schnorchelte",
+      "du": "schnorcheltest",
+      "es": "schnorchelte",
+      "ihr": "schnorcheltet",
+      "Sie": "schnorchelten"
+    },
+    "imperative": {
+      "du": "schnorchele du",
+      "ihr": "schnorchelt ihr",
+      "Sie": "schnorcheln Sie"
+    },
+    "perfect": "geschnorchelt",
+    "gerund": "schnorchelnd",
+    "zuinfinitive": "zu schnorcheln"
+  },
+  {
     "lemma": "schnörkeln",
     "type": "verb",
     "translations": [
@@ -14236,38 +14705,6 @@
       "genitive": {
         "singular": "Schockers",
         "plural": "Schocker"
-      }
-    }
-  },
-  {
-    "lemma": "Schokolade",
-    "type": "noun",
-    "translations": [
-      "chocolate",
-      "hot chocolate",
-      "chocolate milk"
-    ],
-    "level": "A1",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Schokolade",
-        "plural": "Schokoladen"
-      },
-      "accusative": {
-        "singular": "Schokolade",
-        "plural": "Schokoladen"
-      },
-      "dative": {
-        "singular": "Schokolade",
-        "plural": "Schokoladen"
-      },
-      "genitive": {
-        "singular": "Schokolade",
-        "plural": "Schokoladen"
       }
     }
   },
@@ -16202,38 +16639,6 @@
     }
   },
   {
-    "lemma": "Schreibtisch",
-    "type": "noun",
-    "translations": [
-      "desk",
-      "bureau",
-      "writing table"
-    ],
-    "level": "A1",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Schreibtisch",
-        "plural": "Schreibtische"
-      },
-      "accusative": {
-        "singular": "Schreibtisch",
-        "plural": "Schreibtische"
-      },
-      "dative": {
-        "singular": "Schreibtisch",
-        "plural": "Schreibtischen"
-      },
-      "genitive": {
-        "singular": "Schreibtisches",
-        "plural": "Schreibtische"
-      }
-    }
-  },
-  {
     "lemma": "Schreibtischlampe",
     "type": "noun",
     "translations": [
@@ -17369,6 +17774,55 @@
     "noComparative": false,
     "comparative": "schrulliger",
     "superlative": "am schrulligsten"
+  },
+  {
+    "lemma": "schrumpeln",
+    "type": "verb",
+    "translations": [
+      "shrivel",
+      "shrivel fruit",
+      "shrivel up fruit",
+      "wizen",
+      "wrinkle fruit"
+    ],
+    "level": "C2",
+    "separable": false,
+    "present": {
+      "ich": "schrumpele",
+      "du": "schrumpelst",
+      "es": "schrumpelt",
+      "ihr": "schrumpelt",
+      "Sie": "schrumpeln"
+    },
+    "simple": {
+      "ich": "schrumpelte",
+      "du": "schrumpeltest",
+      "es": "schrumpelte",
+      "ihr": "schrumpeltet",
+      "Sie": "schrumpelten"
+    },
+    "conjunctive1": {
+      "ich": "schrumpele",
+      "du": "schrumpelst",
+      "es": "schrumpele",
+      "ihr": "schrumpelt",
+      "Sie": "schrumpeln"
+    },
+    "conjunctive2": {
+      "ich": "schrumpelte",
+      "du": "schrumpeltest",
+      "es": "schrumpelte",
+      "ihr": "schrumpeltet",
+      "Sie": "schrumpelten"
+    },
+    "imperative": {
+      "du": "schrumpele du",
+      "ihr": "schrumpelt ihr",
+      "Sie": "schrumpeln Sie"
+    },
+    "perfect": "geschrumpelt",
+    "gerund": "schrumpelnd",
+    "zuinfinitive": "zu schrumpeln"
   },
   {
     "lemma": "Schrumpfkopf",
@@ -20004,45 +20458,6 @@
     }
   },
   {
-    "lemma": "Schuppen",
-    "type": "noun",
-    "translations": [
-      "shed",
-      "joint",
-      "dive",
-      "gaff",
-      "hovel",
-      "shack",
-      "shanty",
-      "shelter",
-      "transit shed",
-      "warehouse"
-    ],
-    "level": "C2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Schuppen",
-        "plural": "Schuppen"
-      },
-      "accusative": {
-        "singular": "Schuppen",
-        "plural": "Schuppen"
-      },
-      "dative": {
-        "singular": "Schuppen",
-        "plural": "Schuppen"
-      },
-      "genitive": {
-        "singular": "Schuppens",
-        "plural": "Schuppen"
-      }
-    }
-  },
-  {
     "lemma": "Schürfwunde",
     "type": "noun",
     "translations": [
@@ -20235,49 +20650,6 @@
     "perfect": "geschürzt",
     "gerund": "schürzend",
     "zuinfinitive": "zu schürzen"
-  },
-  {
-    "lemma": "Schuss",
-    "type": "noun",
-    "translations": [
-      "shot",
-      "kick",
-      "splash",
-      "weft",
-      "blast",
-      "course",
-      "filling",
-      "gunshoot",
-      "lacing",
-      "pop",
-      "round",
-      "shoot",
-      "shute",
-      "woof"
-    ],
-    "level": "C2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Schuss",
-        "plural": "Schüsse"
-      },
-      "accusative": {
-        "singular": "Schuss",
-        "plural": "Schüsse"
-      },
-      "dative": {
-        "singular": "Schuss",
-        "plural": "Schüssen"
-      },
-      "genitive": {
-        "singular": "Schusses",
-        "plural": "Schüsse"
-      }
-    }
   },
   {
     "lemma": "schussbereit",
@@ -20504,6 +20876,103 @@
         "plural": null
       }
     }
+  },
+  {
+    "lemma": "schütter",
+    "type": "adjective",
+    "translations": [
+      "thin"
+    ],
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "schütterer",
+        "f": "schüttere",
+        "n": "schütteres",
+        "p": "schüttere"
+      },
+      "accusative": {
+        "m": "schütteren",
+        "f": "schüttere",
+        "n": "schütteres",
+        "p": "schüttere"
+      },
+      "dative": {
+        "m": "schütterem",
+        "f": "schütterer",
+        "n": "schütterem",
+        "p": "schütteren"
+      },
+      "genitive": {
+        "m": "schütteren",
+        "f": "schütterer",
+        "n": "schütteren",
+        "p": "schütterer"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "schüttere",
+        "f": "schüttere",
+        "n": "schüttere",
+        "p": "schütteren"
+      },
+      "accusative": {
+        "m": "schütteren",
+        "f": "schüttere",
+        "n": "schüttere",
+        "p": "schütteren"
+      },
+      "dative": {
+        "m": "schütteren",
+        "f": "schütteren",
+        "n": "schütteren",
+        "p": "schütteren"
+      },
+      "genitive": {
+        "m": "schütteren",
+        "f": "schütteren",
+        "n": "schütteren",
+        "p": "schütteren"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "schütterer",
+        "f": "schüttere",
+        "n": "schütteres",
+        "p": "schütteren"
+      },
+      "accusative": {
+        "m": "schütteren",
+        "f": "schüttere",
+        "n": "schütteres",
+        "p": "schütteren"
+      },
+      "dative": {
+        "m": "schütteren",
+        "f": "schütteren",
+        "n": "schütteren",
+        "p": "schütteren"
+      },
+      "genitive": {
+        "m": "schütteren",
+        "f": "schütteren",
+        "n": "schütteren",
+        "p": "schütteren"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": false,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "schütterer",
+    "superlative": "am schüttersten"
   },
   {
     "lemma": "schütterer",
@@ -22248,6 +22717,43 @@
     }
   },
   {
+    "lemma": "Schwamm",
+    "type": "noun",
+    "translations": [
+      "sponge",
+      "fungus",
+      "Menger sponge",
+      "dry rot",
+      "eraser",
+      "mushroom",
+      "porifera",
+      "punk"
+    ],
+    "level": "C2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Schwamm",
+        "plural": "Schwämme"
+      },
+      "accusative": {
+        "singular": "Schwamm",
+        "plural": "Schwämme"
+      },
+      "dative": {
+        "singular": "Schwamm",
+        "plural": "Schwämmen"
+      },
+      "genitive": {
+        "singular": "Schwammes",
+        "plural": "Schwämme"
+      }
+    }
+  },
+  {
     "lemma": "Schwan",
     "type": "noun",
     "translations": [
@@ -22786,35 +23292,53 @@
     "zuinfinitive": "zu schwären"
   },
   {
-    "lemma": "Schwarz",
-    "type": "noun",
+    "lemma": "schwarz·fahren",
+    "type": "verb",
     "translations": [
-      "black",
-      "sable"
+      "dodge the fare",
+      "be a fare dodger",
+      "dodge paying the fare",
+      "drive without a license",
+      "fare-dodge"
     ],
-    "level": "C2",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Schwarz",
-        "plural": "Schwarz"
-      },
-      "accusative": {
-        "singular": "Schwarz",
-        "plural": "Schwarz"
-      },
-      "dative": {
-        "singular": "Schwarz",
-        "plural": "Schwarz"
-      },
-      "genitive": {
-        "singular": "Schwarzes",
-        "plural": "Schwarz"
-      }
-    }
+    "level": "B1",
+    "separable": true,
+    "present": {
+      "ich": "fahre schwarz",
+      "du": "fährst schwarz",
+      "es": "fährt schwarz",
+      "ihr": "fahrt schwarz",
+      "Sie": "fahren schwarz"
+    },
+    "simple": {
+      "ich": "fuhr schwarz",
+      "du": "fuhrst schwarz",
+      "es": "fuhr schwarz",
+      "ihr": "fuhrt schwarz",
+      "Sie": "fuhren schwarz"
+    },
+    "conjunctive1": {
+      "ich": "fahre schwarz",
+      "du": "fahrest schwarz",
+      "es": "fahre schwarz",
+      "ihr": "fahret schwarz",
+      "Sie": "fahren schwarz"
+    },
+    "conjunctive2": {
+      "ich": "führe schwarz",
+      "du": "führest schwarz",
+      "es": "führe schwarz",
+      "ihr": "führet schwarz",
+      "Sie": "führen schwarz"
+    },
+    "imperative": {
+      "du": "fahre du schwarz",
+      "ihr": "fahrt ihr schwarz",
+      "Sie": "fahren Sie schwarz"
+    },
+    "perfect": "schwarzgefahren",
+    "gerund": "schwarzfahrend",
+    "zuinfinitive": "schwarzzufahren"
   },
   {
     "lemma": "Schwärze",
@@ -23940,6 +24464,37 @@
     }
   },
   {
+    "lemma": "Schweigen",
+    "type": "noun",
+    "translations": [
+      "silence",
+      "hush"
+    ],
+    "level": "C2",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": true,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Schweigen",
+        "plural": null
+      },
+      "accusative": {
+        "singular": "Schweigen",
+        "plural": null
+      },
+      "dative": {
+        "singular": "Schweigen",
+        "plural": null
+      },
+      "genitive": {
+        "singular": "Schweigens",
+        "plural": null
+      }
+    }
+  },
+  {
     "lemma": "schweigsamer",
     "type": "adjective",
     "translations": [
@@ -24729,104 +25284,6 @@
     "noComparative": false,
     "comparative": "schweißfeuchter",
     "superlative": "am schweißfeuchtesten"
-  },
-  {
-    "lemma": "schweißgebadet",
-    "type": "adjective",
-    "translations": [
-      "sweaty"
-    ],
-    "level": "C1",
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "schweißgebadeter",
-        "f": "schweißgebadete",
-        "n": "schweißgebadetes",
-        "p": "schweißgebadete"
-      },
-      "accusative": {
-        "m": "schweißgebadeten",
-        "f": "schweißgebadete",
-        "n": "schweißgebadetes",
-        "p": "schweißgebadete"
-      },
-      "dative": {
-        "m": "schweißgebadetem",
-        "f": "schweißgebadeter",
-        "n": "schweißgebadetem",
-        "p": "schweißgebadeten"
-      },
-      "genitive": {
-        "m": "schweißgebadeten",
-        "f": "schweißgebadeter",
-        "n": "schweißgebadeten",
-        "p": "schweißgebadeter"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "schweißgebadete",
-        "f": "schweißgebadete",
-        "n": "schweißgebadete",
-        "p": "schweißgebadeten"
-      },
-      "accusative": {
-        "m": "schweißgebadeten",
-        "f": "schweißgebadete",
-        "n": "schweißgebadete",
-        "p": "schweißgebadeten"
-      },
-      "dative": {
-        "m": "schweißgebadeten",
-        "f": "schweißgebadeten",
-        "n": "schweißgebadeten",
-        "p": "schweißgebadeten"
-      },
-      "genitive": {
-        "m": "schweißgebadeten",
-        "f": "schweißgebadeten",
-        "n": "schweißgebadeten",
-        "p": "schweißgebadeten"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "schweißgebadeter",
-        "f": "schweißgebadete",
-        "n": "schweißgebadetes",
-        "p": "schweißgebadeten"
-      },
-      "accusative": {
-        "m": "schweißgebadeten",
-        "f": "schweißgebadete",
-        "n": "schweißgebadetes",
-        "p": "schweißgebadeten"
-      },
-      "dative": {
-        "m": "schweißgebadeten",
-        "f": "schweißgebadeten",
-        "n": "schweißgebadeten",
-        "p": "schweißgebadeten"
-      },
-      "genitive": {
-        "m": "schweißgebadeten",
-        "f": "schweißgebadeten",
-        "n": "schweißgebadeten",
-        "p": "schweißgebadeten"
-      }
-    },
-    "isComparative": false,
-    "isSuperlative": false,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "schweißgebadeter",
-    "superlative": "am schweißgebadetsten"
   },
   {
     "lemma": "schweißgebadeter",
@@ -28643,6 +29100,76 @@
     }
   },
   {
+    "lemma": "Score",
+    "type": "noun",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Score",
+        "plural": "Scores"
+      },
+      "accusative": {
+        "singular": "Score",
+        "plural": "Scores"
+      },
+      "dative": {
+        "singular": "Score",
+        "plural": "Scores"
+      },
+      "genitive": {
+        "singular": "Scores",
+        "plural": "Scores"
+      }
+    }
+  },
+  {
+    "lemma": "scratchen",
+    "type": "verb",
+    "translations": [
+      "scratch"
+    ],
+    "separable": false,
+    "present": {
+      "ich": "scratche",
+      "du": "scratchst",
+      "es": "scratcht",
+      "ihr": "scratcht",
+      "Sie": "scratchen"
+    },
+    "simple": {
+      "ich": "scratchte",
+      "du": "scratchtest",
+      "es": "scratchte",
+      "ihr": "scratchtet",
+      "Sie": "scratchten"
+    },
+    "conjunctive1": {
+      "ich": "scratche",
+      "du": "scratchest",
+      "es": "scratche",
+      "ihr": "scratchet",
+      "Sie": "scratchen"
+    },
+    "conjunctive2": {
+      "ich": "scratchte",
+      "du": "scratchtest",
+      "es": "scratchte",
+      "ihr": "scratchtet",
+      "Sie": "scratchten"
+    },
+    "imperative": {
+      "du": "scratche du",
+      "ihr": "scratcht ihr",
+      "Sie": "scratchen Sie"
+    },
+    "perfect": "gescratcht",
+    "gerund": "scratchend",
+    "zuinfinitive": "zu scratchen"
+  },
+  {
     "lemma": "Screen",
     "type": "noun",
     "translations": [
@@ -28950,6 +29477,102 @@
     }
   },
   {
+    "lemma": "sechshundert",
+    "type": "adjective",
+    "translations": [
+      "six hundred"
+    ],
+    "level": "A1",
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": true,
+    "absolute": true,
+    "notDeclinable": true,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "sechshundert"
+      },
+      "accusative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "sechshundert"
+      },
+      "dative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "sechshundert"
+      },
+      "genitive": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "sechshundert"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "sechshundert"
+      },
+      "accusative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "sechshundert"
+      },
+      "dative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "sechshundert"
+      },
+      "genitive": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "sechshundert"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "sechshundert"
+      },
+      "accusative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "sechshundert"
+      },
+      "dative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "sechshundert"
+      },
+      "genitive": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "sechshundert"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": false,
+    "superlativeOnly": false,
+    "noComparative": false
+  },
+  {
     "lemma": "sechzehn",
     "type": "adjective",
     "translations": [
@@ -29197,69 +29820,6 @@
       "genitive": {
         "singular": "Secondhandladens",
         "plural": "Secondhandläden"
-      }
-    }
-  },
-  {
-    "lemma": "See",
-    "type": "noun",
-    "translations": [
-      "sea",
-      "lake",
-      "forced waves"
-    ],
-    "level": "A1",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "See",
-        "plural": "Seen"
-      },
-      "accusative": {
-        "singular": "See",
-        "plural": "Seen"
-      },
-      "dative": {
-        "singular": "See",
-        "plural": "Seen"
-      },
-      "genitive": {
-        "singular": "See",
-        "plural": "Seen"
-      }
-    }
-  },
-  {
-    "lemma": "See",
-    "type": "noun",
-    "translations": [
-      "lake",
-      "loch"
-    ],
-    "level": "A1",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "See",
-        "plural": "Seen"
-      },
-      "accusative": {
-        "singular": "See",
-        "plural": "Seen"
-      },
-      "dative": {
-        "singular": "See",
-        "plural": "Seen"
-      },
-      "genitive": {
-        "singular": "Sees",
-        "plural": "Seen"
       }
     }
   },
@@ -29823,6 +30383,39 @@
       "genitive": {
         "singular": "Seezunge",
         "plural": "Seezungen"
+      }
+    }
+  },
+  {
+    "lemma": "Segel",
+    "type": "noun",
+    "translations": [
+      "sail",
+      "canvas",
+      "cloth",
+      "sails"
+    ],
+    "level": "C2",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Segel",
+        "plural": "Segel"
+      },
+      "accusative": {
+        "singular": "Segel",
+        "plural": "Segel"
+      },
+      "dative": {
+        "singular": "Segel",
+        "plural": "Segeln"
+      },
+      "genitive": {
+        "singular": "Segels",
+        "plural": "Segel"
       }
     }
   },
@@ -31336,38 +31929,6 @@
     }
   },
   {
-    "lemma": "Sein",
-    "type": "noun",
-    "translations": [
-      "being",
-      "existence",
-      "essence"
-    ],
-    "level": "C2",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": true,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Sein",
-        "plural": null
-      },
-      "accusative": {
-        "singular": "Sein",
-        "plural": null
-      },
-      "dative": {
-        "singular": "Sein",
-        "plural": null
-      },
-      "genitive": {
-        "singular": "Seins",
-        "plural": null
-      }
-    }
-  },
-  {
     "lemma": "Seine",
     "type": "noun",
     "translations": [
@@ -31870,39 +32431,6 @@
       "genitive": {
         "singular": "Sekretärs",
         "plural": "Sekretäre"
-      }
-    }
-  },
-  {
-    "lemma": "Sekretariat",
-    "type": "noun",
-    "translations": [
-      "office",
-      "secretariat",
-      "registry",
-      "secretarys office"
-    ],
-    "level": "A2",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Sekretariat",
-        "plural": "Sekretariate"
-      },
-      "accusative": {
-        "singular": "Sekretariat",
-        "plural": "Sekretariate"
-      },
-      "dative": {
-        "singular": "Sekretariat",
-        "plural": "Sekretariaten"
-      },
-      "genitive": {
-        "singular": "Sekretariates",
-        "plural": "Sekretariate"
       }
     }
   },
@@ -33503,6 +34031,36 @@
     }
   },
   {
+    "lemma": "Sen",
+    "type": "noun",
+    "translations": [
+      "sen"
+    ],
+    "level": "C2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Sen",
+        "plural": "Sen"
+      },
+      "accusative": {
+        "singular": "Sen",
+        "plural": "Sen"
+      },
+      "dative": {
+        "singular": "Sen",
+        "plural": "Sen"
+      },
+      "genitive": {
+        "singular": "Sens",
+        "plural": "Sen"
+      }
+    }
+  },
+  {
     "lemma": "Sendung",
     "type": "noun",
     "translations": [
@@ -34011,6 +34569,101 @@
     "noComparative": false,
     "comparative": "seniler",
     "superlative": "am senilsten"
+  },
+  {
+    "lemma": "senior",
+    "type": "adjective",
+    "translations": [
+      "senior"
+    ],
+    "predicativeOnly": true,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": true,
+    "notDeclinable": true,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": null
+      },
+      "accusative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": null
+      },
+      "dative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": null
+      },
+      "genitive": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": null
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": null
+      },
+      "accusative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": null
+      },
+      "dative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": null
+      },
+      "genitive": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": null
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": null
+      },
+      "accusative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": null
+      },
+      "dative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": null
+      },
+      "genitive": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": null
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": false,
+    "superlativeOnly": false,
+    "noComparative": false
   },
   {
     "lemma": "Seniorenheim",
@@ -34645,36 +35298,6 @@
     }
   },
   {
-    "lemma": "September",
-    "type": "noun",
-    "translations": [
-      "September"
-    ],
-    "level": "A1",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "September",
-        "plural": "September"
-      },
-      "accusative": {
-        "singular": "September",
-        "plural": "September"
-      },
-      "dative": {
-        "singular": "September",
-        "plural": "Septembern"
-      },
-      "genitive": {
-        "singular": "Septembers",
-        "plural": "September"
-      }
-    }
-  },
-  {
     "lemma": "Seriennummer",
     "type": "noun",
     "translations": [
@@ -35141,33 +35764,32 @@
     }
   },
   {
-    "lemma": "Shorts",
+    "lemma": "Shopping",
     "type": "noun",
     "translations": [
-      "shorts",
-      "pair of shorts"
+      "shopping"
     ],
-    "level": "C2",
-    "gender": null,
+    "level": "A1",
+    "gender": "n",
     "noArticle": false,
     "singularOnly": false,
-    "pluralOnly": true,
+    "pluralOnly": false,
     "cases": {
       "nominative": {
-        "singular": null,
-        "plural": "Shorts"
+        "singular": "Shopping",
+        "plural": "Shoppings"
       },
       "accusative": {
-        "singular": null,
-        "plural": "Shorts"
+        "singular": "Shopping",
+        "plural": "Shoppings"
       },
       "dative": {
-        "singular": null,
-        "plural": "Shorts"
+        "singular": "Shopping",
+        "plural": "Shoppings"
       },
       "genitive": {
-        "singular": null,
-        "plural": "Shorts"
+        "singular": "Shoppings",
+        "plural": "Shoppings"
       }
     }
   },
@@ -36118,6 +36740,102 @@
     }
   },
   {
+    "lemma": "siebenhundert",
+    "type": "adjective",
+    "translations": [
+      "seven hundred"
+    ],
+    "level": "A1",
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": true,
+    "absolute": true,
+    "notDeclinable": true,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "siebenhundert"
+      },
+      "accusative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "siebenhundert"
+      },
+      "dative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "siebenhundert"
+      },
+      "genitive": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "siebenhundert"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "siebenhundert"
+      },
+      "accusative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "siebenhundert"
+      },
+      "dative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "siebenhundert"
+      },
+      "genitive": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "siebenhundert"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "siebenhundert"
+      },
+      "accusative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "siebenhundert"
+      },
+      "dative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "siebenhundert"
+      },
+      "genitive": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "siebenhundert"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": false,
+    "superlativeOnly": false,
+    "noComparative": false
+  },
+  {
     "lemma": "Siebenkampf",
     "type": "noun",
     "translations": [
@@ -36331,6 +37049,102 @@
         "f": "siebzehnjährigen",
         "n": "siebzehnjährigen",
         "p": "siebzehnjährigen"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": false,
+    "superlativeOnly": false,
+    "noComparative": false
+  },
+  {
+    "lemma": "siebzig",
+    "type": "adjective",
+    "translations": [
+      "seventy"
+    ],
+    "level": "A1",
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": true,
+    "absolute": true,
+    "notDeclinable": true,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "siebzig"
+      },
+      "accusative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "siebzig"
+      },
+      "dative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "siebzig"
+      },
+      "genitive": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "siebzig"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "siebzig"
+      },
+      "accusative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "siebzig"
+      },
+      "dative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "siebzig"
+      },
+      "genitive": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "siebzig"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "siebzig"
+      },
+      "accusative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "siebzig"
+      },
+      "dative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "siebzig"
+      },
+      "genitive": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "siebzig"
       }
     },
     "isComparative": false,
@@ -36619,101 +37433,6 @@
         "plural": "Siegesserien"
       }
     }
-  },
-  {
-    "lemma": "siegessicher",
-    "type": "adjective",
-    "level": "B2",
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "siegessicherer",
-        "f": "siegessichere",
-        "n": "siegessicheres",
-        "p": "siegessichere"
-      },
-      "accusative": {
-        "m": "siegessicheren",
-        "f": "siegessichere",
-        "n": "siegessicheres",
-        "p": "siegessichere"
-      },
-      "dative": {
-        "m": "siegessicherem",
-        "f": "siegessicherer",
-        "n": "siegessicherem",
-        "p": "siegessicheren"
-      },
-      "genitive": {
-        "m": "siegessicheren",
-        "f": "siegessicherer",
-        "n": "siegessicheren",
-        "p": "siegessicherer"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "siegessichere",
-        "f": "siegessichere",
-        "n": "siegessichere",
-        "p": "siegessicheren"
-      },
-      "accusative": {
-        "m": "siegessicheren",
-        "f": "siegessichere",
-        "n": "siegessichere",
-        "p": "siegessicheren"
-      },
-      "dative": {
-        "m": "siegessicheren",
-        "f": "siegessicheren",
-        "n": "siegessicheren",
-        "p": "siegessicheren"
-      },
-      "genitive": {
-        "m": "siegessicheren",
-        "f": "siegessicheren",
-        "n": "siegessicheren",
-        "p": "siegessicheren"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "siegessicherer",
-        "f": "siegessichere",
-        "n": "siegessicheres",
-        "p": "siegessicheren"
-      },
-      "accusative": {
-        "m": "siegessicheren",
-        "f": "siegessichere",
-        "n": "siegessicheres",
-        "p": "siegessicheren"
-      },
-      "dative": {
-        "m": "siegessicheren",
-        "f": "siegessicheren",
-        "n": "siegessicheren",
-        "p": "siegessicheren"
-      },
-      "genitive": {
-        "m": "siegessicheren",
-        "f": "siegessicheren",
-        "n": "siegessicheren",
-        "p": "siegessicheren"
-      }
-    },
-    "isComparative": false,
-    "isSuperlative": false,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "siegessicherer",
-    "superlative": "am siegessichersten"
   },
   {
     "lemma": "siegessicherer",
@@ -37483,6 +38202,36 @@
     }
   },
   {
+    "lemma": "Signifikant",
+    "type": "noun",
+    "translations": [
+      "signifyer"
+    ],
+    "level": "C2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Signifikant",
+        "plural": "Signifikanten"
+      },
+      "accusative": {
+        "singular": "Signifikanten",
+        "plural": "Signifikanten"
+      },
+      "dative": {
+        "singular": "Signifikanten",
+        "plural": "Signifikanten"
+      },
+      "genitive": {
+        "singular": "Signifikanten",
+        "plural": "Signifikanten"
+      }
+    }
+  },
+  {
     "lemma": "Silbe",
     "type": "noun",
     "translations": [
@@ -37509,6 +38258,41 @@
       "genitive": {
         "singular": "Silbe",
         "plural": "Silben"
+      }
+    }
+  },
+  {
+    "lemma": "Silber",
+    "type": "noun",
+    "translations": [
+      "silver",
+      "silver color",
+      "silverware",
+      "argent",
+      "silver medal",
+      "unfill"
+    ],
+    "level": "B2",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": true,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Silber",
+        "plural": null
+      },
+      "accusative": {
+        "singular": "Silber",
+        "plural": null
+      },
+      "dative": {
+        "singular": "Silber",
+        "plural": null
+      },
+      "genitive": {
+        "singular": "Silbers",
+        "plural": null
       }
     }
   },
@@ -38098,6 +38882,40 @@
       "genitive": {
         "singular": "Silvesters",
         "plural": "Silvester"
+      }
+    }
+  },
+  {
+    "lemma": "Simpel",
+    "type": "noun",
+    "translations": [
+      "simpleton",
+      "bumpkin",
+      "fool",
+      "nincompoop",
+      "yokel"
+    ],
+    "level": "C2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Simpel",
+        "plural": "Simpel"
+      },
+      "accusative": {
+        "singular": "Simpel",
+        "plural": "Simpel"
+      },
+      "dative": {
+        "singular": "Simpel",
+        "plural": "Simpeln"
+      },
+      "genitive": {
+        "singular": "Simpels",
+        "plural": "Simpel"
       }
     }
   },
@@ -39278,39 +40096,6 @@
     }
   },
   {
-    "lemma": "Sitte",
-    "type": "noun",
-    "translations": [
-      "custom",
-      "convention",
-      "conventions",
-      "fashion"
-    ],
-    "level": "C1",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Sitte",
-        "plural": "Sitten"
-      },
-      "accusative": {
-        "singular": "Sitte",
-        "plural": "Sitten"
-      },
-      "dative": {
-        "singular": "Sitte",
-        "plural": "Sitten"
-      },
-      "genitive": {
-        "singular": "Sitte",
-        "plural": "Sitten"
-      }
-    }
-  },
-  {
     "lemma": "Sitzbank",
     "type": "noun",
     "translations": [
@@ -39343,6 +40128,56 @@
         "plural": "Sitzbanken"
       }
     }
+  },
+  {
+    "lemma": "sitzen·lassen",
+    "type": "verb",
+    "translations": [
+      "abandon",
+      "jilt",
+      "stand up",
+      "bail on",
+      "dump",
+      "hang out to dry",
+      "run out on"
+    ],
+    "separable": true,
+    "present": {
+      "ich": "lasse sitzen",
+      "du": "lässt sitzen",
+      "es": "lässt sitzen",
+      "ihr": "lasst sitzen",
+      "Sie": "lassen sitzen"
+    },
+    "simple": {
+      "ich": "ließ sitzen",
+      "du": "ließest sitzen",
+      "es": "ließ sitzen",
+      "ihr": "ließet sitzen",
+      "Sie": "ließen sitzen"
+    },
+    "conjunctive1": {
+      "ich": "lasse sitzen",
+      "du": "lassest sitzen",
+      "es": "lasse sitzen",
+      "ihr": "lasset sitzen",
+      "Sie": "lassen sitzen"
+    },
+    "conjunctive2": {
+      "ich": "ließe sitzen",
+      "du": "ließest sitzen",
+      "es": "ließe sitzen",
+      "ihr": "ließet sitzen",
+      "Sie": "ließen sitzen"
+    },
+    "imperative": {
+      "du": "lasse du sitzen",
+      "ihr": "lasst ihr sitzen",
+      "Sie": "lassen Sie sitzen"
+    },
+    "perfect": "sitzen gelassen",
+    "gerund": "sitzen lassend",
+    "zuinfinitive": "sitzen zu lassen"
   },
   {
     "lemma": "Sitzfläche",
@@ -42529,6 +43364,53 @@
     }
   },
   {
+    "lemma": "sondern",
+    "type": "verb",
+    "translations": [
+      "separate",
+      "abstract",
+      "assort"
+    ],
+    "level": "A2",
+    "separable": false,
+    "present": {
+      "ich": "sondere",
+      "du": "sonderst",
+      "es": "sondert",
+      "ihr": "sondert",
+      "Sie": "sondern"
+    },
+    "simple": {
+      "ich": "sonderte",
+      "du": "sondertest",
+      "es": "sonderte",
+      "ihr": "sondertet",
+      "Sie": "sonderten"
+    },
+    "conjunctive1": {
+      "ich": "sondere",
+      "du": "sonderst",
+      "es": "sondere",
+      "ihr": "sondert",
+      "Sie": "sondern"
+    },
+    "conjunctive2": {
+      "ich": "sonderte",
+      "du": "sondertest",
+      "es": "sonderte",
+      "ihr": "sondertet",
+      "Sie": "sonderten"
+    },
+    "imperative": {
+      "du": "sondere du",
+      "ihr": "sondert ihr",
+      "Sie": "sondern Sie"
+    },
+    "perfect": "gesondert",
+    "gerund": "sondernd",
+    "zuinfinitive": "zu sondern"
+  },
+  {
     "lemma": "Sonett",
     "type": "noun",
     "translations": [
@@ -43623,36 +44505,6 @@
     }
   },
   {
-    "lemma": "Sonntagnachmittag",
-    "type": "noun",
-    "translations": [
-      "Sunday afternoon"
-    ],
-    "level": "A1",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Sonntagnachmittag",
-        "plural": "Sonntagnachmittage"
-      },
-      "accusative": {
-        "singular": "Sonntagnachmittag",
-        "plural": "Sonntagnachmittage"
-      },
-      "dative": {
-        "singular": "Sonntagnachmittag",
-        "plural": "Sonntagnachmittagen"
-      },
-      "genitive": {
-        "singular": "Sonntagnachmittags",
-        "plural": "Sonntagnachmittage"
-      }
-    }
-  },
-  {
     "lemma": "Sonntagsstaat",
     "type": "noun",
     "translations": [
@@ -43684,30 +44536,101 @@
     }
   },
   {
-    "lemma": "Sonor",
-    "type": "noun",
-    "gender": "m",
-    "noArticle": false,
+    "lemma": "sonor",
+    "type": "adjective",
+    "translations": [
+      "sonorous"
+    ],
+    "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
-    "cases": {
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
       "nominative": {
-        "singular": "Sonor",
-        "plural": "Sonore"
+        "m": "sonorer",
+        "f": "sonore",
+        "n": "sonores",
+        "p": "sonore"
       },
       "accusative": {
-        "singular": "Sonor",
-        "plural": "Sonore"
+        "m": "sonoren",
+        "f": "sonore",
+        "n": "sonores",
+        "p": "sonore"
       },
       "dative": {
-        "singular": "Sonor",
-        "plural": "Sonoren"
+        "m": "sonorem",
+        "f": "sonorer",
+        "n": "sonorem",
+        "p": "sonoren"
       },
       "genitive": {
-        "singular": "Sonors",
-        "plural": "Sonore"
+        "m": "sonoren",
+        "f": "sonorer",
+        "n": "sonoren",
+        "p": "sonorer"
       }
-    }
+    },
+    "weak": {
+      "nominative": {
+        "m": "sonore",
+        "f": "sonore",
+        "n": "sonore",
+        "p": "sonoren"
+      },
+      "accusative": {
+        "m": "sonoren",
+        "f": "sonore",
+        "n": "sonore",
+        "p": "sonoren"
+      },
+      "dative": {
+        "m": "sonoren",
+        "f": "sonoren",
+        "n": "sonoren",
+        "p": "sonoren"
+      },
+      "genitive": {
+        "m": "sonoren",
+        "f": "sonoren",
+        "n": "sonoren",
+        "p": "sonoren"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "sonorer",
+        "f": "sonore",
+        "n": "sonores",
+        "p": "sonoren"
+      },
+      "accusative": {
+        "m": "sonoren",
+        "f": "sonore",
+        "n": "sonores",
+        "p": "sonoren"
+      },
+      "dative": {
+        "m": "sonoren",
+        "f": "sonoren",
+        "n": "sonoren",
+        "p": "sonoren"
+      },
+      "genitive": {
+        "m": "sonoren",
+        "f": "sonoren",
+        "n": "sonoren",
+        "p": "sonoren"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": false,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "sonorer",
+    "superlative": "am sonorsten"
   },
   {
     "lemma": "Sorgenfalte",
@@ -44164,46 +45087,6 @@
     "noComparative": false,
     "comparative": "sorgsamer",
     "superlative": "am sorgsamsten"
-  },
-  {
-    "lemma": "Sorte",
-    "type": "noun",
-    "translations": [
-      "kind",
-      "type",
-      "variety",
-      "breed",
-      "foreign currency",
-      "make",
-      "brand",
-      "cultivar",
-      "grade",
-      "sort",
-      "species"
-    ],
-    "level": "A2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Sorte",
-        "plural": "Sorten"
-      },
-      "accusative": {
-        "singular": "Sorte",
-        "plural": "Sorten"
-      },
-      "dative": {
-        "singular": "Sorte",
-        "plural": "Sorten"
-      },
-      "genitive": {
-        "singular": "Sorte",
-        "plural": "Sorten"
-      }
-    }
   },
   {
     "lemma": "Sortiment",
@@ -45062,6 +45945,49 @@
     "noComparative": false
   },
   {
+    "lemma": "Spalte",
+    "type": "noun",
+    "translations": [
+      "crack",
+      "cleft",
+      "column",
+      "gap",
+      "fissure",
+      "segment",
+      "crevice",
+      "chasm",
+      "cleavage",
+      "file",
+      "hole",
+      "interstice",
+      "rift",
+      "seam"
+    ],
+    "level": "B1",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Spalte",
+        "plural": "Spalten"
+      },
+      "accusative": {
+        "singular": "Spalte",
+        "plural": "Spalten"
+      },
+      "dative": {
+        "singular": "Spalte",
+        "plural": "Spalten"
+      },
+      "genitive": {
+        "singular": "Spalte",
+        "plural": "Spalten"
+      }
+    }
+  },
+  {
     "lemma": "Span",
     "type": "noun",
     "translations": [
@@ -45144,39 +46070,6 @@
       "genitive": {
         "singular": "Spange",
         "plural": "Spangen"
-      }
-    }
-  },
-  {
-    "lemma": "Spanisch",
-    "type": "noun",
-    "translations": [
-      "Spanish",
-      "Ruy Lopez",
-      "Spanish Game",
-      "Spanish Opening"
-    ],
-    "level": "A1",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Spanisch",
-        "plural": "Spanisch"
-      },
-      "accusative": {
-        "singular": "Spanisch",
-        "plural": "Spanisch"
-      },
-      "dative": {
-        "singular": "Spanisch",
-        "plural": "Spanisch"
-      },
-      "genitive": {
-        "singular": "Spanischs",
-        "plural": "Spanisch"
       }
     }
   },
@@ -45952,6 +46845,32 @@
     }
   },
   {
+    "lemma": "Speaker",
+    "type": "noun",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Speaker",
+        "plural": "Speaker"
+      },
+      "accusative": {
+        "singular": "Speaker",
+        "plural": "Speaker"
+      },
+      "dative": {
+        "singular": "Speaker",
+        "plural": "Speakern"
+      },
+      "genitive": {
+        "singular": "Speakers",
+        "plural": "Speaker"
+      }
+    }
+  },
+  {
     "lemma": "Special",
     "type": "noun",
     "gender": "n",
@@ -46282,919 +47201,6 @@
       "genitive": {
         "singular": "Speisekammer",
         "plural": "Speisekammern"
-      }
-    }
-  },
-  {
-    "lemma": "Speisekarte",
-    "type": "noun",
-    "translations": [
-      "menu",
-      "bill of fare"
-    ],
-    "level": "A1",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Speisekarte",
-        "plural": "Speisekarten"
-      },
-      "accusative": {
-        "singular": "Speisekarte",
-        "plural": "Speisekarten"
-      },
-      "dative": {
-        "singular": "Speisekarte",
-        "plural": "Speisekarten"
-      },
-      "genitive": {
-        "singular": "Speisekarte",
-        "plural": "Speisekarten"
-      }
-    }
-  },
-  {
-    "lemma": "Speiseplan",
-    "type": "noun",
-    "translations": [
-      "menu",
-      "bill of fare"
-    ],
-    "level": "C2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Speiseplan",
-        "plural": "Speisepläne"
-      },
-      "accusative": {
-        "singular": "Speiseplan",
-        "plural": "Speisepläne"
-      },
-      "dative": {
-        "singular": "Speiseplan",
-        "plural": "Speiseplänen"
-      },
-      "genitive": {
-        "singular": "Speiseplanes",
-        "plural": "Speisepläne"
-      }
-    }
-  },
-  {
-    "lemma": "Speisesaal",
-    "type": "noun",
-    "translations": [
-      "dining hall",
-      "dining room",
-      "refectory",
-      "dining saloon"
-    ],
-    "level": "C2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Speisesaal",
-        "plural": "Speisesäle"
-      },
-      "accusative": {
-        "singular": "Speisesaal",
-        "plural": "Speisesäle"
-      },
-      "dative": {
-        "singular": "Speisesaal",
-        "plural": "Speisesälen"
-      },
-      "genitive": {
-        "singular": "Speisesaales",
-        "plural": "Speisesäle"
-      }
-    }
-  },
-  {
-    "lemma": "Speisezimmer",
-    "type": "noun",
-    "translations": [
-      "dining room"
-    ],
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Speisezimmer",
-        "plural": "Speisezimmer"
-      },
-      "accusative": {
-        "singular": "Speisezimmer",
-        "plural": "Speisezimmer"
-      },
-      "dative": {
-        "singular": "Speisezimmer",
-        "plural": "Speisezimmern"
-      },
-      "genitive": {
-        "singular": "Speisezimmers",
-        "plural": "Speisezimmer"
-      }
-    }
-  },
-  {
-    "lemma": "speiübel",
-    "type": "adjective",
-    "translations": [
-      "nauseous"
-    ],
-    "predicativeOnly": true,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": true,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      },
-      "accusative": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      },
-      "dative": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      },
-      "genitive": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      },
-      "accusative": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      },
-      "dative": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      },
-      "genitive": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      },
-      "accusative": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      },
-      "dative": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      },
-      "genitive": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      }
-    },
-    "isComparative": false,
-    "isSuperlative": false,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "speiübler",
-    "superlative": "am speiübelsten"
-  },
-  {
-    "lemma": "speiübelsten",
-    "type": "adjective",
-    "translations": [
-      "nauseous"
-    ],
-    "predicativeOnly": true,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": true,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      },
-      "accusative": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      },
-      "dative": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      },
-      "genitive": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      },
-      "accusative": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      },
-      "dative": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      },
-      "genitive": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      },
-      "accusative": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      },
-      "dative": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      },
-      "genitive": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      }
-    },
-    "isComparative": false,
-    "isSuperlative": true,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "speiübler",
-    "superlative": "am speiübelsten"
-  },
-  {
-    "lemma": "speiübler",
-    "type": "adjective",
-    "translations": [
-      "nauseous"
-    ],
-    "predicativeOnly": true,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": true,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      },
-      "accusative": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      },
-      "dative": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      },
-      "genitive": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      },
-      "accusative": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      },
-      "dative": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      },
-      "genitive": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      },
-      "accusative": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      },
-      "dative": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      },
-      "genitive": {
-        "m": null,
-        "f": null,
-        "n": null,
-        "p": null
-      }
-    },
-    "isComparative": true,
-    "isSuperlative": false,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "speiübler",
-    "superlative": "am speiübelsten"
-  },
-  {
-    "lemma": "Spektrum",
-    "type": "noun",
-    "translations": [
-      "spectrum"
-    ],
-    "level": "B2",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Spektrum",
-        "plural": "Spektren"
-      },
-      "accusative": {
-        "singular": "Spektrum",
-        "plural": "Spektren"
-      },
-      "dative": {
-        "singular": "Spektrum",
-        "plural": "Spektren"
-      },
-      "genitive": {
-        "singular": "Spektrums",
-        "plural": "Spektren"
-      }
-    }
-  },
-  {
-    "lemma": "Spekulation",
-    "type": "noun",
-    "translations": [
-      "speculation",
-      "adventure",
-      "gambling",
-      "venture"
-    ],
-    "level": "C2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Spekulation",
-        "plural": "Spekulationen"
-      },
-      "accusative": {
-        "singular": "Spekulation",
-        "plural": "Spekulationen"
-      },
-      "dative": {
-        "singular": "Spekulation",
-        "plural": "Spekulationen"
-      },
-      "genitive": {
-        "singular": "Spekulation",
-        "plural": "Spekulationen"
-      }
-    }
-  },
-  {
-    "lemma": "Spelunke",
-    "type": "noun",
-    "translations": [
-      "dive",
-      "den of thieves",
-      "honky-tonk"
-    ],
-    "level": "C2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Spelunke",
-        "plural": "Spelunken"
-      },
-      "accusative": {
-        "singular": "Spelunke",
-        "plural": "Spelunken"
-      },
-      "dative": {
-        "singular": "Spelunke",
-        "plural": "Spelunken"
-      },
-      "genitive": {
-        "singular": "Spelunke",
-        "plural": "Spelunken"
-      }
-    }
-  },
-  {
-    "lemma": "Spende",
-    "type": "noun",
-    "translations": [
-      "donation",
-      "contribution",
-      "bounty",
-      "grant",
-      "offering",
-      "subsidy"
-    ],
-    "level": "B2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Spende",
-        "plural": "Spenden"
-      },
-      "accusative": {
-        "singular": "Spende",
-        "plural": "Spenden"
-      },
-      "dative": {
-        "singular": "Spende",
-        "plural": "Spenden"
-      },
-      "genitive": {
-        "singular": "Spende",
-        "plural": "Spenden"
-      }
-    }
-  },
-  {
-    "lemma": "Sperre",
-    "type": "noun",
-    "translations": [
-      "barrier",
-      "blockade",
-      "suspension",
-      "ban",
-      "lock",
-      "prohibition",
-      "bar",
-      "barricade",
-      "blackout",
-      "block",
-      "blocker",
-      "boom",
-      "control barrier",
-      "detent",
-      "gate",
-      "lock out",
-      "lock-up",
-      "stop",
-      "stoppage",
-      "trap"
-    ],
-    "level": "C2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Sperre",
-        "plural": "Sperren"
-      },
-      "accusative": {
-        "singular": "Sperre",
-        "plural": "Sperren"
-      },
-      "dative": {
-        "singular": "Sperre",
-        "plural": "Sperren"
-      },
-      "genitive": {
-        "singular": "Sperre",
-        "plural": "Sperren"
-      }
-    }
-  },
-  {
-    "lemma": "Sperrmüll",
-    "type": "noun",
-    "translations": [
-      "bulky waste",
-      "bulky refuse",
-      "bulk waste",
-      "bulky item"
-    ],
-    "level": "B1",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": true,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Sperrmüll",
-        "plural": null
-      },
-      "accusative": {
-        "singular": "Sperrmüll",
-        "plural": null
-      },
-      "dative": {
-        "singular": "Sperrmüll",
-        "plural": null
-      },
-      "genitive": {
-        "singular": "Sperrmülls",
-        "plural": null
-      }
-    }
-  },
-  {
-    "lemma": "Spezialeffekt",
-    "type": "noun",
-    "translations": [
-      "special effect"
-    ],
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Spezialeffekt",
-        "plural": "Spezialeffekte"
-      },
-      "accusative": {
-        "singular": "Spezialeffekt",
-        "plural": "Spezialeffekte"
-      },
-      "dative": {
-        "singular": "Spezialeffekt",
-        "plural": "Spezialeffekten"
-      },
-      "genitive": {
-        "singular": "Spezialeffektes",
-        "plural": "Spezialeffekte"
-      }
-    }
-  },
-  {
-    "lemma": "spezialer",
-    "type": "adjective",
-    "translations": [
-      "special"
-    ],
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "spezialerer",
-        "f": "spezialere",
-        "n": "spezialeres",
-        "p": "spezialere"
-      },
-      "accusative": {
-        "m": "spezialeren",
-        "f": "spezialere",
-        "n": "spezialeres",
-        "p": "spezialere"
-      },
-      "dative": {
-        "m": "spezialerem",
-        "f": "spezialerer",
-        "n": "spezialerem",
-        "p": "spezialeren"
-      },
-      "genitive": {
-        "m": "spezialeren",
-        "f": "spezialerer",
-        "n": "spezialeren",
-        "p": "spezialerer"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "spezialere",
-        "f": "spezialere",
-        "n": "spezialere",
-        "p": "spezialeren"
-      },
-      "accusative": {
-        "m": "spezialeren",
-        "f": "spezialere",
-        "n": "spezialere",
-        "p": "spezialeren"
-      },
-      "dative": {
-        "m": "spezialeren",
-        "f": "spezialeren",
-        "n": "spezialeren",
-        "p": "spezialeren"
-      },
-      "genitive": {
-        "m": "spezialeren",
-        "f": "spezialeren",
-        "n": "spezialeren",
-        "p": "spezialeren"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "spezialerer",
-        "f": "spezialere",
-        "n": "spezialeres",
-        "p": "spezialeren"
-      },
-      "accusative": {
-        "m": "spezialeren",
-        "f": "spezialere",
-        "n": "spezialeres",
-        "p": "spezialeren"
-      },
-      "dative": {
-        "m": "spezialeren",
-        "f": "spezialeren",
-        "n": "spezialeren",
-        "p": "spezialeren"
-      },
-      "genitive": {
-        "m": "spezialeren",
-        "f": "spezialeren",
-        "n": "spezialeren",
-        "p": "spezialeren"
-      }
-    },
-    "isComparative": true,
-    "isSuperlative": false,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "spezialer",
-    "superlative": "am spezialsten"
-  },
-  {
-    "lemma": "Spezialistin",
-    "type": "noun",
-    "translations": [
-      "specialist",
-      "expert"
-    ],
-    "level": "C2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Spezialistin",
-        "plural": "Spezialistinnen"
-      },
-      "accusative": {
-        "singular": "Spezialistin",
-        "plural": "Spezialistinnen"
-      },
-      "dative": {
-        "singular": "Spezialistin",
-        "plural": "Spezialistinnen"
-      },
-      "genitive": {
-        "singular": "Spezialistin",
-        "plural": "Spezialistinnen"
-      }
-    }
-  },
-  {
-    "lemma": "spezialsten",
-    "type": "adjective",
-    "translations": [
-      "special"
-    ],
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "spezialster",
-        "f": "spezialste",
-        "n": "spezialstes",
-        "p": "spezialste"
-      },
-      "accusative": {
-        "m": "spezialsten",
-        "f": "spezialste",
-        "n": "spezialstes",
-        "p": "spezialste"
-      },
-      "dative": {
-        "m": "spezialstem",
-        "f": "spezialster",
-        "n": "spezialstem",
-        "p": "spezialsten"
-      },
-      "genitive": {
-        "m": "spezialsten",
-        "f": "spezialster",
-        "n": "spezialsten",
-        "p": "spezialster"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "spezialste",
-        "f": "spezialste",
-        "n": "spezialste",
-        "p": "spezialsten"
-      },
-      "accusative": {
-        "m": "spezialsten",
-        "f": "spezialste",
-        "n": "spezialste",
-        "p": "spezialsten"
-      },
-      "dative": {
-        "m": "spezialsten",
-        "f": "spezialsten",
-        "n": "spezialsten",
-        "p": "spezialsten"
-      },
-      "genitive": {
-        "m": "spezialsten",
-        "f": "spezialsten",
-        "n": "spezialsten",
-        "p": "spezialsten"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "spezialster",
-        "f": "spezialste",
-        "n": "spezialstes",
-        "p": "spezialsten"
-      },
-      "accusative": {
-        "m": "spezialsten",
-        "f": "spezialste",
-        "n": "spezialstes",
-        "p": "spezialsten"
-      },
-      "dative": {
-        "m": "spezialsten",
-        "f": "spezialsten",
-        "n": "spezialsten",
-        "p": "spezialsten"
-      },
-      "genitive": {
-        "m": "spezialsten",
-        "f": "spezialsten",
-        "n": "spezialsten",
-        "p": "spezialsten"
-      }
-    },
-    "isComparative": false,
-    "isSuperlative": true,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "spezialer",
-    "superlative": "am spezialsten"
-  },
-  {
-    "lemma": "Spezies",
-    "type": "noun",
-    "translations": [
-      "species",
-      "kind",
-      "type"
-    ],
-    "level": "B2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Spezies",
-        "plural": "Spezies"
-      },
-      "accusative": {
-        "singular": "Spezies",
-        "plural": "Spezies"
-      },
-      "dative": {
-        "singular": "Spezies",
-        "plural": "Spezies"
-      },
-      "genitive": {
-        "singular": "Spezies",
-        "plural": "Spezies"
       }
     }
   }

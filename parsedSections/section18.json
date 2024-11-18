@@ -1,5 +1,1109 @@
 [
   {
+    "lemma": "Mole",
+    "type": "noun",
+    "translations": [
+      "mole",
+      "breakwater",
+      "jetty",
+      "pier"
+    ],
+    "level": "C2",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Mole",
+        "plural": "Molen"
+      },
+      "accusative": {
+        "singular": "Mole",
+        "plural": "Molen"
+      },
+      "dative": {
+        "singular": "Mole",
+        "plural": "Molen"
+      },
+      "genitive": {
+        "singular": "Mole",
+        "plural": "Molen"
+      }
+    }
+  },
+  {
+    "lemma": "Molekül",
+    "type": "noun",
+    "translations": [
+      "molecule"
+    ],
+    "level": "C2",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Molekül",
+        "plural": "Moleküle"
+      },
+      "accusative": {
+        "singular": "Molekül",
+        "plural": "Moleküle"
+      },
+      "dative": {
+        "singular": "Molekül",
+        "plural": "Molekülen"
+      },
+      "genitive": {
+        "singular": "Moleküls",
+        "plural": "Moleküle"
+      }
+    }
+  },
+  {
+    "lemma": "Moll",
+    "type": "noun",
+    "level": "B1",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Moll",
+        "plural": "Molle"
+      },
+      "accusative": {
+        "singular": "Moll",
+        "plural": "Molle"
+      },
+      "dative": {
+        "singular": "Moll",
+        "plural": "Mollen"
+      },
+      "genitive": {
+        "singular": "Molles",
+        "plural": "Molle"
+      }
+    }
+  },
+  {
+    "lemma": "Moll",
+    "type": "noun",
+    "translations": [
+      "minor"
+    ],
+    "level": "B1",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Moll",
+        "plural": "Moll"
+      },
+      "accusative": {
+        "singular": "Moll",
+        "plural": "Moll"
+      },
+      "dative": {
+        "singular": "Moll",
+        "plural": "Moll"
+      },
+      "genitive": {
+        "singular": "Moll",
+        "plural": "Molls"
+      }
+    }
+  },
+  {
+    "lemma": "momentansten",
+    "type": "adjective",
+    "translations": [
+      "current",
+      "at the moment",
+      "currently"
+    ],
+    "level": "B1",
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "momentanster",
+        "f": "momentanste",
+        "n": "momentanstes",
+        "p": "momentanste"
+      },
+      "accusative": {
+        "m": "momentansten",
+        "f": "momentanste",
+        "n": "momentanstes",
+        "p": "momentanste"
+      },
+      "dative": {
+        "m": "momentanstem",
+        "f": "momentanster",
+        "n": "momentanstem",
+        "p": "momentansten"
+      },
+      "genitive": {
+        "m": "momentansten",
+        "f": "momentanster",
+        "n": "momentansten",
+        "p": "momentanster"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "momentanste",
+        "f": "momentanste",
+        "n": "momentanste",
+        "p": "momentansten"
+      },
+      "accusative": {
+        "m": "momentansten",
+        "f": "momentanste",
+        "n": "momentanste",
+        "p": "momentansten"
+      },
+      "dative": {
+        "m": "momentansten",
+        "f": "momentansten",
+        "n": "momentansten",
+        "p": "momentansten"
+      },
+      "genitive": {
+        "m": "momentansten",
+        "f": "momentansten",
+        "n": "momentansten",
+        "p": "momentansten"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "momentanster",
+        "f": "momentanste",
+        "n": "momentanstes",
+        "p": "momentansten"
+      },
+      "accusative": {
+        "m": "momentansten",
+        "f": "momentanste",
+        "n": "momentanstes",
+        "p": "momentansten"
+      },
+      "dative": {
+        "m": "momentansten",
+        "f": "momentansten",
+        "n": "momentansten",
+        "p": "momentansten"
+      },
+      "genitive": {
+        "m": "momentansten",
+        "f": "momentansten",
+        "n": "momentansten",
+        "p": "momentansten"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": true,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "momentaner",
+    "superlative": "am momentansten"
+  },
+  {
+    "lemma": "Monatsmiete",
+    "type": "noun",
+    "translations": [
+      "monthly rent"
+    ],
+    "level": "C2",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Monatsmiete",
+        "plural": "Monatsmieten"
+      },
+      "accusative": {
+        "singular": "Monatsmiete",
+        "plural": "Monatsmieten"
+      },
+      "dative": {
+        "singular": "Monatsmiete",
+        "plural": "Monatsmieten"
+      },
+      "genitive": {
+        "singular": "Monatsmiete",
+        "plural": "Monatsmieten"
+      }
+    }
+  },
+  {
+    "lemma": "Mondgestein",
+    "type": "noun",
+    "translations": [
+      "lunar rock",
+      "moon rock",
+      "lunar material",
+      "moon material"
+    ],
+    "level": "C2",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Mondgestein",
+        "plural": "Mondgesteine"
+      },
+      "accusative": {
+        "singular": "Mondgestein",
+        "plural": "Mondgesteine"
+      },
+      "dative": {
+        "singular": "Mondgestein",
+        "plural": "Mondgesteinen"
+      },
+      "genitive": {
+        "singular": "Mondgesteines",
+        "plural": "Mondgesteine"
+      }
+    }
+  },
+  {
+    "lemma": "Mondglobus",
+    "type": "noun",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Mondglobus",
+        "plural": "Mondglobusse"
+      },
+      "accusative": {
+        "singular": "Mondglobus",
+        "plural": "Mondglobusse"
+      },
+      "dative": {
+        "singular": "Mondglobus",
+        "plural": "Mondglobussen"
+      },
+      "genitive": {
+        "singular": "Mondglobus",
+        "plural": "Mondglobusse"
+      }
+    }
+  },
+  {
+    "lemma": "mondhell",
+    "type": "adjective",
+    "translations": [
+      "moonlit"
+    ],
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "mondheller",
+        "f": "mondhelle",
+        "n": "mondhelles",
+        "p": "mondhelle"
+      },
+      "accusative": {
+        "m": "mondhellen",
+        "f": "mondhelle",
+        "n": "mondhelles",
+        "p": "mondhelle"
+      },
+      "dative": {
+        "m": "mondhellem",
+        "f": "mondheller",
+        "n": "mondhellem",
+        "p": "mondhellen"
+      },
+      "genitive": {
+        "m": "mondhellen",
+        "f": "mondheller",
+        "n": "mondhellen",
+        "p": "mondheller"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "mondhelle",
+        "f": "mondhelle",
+        "n": "mondhelle",
+        "p": "mondhellen"
+      },
+      "accusative": {
+        "m": "mondhellen",
+        "f": "mondhelle",
+        "n": "mondhelle",
+        "p": "mondhellen"
+      },
+      "dative": {
+        "m": "mondhellen",
+        "f": "mondhellen",
+        "n": "mondhellen",
+        "p": "mondhellen"
+      },
+      "genitive": {
+        "m": "mondhellen",
+        "f": "mondhellen",
+        "n": "mondhellen",
+        "p": "mondhellen"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "mondheller",
+        "f": "mondhelle",
+        "n": "mondhelles",
+        "p": "mondhellen"
+      },
+      "accusative": {
+        "m": "mondhellen",
+        "f": "mondhelle",
+        "n": "mondhelles",
+        "p": "mondhellen"
+      },
+      "dative": {
+        "m": "mondhellen",
+        "f": "mondhellen",
+        "n": "mondhellen",
+        "p": "mondhellen"
+      },
+      "genitive": {
+        "m": "mondhellen",
+        "f": "mondhellen",
+        "n": "mondhellen",
+        "p": "mondhellen"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": false,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "mondheller",
+    "superlative": "am mondhellsten"
+  },
+  {
+    "lemma": "mondheller",
+    "type": "adjective",
+    "translations": [
+      "moonlit"
+    ],
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "mondhellerer",
+        "f": "mondhellere",
+        "n": "mondhelleres",
+        "p": "mondhellere"
+      },
+      "accusative": {
+        "m": "mondhelleren",
+        "f": "mondhellere",
+        "n": "mondhelleres",
+        "p": "mondhellere"
+      },
+      "dative": {
+        "m": "mondhellerem",
+        "f": "mondhellerer",
+        "n": "mondhellerem",
+        "p": "mondhelleren"
+      },
+      "genitive": {
+        "m": "mondhelleren",
+        "f": "mondhellerer",
+        "n": "mondhelleren",
+        "p": "mondhellerer"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "mondhellere",
+        "f": "mondhellere",
+        "n": "mondhellere",
+        "p": "mondhelleren"
+      },
+      "accusative": {
+        "m": "mondhelleren",
+        "f": "mondhellere",
+        "n": "mondhellere",
+        "p": "mondhelleren"
+      },
+      "dative": {
+        "m": "mondhelleren",
+        "f": "mondhelleren",
+        "n": "mondhelleren",
+        "p": "mondhelleren"
+      },
+      "genitive": {
+        "m": "mondhelleren",
+        "f": "mondhelleren",
+        "n": "mondhelleren",
+        "p": "mondhelleren"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "mondhellerer",
+        "f": "mondhellere",
+        "n": "mondhelleres",
+        "p": "mondhelleren"
+      },
+      "accusative": {
+        "m": "mondhelleren",
+        "f": "mondhellere",
+        "n": "mondhelleres",
+        "p": "mondhelleren"
+      },
+      "dative": {
+        "m": "mondhelleren",
+        "f": "mondhelleren",
+        "n": "mondhelleren",
+        "p": "mondhelleren"
+      },
+      "genitive": {
+        "m": "mondhelleren",
+        "f": "mondhelleren",
+        "n": "mondhelleren",
+        "p": "mondhelleren"
+      }
+    },
+    "isComparative": true,
+    "isSuperlative": false,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "mondheller",
+    "superlative": "am mondhellsten"
+  },
+  {
+    "lemma": "mondhellsten",
+    "type": "adjective",
+    "translations": [
+      "moonlit"
+    ],
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "mondhellster",
+        "f": "mondhellste",
+        "n": "mondhellstes",
+        "p": "mondhellste"
+      },
+      "accusative": {
+        "m": "mondhellsten",
+        "f": "mondhellste",
+        "n": "mondhellstes",
+        "p": "mondhellste"
+      },
+      "dative": {
+        "m": "mondhellstem",
+        "f": "mondhellster",
+        "n": "mondhellstem",
+        "p": "mondhellsten"
+      },
+      "genitive": {
+        "m": "mondhellsten",
+        "f": "mondhellster",
+        "n": "mondhellsten",
+        "p": "mondhellster"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "mondhellste",
+        "f": "mondhellste",
+        "n": "mondhellste",
+        "p": "mondhellsten"
+      },
+      "accusative": {
+        "m": "mondhellsten",
+        "f": "mondhellste",
+        "n": "mondhellste",
+        "p": "mondhellsten"
+      },
+      "dative": {
+        "m": "mondhellsten",
+        "f": "mondhellsten",
+        "n": "mondhellsten",
+        "p": "mondhellsten"
+      },
+      "genitive": {
+        "m": "mondhellsten",
+        "f": "mondhellsten",
+        "n": "mondhellsten",
+        "p": "mondhellsten"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "mondhellster",
+        "f": "mondhellste",
+        "n": "mondhellstes",
+        "p": "mondhellsten"
+      },
+      "accusative": {
+        "m": "mondhellsten",
+        "f": "mondhellste",
+        "n": "mondhellstes",
+        "p": "mondhellsten"
+      },
+      "dative": {
+        "m": "mondhellsten",
+        "f": "mondhellsten",
+        "n": "mondhellsten",
+        "p": "mondhellsten"
+      },
+      "genitive": {
+        "m": "mondhellsten",
+        "f": "mondhellsten",
+        "n": "mondhellsten",
+        "p": "mondhellsten"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": true,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "mondheller",
+    "superlative": "am mondhellsten"
+  },
+  {
+    "lemma": "Mondlicht",
+    "type": "noun",
+    "translations": [
+      "moonlight"
+    ],
+    "level": "C2",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": true,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Mondlicht",
+        "plural": null
+      },
+      "accusative": {
+        "singular": "Mondlicht",
+        "plural": null
+      },
+      "dative": {
+        "singular": "Mondlicht",
+        "plural": null
+      },
+      "genitive": {
+        "singular": "Mondlichtes",
+        "plural": null
+      }
+    }
+  },
+  {
+    "lemma": "mondlos",
+    "type": "adjective",
+    "translations": [
+      "moonless"
+    ],
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": true,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "mondloser",
+        "f": "mondlose",
+        "n": "mondloses",
+        "p": "mondlose"
+      },
+      "accusative": {
+        "m": "mondlosen",
+        "f": "mondlose",
+        "n": "mondloses",
+        "p": "mondlose"
+      },
+      "dative": {
+        "m": "mondlosem",
+        "f": "mondloser",
+        "n": "mondlosem",
+        "p": "mondlosen"
+      },
+      "genitive": {
+        "m": "mondlosen",
+        "f": "mondloser",
+        "n": "mondlosen",
+        "p": "mondloser"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "mondlose",
+        "f": "mondlose",
+        "n": "mondlose",
+        "p": "mondlosen"
+      },
+      "accusative": {
+        "m": "mondlosen",
+        "f": "mondlose",
+        "n": "mondlose",
+        "p": "mondlosen"
+      },
+      "dative": {
+        "m": "mondlosen",
+        "f": "mondlosen",
+        "n": "mondlosen",
+        "p": "mondlosen"
+      },
+      "genitive": {
+        "m": "mondlosen",
+        "f": "mondlosen",
+        "n": "mondlosen",
+        "p": "mondlosen"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "mondloser",
+        "f": "mondlose",
+        "n": "mondloses",
+        "p": "mondlosen"
+      },
+      "accusative": {
+        "m": "mondlosen",
+        "f": "mondlose",
+        "n": "mondloses",
+        "p": "mondlosen"
+      },
+      "dative": {
+        "m": "mondlosen",
+        "f": "mondlosen",
+        "n": "mondlosen",
+        "p": "mondlosen"
+      },
+      "genitive": {
+        "m": "mondlosen",
+        "f": "mondlosen",
+        "n": "mondlosen",
+        "p": "mondlosen"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": false,
+    "superlativeOnly": false,
+    "noComparative": false
+  },
+  {
+    "lemma": "Mondstein",
+    "type": "noun",
+    "translations": [
+      "moonstone",
+      "Ceylon opal",
+      "adularia",
+      "water stone"
+    ],
+    "level": "C2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Mondstein",
+        "plural": "Mondsteine"
+      },
+      "accusative": {
+        "singular": "Mondstein",
+        "plural": "Mondsteine"
+      },
+      "dative": {
+        "singular": "Mondstein",
+        "plural": "Mondsteinen"
+      },
+      "genitive": {
+        "singular": "Mondsteines",
+        "plural": "Mondsteine"
+      }
+    }
+  },
+  {
+    "lemma": "Mondzyklus",
+    "type": "noun",
+    "translations": [
+      "lunar cycle"
+    ],
+    "level": "C2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Mondzyklus",
+        "plural": "Mondzyklen"
+      },
+      "accusative": {
+        "singular": "Mondzyklus",
+        "plural": "Mondzyklen"
+      },
+      "dative": {
+        "singular": "Mondzyklus",
+        "plural": "Mondzyklen"
+      },
+      "genitive": {
+        "singular": "Mondzyklus",
+        "plural": "Mondzyklen"
+      }
+    }
+  },
+  {
+    "lemma": "Mongolei",
+    "type": "noun",
+    "translations": [
+      "Mongolia"
+    ],
+    "level": "A1",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": true,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Mongolei",
+        "plural": null
+      },
+      "accusative": {
+        "singular": "Mongolei",
+        "plural": null
+      },
+      "dative": {
+        "singular": "Mongolei",
+        "plural": null
+      },
+      "genitive": {
+        "singular": "Mongolei",
+        "plural": null
+      }
+    }
+  },
+  {
+    "lemma": "Mono",
+    "type": "noun",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": true,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Mono",
+        "plural": null
+      },
+      "accusative": {
+        "singular": "Mono",
+        "plural": null
+      },
+      "dative": {
+        "singular": "Mono",
+        "plural": null
+      },
+      "genitive": {
+        "singular": "Monos",
+        "plural": null
+      }
+    }
+  },
+  {
+    "lemma": "Monogramm",
+    "type": "noun",
+    "translations": [
+      "monogram",
+      "cypher",
+      "printers imprint"
+    ],
+    "level": "C2",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Monogramm",
+        "plural": "Monogramme"
+      },
+      "accusative": {
+        "singular": "Monogramm",
+        "plural": "Monogramme"
+      },
+      "dative": {
+        "singular": "Monogramm",
+        "plural": "Monogrammen"
+      },
+      "genitive": {
+        "singular": "Monogramms",
+        "plural": "Monogramme"
+      }
+    }
+  },
+  {
+    "lemma": "Monokel",
+    "type": "noun",
+    "translations": [
+      "monocle"
+    ],
+    "level": "C2",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Monokel",
+        "plural": "Monokel"
+      },
+      "accusative": {
+        "singular": "Monokel",
+        "plural": "Monokel"
+      },
+      "dative": {
+        "singular": "Monokel",
+        "plural": "Monokeln"
+      },
+      "genitive": {
+        "singular": "Monokels",
+        "plural": "Monokel"
+      }
+    }
+  },
+  {
+    "lemma": "monotoner",
+    "type": "adjective",
+    "translations": [
+      "monotonous",
+      "monotone"
+    ],
+    "level": "A2",
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "monotonerer",
+        "f": "monotonere",
+        "n": "monotoneres",
+        "p": "monotonere"
+      },
+      "accusative": {
+        "m": "monotoneren",
+        "f": "monotonere",
+        "n": "monotoneres",
+        "p": "monotonere"
+      },
+      "dative": {
+        "m": "monotonerem",
+        "f": "monotonerer",
+        "n": "monotonerem",
+        "p": "monotoneren"
+      },
+      "genitive": {
+        "m": "monotoneren",
+        "f": "monotonerer",
+        "n": "monotoneren",
+        "p": "monotonerer"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "monotonere",
+        "f": "monotonere",
+        "n": "monotonere",
+        "p": "monotoneren"
+      },
+      "accusative": {
+        "m": "monotoneren",
+        "f": "monotonere",
+        "n": "monotonere",
+        "p": "monotoneren"
+      },
+      "dative": {
+        "m": "monotoneren",
+        "f": "monotoneren",
+        "n": "monotoneren",
+        "p": "monotoneren"
+      },
+      "genitive": {
+        "m": "monotoneren",
+        "f": "monotoneren",
+        "n": "monotoneren",
+        "p": "monotoneren"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "monotonerer",
+        "f": "monotonere",
+        "n": "monotoneres",
+        "p": "monotoneren"
+      },
+      "accusative": {
+        "m": "monotoneren",
+        "f": "monotonere",
+        "n": "monotoneres",
+        "p": "monotoneren"
+      },
+      "dative": {
+        "m": "monotoneren",
+        "f": "monotoneren",
+        "n": "monotoneren",
+        "p": "monotoneren"
+      },
+      "genitive": {
+        "m": "monotoneren",
+        "f": "monotoneren",
+        "n": "monotoneren",
+        "p": "monotoneren"
+      }
+    },
+    "isComparative": true,
+    "isSuperlative": false,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "monotoner",
+    "superlative": "am monotonsten"
+  },
+  {
+    "lemma": "monotonsten",
+    "type": "adjective",
+    "translations": [
+      "monotonous",
+      "monotone"
+    ],
+    "level": "A2",
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "monotonster",
+        "f": "monotonste",
+        "n": "monotonstes",
+        "p": "monotonste"
+      },
+      "accusative": {
+        "m": "monotonsten",
+        "f": "monotonste",
+        "n": "monotonstes",
+        "p": "monotonste"
+      },
+      "dative": {
+        "m": "monotonstem",
+        "f": "monotonster",
+        "n": "monotonstem",
+        "p": "monotonsten"
+      },
+      "genitive": {
+        "m": "monotonsten",
+        "f": "monotonster",
+        "n": "monotonsten",
+        "p": "monotonster"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "monotonste",
+        "f": "monotonste",
+        "n": "monotonste",
+        "p": "monotonsten"
+      },
+      "accusative": {
+        "m": "monotonsten",
+        "f": "monotonste",
+        "n": "monotonste",
+        "p": "monotonsten"
+      },
+      "dative": {
+        "m": "monotonsten",
+        "f": "monotonsten",
+        "n": "monotonsten",
+        "p": "monotonsten"
+      },
+      "genitive": {
+        "m": "monotonsten",
+        "f": "monotonsten",
+        "n": "monotonsten",
+        "p": "monotonsten"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "monotonster",
+        "f": "monotonste",
+        "n": "monotonstes",
+        "p": "monotonsten"
+      },
+      "accusative": {
+        "m": "monotonsten",
+        "f": "monotonste",
+        "n": "monotonstes",
+        "p": "monotonsten"
+      },
+      "dative": {
+        "m": "monotonsten",
+        "f": "monotonsten",
+        "n": "monotonsten",
+        "p": "monotonsten"
+      },
+      "genitive": {
+        "m": "monotonsten",
+        "f": "monotonsten",
+        "n": "monotonsten",
+        "p": "monotonsten"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": true,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "monotoner",
+    "superlative": "am monotonsten"
+  },
+  {
     "lemma": "Monster",
     "type": "noun",
     "translations": [
@@ -3290,41 +4394,6 @@
     "superlative": "am müdesten"
   },
   {
-    "lemma": "Müdigkeit",
-    "type": "noun",
-    "translations": [
-      "fatigue",
-      "tiredness",
-      "weariness",
-      "languidness",
-      "lassitude",
-      "wearisomeness"
-    ],
-    "level": "C1",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": true,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Müdigkeit",
-        "plural": null
-      },
-      "accusative": {
-        "singular": "Müdigkeit",
-        "plural": null
-      },
-      "dative": {
-        "singular": "Müdigkeit",
-        "plural": null
-      },
-      "genitive": {
-        "singular": "Müdigkeit",
-        "plural": null
-      }
-    }
-  },
-  {
     "lemma": "Müesli",
     "type": "noun",
     "translations": [
@@ -6372,6 +7441,40 @@
     }
   },
   {
+    "lemma": "Muss",
+    "type": "noun",
+    "translations": [
+      "must",
+      "necessity",
+      "must-have",
+      "obligation",
+      "requisite"
+    ],
+    "level": "A2",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": true,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Muss",
+        "plural": null
+      },
+      "accusative": {
+        "singular": "Muss",
+        "plural": null
+      },
+      "dative": {
+        "singular": "Muss",
+        "plural": null
+      },
+      "genitive": {
+        "singular": "Muss",
+        "plural": null
+      }
+    }
+  },
+  {
     "lemma": "Muße",
     "type": "noun",
     "translations": [
@@ -6549,106 +7652,6 @@
         "plural": "Mutationen"
       }
     }
-  },
-  {
-    "lemma": "mutigsten",
-    "type": "adjective",
-    "translations": [
-      "brave",
-      "courageous",
-      "valiant"
-    ],
-    "level": "B1",
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "mutigster",
-        "f": "mutigste",
-        "n": "mutigstes",
-        "p": "mutigste"
-      },
-      "accusative": {
-        "m": "mutigsten",
-        "f": "mutigste",
-        "n": "mutigstes",
-        "p": "mutigste"
-      },
-      "dative": {
-        "m": "mutigstem",
-        "f": "mutigster",
-        "n": "mutigstem",
-        "p": "mutigsten"
-      },
-      "genitive": {
-        "m": "mutigsten",
-        "f": "mutigster",
-        "n": "mutigsten",
-        "p": "mutigster"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "mutigste",
-        "f": "mutigste",
-        "n": "mutigste",
-        "p": "mutigsten"
-      },
-      "accusative": {
-        "m": "mutigsten",
-        "f": "mutigste",
-        "n": "mutigste",
-        "p": "mutigsten"
-      },
-      "dative": {
-        "m": "mutigsten",
-        "f": "mutigsten",
-        "n": "mutigsten",
-        "p": "mutigsten"
-      },
-      "genitive": {
-        "m": "mutigsten",
-        "f": "mutigsten",
-        "n": "mutigsten",
-        "p": "mutigsten"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "mutigster",
-        "f": "mutigste",
-        "n": "mutigstes",
-        "p": "mutigsten"
-      },
-      "accusative": {
-        "m": "mutigsten",
-        "f": "mutigste",
-        "n": "mutigstes",
-        "p": "mutigsten"
-      },
-      "dative": {
-        "m": "mutigsten",
-        "f": "mutigsten",
-        "n": "mutigsten",
-        "p": "mutigsten"
-      },
-      "genitive": {
-        "m": "mutigsten",
-        "f": "mutigsten",
-        "n": "mutigsten",
-        "p": "mutigsten"
-      }
-    },
-    "isComparative": false,
-    "isSuperlative": true,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "mutiger",
-    "superlative": "am mutigsten"
   },
   {
     "lemma": "Mutmaßung",
@@ -7013,6 +8016,36 @@
     }
   },
   {
+    "lemma": "My",
+    "type": "noun",
+    "translations": [
+      "mu"
+    ],
+    "level": "C2",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "My",
+        "plural": "Mys"
+      },
+      "accusative": {
+        "singular": "My",
+        "plural": "Mys"
+      },
+      "dative": {
+        "singular": "My",
+        "plural": "Mys"
+      },
+      "genitive": {
+        "singular": "Mys",
+        "plural": "Mys"
+      }
+    }
+  },
+  {
     "lemma": "Myrte",
     "type": "noun",
     "translations": [
@@ -7040,37 +8073,6 @@
       "genitive": {
         "singular": "Myrte",
         "plural": "Myrten"
-      }
-    }
-  },
-  {
-    "lemma": "Mysterium",
-    "type": "noun",
-    "translations": [
-      "mystery",
-      "enigma"
-    ],
-    "level": "C1",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Mysterium",
-        "plural": "Mysterien"
-      },
-      "accusative": {
-        "singular": "Mysterium",
-        "plural": "Mysterien"
-      },
-      "dative": {
-        "singular": "Mysterium",
-        "plural": "Mysterien"
-      },
-      "genitive": {
-        "singular": "Mysteriums",
-        "plural": "Mysterien"
       }
     }
   },
@@ -8381,40 +9383,6 @@
     }
   },
   {
-    "lemma": "Nachfolger",
-    "type": "noun",
-    "translations": [
-      "successor",
-      "replacement",
-      "child",
-      "follower",
-      "subsequent operation"
-    ],
-    "level": "C2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Nachfolger",
-        "plural": "Nachfolger"
-      },
-      "accusative": {
-        "singular": "Nachfolger",
-        "plural": "Nachfolger"
-      },
-      "dative": {
-        "singular": "Nachfolger",
-        "plural": "Nachfolgern"
-      },
-      "genitive": {
-        "singular": "Nachfolgers",
-        "plural": "Nachfolger"
-      }
-    }
-  },
-  {
     "lemma": "Nachfolgerin",
     "type": "noun",
     "translations": [
@@ -9642,37 +10610,6 @@
       "genitive": {
         "singular": "Nächsten",
         "plural": "Nächsten"
-      }
-    }
-  },
-  {
-    "lemma": "Nacht",
-    "type": "noun",
-    "translations": [
-      "night",
-      "nite"
-    ],
-    "level": "A1",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Nacht",
-        "plural": "Nächte"
-      },
-      "accusative": {
-        "singular": "Nacht",
-        "plural": "Nächte"
-      },
-      "dative": {
-        "singular": "Nacht",
-        "plural": "Nächten"
-      },
-      "genitive": {
-        "singular": "Nacht",
-        "plural": "Nächte"
       }
     }
   },
@@ -12134,54 +13071,6 @@
     }
   },
   {
-    "lemma": "narren",
-    "type": "verb",
-    "translations": [
-      "fool",
-      "dupe",
-      "hoax",
-      "mock"
-    ],
-    "level": "C2",
-    "separable": false,
-    "present": {
-      "ich": "narre",
-      "du": "narrst",
-      "es": "narrt",
-      "ihr": "narrt",
-      "Sie": "narren"
-    },
-    "simple": {
-      "ich": "narrte",
-      "du": "narrtest",
-      "es": "narrte",
-      "ihr": "narrtet",
-      "Sie": "narrten"
-    },
-    "conjunctive1": {
-      "ich": "narre",
-      "du": "narrest",
-      "es": "narre",
-      "ihr": "narret",
-      "Sie": "narren"
-    },
-    "conjunctive2": {
-      "ich": "narrte",
-      "du": "narrtest",
-      "es": "narrte",
-      "ihr": "narrtet",
-      "Sie": "narrten"
-    },
-    "imperative": {
-      "du": "narre du",
-      "ihr": "narrt ihr",
-      "Sie": "narren Sie"
-    },
-    "perfect": "genarrt",
-    "gerund": "narrend",
-    "zuinfinitive": "zu narren"
-  },
-  {
     "lemma": "Närrin",
     "type": "noun",
     "translations": [
@@ -13133,6 +14022,37 @@
     }
   },
   {
+    "lemma": "Nass",
+    "type": "noun",
+    "translations": [
+      "water",
+      "a drink",
+      "sth to drink"
+    ],
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": true,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Nass",
+        "plural": null
+      },
+      "accusative": {
+        "singular": "Nass",
+        "plural": null
+      },
+      "dative": {
+        "singular": "Nass",
+        "plural": null
+      },
+      "genitive": {
+        "singular": "Nasses",
+        "plural": null
+      }
+    }
+  },
+  {
     "lemma": "Nässe",
     "type": "noun",
     "translations": [
@@ -14011,43 +14931,6 @@
       "genitive": {
         "singular": "Navigationsgerätes",
         "plural": "Navigationsgeräte"
-      }
-    }
-  },
-  {
-    "lemma": "Nebel",
-    "type": "noun",
-    "translations": [
-      "fog",
-      "mist",
-      "nebula",
-      "cloud",
-      "veil",
-      "brume",
-      "haar",
-      "haze"
-    ],
-    "level": "B1",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Nebel",
-        "plural": "Nebel"
-      },
-      "accusative": {
-        "singular": "Nebel",
-        "plural": "Nebel"
-      },
-      "dative": {
-        "singular": "Nebel",
-        "plural": "Nebeln"
-      },
-      "genitive": {
-        "singular": "Nebels",
-        "plural": "Nebel"
       }
     }
   },
@@ -15953,37 +16836,6 @@
       "genitive": {
         "singular": "Neigung",
         "plural": "Neigungen"
-      }
-    }
-  },
-  {
-    "lemma": "Nein",
-    "type": "noun",
-    "translations": [
-      "no",
-      "nay"
-    ],
-    "level": "C2",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Nein",
-        "plural": "Neins"
-      },
-      "accusative": {
-        "singular": "Nein",
-        "plural": "Neins"
-      },
-      "dative": {
-        "singular": "Nein",
-        "plural": "Neins"
-      },
-      "genitive": {
-        "singular": "Neins",
-        "plural": "Neins"
       }
     }
   },
@@ -18518,6 +19370,52 @@
     "zuinfinitive": "niederzuschmettern"
   },
   {
+    "lemma": "nieder·sinken",
+    "type": "verb",
+    "translations": [
+      "alight",
+      "collapse",
+      "drop down"
+    ],
+    "separable": true,
+    "present": {
+      "ich": "sinke nieder",
+      "du": "sinkst nieder",
+      "es": "sinkt nieder",
+      "ihr": "sinkt nieder",
+      "Sie": "sinken nieder"
+    },
+    "simple": {
+      "ich": "sank nieder",
+      "du": "sankst nieder",
+      "es": "sank nieder",
+      "ihr": "sankt nieder",
+      "Sie": "sanken nieder"
+    },
+    "conjunctive1": {
+      "ich": "sinke nieder",
+      "du": "sinkest nieder",
+      "es": "sinke nieder",
+      "ihr": "sinket nieder",
+      "Sie": "sinken nieder"
+    },
+    "conjunctive2": {
+      "ich": "sänke nieder",
+      "du": "sänkest nieder",
+      "es": "sänke nieder",
+      "ihr": "sänket nieder",
+      "Sie": "sänken nieder"
+    },
+    "imperative": {
+      "du": "sinke du nieder",
+      "ihr": "sinkt ihr nieder",
+      "Sie": "sinken Sie nieder"
+    },
+    "perfect": "niedergesunken",
+    "gerund": "niedersinkend",
+    "zuinfinitive": "niederzusinken"
+  },
+  {
     "lemma": "nieder·trampeln",
     "type": "verb",
     "translations": [
@@ -19807,38 +20705,6 @@
     }
   },
   {
-    "lemma": "Nisse",
-    "type": "noun",
-    "translations": [
-      "nit",
-      "burl",
-      "nep"
-    ],
-    "level": "C2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Nisse",
-        "plural": "Nissen"
-      },
-      "accusative": {
-        "singular": "Nisse",
-        "plural": "Nissen"
-      },
-      "dative": {
-        "singular": "Nisse",
-        "plural": "Nissen"
-      },
-      "genitive": {
-        "singular": "Nisse",
-        "plural": "Nissen"
-      }
-    }
-  },
-  {
     "lemma": "Nix",
     "type": "noun",
     "translations": [
@@ -19898,36 +20764,6 @@
       "genitive": {
         "singular": "Nixe",
         "plural": "Nixen"
-      }
-    }
-  },
-  {
-    "lemma": "No",
-    "type": "noun",
-    "translations": [
-      "No"
-    ],
-    "level": "C2",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "No",
-        "plural": "No"
-      },
-      "accusative": {
-        "singular": "No",
-        "plural": "No"
-      },
-      "dative": {
-        "singular": "No",
-        "plural": "No"
-      },
-      "genitive": {
-        "singular": "No",
-        "plural": "Nos"
       }
     }
   },
@@ -20120,6 +20956,36 @@
       "genitive": {
         "singular": "Normals",
         "plural": "Normale"
+      }
+    }
+  },
+  {
+    "lemma": "Normale",
+    "type": "noun",
+    "translations": [
+      "normal",
+      "perpendicular"
+    ],
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Normale",
+        "plural": "Normalen"
+      },
+      "accusative": {
+        "singular": "Normalen",
+        "plural": "Normalen"
+      },
+      "dative": {
+        "singular": "Normalen",
+        "plural": "Normalen"
+      },
+      "genitive": {
+        "singular": "Normalen",
+        "plural": "Normalen"
       }
     }
   },
@@ -21803,52 +22669,6 @@
     "zuinfinitive": "zu nuten"
   },
   {
-    "lemma": "Nutzen",
-    "type": "noun",
-    "translations": [
-      "benefit",
-      "use",
-      "advantage",
-      "utility",
-      "behalf",
-      "behoof",
-      "board",
-      "exploit",
-      "gain",
-      "good",
-      "harness",
-      "panel",
-      "payoff",
-      "profit",
-      "repeat factor",
-      "usefulness",
-      "value"
-    ],
-    "level": "C1",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": true,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Nutzen",
-        "plural": null
-      },
-      "accusative": {
-        "singular": "Nutzen",
-        "plural": null
-      },
-      "dative": {
-        "singular": "Nutzen",
-        "plural": null
-      },
-      "genitive": {
-        "singular": "Nutzens",
-        "plural": null
-      }
-    }
-  },
-  {
     "lemma": "Ny",
     "type": "noun",
     "translations": [
@@ -21875,33 +22695,6 @@
       "genitive": {
         "singular": "Nys",
         "plural": "Ny"
-      }
-    }
-  },
-  {
-    "lemma": "Ob",
-    "type": "noun",
-    "level": "C2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Ob",
-        "plural": "Ob"
-      },
-      "accusative": {
-        "singular": "Ob",
-        "plural": "Ob"
-      },
-      "dative": {
-        "singular": "Ob",
-        "plural": "Ob"
-      },
-      "genitive": {
-        "singular": "Obs",
-        "plural": "Ob"
       }
     }
   },
@@ -23389,6 +24182,50 @@
     }
   },
   {
+    "lemma": "öden",
+    "type": "verb",
+    "translations": [
+      "bore"
+    ],
+    "separable": false,
+    "present": {
+      "ich": "öde",
+      "du": "ödest",
+      "es": "ödet",
+      "ihr": "ödet",
+      "Sie": "öden"
+    },
+    "simple": {
+      "ich": "ödete",
+      "du": "ödetest",
+      "es": "ödete",
+      "ihr": "ödetet",
+      "Sie": "ödeten"
+    },
+    "conjunctive1": {
+      "ich": "öde",
+      "du": "ödest",
+      "es": "öde",
+      "ihr": "ödet",
+      "Sie": "öden"
+    },
+    "conjunctive2": {
+      "ich": "ödete",
+      "du": "ödetest",
+      "es": "ödete",
+      "ihr": "ödetet",
+      "Sie": "ödeten"
+    },
+    "imperative": {
+      "du": "öde du",
+      "ihr": "ödet ihr",
+      "Sie": "öden Sie"
+    },
+    "perfect": "geödet",
+    "gerund": "ödend",
+    "zuinfinitive": "zu öden"
+  },
+  {
     "lemma": "ödesten",
     "type": "adjective",
     "translations": [
@@ -23527,6 +24364,33 @@
       "genitive": {
         "singular": "Ofens",
         "plural": "Öfen"
+      }
+    }
+  },
+  {
+    "lemma": "Off",
+    "type": "noun",
+    "level": "C2",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Off",
+        "plural": "Offs"
+      },
+      "accusative": {
+        "singular": "Off",
+        "plural": "Offs"
+      },
+      "dative": {
+        "singular": "Off",
+        "plural": "Offs"
+      },
+      "genitive": {
+        "singular": "Offs",
+        "plural": "Offs"
       }
     }
   },
@@ -24522,32 +25386,6 @@
       "genitive": {
         "singular": "Ogers",
         "plural": "Oger"
-      }
-    }
-  },
-  {
-    "lemma": "Oh",
-    "type": "noun",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Oh",
-        "plural": "Ohs"
-      },
-      "accusative": {
-        "singular": "Oh",
-        "plural": "Ohs"
-      },
-      "dative": {
-        "singular": "Oh",
-        "plural": "Ohs"
-      },
-      "genitive": {
-        "singular": "Ohs",
-        "plural": "Ohs"
       }
     }
   },
@@ -26914,6 +27752,35 @@
     "noComparative": false
   },
   {
+    "lemma": "Open",
+    "type": "noun",
+    "translations": [
+      "open"
+    ],
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Open",
+        "plural": "Open"
+      },
+      "accusative": {
+        "singular": "Open",
+        "plural": "Open"
+      },
+      "dative": {
+        "singular": "Open",
+        "plural": "Open"
+      },
+      "genitive": {
+        "singular": "Opens",
+        "plural": "Open"
+      }
+    }
+  },
+  {
     "lemma": "Oper",
     "type": "noun",
     "translations": [
@@ -27551,6 +28418,38 @@
     }
   },
   {
+    "lemma": "Opus",
+    "type": "noun",
+    "translations": [
+      "opus",
+      "work",
+      "oeuvre"
+    ],
+    "level": "C2",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Opus",
+        "plural": "Opera"
+      },
+      "accusative": {
+        "singular": "Opus",
+        "plural": "Opera"
+      },
+      "dative": {
+        "singular": "Opus",
+        "plural": "Opera"
+      },
+      "genitive": {
+        "singular": "Opus",
+        "plural": "Opera"
+      }
+    }
+  },
+  {
     "lemma": "Orangenmarmelade",
     "type": "noun",
     "translations": [
@@ -27733,37 +28632,6 @@
       "genitive": {
         "singular": "Orbitals",
         "plural": "Orbitale"
-      }
-    }
-  },
-  {
-    "lemma": "Orchester",
-    "type": "noun",
-    "translations": [
-      "orchestra",
-      "band"
-    ],
-    "level": "A1",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Orchester",
-        "plural": "Orchester"
-      },
-      "accusative": {
-        "singular": "Orchester",
-        "plural": "Orchester"
-      },
-      "dative": {
-        "singular": "Orchester",
-        "plural": "Orchestern"
-      },
-      "genitive": {
-        "singular": "Orchesters",
-        "plural": "Orchester"
       }
     }
   },
@@ -27958,36 +28826,6 @@
     "noComparative": false,
     "comparative": "ordentlicher",
     "superlative": "am ordentlichsten"
-  },
-  {
-    "lemma": "Order",
-    "type": "noun",
-    "translations": [
-      "order"
-    ],
-    "level": "C2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Order",
-        "plural": "Orders"
-      },
-      "accusative": {
-        "singular": "Order",
-        "plural": "Orders"
-      },
-      "dative": {
-        "singular": "Order",
-        "plural": "Orders"
-      },
-      "genitive": {
-        "singular": "Order",
-        "plural": "Orders"
-      }
-    }
   },
   {
     "lemma": "Ordnungsruf",
@@ -29459,6 +30297,41 @@
     }
   },
   {
+    "lemma": "Paar",
+    "type": "noun",
+    "translations": [
+      "pair",
+      "couple",
+      "Duo",
+      "brace",
+      "dyad",
+      "twosome"
+    ],
+    "level": "A1",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Paar",
+        "plural": "Paare"
+      },
+      "accusative": {
+        "singular": "Paar",
+        "plural": "Paare"
+      },
+      "dative": {
+        "singular": "Paar",
+        "plural": "Paaren"
+      },
+      "genitive": {
+        "singular": "Paares",
+        "plural": "Paare"
+      }
+    }
+  },
+  {
     "lemma": "paar",
     "type": "adjective",
     "translations": [
@@ -29660,6 +30533,42 @@
     }
   },
   {
+    "lemma": "Packen",
+    "type": "noun",
+    "translations": [
+      "bundle",
+      "pack",
+      "bale",
+      "bunch",
+      "pile",
+      "stack",
+      "tackle"
+    ],
+    "level": "C2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Packen",
+        "plural": "Packen"
+      },
+      "accusative": {
+        "singular": "Packen",
+        "plural": "Packen"
+      },
+      "dative": {
+        "singular": "Packen",
+        "plural": "Packen"
+      },
+      "genitive": {
+        "singular": "Packens",
+        "plural": "Packen"
+      }
+    }
+  },
+  {
     "lemma": "Packpapier",
     "type": "noun",
     "translations": [
@@ -29795,6 +30704,36 @@
       "genitive": {
         "singular": "Pads",
         "plural": "Pads"
+      }
+    }
+  },
+  {
+    "lemma": "Paddel",
+    "type": "noun",
+    "translations": [
+      "paddle"
+    ],
+    "level": "C2",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Paddel",
+        "plural": "Paddel"
+      },
+      "accusative": {
+        "singular": "Paddel",
+        "plural": "Paddel"
+      },
+      "dative": {
+        "singular": "Paddel",
+        "plural": "Paddeln"
+      },
+      "genitive": {
+        "singular": "Paddels",
+        "plural": "Paddel"
       }
     }
   },
@@ -31294,36 +32233,6 @@
     }
   },
   {
-    "lemma": "Parameter",
-    "type": "noun",
-    "translations": [
-      "parameter"
-    ],
-    "level": "C2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Parameter",
-        "plural": "Parameter"
-      },
-      "accusative": {
-        "singular": "Parameter",
-        "plural": "Parameter"
-      },
-      "dative": {
-        "singular": "Parameter",
-        "plural": "Parametern"
-      },
-      "genitive": {
-        "singular": "Parameters",
-        "plural": "Parameter"
-      }
-    }
-  },
-  {
     "lemma": "paranoidesten",
     "type": "adjective",
     "translations": [
@@ -32176,6 +33085,36 @@
     }
   },
   {
+    "lemma": "Part",
+    "type": "noun",
+    "translations": [
+      "part",
+      "share"
+    ],
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Part",
+        "plural": "Parts"
+      },
+      "accusative": {
+        "singular": "Part",
+        "plural": "Parts"
+      },
+      "dative": {
+        "singular": "Part",
+        "plural": "Parts"
+      },
+      "genitive": {
+        "singular": "Parts",
+        "plural": "Parts"
+      }
+    }
+  },
+  {
     "lemma": "Partei",
     "type": "noun",
     "translations": [
@@ -32467,6 +33406,37 @@
     }
   },
   {
+    "lemma": "Party",
+    "type": "noun",
+    "translations": [
+      "party",
+      "jamboree"
+    ],
+    "level": "A1",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Party",
+        "plural": "Partys"
+      },
+      "accusative": {
+        "singular": "Party",
+        "plural": "Partys"
+      },
+      "dative": {
+        "singular": "Party",
+        "plural": "Partys"
+      },
+      "genitive": {
+        "singular": "Party",
+        "plural": "Partys"
+      }
+    }
+  },
+  {
     "lemma": "Pas",
     "type": "noun",
     "level": "C2",
@@ -32589,38 +33559,6 @@
     "noComparative": false,
     "comparative": "passabler",
     "superlative": "am passabelsten"
-  },
-  {
-    "lemma": "Passage",
-    "type": "noun",
-    "translations": [
-      "passage",
-      "arcade",
-      "transit"
-    ],
-    "level": "C2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Passage",
-        "plural": "Passagen"
-      },
-      "accusative": {
-        "singular": "Passage",
-        "plural": "Passagen"
-      },
-      "dative": {
-        "singular": "Passage",
-        "plural": "Passagen"
-      },
-      "genitive": {
-        "singular": "Passage",
-        "plural": "Passagen"
-      }
-    }
   },
   {
     "lemma": "Passagier",
@@ -32839,6 +33777,38 @@
       "genitive": {
         "singular": "Pasta",
         "plural": "Pasten"
+      }
+    }
+  },
+  {
+    "lemma": "Pastellfarbe",
+    "type": "noun",
+    "translations": [
+      "pastel color",
+      "pastel",
+      "pastel colour"
+    ],
+    "level": "C2",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Pastellfarbe",
+        "plural": "Pastellfarben"
+      },
+      "accusative": {
+        "singular": "Pastellfarbe",
+        "plural": "Pastellfarben"
+      },
+      "dative": {
+        "singular": "Pastellfarbe",
+        "plural": "Pastellfarben"
+      },
+      "genitive": {
+        "singular": "Pastellfarbe",
+        "plural": "Pastellfarben"
       }
     }
   },
@@ -33262,33 +34232,50 @@
     }
   },
   {
-    "lemma": "Patschen",
-    "type": "noun",
+    "lemma": "patschen",
+    "type": "verb",
     "translations": [
-      "slipper"
+      "slap",
+      "splash"
     ],
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Patschen",
-        "plural": "Patschen"
-      },
-      "accusative": {
-        "singular": "Patschen",
-        "plural": "Patschen"
-      },
-      "dative": {
-        "singular": "Patschen",
-        "plural": "Patschen"
-      },
-      "genitive": {
-        "singular": "Patschens",
-        "plural": "Patschen"
-      }
-    }
+    "level": "C2",
+    "separable": false,
+    "present": {
+      "ich": "patsche",
+      "du": "patschst",
+      "es": "patscht",
+      "ihr": "patscht",
+      "Sie": "patschen"
+    },
+    "simple": {
+      "ich": "patschte",
+      "du": "patschtest",
+      "es": "patschte",
+      "ihr": "patschtet",
+      "Sie": "patschten"
+    },
+    "conjunctive1": {
+      "ich": "patsche",
+      "du": "patschest",
+      "es": "patsche",
+      "ihr": "patschet",
+      "Sie": "patschen"
+    },
+    "conjunctive2": {
+      "ich": "patschte",
+      "du": "patschtest",
+      "es": "patschte",
+      "ihr": "patschtet",
+      "Sie": "patschten"
+    },
+    "imperative": {
+      "du": "patsche du",
+      "ihr": "patscht ihr",
+      "Sie": "patschen Sie"
+    },
+    "perfect": "gepatscht",
+    "gerund": "patschend",
+    "zuinfinitive": "zu patschen"
   },
   {
     "lemma": "patschnass",
@@ -39747,6 +40734,99 @@
     }
   },
   {
+    "lemma": "Pink",
+    "type": "noun",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Pink",
+        "plural": "Pinks"
+      },
+      "accusative": {
+        "singular": "Pink",
+        "plural": "Pinks"
+      },
+      "dative": {
+        "singular": "Pink",
+        "plural": "Pinks"
+      },
+      "genitive": {
+        "singular": "Pinks",
+        "plural": "Pinks"
+      }
+    }
+  },
+  {
+    "lemma": "Pink",
+    "type": "noun",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Pink",
+        "plural": "Pinken"
+      },
+      "accusative": {
+        "singular": "Pink",
+        "plural": "Pinken"
+      },
+      "dative": {
+        "singular": "Pink",
+        "plural": "Pinken"
+      },
+      "genitive": {
+        "singular": "Pink",
+        "plural": "Pinken"
+      }
+    }
+  },
+  {
+    "lemma": "pinken",
+    "type": "verb",
+    "separable": false,
+    "present": {
+      "ich": "pinke",
+      "du": "pinkst",
+      "es": "pinkt",
+      "ihr": "pinkt",
+      "Sie": "pinken"
+    },
+    "simple": {
+      "ich": "pinkte",
+      "du": "pinktest",
+      "es": "pinkte",
+      "ihr": "pinktet",
+      "Sie": "pinkten"
+    },
+    "conjunctive1": {
+      "ich": "pinke",
+      "du": "pinkest",
+      "es": "pinke",
+      "ihr": "pinket",
+      "Sie": "pinken"
+    },
+    "conjunctive2": {
+      "ich": "pinkte",
+      "du": "pinktest",
+      "es": "pinkte",
+      "ihr": "pinktet",
+      "Sie": "pinkten"
+    },
+    "imperative": {
+      "du": "pinke du",
+      "ihr": "pinkt ihr",
+      "Sie": "pinken Sie"
+    },
+    "perfect": "gepinkt",
+    "gerund": "pinkend",
+    "zuinfinitive": "zu pinken"
+  },
+  {
     "lemma": "Pinzette",
     "type": "noun",
     "translations": [
@@ -39904,6 +40984,35 @@
       "genitive": {
         "singular": "Pistolenschusses",
         "plural": "Pistolenschüsse"
+      }
+    }
+  },
+  {
+    "lemma": "Pit",
+    "type": "noun",
+    "translations": [
+      "pit"
+    ],
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Pit",
+        "plural": "Pits"
+      },
+      "accusative": {
+        "singular": "Pit",
+        "plural": "Pits"
+      },
+      "dative": {
+        "singular": "Pit",
+        "plural": "Pits"
+      },
+      "genitive": {
+        "singular": "Pits",
+        "plural": "Pits"
       }
     }
   },
@@ -40161,6 +41270,136 @@
       "genitive": {
         "singular": "Plakette",
         "plural": "Plaketten"
+      }
+    }
+  },
+  {
+    "lemma": "plan",
+    "type": "adjective",
+    "translations": [
+      "planar",
+      "plane"
+    ],
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": true,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "planer",
+        "f": "plane",
+        "n": "planes",
+        "p": "plane"
+      },
+      "accusative": {
+        "m": "planen",
+        "f": "plane",
+        "n": "planes",
+        "p": "plane"
+      },
+      "dative": {
+        "m": "planem",
+        "f": "planer",
+        "n": "planem",
+        "p": "planen"
+      },
+      "genitive": {
+        "m": "planen",
+        "f": "planer",
+        "n": "planen",
+        "p": "planer"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "plane",
+        "f": "plane",
+        "n": "plane",
+        "p": "planen"
+      },
+      "accusative": {
+        "m": "planen",
+        "f": "plane",
+        "n": "plane",
+        "p": "planen"
+      },
+      "dative": {
+        "m": "planen",
+        "f": "planen",
+        "n": "planen",
+        "p": "planen"
+      },
+      "genitive": {
+        "m": "planen",
+        "f": "planen",
+        "n": "planen",
+        "p": "planen"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "planer",
+        "f": "plane",
+        "n": "planes",
+        "p": "planen"
+      },
+      "accusative": {
+        "m": "planen",
+        "f": "plane",
+        "n": "planes",
+        "p": "planen"
+      },
+      "dative": {
+        "m": "planen",
+        "f": "planen",
+        "n": "planen",
+        "p": "planen"
+      },
+      "genitive": {
+        "m": "planen",
+        "f": "planen",
+        "n": "planen",
+        "p": "planen"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": false,
+    "superlativeOnly": false,
+    "noComparative": false
+  },
+  {
+    "lemma": "Plane",
+    "type": "noun",
+    "translations": [
+      "tarpaulin",
+      "awning",
+      "canvas",
+      "canvas cover",
+      "tarp"
+    ],
+    "level": "C2",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Plane",
+        "plural": "Planen"
+      },
+      "accusative": {
+        "singular": "Plane",
+        "plural": "Planen"
+      },
+      "dative": {
+        "singular": "Plane",
+        "plural": "Planen"
+      },
+      "genitive": {
+        "singular": "Plane",
+        "plural": "Planen"
       }
     }
   },
@@ -40678,38 +41917,6 @@
     "noComparative": false,
     "comparative": "platter",
     "superlative": "am plattesten"
-  },
-  {
-    "lemma": "Plattform",
-    "type": "noun",
-    "translations": [
-      "platform",
-      "basis",
-      "stage"
-    ],
-    "level": "A1",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Plattform",
-        "plural": "Plattformen"
-      },
-      "accusative": {
-        "singular": "Plattform",
-        "plural": "Plattformen"
-      },
-      "dative": {
-        "singular": "Plattform",
-        "plural": "Plattformen"
-      },
-      "genitive": {
-        "singular": "Plattform",
-        "plural": "Plattformen"
-      }
-    }
   },
   {
     "lemma": "Plattfuß",
@@ -42260,6 +43467,35 @@
     "superlative": "am poetischsten"
   },
   {
+    "lemma": "Point",
+    "type": "noun",
+    "translations": [
+      "point"
+    ],
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Point",
+        "plural": "Points"
+      },
+      "accusative": {
+        "singular": "Point",
+        "plural": "Points"
+      },
+      "dative": {
+        "singular": "Point",
+        "plural": "Points"
+      },
+      "genitive": {
+        "singular": "Points",
+        "plural": "Points"
+      }
+    }
+  },
+  {
     "lemma": "Pointe",
     "type": "noun",
     "translations": [
@@ -42602,34 +43838,51 @@
     }
   },
   {
-    "lemma": "Pole",
-    "type": "noun",
+    "lemma": "polen",
+    "type": "verb",
     "translations": [
-      "Pole"
+      "pole",
+      "connect to a pole",
+      "polarize"
     ],
     "level": "C2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Pole",
-        "plural": "Polen"
-      },
-      "accusative": {
-        "singular": "Polen",
-        "plural": "Polen"
-      },
-      "dative": {
-        "singular": "Polen",
-        "plural": "Polen"
-      },
-      "genitive": {
-        "singular": "Polen",
-        "plural": "Polen"
-      }
-    }
+    "separable": false,
+    "present": {
+      "ich": "pole",
+      "du": "polst",
+      "es": "polt",
+      "ihr": "polt",
+      "Sie": "polen"
+    },
+    "simple": {
+      "ich": "polte",
+      "du": "poltest",
+      "es": "polte",
+      "ihr": "poltet",
+      "Sie": "polten"
+    },
+    "conjunctive1": {
+      "ich": "pole",
+      "du": "polest",
+      "es": "pole",
+      "ihr": "polet",
+      "Sie": "polen"
+    },
+    "conjunctive2": {
+      "ich": "polte",
+      "du": "poltest",
+      "es": "polte",
+      "ihr": "poltet",
+      "Sie": "polten"
+    },
+    "imperative": {
+      "du": "pole du",
+      "ihr": "polt ihr",
+      "Sie": "polen Sie"
+    },
+    "perfect": "gepolt",
+    "gerund": "polend",
+    "zuinfinitive": "zu polen"
   },
   {
     "lemma": "Police",
@@ -43557,67 +44810,6 @@
     "zuinfinitive": "zu ponieren"
   },
   {
-    "lemma": "Pony",
-    "type": "noun",
-    "translations": [
-      "pony"
-    ],
-    "level": "C2",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Pony",
-        "plural": "Ponys"
-      },
-      "accusative": {
-        "singular": "Pony",
-        "plural": "Ponys"
-      },
-      "dative": {
-        "singular": "Pony",
-        "plural": "Ponys"
-      },
-      "genitive": {
-        "singular": "Ponys",
-        "plural": "Ponys"
-      }
-    }
-  },
-  {
-    "lemma": "Pony",
-    "type": "noun",
-    "translations": [
-      "fringe",
-      "bangs"
-    ],
-    "level": "C2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Pony",
-        "plural": "Ponys"
-      },
-      "accusative": {
-        "singular": "Pony",
-        "plural": "Ponys"
-      },
-      "dative": {
-        "singular": "Pony",
-        "plural": "Ponys"
-      },
-      "genitive": {
-        "singular": "Ponys",
-        "plural": "Ponys"
-      }
-    }
-  },
-  {
     "lemma": "Poolbillard",
     "type": "noun",
     "translations": [
@@ -44239,1058 +45431,5 @@
         "plural": "Porzellane"
       }
     }
-  },
-  {
-    "lemma": "Porzellanfigur",
-    "type": "noun",
-    "translations": [
-      "figurine",
-      "porcelain figure"
-    ],
-    "level": "C2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Porzellanfigur",
-        "plural": "Porzellanfiguren"
-      },
-      "accusative": {
-        "singular": "Porzellanfigur",
-        "plural": "Porzellanfiguren"
-      },
-      "dative": {
-        "singular": "Porzellanfigur",
-        "plural": "Porzellanfiguren"
-      },
-      "genitive": {
-        "singular": "Porzellanfigur",
-        "plural": "Porzellanfiguren"
-      }
-    }
-  },
-  {
-    "lemma": "Porzellanmalerei",
-    "type": "noun",
-    "translations": [
-      "china paint",
-      "china painting"
-    ],
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Porzellanmalerei",
-        "plural": "Porzellanmalereien"
-      },
-      "accusative": {
-        "singular": "Porzellanmalerei",
-        "plural": "Porzellanmalereien"
-      },
-      "dative": {
-        "singular": "Porzellanmalerei",
-        "plural": "Porzellanmalereien"
-      },
-      "genitive": {
-        "singular": "Porzellanmalerei",
-        "plural": "Porzellanmalereien"
-      }
-    }
-  },
-  {
-    "lemma": "Posaune",
-    "type": "noun",
-    "translations": [
-      "trombone",
-      "sackbut",
-      "trumpet"
-    ],
-    "level": "C2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Posaune",
-        "plural": "Posaunen"
-      },
-      "accusative": {
-        "singular": "Posaune",
-        "plural": "Posaunen"
-      },
-      "dative": {
-        "singular": "Posaune",
-        "plural": "Posaunen"
-      },
-      "genitive": {
-        "singular": "Posaune",
-        "plural": "Posaunen"
-      }
-    }
-  },
-  {
-    "lemma": "Positionspapier",
-    "type": "noun",
-    "translations": [
-      "position paper",
-      "policy document",
-      "policy paper"
-    ],
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Positionspapier",
-        "plural": "Positionspapiere"
-      },
-      "accusative": {
-        "singular": "Positionspapier",
-        "plural": "Positionspapiere"
-      },
-      "dative": {
-        "singular": "Positionspapier",
-        "plural": "Positionspapieren"
-      },
-      "genitive": {
-        "singular": "Positionspapiers",
-        "plural": "Positionspapiere"
-      }
-    }
-  },
-  {
-    "lemma": "Postamt",
-    "type": "noun",
-    "translations": [
-      "post office",
-      "post",
-      "post office branch"
-    ],
-    "level": "C2",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Postamt",
-        "plural": "Postämter"
-      },
-      "accusative": {
-        "singular": "Postamt",
-        "plural": "Postämter"
-      },
-      "dative": {
-        "singular": "Postamt",
-        "plural": "Postämtern"
-      },
-      "genitive": {
-        "singular": "Postamtes",
-        "plural": "Postämter"
-      }
-    }
-  },
-  {
-    "lemma": "Postbote",
-    "type": "noun",
-    "translations": [
-      "mailman",
-      "postman",
-      "mail carrier",
-      "postie"
-    ],
-    "level": "C2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Postbote",
-        "plural": "Postboten"
-      },
-      "accusative": {
-        "singular": "Postboten",
-        "plural": "Postboten"
-      },
-      "dative": {
-        "singular": "Postboten",
-        "plural": "Postboten"
-      },
-      "genitive": {
-        "singular": "Postboten",
-        "plural": "Postboten"
-      }
-    }
-  },
-  {
-    "lemma": "Posteingang",
-    "type": "noun",
-    "translations": [
-      "inbox",
-      "incoming mail",
-      "in in-tray",
-      "in tray"
-    ],
-    "level": "A2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Posteingang",
-        "plural": "Posteingänge"
-      },
-      "accusative": {
-        "singular": "Posteingang",
-        "plural": "Posteingänge"
-      },
-      "dative": {
-        "singular": "Posteingang",
-        "plural": "Posteingängen"
-      },
-      "genitive": {
-        "singular": "Posteinganges",
-        "plural": "Posteingänge"
-      }
-    }
-  },
-  {
-    "lemma": "Postkarte",
-    "type": "noun",
-    "translations": [
-      "postcard",
-      "post card"
-    ],
-    "level": "A1",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Postkarte",
-        "plural": "Postkarten"
-      },
-      "accusative": {
-        "singular": "Postkarte",
-        "plural": "Postkarten"
-      },
-      "dative": {
-        "singular": "Postkarte",
-        "plural": "Postkarten"
-      },
-      "genitive": {
-        "singular": "Postkarte",
-        "plural": "Postkarten"
-      }
-    }
-  },
-  {
-    "lemma": "Postkutsche",
-    "type": "noun",
-    "translations": [
-      "stagecoach",
-      "diligence",
-      "stage coach"
-    ],
-    "level": "C2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Postkutsche",
-        "plural": "Postkutschen"
-      },
-      "accusative": {
-        "singular": "Postkutsche",
-        "plural": "Postkutschen"
-      },
-      "dative": {
-        "singular": "Postkutsche",
-        "plural": "Postkutschen"
-      },
-      "genitive": {
-        "singular": "Postkutsche",
-        "plural": "Postkutschen"
-      }
-    }
-  },
-  {
-    "lemma": "Pot",
-    "type": "noun",
-    "translations": [
-      "pot"
-    ],
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": true,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Pot",
-        "plural": null
-      },
-      "accusative": {
-        "singular": "Pot",
-        "plural": null
-      },
-      "dative": {
-        "singular": "Pot",
-        "plural": null
-      },
-      "genitive": {
-        "singular": "Pots",
-        "plural": null
-      }
-    }
-  },
-  {
-    "lemma": "potential",
-    "type": "adjective",
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "potentialer",
-        "f": "potentiale",
-        "n": "potentiales",
-        "p": "potentiale"
-      },
-      "accusative": {
-        "m": "potentialen",
-        "f": "potentiale",
-        "n": "potentiales",
-        "p": "potentiale"
-      },
-      "dative": {
-        "m": "potentialem",
-        "f": "potentialer",
-        "n": "potentialem",
-        "p": "potentialen"
-      },
-      "genitive": {
-        "m": "potentialen",
-        "f": "potentialer",
-        "n": "potentialen",
-        "p": "potentialer"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "potentiale",
-        "f": "potentiale",
-        "n": "potentiale",
-        "p": "potentialen"
-      },
-      "accusative": {
-        "m": "potentialen",
-        "f": "potentiale",
-        "n": "potentiale",
-        "p": "potentialen"
-      },
-      "dative": {
-        "m": "potentialen",
-        "f": "potentialen",
-        "n": "potentialen",
-        "p": "potentialen"
-      },
-      "genitive": {
-        "m": "potentialen",
-        "f": "potentialen",
-        "n": "potentialen",
-        "p": "potentialen"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "potentialer",
-        "f": "potentiale",
-        "n": "potentiales",
-        "p": "potentialen"
-      },
-      "accusative": {
-        "m": "potentialen",
-        "f": "potentiale",
-        "n": "potentiales",
-        "p": "potentialen"
-      },
-      "dative": {
-        "m": "potentialen",
-        "f": "potentialen",
-        "n": "potentialen",
-        "p": "potentialen"
-      },
-      "genitive": {
-        "m": "potentialen",
-        "f": "potentialen",
-        "n": "potentialen",
-        "p": "potentialen"
-      }
-    },
-    "isComparative": false,
-    "isSuperlative": false,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "potentialer",
-    "superlative": "am potentialsten"
-  },
-  {
-    "lemma": "Potentialdifferenz",
-    "type": "noun",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Potentialdifferenz",
-        "plural": "Potentialdifferenzen"
-      },
-      "accusative": {
-        "singular": "Potentialdifferenz",
-        "plural": "Potentialdifferenzen"
-      },
-      "dative": {
-        "singular": "Potentialdifferenz",
-        "plural": "Potentialdifferenzen"
-      },
-      "genitive": {
-        "singular": "Potentialdifferenz",
-        "plural": "Potentialdifferenzen"
-      }
-    }
-  },
-  {
-    "lemma": "potentiellsten",
-    "type": "adjective",
-    "level": "B2",
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "potentiellster",
-        "f": "potentiellste",
-        "n": "potentiellstes",
-        "p": "potentiellste"
-      },
-      "accusative": {
-        "m": "potentiellsten",
-        "f": "potentiellste",
-        "n": "potentiellstes",
-        "p": "potentiellste"
-      },
-      "dative": {
-        "m": "potentiellstem",
-        "f": "potentiellster",
-        "n": "potentiellstem",
-        "p": "potentiellsten"
-      },
-      "genitive": {
-        "m": "potentiellsten",
-        "f": "potentiellster",
-        "n": "potentiellsten",
-        "p": "potentiellster"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "potentiellste",
-        "f": "potentiellste",
-        "n": "potentiellste",
-        "p": "potentiellsten"
-      },
-      "accusative": {
-        "m": "potentiellsten",
-        "f": "potentiellste",
-        "n": "potentiellste",
-        "p": "potentiellsten"
-      },
-      "dative": {
-        "m": "potentiellsten",
-        "f": "potentiellsten",
-        "n": "potentiellsten",
-        "p": "potentiellsten"
-      },
-      "genitive": {
-        "m": "potentiellsten",
-        "f": "potentiellsten",
-        "n": "potentiellsten",
-        "p": "potentiellsten"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "potentiellster",
-        "f": "potentiellste",
-        "n": "potentiellstes",
-        "p": "potentiellsten"
-      },
-      "accusative": {
-        "m": "potentiellsten",
-        "f": "potentiellste",
-        "n": "potentiellstes",
-        "p": "potentiellsten"
-      },
-      "dative": {
-        "m": "potentiellsten",
-        "f": "potentiellsten",
-        "n": "potentiellsten",
-        "p": "potentiellsten"
-      },
-      "genitive": {
-        "m": "potentiellsten",
-        "f": "potentiellsten",
-        "n": "potentiellsten",
-        "p": "potentiellsten"
-      }
-    },
-    "isComparative": false,
-    "isSuperlative": true,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "potentieller",
-    "superlative": "am potentiellsten"
-  },
-  {
-    "lemma": "Potenz",
-    "type": "noun",
-    "translations": [
-      "potential",
-      "power",
-      "potency",
-      "virility",
-      "strength"
-    ],
-    "level": "C2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Potenz",
-        "plural": "Potenzen"
-      },
-      "accusative": {
-        "singular": "Potenz",
-        "plural": "Potenzen"
-      },
-      "dative": {
-        "singular": "Potenz",
-        "plural": "Potenzen"
-      },
-      "genitive": {
-        "singular": "Potenz",
-        "plural": "Potenzen"
-      }
-    }
-  },
-  {
-    "lemma": "Potenzial",
-    "type": "noun",
-    "translations": [
-      "potential",
-      "capability",
-      "chemical potential",
-      "electrical potential",
-      "potential capacity",
-      "potentiality",
-      "scalar potential",
-      "voltage"
-    ],
-    "level": "C1",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Potenzial",
-        "plural": "Potenziale"
-      },
-      "accusative": {
-        "singular": "Potenzial",
-        "plural": "Potenziale"
-      },
-      "dative": {
-        "singular": "Potenzial",
-        "plural": "Potenzialen"
-      },
-      "genitive": {
-        "singular": "Potenzials",
-        "plural": "Potenziale"
-      }
-    }
-  },
-  {
-    "lemma": "potenzial",
-    "type": "adjective",
-    "translations": [
-      "potential"
-    ],
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "potenzialer",
-        "f": "potenziale",
-        "n": "potenziales",
-        "p": "potenziale"
-      },
-      "accusative": {
-        "m": "potenzialen",
-        "f": "potenziale",
-        "n": "potenziales",
-        "p": "potenziale"
-      },
-      "dative": {
-        "m": "potenzialem",
-        "f": "potenzialer",
-        "n": "potenzialem",
-        "p": "potenzialen"
-      },
-      "genitive": {
-        "m": "potenzialen",
-        "f": "potenzialer",
-        "n": "potenzialen",
-        "p": "potenzialer"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "potenziale",
-        "f": "potenziale",
-        "n": "potenziale",
-        "p": "potenzialen"
-      },
-      "accusative": {
-        "m": "potenzialen",
-        "f": "potenziale",
-        "n": "potenziale",
-        "p": "potenzialen"
-      },
-      "dative": {
-        "m": "potenzialen",
-        "f": "potenzialen",
-        "n": "potenzialen",
-        "p": "potenzialen"
-      },
-      "genitive": {
-        "m": "potenzialen",
-        "f": "potenzialen",
-        "n": "potenzialen",
-        "p": "potenzialen"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "potenzialer",
-        "f": "potenziale",
-        "n": "potenziales",
-        "p": "potenzialen"
-      },
-      "accusative": {
-        "m": "potenzialen",
-        "f": "potenziale",
-        "n": "potenziales",
-        "p": "potenzialen"
-      },
-      "dative": {
-        "m": "potenzialen",
-        "f": "potenzialen",
-        "n": "potenzialen",
-        "p": "potenzialen"
-      },
-      "genitive": {
-        "m": "potenzialen",
-        "f": "potenzialen",
-        "n": "potenzialen",
-        "p": "potenzialen"
-      }
-    },
-    "isComparative": false,
-    "isSuperlative": false,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "potenzialer",
-    "superlative": "am potenzialsten"
-  },
-  {
-    "lemma": "potenziellsten",
-    "type": "adjective",
-    "translations": [
-      "potential"
-    ],
-    "level": "C1",
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "potenziellster",
-        "f": "potenziellste",
-        "n": "potenziellstes",
-        "p": "potenziellste"
-      },
-      "accusative": {
-        "m": "potenziellsten",
-        "f": "potenziellste",
-        "n": "potenziellstes",
-        "p": "potenziellste"
-      },
-      "dative": {
-        "m": "potenziellstem",
-        "f": "potenziellster",
-        "n": "potenziellstem",
-        "p": "potenziellsten"
-      },
-      "genitive": {
-        "m": "potenziellsten",
-        "f": "potenziellster",
-        "n": "potenziellsten",
-        "p": "potenziellster"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "potenziellste",
-        "f": "potenziellste",
-        "n": "potenziellste",
-        "p": "potenziellsten"
-      },
-      "accusative": {
-        "m": "potenziellsten",
-        "f": "potenziellste",
-        "n": "potenziellste",
-        "p": "potenziellsten"
-      },
-      "dative": {
-        "m": "potenziellsten",
-        "f": "potenziellsten",
-        "n": "potenziellsten",
-        "p": "potenziellsten"
-      },
-      "genitive": {
-        "m": "potenziellsten",
-        "f": "potenziellsten",
-        "n": "potenziellsten",
-        "p": "potenziellsten"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "potenziellster",
-        "f": "potenziellste",
-        "n": "potenziellstes",
-        "p": "potenziellsten"
-      },
-      "accusative": {
-        "m": "potenziellsten",
-        "f": "potenziellste",
-        "n": "potenziellstes",
-        "p": "potenziellsten"
-      },
-      "dative": {
-        "m": "potenziellsten",
-        "f": "potenziellsten",
-        "n": "potenziellsten",
-        "p": "potenziellsten"
-      },
-      "genitive": {
-        "m": "potenziellsten",
-        "f": "potenziellsten",
-        "n": "potenziellsten",
-        "p": "potenziellsten"
-      }
-    },
-    "isComparative": false,
-    "isSuperlative": true,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "potenzieller",
-    "superlative": "am potenziellsten"
-  },
-  {
-    "lemma": "Pott",
-    "type": "noun",
-    "translations": [
-      "pot",
-      "jackpot",
-      "ship",
-      "tub"
-    ],
-    "level": "C2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Pott",
-        "plural": "Pötte"
-      },
-      "accusative": {
-        "singular": "Pott",
-        "plural": "Pötte"
-      },
-      "dative": {
-        "singular": "Pott",
-        "plural": "Pötten"
-      },
-      "genitive": {
-        "singular": "Pottes",
-        "plural": "Pötte"
-      }
-    }
-  },
-  {
-    "lemma": "Power",
-    "type": "noun",
-    "translations": [
-      "power"
-    ],
-    "level": "C2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": true,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Power",
-        "plural": null
-      },
-      "accusative": {
-        "singular": "Power",
-        "plural": null
-      },
-      "dative": {
-        "singular": "Power",
-        "plural": null
-      },
-      "genitive": {
-        "singular": "Power",
-        "plural": null
-      }
-    }
-  },
-  {
-    "lemma": "Powerplay",
-    "type": "noun",
-    "translations": [
-      "power play"
-    ],
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Powerplay",
-        "plural": "Powerplays"
-      },
-      "accusative": {
-        "singular": "Powerplay",
-        "plural": "Powerplays"
-      },
-      "dative": {
-        "singular": "Powerplay",
-        "plural": "Powerplays"
-      },
-      "genitive": {
-        "singular": "Powerplays",
-        "plural": "Powerplays"
-      }
-    }
-  },
-  {
-    "lemma": "Prä",
-    "type": "noun",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Prä",
-        "plural": "Präs"
-      },
-      "accusative": {
-        "singular": "Prä",
-        "plural": "Präs"
-      },
-      "dative": {
-        "singular": "Prä",
-        "plural": "Präs"
-      },
-      "genitive": {
-        "singular": "Präs",
-        "plural": "Präs"
-      }
-    }
-  },
-  {
-    "lemma": "Pracht",
-    "type": "noun",
-    "translations": [
-      "magnificence",
-      "glory",
-      "grandeur",
-      "splendor",
-      "clarity",
-      "finery",
-      "gorgeousness",
-      "luxuriance",
-      "luxuriousness",
-      "pomp",
-      "resplendence",
-      "splendour",
-      "sumptuousness"
-    ],
-    "level": "C2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": true,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Pracht",
-        "plural": null
-      },
-      "accusative": {
-        "singular": "Pracht",
-        "plural": null
-      },
-      "dative": {
-        "singular": "Pracht",
-        "plural": null
-      },
-      "genitive": {
-        "singular": "Pracht",
-        "plural": null
-      }
-    }
-  },
-  {
-    "lemma": "prächtigsten",
-    "type": "adjective",
-    "translations": [
-      "splendid"
-    ],
-    "level": "B2",
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "prächtigster",
-        "f": "prächtigste",
-        "n": "prächtigstes",
-        "p": "prächtigste"
-      },
-      "accusative": {
-        "m": "prächtigsten",
-        "f": "prächtigste",
-        "n": "prächtigstes",
-        "p": "prächtigste"
-      },
-      "dative": {
-        "m": "prächtigstem",
-        "f": "prächtigster",
-        "n": "prächtigstem",
-        "p": "prächtigsten"
-      },
-      "genitive": {
-        "m": "prächtigsten",
-        "f": "prächtigster",
-        "n": "prächtigsten",
-        "p": "prächtigster"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "prächtigste",
-        "f": "prächtigste",
-        "n": "prächtigste",
-        "p": "prächtigsten"
-      },
-      "accusative": {
-        "m": "prächtigsten",
-        "f": "prächtigste",
-        "n": "prächtigste",
-        "p": "prächtigsten"
-      },
-      "dative": {
-        "m": "prächtigsten",
-        "f": "prächtigsten",
-        "n": "prächtigsten",
-        "p": "prächtigsten"
-      },
-      "genitive": {
-        "m": "prächtigsten",
-        "f": "prächtigsten",
-        "n": "prächtigsten",
-        "p": "prächtigsten"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "prächtigster",
-        "f": "prächtigste",
-        "n": "prächtigstes",
-        "p": "prächtigsten"
-      },
-      "accusative": {
-        "m": "prächtigsten",
-        "f": "prächtigste",
-        "n": "prächtigstes",
-        "p": "prächtigsten"
-      },
-      "dative": {
-        "m": "prächtigsten",
-        "f": "prächtigsten",
-        "n": "prächtigsten",
-        "p": "prächtigsten"
-      },
-      "genitive": {
-        "m": "prächtigsten",
-        "f": "prächtigsten",
-        "n": "prächtigsten",
-        "p": "prächtigsten"
-      }
-    },
-    "isComparative": false,
-    "isSuperlative": true,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "prächtiger",
-    "superlative": "am prächtigsten"
   }
 ]

@@ -1,5 +1,1124 @@
 [
   {
+    "lemma": "Treppenhaus",
+    "type": "noun",
+    "translations": [
+      "staircase",
+      "stairwell",
+      "stairs",
+      "stairway",
+      "well"
+    ],
+    "level": "A2",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Treppenhaus",
+        "plural": "Treppenhäuser"
+      },
+      "accusative": {
+        "singular": "Treppenhaus",
+        "plural": "Treppenhäuser"
+      },
+      "dative": {
+        "singular": "Treppenhaus",
+        "plural": "Treppenhäusern"
+      },
+      "genitive": {
+        "singular": "Treppenhauses",
+        "plural": "Treppenhäuser"
+      }
+    }
+  },
+  {
+    "lemma": "Treppenstufe",
+    "type": "noun",
+    "translations": [
+      "step",
+      "tread"
+    ],
+    "level": "C2",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Treppenstufe",
+        "plural": "Treppenstufen"
+      },
+      "accusative": {
+        "singular": "Treppenstufe",
+        "plural": "Treppenstufen"
+      },
+      "dative": {
+        "singular": "Treppenstufe",
+        "plural": "Treppenstufen"
+      },
+      "genitive": {
+        "singular": "Treppenstufe",
+        "plural": "Treppenstufen"
+      }
+    }
+  },
+  {
+    "lemma": "Tresen",
+    "type": "noun",
+    "translations": [
+      "counter",
+      "bar"
+    ],
+    "level": "C2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Tresen",
+        "plural": "Tresen"
+      },
+      "accusative": {
+        "singular": "Tresen",
+        "plural": "Tresen"
+      },
+      "dative": {
+        "singular": "Tresen",
+        "plural": "Tresen"
+      },
+      "genitive": {
+        "singular": "Tresens",
+        "plural": "Tresen"
+      }
+    }
+  },
+  {
+    "lemma": "Tresor",
+    "type": "noun",
+    "translations": [
+      "safe",
+      "vault",
+      "security container",
+      "strong room",
+      "strongbox",
+      "strongroom"
+    ],
+    "level": "A2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Tresor",
+        "plural": "Tresore"
+      },
+      "accusative": {
+        "singular": "Tresor",
+        "plural": "Tresore"
+      },
+      "dative": {
+        "singular": "Tresor",
+        "plural": "Tresoren"
+      },
+      "genitive": {
+        "singular": "Tresors",
+        "plural": "Tresore"
+      }
+    }
+  },
+  {
+    "lemma": "Tri",
+    "type": "noun",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": true,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Tri",
+        "plural": null
+      },
+      "accusative": {
+        "singular": "Tri",
+        "plural": null
+      },
+      "dative": {
+        "singular": "Tri",
+        "plural": null
+      },
+      "genitive": {
+        "singular": "Tri",
+        "plural": null
+      }
+    }
+  },
+  {
+    "lemma": "Tribüne",
+    "type": "noun",
+    "translations": [
+      "grandstand",
+      "stand",
+      "rostrum",
+      "tribune"
+    ],
+    "level": "C2",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Tribüne",
+        "plural": "Tribünen"
+      },
+      "accusative": {
+        "singular": "Tribüne",
+        "plural": "Tribünen"
+      },
+      "dative": {
+        "singular": "Tribüne",
+        "plural": "Tribünen"
+      },
+      "genitive": {
+        "singular": "Tribüne",
+        "plural": "Tribünen"
+      }
+    }
+  },
+  {
+    "lemma": "trickreicher",
+    "type": "adjective",
+    "translations": [
+      "cunning",
+      "sly"
+    ],
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "trickreicherer",
+        "f": "trickreichere",
+        "n": "trickreicheres",
+        "p": "trickreichere"
+      },
+      "accusative": {
+        "m": "trickreicheren",
+        "f": "trickreichere",
+        "n": "trickreicheres",
+        "p": "trickreichere"
+      },
+      "dative": {
+        "m": "trickreicherem",
+        "f": "trickreicherer",
+        "n": "trickreicherem",
+        "p": "trickreicheren"
+      },
+      "genitive": {
+        "m": "trickreicheren",
+        "f": "trickreicherer",
+        "n": "trickreicheren",
+        "p": "trickreicherer"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "trickreichere",
+        "f": "trickreichere",
+        "n": "trickreichere",
+        "p": "trickreicheren"
+      },
+      "accusative": {
+        "m": "trickreicheren",
+        "f": "trickreichere",
+        "n": "trickreichere",
+        "p": "trickreicheren"
+      },
+      "dative": {
+        "m": "trickreicheren",
+        "f": "trickreicheren",
+        "n": "trickreicheren",
+        "p": "trickreicheren"
+      },
+      "genitive": {
+        "m": "trickreicheren",
+        "f": "trickreicheren",
+        "n": "trickreicheren",
+        "p": "trickreicheren"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "trickreicherer",
+        "f": "trickreichere",
+        "n": "trickreicheres",
+        "p": "trickreicheren"
+      },
+      "accusative": {
+        "m": "trickreicheren",
+        "f": "trickreichere",
+        "n": "trickreicheres",
+        "p": "trickreicheren"
+      },
+      "dative": {
+        "m": "trickreicheren",
+        "f": "trickreicheren",
+        "n": "trickreicheren",
+        "p": "trickreicheren"
+      },
+      "genitive": {
+        "m": "trickreicheren",
+        "f": "trickreicheren",
+        "n": "trickreicheren",
+        "p": "trickreicheren"
+      }
+    },
+    "isComparative": true,
+    "isSuperlative": false,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "trickreicher",
+    "superlative": "am trickreichsten"
+  },
+  {
+    "lemma": "trickreichsten",
+    "type": "adjective",
+    "translations": [
+      "cunning",
+      "sly"
+    ],
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "trickreichster",
+        "f": "trickreichste",
+        "n": "trickreichstes",
+        "p": "trickreichste"
+      },
+      "accusative": {
+        "m": "trickreichsten",
+        "f": "trickreichste",
+        "n": "trickreichstes",
+        "p": "trickreichste"
+      },
+      "dative": {
+        "m": "trickreichstem",
+        "f": "trickreichster",
+        "n": "trickreichstem",
+        "p": "trickreichsten"
+      },
+      "genitive": {
+        "m": "trickreichsten",
+        "f": "trickreichster",
+        "n": "trickreichsten",
+        "p": "trickreichster"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "trickreichste",
+        "f": "trickreichste",
+        "n": "trickreichste",
+        "p": "trickreichsten"
+      },
+      "accusative": {
+        "m": "trickreichsten",
+        "f": "trickreichste",
+        "n": "trickreichste",
+        "p": "trickreichsten"
+      },
+      "dative": {
+        "m": "trickreichsten",
+        "f": "trickreichsten",
+        "n": "trickreichsten",
+        "p": "trickreichsten"
+      },
+      "genitive": {
+        "m": "trickreichsten",
+        "f": "trickreichsten",
+        "n": "trickreichsten",
+        "p": "trickreichsten"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "trickreichster",
+        "f": "trickreichste",
+        "n": "trickreichstes",
+        "p": "trickreichsten"
+      },
+      "accusative": {
+        "m": "trickreichsten",
+        "f": "trickreichste",
+        "n": "trickreichstes",
+        "p": "trickreichsten"
+      },
+      "dative": {
+        "m": "trickreichsten",
+        "f": "trickreichsten",
+        "n": "trickreichsten",
+        "p": "trickreichsten"
+      },
+      "genitive": {
+        "m": "trickreichsten",
+        "f": "trickreichsten",
+        "n": "trickreichsten",
+        "p": "trickreichsten"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": true,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "trickreicher",
+    "superlative": "am trickreichsten"
+  },
+  {
+    "lemma": "triefnass",
+    "type": "adjective",
+    "translations": [
+      "sopping"
+    ],
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": true,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "triefnasser",
+        "f": "triefnasse",
+        "n": "triefnasses",
+        "p": "triefnasse"
+      },
+      "accusative": {
+        "m": "triefnassen",
+        "f": "triefnasse",
+        "n": "triefnasses",
+        "p": "triefnasse"
+      },
+      "dative": {
+        "m": "triefnassem",
+        "f": "triefnasser",
+        "n": "triefnassem",
+        "p": "triefnassen"
+      },
+      "genitive": {
+        "m": "triefnassen",
+        "f": "triefnasser",
+        "n": "triefnassen",
+        "p": "triefnasser"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "triefnasse",
+        "f": "triefnasse",
+        "n": "triefnasse",
+        "p": "triefnassen"
+      },
+      "accusative": {
+        "m": "triefnassen",
+        "f": "triefnasse",
+        "n": "triefnasse",
+        "p": "triefnassen"
+      },
+      "dative": {
+        "m": "triefnassen",
+        "f": "triefnassen",
+        "n": "triefnassen",
+        "p": "triefnassen"
+      },
+      "genitive": {
+        "m": "triefnassen",
+        "f": "triefnassen",
+        "n": "triefnassen",
+        "p": "triefnassen"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "triefnasser",
+        "f": "triefnasse",
+        "n": "triefnasses",
+        "p": "triefnassen"
+      },
+      "accusative": {
+        "m": "triefnassen",
+        "f": "triefnasse",
+        "n": "triefnasses",
+        "p": "triefnassen"
+      },
+      "dative": {
+        "m": "triefnassen",
+        "f": "triefnassen",
+        "n": "triefnassen",
+        "p": "triefnassen"
+      },
+      "genitive": {
+        "m": "triefnassen",
+        "f": "triefnassen",
+        "n": "triefnassen",
+        "p": "triefnassen"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": false,
+    "superlativeOnly": false,
+    "noComparative": false
+  },
+  {
+    "lemma": "triezen",
+    "type": "verb",
+    "translations": [
+      "torment",
+      "pester",
+      "badger",
+      "plague"
+    ],
+    "level": "C2",
+    "separable": false,
+    "present": {
+      "ich": "trieze",
+      "du": "triezt",
+      "es": "triezt",
+      "ihr": "triezt",
+      "Sie": "triezen"
+    },
+    "simple": {
+      "ich": "triezte",
+      "du": "trieztest",
+      "es": "triezte",
+      "ihr": "trieztet",
+      "Sie": "triezten"
+    },
+    "conjunctive1": {
+      "ich": "trieze",
+      "du": "triezest",
+      "es": "trieze",
+      "ihr": "triezet",
+      "Sie": "triezen"
+    },
+    "conjunctive2": {
+      "ich": "triezte",
+      "du": "trieztest",
+      "es": "triezte",
+      "ihr": "trieztet",
+      "Sie": "triezten"
+    },
+    "imperative": {
+      "du": "trieze du",
+      "ihr": "triezt ihr",
+      "Sie": "triezen Sie"
+    },
+    "perfect": "getriezt",
+    "gerund": "triezend",
+    "zuinfinitive": "zu triezen"
+  },
+  {
+    "lemma": "triftigsten",
+    "type": "adjective",
+    "translations": [
+      "convincing"
+    ],
+    "level": "B2",
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "triftigster",
+        "f": "triftigste",
+        "n": "triftigstes",
+        "p": "triftigste"
+      },
+      "accusative": {
+        "m": "triftigsten",
+        "f": "triftigste",
+        "n": "triftigstes",
+        "p": "triftigste"
+      },
+      "dative": {
+        "m": "triftigstem",
+        "f": "triftigster",
+        "n": "triftigstem",
+        "p": "triftigsten"
+      },
+      "genitive": {
+        "m": "triftigsten",
+        "f": "triftigster",
+        "n": "triftigsten",
+        "p": "triftigster"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "triftigste",
+        "f": "triftigste",
+        "n": "triftigste",
+        "p": "triftigsten"
+      },
+      "accusative": {
+        "m": "triftigsten",
+        "f": "triftigste",
+        "n": "triftigste",
+        "p": "triftigsten"
+      },
+      "dative": {
+        "m": "triftigsten",
+        "f": "triftigsten",
+        "n": "triftigsten",
+        "p": "triftigsten"
+      },
+      "genitive": {
+        "m": "triftigsten",
+        "f": "triftigsten",
+        "n": "triftigsten",
+        "p": "triftigsten"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "triftigster",
+        "f": "triftigste",
+        "n": "triftigstes",
+        "p": "triftigsten"
+      },
+      "accusative": {
+        "m": "triftigsten",
+        "f": "triftigste",
+        "n": "triftigstes",
+        "p": "triftigsten"
+      },
+      "dative": {
+        "m": "triftigsten",
+        "f": "triftigsten",
+        "n": "triftigsten",
+        "p": "triftigsten"
+      },
+      "genitive": {
+        "m": "triftigsten",
+        "f": "triftigsten",
+        "n": "triftigsten",
+        "p": "triftigsten"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": true,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "triftiger",
+    "superlative": "am triftigsten"
+  },
+  {
+    "lemma": "Trikot",
+    "type": "noun",
+    "translations": [
+      "jersey",
+      "football shirt",
+      "shirt",
+      "tights"
+    ],
+    "level": "A2",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Trikot",
+        "plural": "Trikots"
+      },
+      "accusative": {
+        "singular": "Trikot",
+        "plural": "Trikots"
+      },
+      "dative": {
+        "singular": "Trikot",
+        "plural": "Trikots"
+      },
+      "genitive": {
+        "singular": "Trikots",
+        "plural": "Trikots"
+      }
+    }
+  },
+  {
+    "lemma": "Trikot",
+    "type": "noun",
+    "translations": [
+      "jersey",
+      "tricot"
+    ],
+    "level": "A2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Trikot",
+        "plural": "Trikots"
+      },
+      "accusative": {
+        "singular": "Trikot",
+        "plural": "Trikots"
+      },
+      "dative": {
+        "singular": "Trikot",
+        "plural": "Trikots"
+      },
+      "genitive": {
+        "singular": "Trikots",
+        "plural": "Trikots"
+      }
+    }
+  },
+  {
+    "lemma": "trillern",
+    "type": "verb",
+    "translations": [
+      "trill",
+      "quaver",
+      "warble"
+    ],
+    "level": "C2",
+    "separable": false,
+    "present": {
+      "ich": "trillere",
+      "du": "trillerst",
+      "es": "trillert",
+      "ihr": "trillert",
+      "Sie": "trillern"
+    },
+    "simple": {
+      "ich": "trillerte",
+      "du": "trillertest",
+      "es": "trillerte",
+      "ihr": "trillertet",
+      "Sie": "trillerten"
+    },
+    "conjunctive1": {
+      "ich": "trillere",
+      "du": "trillerst",
+      "es": "trillere",
+      "ihr": "trillert",
+      "Sie": "trillern"
+    },
+    "conjunctive2": {
+      "ich": "trillerte",
+      "du": "trillertest",
+      "es": "trillerte",
+      "ihr": "trillertet",
+      "Sie": "trillerten"
+    },
+    "imperative": {
+      "du": "trillere du",
+      "ihr": "trillert ihr",
+      "Sie": "trillern Sie"
+    },
+    "perfect": "getrillert",
+    "gerund": "trillernd",
+    "zuinfinitive": "zu trillern"
+  },
+  {
+    "lemma": "Trillerpfeife",
+    "type": "noun",
+    "translations": [
+      "whistle",
+      "thunderer whistle"
+    ],
+    "level": "C1",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Trillerpfeife",
+        "plural": "Trillerpfeifen"
+      },
+      "accusative": {
+        "singular": "Trillerpfeife",
+        "plural": "Trillerpfeifen"
+      },
+      "dative": {
+        "singular": "Trillerpfeife",
+        "plural": "Trillerpfeifen"
+      },
+      "genitive": {
+        "singular": "Trillerpfeife",
+        "plural": "Trillerpfeifen"
+      }
+    }
+  },
+  {
+    "lemma": "Trinkbecher",
+    "type": "noun",
+    "translations": [
+      "drinking cup"
+    ],
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Trinkbecher",
+        "plural": "Trinkbecher"
+      },
+      "accusative": {
+        "singular": "Trinkbecher",
+        "plural": "Trinkbecher"
+      },
+      "dative": {
+        "singular": "Trinkbecher",
+        "plural": "Trinkbechern"
+      },
+      "genitive": {
+        "singular": "Trinkbechers",
+        "plural": "Trinkbecher"
+      }
+    }
+  },
+  {
+    "lemma": "Trinker",
+    "type": "noun",
+    "translations": [
+      "drinker",
+      "drunkard",
+      "alcoholic",
+      "carouser",
+      "imbiber",
+      "wino"
+    ],
+    "level": "C2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Trinker",
+        "plural": "Trinker"
+      },
+      "accusative": {
+        "singular": "Trinker",
+        "plural": "Trinker"
+      },
+      "dative": {
+        "singular": "Trinker",
+        "plural": "Trinkern"
+      },
+      "genitive": {
+        "singular": "Trinkers",
+        "plural": "Trinker"
+      }
+    }
+  },
+  {
+    "lemma": "Trinkgeld",
+    "type": "noun",
+    "translations": [
+      "gratuity",
+      "tip",
+      "beer money",
+      "cumshaw",
+      "vail"
+    ],
+    "level": "A1",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Trinkgeld",
+        "plural": "Trinkgelder"
+      },
+      "accusative": {
+        "singular": "Trinkgeld",
+        "plural": "Trinkgelder"
+      },
+      "dative": {
+        "singular": "Trinkgeld",
+        "plural": "Trinkgeldern"
+      },
+      "genitive": {
+        "singular": "Trinkgeldes",
+        "plural": "Trinkgelder"
+      }
+    }
+  },
+  {
+    "lemma": "Trinkglas",
+    "type": "noun",
+    "translations": [
+      "drinking glass",
+      "glass",
+      "tumbler"
+    ],
+    "level": "C2",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Trinkglas",
+        "plural": "Trinkgläser"
+      },
+      "accusative": {
+        "singular": "Trinkglas",
+        "plural": "Trinkgläser"
+      },
+      "dative": {
+        "singular": "Trinkglas",
+        "plural": "Trinkgläsern"
+      },
+      "genitive": {
+        "singular": "Trinkglases",
+        "plural": "Trinkgläser"
+      }
+    }
+  },
+  {
+    "lemma": "Trinkschale",
+    "type": "noun",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Trinkschale",
+        "plural": "Trinkschalen"
+      },
+      "accusative": {
+        "singular": "Trinkschale",
+        "plural": "Trinkschalen"
+      },
+      "dative": {
+        "singular": "Trinkschale",
+        "plural": "Trinkschalen"
+      },
+      "genitive": {
+        "singular": "Trinkschale",
+        "plural": "Trinkschalen"
+      }
+    }
+  },
+  {
+    "lemma": "Trinkwasser",
+    "type": "noun",
+    "translations": [
+      "drinking water",
+      "drinking-water",
+      "potable water",
+      "tap water"
+    ],
+    "level": "B1",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Trinkwasser",
+        "plural": "Trinkwasser"
+      },
+      "accusative": {
+        "singular": "Trinkwasser",
+        "plural": "Trinkwasser"
+      },
+      "dative": {
+        "singular": "Trinkwasser",
+        "plural": "Trinkwassern"
+      },
+      "genitive": {
+        "singular": "Trinkwassers",
+        "plural": "Trinkwasser"
+      }
+    }
+  },
+  {
+    "lemma": "Trio",
+    "type": "noun",
+    "translations": [
+      "trio",
+      "triumvirate"
+    ],
+    "level": "C1",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Trio",
+        "plural": "Trios"
+      },
+      "accusative": {
+        "singular": "Trio",
+        "plural": "Trios"
+      },
+      "dative": {
+        "singular": "Trio",
+        "plural": "Trios"
+      },
+      "genitive": {
+        "singular": "Trios",
+        "plural": "Trios"
+      }
+    }
+  },
+  {
+    "lemma": "Trip",
+    "type": "noun",
+    "translations": [
+      "trip"
+    ],
+    "level": "C2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Trip",
+        "plural": "Trips"
+      },
+      "accusative": {
+        "singular": "Trip",
+        "plural": "Trips"
+      },
+      "dative": {
+        "singular": "Trip",
+        "plural": "Trips"
+      },
+      "genitive": {
+        "singular": "Trips",
+        "plural": "Trips"
+      }
+    }
+  },
+  {
+    "lemma": "tristesten",
+    "type": "adjective",
+    "translations": [
+      "dismall",
+      "dull",
+      "sad",
+      "miserable"
+    ],
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "tristester",
+        "f": "tristeste",
+        "n": "tristestes",
+        "p": "tristeste"
+      },
+      "accusative": {
+        "m": "tristesten",
+        "f": "tristeste",
+        "n": "tristestes",
+        "p": "tristeste"
+      },
+      "dative": {
+        "m": "tristestem",
+        "f": "tristester",
+        "n": "tristestem",
+        "p": "tristesten"
+      },
+      "genitive": {
+        "m": "tristesten",
+        "f": "tristester",
+        "n": "tristesten",
+        "p": "tristester"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "tristeste",
+        "f": "tristeste",
+        "n": "tristeste",
+        "p": "tristesten"
+      },
+      "accusative": {
+        "m": "tristesten",
+        "f": "tristeste",
+        "n": "tristeste",
+        "p": "tristesten"
+      },
+      "dative": {
+        "m": "tristesten",
+        "f": "tristesten",
+        "n": "tristesten",
+        "p": "tristesten"
+      },
+      "genitive": {
+        "m": "tristesten",
+        "f": "tristesten",
+        "n": "tristesten",
+        "p": "tristesten"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "tristester",
+        "f": "tristeste",
+        "n": "tristestes",
+        "p": "tristesten"
+      },
+      "accusative": {
+        "m": "tristesten",
+        "f": "tristeste",
+        "n": "tristestes",
+        "p": "tristesten"
+      },
+      "dative": {
+        "m": "tristesten",
+        "f": "tristesten",
+        "n": "tristesten",
+        "p": "tristesten"
+      },
+      "genitive": {
+        "m": "tristesten",
+        "f": "tristesten",
+        "n": "tristesten",
+        "p": "tristesten"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": true,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "trister",
+    "superlative": "am tristesten"
+  },
+  {
     "lemma": "Tritt",
     "type": "noun",
     "translations": [
@@ -1397,6 +2516,51 @@
         "plural": "Trostwörter"
       }
     }
+  },
+  {
+    "lemma": "tröten",
+    "type": "verb",
+    "translations": [
+      "hoot"
+    ],
+    "level": "C2",
+    "separable": false,
+    "present": {
+      "ich": "tröte",
+      "du": "trötest",
+      "es": "trötet",
+      "ihr": "trötet",
+      "Sie": "tröten"
+    },
+    "simple": {
+      "ich": "trötete",
+      "du": "trötetest",
+      "es": "trötete",
+      "ihr": "trötetet",
+      "Sie": "tröteten"
+    },
+    "conjunctive1": {
+      "ich": "tröte",
+      "du": "trötest",
+      "es": "tröte",
+      "ihr": "trötet",
+      "Sie": "tröten"
+    },
+    "conjunctive2": {
+      "ich": "trötete",
+      "du": "trötetest",
+      "es": "trötete",
+      "ihr": "trötetet",
+      "Sie": "tröteten"
+    },
+    "imperative": {
+      "du": "tröte du",
+      "ihr": "trötet ihr",
+      "Sie": "tröten Sie"
+    },
+    "perfect": "getrötet",
+    "gerund": "trötend",
+    "zuinfinitive": "zu tröten"
   },
   {
     "lemma": "Trott",
@@ -3155,32 +4319,6 @@
     }
   },
   {
-    "lemma": "Tschüss",
-    "type": "noun",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Tschüss",
-        "plural": "Tschüss"
-      },
-      "accusative": {
-        "singular": "Tschüss",
-        "plural": "Tschüss"
-      },
-      "dative": {
-        "singular": "Tschüss",
-        "plural": "Tschüss"
-      },
-      "genitive": {
-        "singular": "Tschüss",
-        "plural": "Tschüss"
-      }
-    }
-  },
-  {
     "lemma": "Tsunami",
     "type": "noun",
     "translations": [
@@ -4111,6 +5249,37 @@
     }
   },
   {
+    "lemma": "Tupfen",
+    "type": "noun",
+    "translations": [
+      "dot",
+      "fleck",
+      "spot"
+    ],
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Tupfen",
+        "plural": "Tupfen"
+      },
+      "accusative": {
+        "singular": "Tupfen",
+        "plural": "Tupfen"
+      },
+      "dative": {
+        "singular": "Tupfen",
+        "plural": "Tupfen"
+      },
+      "genitive": {
+        "singular": "Tupfens",
+        "plural": "Tupfen"
+      }
+    }
+  },
+  {
     "lemma": "Turban",
     "type": "noun",
     "translations": [
@@ -4168,37 +5337,6 @@
       "genitive": {
         "singular": "Turbine",
         "plural": "Turbinen"
-      }
-    }
-  },
-  {
-    "lemma": "Turbo",
-    "type": "noun",
-    "translations": [
-      "turbo",
-      "turbocharged car",
-      "turbocharger"
-    ],
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Turbo",
-        "plural": "Turbos"
-      },
-      "accusative": {
-        "singular": "Turbo",
-        "plural": "Turbos"
-      },
-      "dative": {
-        "singular": "Turbo",
-        "plural": "Turbos"
-      },
-      "genitive": {
-        "singular": "Turbos",
-        "plural": "Turbos"
       }
     }
   },
@@ -5188,6 +6326,39 @@
       "genitive": {
         "singular": "Turmzimmers",
         "plural": "Turmzimmer"
+      }
+    }
+  },
+  {
+    "lemma": "Turnen",
+    "type": "noun",
+    "translations": [
+      "gymnastics",
+      "physical education",
+      "PE",
+      "exercise"
+    ],
+    "level": "C2",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": true,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Turnen",
+        "plural": null
+      },
+      "accusative": {
+        "singular": "Turnen",
+        "plural": null
+      },
+      "dative": {
+        "singular": "Turnen",
+        "plural": null
+      },
+      "genitive": {
+        "singular": "Turnens",
+        "plural": null
       }
     }
   },
@@ -7049,100 +8220,6 @@
     }
   },
   {
-    "lemma": "überdreht",
-    "type": "adjective",
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "überdrehter",
-        "f": "überdrehte",
-        "n": "überdrehtes",
-        "p": "überdrehte"
-      },
-      "accusative": {
-        "m": "überdrehten",
-        "f": "überdrehte",
-        "n": "überdrehtes",
-        "p": "überdrehte"
-      },
-      "dative": {
-        "m": "überdrehtem",
-        "f": "überdrehter",
-        "n": "überdrehtem",
-        "p": "überdrehten"
-      },
-      "genitive": {
-        "m": "überdrehten",
-        "f": "überdrehter",
-        "n": "überdrehten",
-        "p": "überdrehter"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "überdrehte",
-        "f": "überdrehte",
-        "n": "überdrehte",
-        "p": "überdrehten"
-      },
-      "accusative": {
-        "m": "überdrehten",
-        "f": "überdrehte",
-        "n": "überdrehte",
-        "p": "überdrehten"
-      },
-      "dative": {
-        "m": "überdrehten",
-        "f": "überdrehten",
-        "n": "überdrehten",
-        "p": "überdrehten"
-      },
-      "genitive": {
-        "m": "überdrehten",
-        "f": "überdrehten",
-        "n": "überdrehten",
-        "p": "überdrehten"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "überdrehter",
-        "f": "überdrehte",
-        "n": "überdrehtes",
-        "p": "überdrehten"
-      },
-      "accusative": {
-        "m": "überdrehten",
-        "f": "überdrehte",
-        "n": "überdrehtes",
-        "p": "überdrehten"
-      },
-      "dative": {
-        "m": "überdrehten",
-        "f": "überdrehten",
-        "n": "überdrehten",
-        "p": "überdrehten"
-      },
-      "genitive": {
-        "m": "überdrehten",
-        "f": "überdrehten",
-        "n": "überdrehten",
-        "p": "überdrehten"
-      }
-    },
-    "isComparative": false,
-    "isSuperlative": false,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "überdrehter",
-    "superlative": "am überdrehtesten"
-  },
-  {
     "lemma": "überdrehtesten",
     "type": "adjective",
     "predicativeOnly": false,
@@ -8328,41 +9405,6 @@
     }
   },
   {
-    "lemma": "Übernachtung",
-    "type": "noun",
-    "translations": [
-      "accommodation",
-      "overnight stay",
-      "guest-night",
-      "over-night-stay",
-      "pernoctation",
-      "sleepover"
-    ],
-    "level": "B1",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Übernachtung",
-        "plural": "Übernachtungen"
-      },
-      "accusative": {
-        "singular": "Übernachtung",
-        "plural": "Übernachtungen"
-      },
-      "dative": {
-        "singular": "Übernachtung",
-        "plural": "Übernachtungen"
-      },
-      "genitive": {
-        "singular": "Übernachtung",
-        "plural": "Übernachtungen"
-      }
-    }
-  },
-  {
     "lemma": "Überraschung",
     "type": "noun",
     "translations": [
@@ -8460,6 +9502,54 @@
         "plural": "Überreste"
       }
     }
+  },
+  {
+    "lemma": "übersäen",
+    "type": "verb",
+    "translations": [
+      "litter",
+      "strew",
+      "stud",
+      "reseed"
+    ],
+    "level": "C2",
+    "separable": false,
+    "present": {
+      "ich": "übersäe",
+      "du": "übersäst",
+      "es": "übersät",
+      "ihr": "übersät",
+      "Sie": "übersäen"
+    },
+    "simple": {
+      "ich": "übersäte",
+      "du": "übersätest",
+      "es": "übersäte",
+      "ihr": "übersätet",
+      "Sie": "übersäten"
+    },
+    "conjunctive1": {
+      "ich": "übersäe",
+      "du": "übersäest",
+      "es": "übersäe",
+      "ihr": "übersäet",
+      "Sie": "übersäen"
+    },
+    "conjunctive2": {
+      "ich": "übersäte",
+      "du": "übersätest",
+      "es": "übersäte",
+      "ihr": "übersätet",
+      "Sie": "übersäten"
+    },
+    "imperative": {
+      "du": "übersäe du",
+      "ihr": "übersät ihr",
+      "Sie": "übersäen Sie"
+    },
+    "perfect": "übersät",
+    "gerund": "übersäend",
+    "zuinfinitive": "zu übersäen"
   },
   {
     "lemma": "überschlagen",
@@ -8948,50 +10038,6 @@
       "genitive": {
         "singular": "Überschwemmung",
         "plural": "Überschwemmungen"
-      }
-    }
-  },
-  {
-    "lemma": "Übersetzung",
-    "type": "noun",
-    "translations": [
-      "translation",
-      "gear ratio",
-      "conversion",
-      "gear",
-      "gear ratio step up",
-      "heave",
-      "ratio",
-      "rendition",
-      "speed increaser",
-      "speed transformation",
-      "transfer ratio",
-      "transformation",
-      "translating",
-      "transmission",
-      "transmission ratio"
-    ],
-    "level": "A2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Übersetzung",
-        "plural": "Übersetzungen"
-      },
-      "accusative": {
-        "singular": "Übersetzung",
-        "plural": "Übersetzungen"
-      },
-      "dative": {
-        "singular": "Übersetzung",
-        "plural": "Übersetzungen"
-      },
-      "genitive": {
-        "singular": "Übersetzung",
-        "plural": "Übersetzungen"
       }
     }
   },
@@ -11072,6 +12118,51 @@
     }
   },
   {
+    "lemma": "umgrenzen",
+    "type": "verb",
+    "translations": [
+      "bound",
+      "define"
+    ],
+    "separable": false,
+    "present": {
+      "ich": "umgrenze",
+      "du": "umgrenzt",
+      "es": "umgrenzt",
+      "ihr": "umgrenzt",
+      "Sie": "umgrenzen"
+    },
+    "simple": {
+      "ich": "umgrenzte",
+      "du": "umgrenztest",
+      "es": "umgrenzte",
+      "ihr": "umgrenztet",
+      "Sie": "umgrenzten"
+    },
+    "conjunctive1": {
+      "ich": "umgrenze",
+      "du": "umgrenzest",
+      "es": "umgrenze",
+      "ihr": "umgrenzet",
+      "Sie": "umgrenzen"
+    },
+    "conjunctive2": {
+      "ich": "umgrenzte",
+      "du": "umgrenztest",
+      "es": "umgrenzte",
+      "ihr": "umgrenztet",
+      "Sie": "umgrenzten"
+    },
+    "imperative": {
+      "du": "umgrenze du",
+      "ihr": "umgrenzt ihr",
+      "Sie": "umgrenzen Sie"
+    },
+    "perfect": "umgrenzt",
+    "gerund": "umgrenzend",
+    "zuinfinitive": "zu umgrenzen"
+  },
+  {
     "lemma": "Umhang",
     "type": "noun",
     "translations": [
@@ -11486,6 +12577,48 @@
     "zuinfinitive": "umhinzukönnen"
   },
   {
+    "lemma": "umjubeln",
+    "type": "verb",
+    "level": "C1",
+    "separable": false,
+    "present": {
+      "ich": "umjubele",
+      "du": "umjubelst",
+      "es": "umjubelt",
+      "ihr": "umjubelt",
+      "Sie": "umjubeln"
+    },
+    "simple": {
+      "ich": "umjubelte",
+      "du": "umjubeltest",
+      "es": "umjubelte",
+      "ihr": "umjubeltet",
+      "Sie": "umjubelten"
+    },
+    "conjunctive1": {
+      "ich": "umjubele",
+      "du": "umjubelst",
+      "es": "umjubele",
+      "ihr": "umjubelt",
+      "Sie": "umjubeln"
+    },
+    "conjunctive2": {
+      "ich": "umjubelte",
+      "du": "umjubeltest",
+      "es": "umjubelte",
+      "ihr": "umjubeltet",
+      "Sie": "umjubelten"
+    },
+    "imperative": {
+      "du": "umjubele du",
+      "ihr": "umjubelt ihr",
+      "Sie": "umjubeln Sie"
+    },
+    "perfect": "umjubelt",
+    "gerund": "umjubelnd",
+    "zuinfinitive": "zu umjubeln"
+  },
+  {
     "lemma": "Umkehr",
     "type": "noun",
     "translations": [
@@ -11684,43 +12817,6 @@
       "genitive": {
         "singular": "Umkleideraumes",
         "plural": "Umkleideräume"
-      }
-    }
-  },
-  {
-    "lemma": "Umkreis",
-    "type": "noun",
-    "translations": [
-      "circumcircle",
-      "surroundings",
-      "ambit",
-      "circumscribed circle",
-      "compass",
-      "perimeter",
-      "periphery",
-      "radius"
-    ],
-    "level": "B2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Umkreis",
-        "plural": "Umkreise"
-      },
-      "accusative": {
-        "singular": "Umkreis",
-        "plural": "Umkreise"
-      },
-      "dative": {
-        "singular": "Umkreis",
-        "plural": "Umkreisen"
-      },
-      "genitive": {
-        "singular": "Umkreises",
-        "plural": "Umkreise"
       }
     }
   },
@@ -14069,101 +15165,6 @@
     "superlative": "am unaufrichtigsten"
   },
   {
-    "lemma": "unausgegoren",
-    "type": "adjective",
-    "translations": [
-      "underdeveloped"
-    ],
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": true,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "unausgegorener",
-        "f": "unausgegorene",
-        "n": "unausgegorenes",
-        "p": "unausgegorene"
-      },
-      "accusative": {
-        "m": "unausgegorenen",
-        "f": "unausgegorene",
-        "n": "unausgegorenes",
-        "p": "unausgegorene"
-      },
-      "dative": {
-        "m": "unausgegorenem",
-        "f": "unausgegorener",
-        "n": "unausgegorenem",
-        "p": "unausgegorenen"
-      },
-      "genitive": {
-        "m": "unausgegorenen",
-        "f": "unausgegorener",
-        "n": "unausgegorenen",
-        "p": "unausgegorener"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "unausgegorene",
-        "f": "unausgegorene",
-        "n": "unausgegorene",
-        "p": "unausgegorenen"
-      },
-      "accusative": {
-        "m": "unausgegorenen",
-        "f": "unausgegorene",
-        "n": "unausgegorene",
-        "p": "unausgegorenen"
-      },
-      "dative": {
-        "m": "unausgegorenen",
-        "f": "unausgegorenen",
-        "n": "unausgegorenen",
-        "p": "unausgegorenen"
-      },
-      "genitive": {
-        "m": "unausgegorenen",
-        "f": "unausgegorenen",
-        "n": "unausgegorenen",
-        "p": "unausgegorenen"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "unausgegorener",
-        "f": "unausgegorene",
-        "n": "unausgegorenes",
-        "p": "unausgegorenen"
-      },
-      "accusative": {
-        "m": "unausgegorenen",
-        "f": "unausgegorene",
-        "n": "unausgegorenes",
-        "p": "unausgegorenen"
-      },
-      "dative": {
-        "m": "unausgegorenen",
-        "f": "unausgegorenen",
-        "n": "unausgegorenen",
-        "p": "unausgegorenen"
-      },
-      "genitive": {
-        "m": "unausgegorenen",
-        "f": "unausgegorenen",
-        "n": "unausgegorenen",
-        "p": "unausgegorenen"
-      }
-    },
-    "isComparative": false,
-    "isSuperlative": false,
-    "superlativeOnly": false,
-    "noComparative": false
-  },
-  {
     "lemma": "unausgeschlafen",
     "type": "adjective",
     "predicativeOnly": false,
@@ -15892,106 +16893,6 @@
     "isSuperlative": false,
     "superlativeOnly": false,
     "noComparative": false
-  },
-  {
-    "lemma": "unbegreiflicher",
-    "type": "adjective",
-    "translations": [
-      "incomprehensible",
-      "inexplicable",
-      "unfathomable",
-      "inconceivable"
-    ],
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "unbegreiflicherer",
-        "f": "unbegreiflichere",
-        "n": "unbegreiflicheres",
-        "p": "unbegreiflichere"
-      },
-      "accusative": {
-        "m": "unbegreiflicheren",
-        "f": "unbegreiflichere",
-        "n": "unbegreiflicheres",
-        "p": "unbegreiflichere"
-      },
-      "dative": {
-        "m": "unbegreiflicherem",
-        "f": "unbegreiflicherer",
-        "n": "unbegreiflicherem",
-        "p": "unbegreiflicheren"
-      },
-      "genitive": {
-        "m": "unbegreiflicheren",
-        "f": "unbegreiflicherer",
-        "n": "unbegreiflicheren",
-        "p": "unbegreiflicherer"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "unbegreiflichere",
-        "f": "unbegreiflichere",
-        "n": "unbegreiflichere",
-        "p": "unbegreiflicheren"
-      },
-      "accusative": {
-        "m": "unbegreiflicheren",
-        "f": "unbegreiflichere",
-        "n": "unbegreiflichere",
-        "p": "unbegreiflicheren"
-      },
-      "dative": {
-        "m": "unbegreiflicheren",
-        "f": "unbegreiflicheren",
-        "n": "unbegreiflicheren",
-        "p": "unbegreiflicheren"
-      },
-      "genitive": {
-        "m": "unbegreiflicheren",
-        "f": "unbegreiflicheren",
-        "n": "unbegreiflicheren",
-        "p": "unbegreiflicheren"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "unbegreiflicherer",
-        "f": "unbegreiflichere",
-        "n": "unbegreiflicheres",
-        "p": "unbegreiflicheren"
-      },
-      "accusative": {
-        "m": "unbegreiflicheren",
-        "f": "unbegreiflichere",
-        "n": "unbegreiflicheres",
-        "p": "unbegreiflicheren"
-      },
-      "dative": {
-        "m": "unbegreiflicheren",
-        "f": "unbegreiflicheren",
-        "n": "unbegreiflicheren",
-        "p": "unbegreiflicheren"
-      },
-      "genitive": {
-        "m": "unbegreiflicheren",
-        "f": "unbegreiflicheren",
-        "n": "unbegreiflicheren",
-        "p": "unbegreiflicheren"
-      }
-    },
-    "isComparative": true,
-    "isSuperlative": false,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "unbegreiflicher",
-    "superlative": "am unbegreiflichsten"
   },
   {
     "lemma": "unbegreiflichsten",
@@ -19990,103 +20891,6 @@
     "superlative": "am unbürokratischsten"
   },
   {
-    "lemma": "undankbarer",
-    "type": "adjective",
-    "translations": [
-      "ungrateful"
-    ],
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "undankbarerer",
-        "f": "undankbarere",
-        "n": "undankbareres",
-        "p": "undankbarere"
-      },
-      "accusative": {
-        "m": "undankbareren",
-        "f": "undankbarere",
-        "n": "undankbareres",
-        "p": "undankbarere"
-      },
-      "dative": {
-        "m": "undankbarerem",
-        "f": "undankbarerer",
-        "n": "undankbarerem",
-        "p": "undankbareren"
-      },
-      "genitive": {
-        "m": "undankbareren",
-        "f": "undankbarerer",
-        "n": "undankbareren",
-        "p": "undankbarerer"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "undankbarere",
-        "f": "undankbarere",
-        "n": "undankbarere",
-        "p": "undankbareren"
-      },
-      "accusative": {
-        "m": "undankbareren",
-        "f": "undankbarere",
-        "n": "undankbarere",
-        "p": "undankbareren"
-      },
-      "dative": {
-        "m": "undankbareren",
-        "f": "undankbareren",
-        "n": "undankbareren",
-        "p": "undankbareren"
-      },
-      "genitive": {
-        "m": "undankbareren",
-        "f": "undankbareren",
-        "n": "undankbareren",
-        "p": "undankbareren"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "undankbarerer",
-        "f": "undankbarere",
-        "n": "undankbareres",
-        "p": "undankbareren"
-      },
-      "accusative": {
-        "m": "undankbareren",
-        "f": "undankbarere",
-        "n": "undankbareres",
-        "p": "undankbareren"
-      },
-      "dative": {
-        "m": "undankbareren",
-        "f": "undankbareren",
-        "n": "undankbareren",
-        "p": "undankbareren"
-      },
-      "genitive": {
-        "m": "undankbareren",
-        "f": "undankbareren",
-        "n": "undankbareren",
-        "p": "undankbareren"
-      }
-    },
-    "isComparative": true,
-    "isSuperlative": false,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "undankbarer",
-    "superlative": "am undankbarsten"
-  },
-  {
     "lemma": "undankbarsten",
     "type": "adjective",
     "translations": [
@@ -24054,6 +24858,32 @@
     }
   },
   {
+    "lemma": "Ungarische",
+    "type": "noun",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": true,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Ungarische",
+        "plural": null
+      },
+      "accusative": {
+        "singular": "Ungarische",
+        "plural": null
+      },
+      "dative": {
+        "singular": "Ungarische",
+        "plural": null
+      },
+      "genitive": {
+        "singular": "Ungarische",
+        "plural": null
+      }
+    }
+  },
+  {
     "lemma": "ungarischsten",
     "type": "adjective",
     "translations": [
@@ -25623,6 +26453,98 @@
     "noComparative": false,
     "comparative": "ungeliebter",
     "superlative": "am ungeliebtesten"
+  },
+  {
+    "lemma": "ungemein",
+    "type": "adjective",
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": true,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "ungemeiner",
+        "f": "ungemeine",
+        "n": "ungemeines",
+        "p": "ungemeine"
+      },
+      "accusative": {
+        "m": "ungemeinen",
+        "f": "ungemeine",
+        "n": "ungemeines",
+        "p": "ungemeine"
+      },
+      "dative": {
+        "m": "ungemeinem",
+        "f": "ungemeiner",
+        "n": "ungemeinem",
+        "p": "ungemeinen"
+      },
+      "genitive": {
+        "m": "ungemeinen",
+        "f": "ungemeiner",
+        "n": "ungemeinen",
+        "p": "ungemeiner"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "ungemeine",
+        "f": "ungemeine",
+        "n": "ungemeine",
+        "p": "ungemeinen"
+      },
+      "accusative": {
+        "m": "ungemeinen",
+        "f": "ungemeine",
+        "n": "ungemeine",
+        "p": "ungemeinen"
+      },
+      "dative": {
+        "m": "ungemeinen",
+        "f": "ungemeinen",
+        "n": "ungemeinen",
+        "p": "ungemeinen"
+      },
+      "genitive": {
+        "m": "ungemeinen",
+        "f": "ungemeinen",
+        "n": "ungemeinen",
+        "p": "ungemeinen"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "ungemeiner",
+        "f": "ungemeine",
+        "n": "ungemeines",
+        "p": "ungemeinen"
+      },
+      "accusative": {
+        "m": "ungemeinen",
+        "f": "ungemeine",
+        "n": "ungemeines",
+        "p": "ungemeinen"
+      },
+      "dative": {
+        "m": "ungemeinen",
+        "f": "ungemeinen",
+        "n": "ungemeinen",
+        "p": "ungemeinen"
+      },
+      "genitive": {
+        "m": "ungemeinen",
+        "f": "ungemeinen",
+        "n": "ungemeinen",
+        "p": "ungemeinen"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": false,
+    "superlativeOnly": false,
+    "noComparative": false
   },
   {
     "lemma": "ungemütlicher",
@@ -27314,6 +28236,41 @@
     "noComparative": false,
     "comparative": "ungestörter",
     "superlative": "am ungestörtesten"
+  },
+  {
+    "lemma": "Ungestüm",
+    "type": "noun",
+    "translations": [
+      "impetuosity",
+      "aggressiveness",
+      "forcefulness",
+      "furiousness",
+      "impetuousness",
+      "storminess"
+    ],
+    "level": "C2",
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": true,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Ungestüm",
+        "plural": null
+      },
+      "accusative": {
+        "singular": "Ungestüm",
+        "plural": null
+      },
+      "dative": {
+        "singular": "Ungestüm",
+        "plural": null
+      },
+      "genitive": {
+        "singular": "Ungestümes",
+        "plural": null
+      }
+    }
   },
   {
     "lemma": "ungesundesten",
@@ -30196,35 +31153,101 @@
     "noComparative": false
   },
   {
-    "lemma": "Uniform",
-    "type": "noun",
+    "lemma": "uniform",
+    "type": "adjective",
     "translations": [
-      "uniform",
-      "regimentals"
+      "consistent",
+      "homogeneous",
+      "uniform"
     ],
-    "level": "C2",
-    "gender": "f",
-    "noArticle": false,
+    "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
-    "cases": {
+    "absolute": true,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
       "nominative": {
-        "singular": "Uniform",
-        "plural": "Uniformen"
+        "m": "uniformer",
+        "f": "uniforme",
+        "n": "uniformes",
+        "p": "uniforme"
       },
       "accusative": {
-        "singular": "Uniform",
-        "plural": "Uniformen"
+        "m": "uniformen",
+        "f": "uniforme",
+        "n": "uniformes",
+        "p": "uniforme"
       },
       "dative": {
-        "singular": "Uniform",
-        "plural": "Uniformen"
+        "m": "uniformem",
+        "f": "uniformer",
+        "n": "uniformem",
+        "p": "uniformen"
       },
       "genitive": {
-        "singular": "Uniform",
-        "plural": "Uniformen"
+        "m": "uniformen",
+        "f": "uniformer",
+        "n": "uniformen",
+        "p": "uniformer"
       }
-    }
+    },
+    "weak": {
+      "nominative": {
+        "m": "uniforme",
+        "f": "uniforme",
+        "n": "uniforme",
+        "p": "uniformen"
+      },
+      "accusative": {
+        "m": "uniformen",
+        "f": "uniforme",
+        "n": "uniforme",
+        "p": "uniformen"
+      },
+      "dative": {
+        "m": "uniformen",
+        "f": "uniformen",
+        "n": "uniformen",
+        "p": "uniformen"
+      },
+      "genitive": {
+        "m": "uniformen",
+        "f": "uniformen",
+        "n": "uniformen",
+        "p": "uniformen"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "uniformer",
+        "f": "uniforme",
+        "n": "uniformes",
+        "p": "uniformen"
+      },
+      "accusative": {
+        "m": "uniformen",
+        "f": "uniforme",
+        "n": "uniformes",
+        "p": "uniformen"
+      },
+      "dative": {
+        "m": "uniformen",
+        "f": "uniformen",
+        "n": "uniformen",
+        "p": "uniformen"
+      },
+      "genitive": {
+        "m": "uniformen",
+        "f": "uniformen",
+        "n": "uniformen",
+        "p": "uniformen"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": false,
+    "superlativeOnly": false,
+    "noComparative": false
   },
   {
     "lemma": "uninteressanter",
@@ -30423,6 +31446,36 @@
     "noComparative": false,
     "comparative": "uninteressanter",
     "superlative": "am uninteressantesten"
+  },
+  {
+    "lemma": "Union",
+    "type": "noun",
+    "translations": [
+      "union"
+    ],
+    "level": "B1",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Union",
+        "plural": "Unionen"
+      },
+      "accusative": {
+        "singular": "Union",
+        "plural": "Unionen"
+      },
+      "dative": {
+        "singular": "Union",
+        "plural": "Unionen"
+      },
+      "genitive": {
+        "singular": "Union",
+        "plural": "Unionen"
+      }
+    }
   },
   {
     "lemma": "unirdisch",
@@ -32407,40 +33460,6 @@
     "superlative": "am unmelodischsten"
   },
   {
-    "lemma": "Unmenge",
-    "type": "noun",
-    "translations": [
-      "vast quantity",
-      "enormous amount",
-      "plethora",
-      "vast array",
-      "vast number"
-    ],
-    "level": "C2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Unmenge",
-        "plural": "Unmengen"
-      },
-      "accusative": {
-        "singular": "Unmenge",
-        "plural": "Unmengen"
-      },
-      "dative": {
-        "singular": "Unmenge",
-        "plural": "Unmengen"
-      },
-      "genitive": {
-        "singular": "Unmenge",
-        "plural": "Unmengen"
-      }
-    }
-  },
-  {
     "lemma": "unmerklicher",
     "type": "adjective",
     "predicativeOnly": false,
@@ -32823,106 +33842,6 @@
     "noComparative": false,
     "comparative": "unmissverständlicher",
     "superlative": "am unmissverständlichsten"
-  },
-  {
-    "lemma": "unmöglicher",
-    "type": "adjective",
-    "translations": [
-      "impossible",
-      "inconceivable",
-      "ridiculous"
-    ],
-    "level": "A2",
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "unmöglicherer",
-        "f": "unmöglichere",
-        "n": "unmöglicheres",
-        "p": "unmöglichere"
-      },
-      "accusative": {
-        "m": "unmöglicheren",
-        "f": "unmöglichere",
-        "n": "unmöglicheres",
-        "p": "unmöglichere"
-      },
-      "dative": {
-        "m": "unmöglicherem",
-        "f": "unmöglicherer",
-        "n": "unmöglicherem",
-        "p": "unmöglicheren"
-      },
-      "genitive": {
-        "m": "unmöglicheren",
-        "f": "unmöglicherer",
-        "n": "unmöglicheren",
-        "p": "unmöglicherer"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "unmöglichere",
-        "f": "unmöglichere",
-        "n": "unmöglichere",
-        "p": "unmöglicheren"
-      },
-      "accusative": {
-        "m": "unmöglicheren",
-        "f": "unmöglichere",
-        "n": "unmöglichere",
-        "p": "unmöglicheren"
-      },
-      "dative": {
-        "m": "unmöglicheren",
-        "f": "unmöglicheren",
-        "n": "unmöglicheren",
-        "p": "unmöglicheren"
-      },
-      "genitive": {
-        "m": "unmöglicheren",
-        "f": "unmöglicheren",
-        "n": "unmöglicheren",
-        "p": "unmöglicheren"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "unmöglicherer",
-        "f": "unmöglichere",
-        "n": "unmöglicheres",
-        "p": "unmöglicheren"
-      },
-      "accusative": {
-        "m": "unmöglicheren",
-        "f": "unmöglichere",
-        "n": "unmöglicheres",
-        "p": "unmöglicheren"
-      },
-      "dative": {
-        "m": "unmöglicheren",
-        "f": "unmöglicheren",
-        "n": "unmöglicheren",
-        "p": "unmöglicheren"
-      },
-      "genitive": {
-        "m": "unmöglicheren",
-        "f": "unmöglicheren",
-        "n": "unmöglicheren",
-        "p": "unmöglicheren"
-      }
-    },
-    "isComparative": true,
-    "isSuperlative": false,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "unmöglicher",
-    "superlative": "am unmöglichsten"
   },
   {
     "lemma": "Unmöglichkeit",
@@ -37120,6 +38039,104 @@
     "noComparative": false,
     "comparative": "unsinniger",
     "superlative": "am unsinnigsten"
+  },
+  {
+    "lemma": "unsportlicher",
+    "type": "adjective",
+    "translations": [
+      "unathletic",
+      "unsportsmanlike"
+    ],
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "unsportlicherer",
+        "f": "unsportlichere",
+        "n": "unsportlicheres",
+        "p": "unsportlichere"
+      },
+      "accusative": {
+        "m": "unsportlicheren",
+        "f": "unsportlichere",
+        "n": "unsportlicheres",
+        "p": "unsportlichere"
+      },
+      "dative": {
+        "m": "unsportlicherem",
+        "f": "unsportlicherer",
+        "n": "unsportlicherem",
+        "p": "unsportlicheren"
+      },
+      "genitive": {
+        "m": "unsportlicheren",
+        "f": "unsportlicherer",
+        "n": "unsportlicheren",
+        "p": "unsportlicherer"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "unsportlichere",
+        "f": "unsportlichere",
+        "n": "unsportlichere",
+        "p": "unsportlicheren"
+      },
+      "accusative": {
+        "m": "unsportlicheren",
+        "f": "unsportlichere",
+        "n": "unsportlichere",
+        "p": "unsportlicheren"
+      },
+      "dative": {
+        "m": "unsportlicheren",
+        "f": "unsportlicheren",
+        "n": "unsportlicheren",
+        "p": "unsportlicheren"
+      },
+      "genitive": {
+        "m": "unsportlicheren",
+        "f": "unsportlicheren",
+        "n": "unsportlicheren",
+        "p": "unsportlicheren"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "unsportlicherer",
+        "f": "unsportlichere",
+        "n": "unsportlicheres",
+        "p": "unsportlicheren"
+      },
+      "accusative": {
+        "m": "unsportlicheren",
+        "f": "unsportlichere",
+        "n": "unsportlicheres",
+        "p": "unsportlicheren"
+      },
+      "dative": {
+        "m": "unsportlicheren",
+        "f": "unsportlicheren",
+        "n": "unsportlicheren",
+        "p": "unsportlicheren"
+      },
+      "genitive": {
+        "m": "unsportlicheren",
+        "f": "unsportlicheren",
+        "n": "unsportlicheren",
+        "p": "unsportlicheren"
+      }
+    },
+    "isComparative": true,
+    "isSuperlative": false,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "unsportlicher",
+    "superlative": "am unsportlichsten"
   },
   {
     "lemma": "unsportlichsten",
@@ -43518,103 +44535,6 @@
     "noComparative": false
   },
   {
-    "lemma": "unverzagt",
-    "type": "adjective",
-    "translations": [
-      "undaunted"
-    ],
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "unverzagter",
-        "f": "unverzagte",
-        "n": "unverzagtes",
-        "p": "unverzagte"
-      },
-      "accusative": {
-        "m": "unverzagten",
-        "f": "unverzagte",
-        "n": "unverzagtes",
-        "p": "unverzagte"
-      },
-      "dative": {
-        "m": "unverzagtem",
-        "f": "unverzagter",
-        "n": "unverzagtem",
-        "p": "unverzagten"
-      },
-      "genitive": {
-        "m": "unverzagten",
-        "f": "unverzagter",
-        "n": "unverzagten",
-        "p": "unverzagter"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "unverzagte",
-        "f": "unverzagte",
-        "n": "unverzagte",
-        "p": "unverzagten"
-      },
-      "accusative": {
-        "m": "unverzagten",
-        "f": "unverzagte",
-        "n": "unverzagte",
-        "p": "unverzagten"
-      },
-      "dative": {
-        "m": "unverzagten",
-        "f": "unverzagten",
-        "n": "unverzagten",
-        "p": "unverzagten"
-      },
-      "genitive": {
-        "m": "unverzagten",
-        "f": "unverzagten",
-        "n": "unverzagten",
-        "p": "unverzagten"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "unverzagter",
-        "f": "unverzagte",
-        "n": "unverzagtes",
-        "p": "unverzagten"
-      },
-      "accusative": {
-        "m": "unverzagten",
-        "f": "unverzagte",
-        "n": "unverzagtes",
-        "p": "unverzagten"
-      },
-      "dative": {
-        "m": "unverzagten",
-        "f": "unverzagten",
-        "n": "unverzagten",
-        "p": "unverzagten"
-      },
-      "genitive": {
-        "m": "unverzagten",
-        "f": "unverzagten",
-        "n": "unverzagten",
-        "p": "unverzagten"
-      }
-    },
-    "isComparative": false,
-    "isSuperlative": false,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "unverzagter",
-    "superlative": "am unverzagtesten"
-  },
-  {
     "lemma": "unverzagter",
     "type": "adjective",
     "translations": [
@@ -45891,6 +46811,104 @@
     "superlative": "am unzertrennlichsten"
   },
   {
+    "lemma": "unzufriedensten",
+    "type": "adjective",
+    "translations": [
+      "dissatisfied"
+    ],
+    "level": "A2",
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "unzufriedenster",
+        "f": "unzufriedenste",
+        "n": "unzufriedenstes",
+        "p": "unzufriedenste"
+      },
+      "accusative": {
+        "m": "unzufriedensten",
+        "f": "unzufriedenste",
+        "n": "unzufriedenstes",
+        "p": "unzufriedenste"
+      },
+      "dative": {
+        "m": "unzufriedenstem",
+        "f": "unzufriedenster",
+        "n": "unzufriedenstem",
+        "p": "unzufriedensten"
+      },
+      "genitive": {
+        "m": "unzufriedensten",
+        "f": "unzufriedenster",
+        "n": "unzufriedensten",
+        "p": "unzufriedenster"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "unzufriedenste",
+        "f": "unzufriedenste",
+        "n": "unzufriedenste",
+        "p": "unzufriedensten"
+      },
+      "accusative": {
+        "m": "unzufriedensten",
+        "f": "unzufriedenste",
+        "n": "unzufriedenste",
+        "p": "unzufriedensten"
+      },
+      "dative": {
+        "m": "unzufriedensten",
+        "f": "unzufriedensten",
+        "n": "unzufriedensten",
+        "p": "unzufriedensten"
+      },
+      "genitive": {
+        "m": "unzufriedensten",
+        "f": "unzufriedensten",
+        "n": "unzufriedensten",
+        "p": "unzufriedensten"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "unzufriedenster",
+        "f": "unzufriedenste",
+        "n": "unzufriedenstes",
+        "p": "unzufriedensten"
+      },
+      "accusative": {
+        "m": "unzufriedensten",
+        "f": "unzufriedenste",
+        "n": "unzufriedenstes",
+        "p": "unzufriedensten"
+      },
+      "dative": {
+        "m": "unzufriedensten",
+        "f": "unzufriedensten",
+        "n": "unzufriedensten",
+        "p": "unzufriedensten"
+      },
+      "genitive": {
+        "m": "unzufriedensten",
+        "f": "unzufriedensten",
+        "n": "unzufriedensten",
+        "p": "unzufriedensten"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": true,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "unzufriedener",
+    "superlative": "am unzufriedensten"
+  },
+  {
     "lemma": "Unzulänglichkeit",
     "type": "noun",
     "translations": [
@@ -46431,36 +47449,6 @@
       "genitive": {
         "singular": "Upgrades",
         "plural": "Upgrades"
-      }
-    }
-  },
-  {
-    "lemma": "Upload",
-    "type": "noun",
-    "translations": [
-      "upload"
-    ],
-    "level": "C2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Upload",
-        "plural": "Uploads"
-      },
-      "accusative": {
-        "singular": "Upload",
-        "plural": "Uploads"
-      },
-      "dative": {
-        "singular": "Upload",
-        "plural": "Uploads"
-      },
-      "genitive": {
-        "singular": "Uploads",
-        "plural": "Uploads"
       }
     }
   },
@@ -49658,6 +50646,53 @@
     }
   },
   {
+    "lemma": "verbleichen",
+    "type": "verb",
+    "translations": [
+      "fade",
+      "grow pale",
+      "pass away"
+    ],
+    "level": "C2",
+    "separable": false,
+    "present": {
+      "ich": "verbleiche",
+      "du": "verbleichst",
+      "es": "verbleicht",
+      "ihr": "verbleicht",
+      "Sie": "verbleichen"
+    },
+    "simple": {
+      "ich": "verblich",
+      "du": "verblichst",
+      "es": "verblich",
+      "ihr": "verblicht",
+      "Sie": "verblichen"
+    },
+    "conjunctive1": {
+      "ich": "verbleiche",
+      "du": "verbleichest",
+      "es": "verbleiche",
+      "ihr": "verbleichet",
+      "Sie": "verbleichen"
+    },
+    "conjunctive2": {
+      "ich": "verbliche",
+      "du": "verblichest",
+      "es": "verbliche",
+      "ihr": "verblichet",
+      "Sie": "verblichen"
+    },
+    "imperative": {
+      "du": "verbleiche du",
+      "ihr": "verbleicht ihr",
+      "Sie": "verbleichen Sie"
+    },
+    "perfect": "verblichen",
+    "gerund": "verbleichend",
+    "zuinfinitive": "zu verbleichen"
+  },
+  {
     "lemma": "Verblüffung",
     "type": "noun",
     "translations": [
@@ -50409,106 +51444,6 @@
     "noComparative": false,
     "comparative": "verdammter",
     "superlative": "am verdammtesten"
-  },
-  {
-    "lemma": "verdattert",
-    "type": "adjective",
-    "translations": [
-      "dazed",
-      "flabbergasted",
-      "stunned",
-      "befuddled"
-    ],
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "verdatterter",
-        "f": "verdatterte",
-        "n": "verdattertes",
-        "p": "verdatterte"
-      },
-      "accusative": {
-        "m": "verdatterten",
-        "f": "verdatterte",
-        "n": "verdattertes",
-        "p": "verdatterte"
-      },
-      "dative": {
-        "m": "verdattertem",
-        "f": "verdatterter",
-        "n": "verdattertem",
-        "p": "verdatterten"
-      },
-      "genitive": {
-        "m": "verdatterten",
-        "f": "verdatterter",
-        "n": "verdatterten",
-        "p": "verdatterter"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "verdatterte",
-        "f": "verdatterte",
-        "n": "verdatterte",
-        "p": "verdatterten"
-      },
-      "accusative": {
-        "m": "verdatterten",
-        "f": "verdatterte",
-        "n": "verdatterte",
-        "p": "verdatterten"
-      },
-      "dative": {
-        "m": "verdatterten",
-        "f": "verdatterten",
-        "n": "verdatterten",
-        "p": "verdatterten"
-      },
-      "genitive": {
-        "m": "verdatterten",
-        "f": "verdatterten",
-        "n": "verdatterten",
-        "p": "verdatterten"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "verdatterter",
-        "f": "verdatterte",
-        "n": "verdattertes",
-        "p": "verdatterten"
-      },
-      "accusative": {
-        "m": "verdatterten",
-        "f": "verdatterte",
-        "n": "verdattertes",
-        "p": "verdatterten"
-      },
-      "dative": {
-        "m": "verdatterten",
-        "f": "verdatterten",
-        "n": "verdatterten",
-        "p": "verdatterten"
-      },
-      "genitive": {
-        "m": "verdatterten",
-        "f": "verdatterten",
-        "n": "verdatterten",
-        "p": "verdatterten"
-      }
-    },
-    "isComparative": false,
-    "isSuperlative": false,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "verdatterter",
-    "superlative": "am verdattertsten"
   },
   {
     "lemma": "verdatterter",
@@ -52144,6 +53079,59 @@
     }
   },
   {
+    "lemma": "vereinzeln",
+    "type": "verb",
+    "translations": [
+      "isolate",
+      "separate",
+      "dice",
+      "individualise",
+      "individualize",
+      "make single",
+      "singularise",
+      "singularize",
+      "singulate"
+    ],
+    "level": "C2",
+    "separable": false,
+    "present": {
+      "ich": "vereinzele",
+      "du": "vereinzelst",
+      "es": "vereinzelt",
+      "ihr": "vereinzelt",
+      "Sie": "vereinzeln"
+    },
+    "simple": {
+      "ich": "vereinzelte",
+      "du": "vereinzeltest",
+      "es": "vereinzelte",
+      "ihr": "vereinzeltet",
+      "Sie": "vereinzelten"
+    },
+    "conjunctive1": {
+      "ich": "vereinzele",
+      "du": "vereinzelst",
+      "es": "vereinzele",
+      "ihr": "vereinzelt",
+      "Sie": "vereinzeln"
+    },
+    "conjunctive2": {
+      "ich": "vereinzelte",
+      "du": "vereinzeltest",
+      "es": "vereinzelte",
+      "ihr": "vereinzeltet",
+      "Sie": "vereinzelten"
+    },
+    "imperative": {
+      "du": "vereinzele du",
+      "ihr": "vereinzelt ihr",
+      "Sie": "vereinzeln Sie"
+    },
+    "perfect": "vereinzelt",
+    "gerund": "vereinzelnd",
+    "zuinfinitive": "zu vereinzeln"
+  },
+  {
     "lemma": "Veresterung",
     "type": "noun",
     "translations": [
@@ -53331,51 +54319,6 @@
       "genitive": {
         "singular": "Vergebung",
         "plural": "Vergebungen"
-      }
-    }
-  },
-  {
-    "lemma": "Vergehen",
-    "type": "noun",
-    "translations": [
-      "offense",
-      "misdemeanor",
-      "misdemeanour",
-      "offence",
-      "violation",
-      "delict",
-      "delinquency",
-      "malfeasance",
-      "misdeed",
-      "misdoing",
-      "misprision",
-      "non-indictable offence",
-      "perpetration",
-      "petty offence",
-      "petty offense",
-      "tort"
-    ],
-    "level": "C1",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Vergehen",
-        "plural": "Vergehen"
-      },
-      "accusative": {
-        "singular": "Vergehen",
-        "plural": "Vergehen"
-      },
-      "dative": {
-        "singular": "Vergehen",
-        "plural": "Vergehen"
-      },
-      "genitive": {
-        "singular": "Vergehens",
-        "plural": "Vergehen"
       }
     }
   },
@@ -56585,100 +57528,6 @@
     }
   },
   {
-    "lemma": "verklemmter",
-    "type": "adjective",
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "verklemmterer",
-        "f": "verklemmtere",
-        "n": "verklemmteres",
-        "p": "verklemmtere"
-      },
-      "accusative": {
-        "m": "verklemmteren",
-        "f": "verklemmtere",
-        "n": "verklemmteres",
-        "p": "verklemmtere"
-      },
-      "dative": {
-        "m": "verklemmterem",
-        "f": "verklemmterer",
-        "n": "verklemmterem",
-        "p": "verklemmteren"
-      },
-      "genitive": {
-        "m": "verklemmteren",
-        "f": "verklemmterer",
-        "n": "verklemmteren",
-        "p": "verklemmterer"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "verklemmtere",
-        "f": "verklemmtere",
-        "n": "verklemmtere",
-        "p": "verklemmteren"
-      },
-      "accusative": {
-        "m": "verklemmteren",
-        "f": "verklemmtere",
-        "n": "verklemmtere",
-        "p": "verklemmteren"
-      },
-      "dative": {
-        "m": "verklemmteren",
-        "f": "verklemmteren",
-        "n": "verklemmteren",
-        "p": "verklemmteren"
-      },
-      "genitive": {
-        "m": "verklemmteren",
-        "f": "verklemmteren",
-        "n": "verklemmteren",
-        "p": "verklemmteren"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "verklemmterer",
-        "f": "verklemmtere",
-        "n": "verklemmteres",
-        "p": "verklemmteren"
-      },
-      "accusative": {
-        "m": "verklemmteren",
-        "f": "verklemmtere",
-        "n": "verklemmteres",
-        "p": "verklemmteren"
-      },
-      "dative": {
-        "m": "verklemmteren",
-        "f": "verklemmteren",
-        "n": "verklemmteren",
-        "p": "verklemmteren"
-      },
-      "genitive": {
-        "m": "verklemmteren",
-        "f": "verklemmteren",
-        "n": "verklemmteren",
-        "p": "verklemmteren"
-      }
-    },
-    "isComparative": true,
-    "isSuperlative": false,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "verklemmter",
-    "superlative": "am verklemmtesten"
-  },
-  {
     "lemma": "verklemmtesten",
     "type": "adjective",
     "predicativeOnly": false,
@@ -57897,6 +58746,40 @@
     "superlative": "am verlegensten"
   },
   {
+    "lemma": "Verleih",
+    "type": "noun",
+    "translations": [
+      "rental",
+      "car rental company",
+      "rental company",
+      "renting agency",
+      "renting out"
+    ],
+    "level": "B2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Verleih",
+        "plural": "Verleihe"
+      },
+      "accusative": {
+        "singular": "Verleih",
+        "plural": "Verleihe"
+      },
+      "dative": {
+        "singular": "Verleih",
+        "plural": "Verleihen"
+      },
+      "genitive": {
+        "singular": "Verleihes",
+        "plural": "Verleihe"
+      }
+    }
+  },
+  {
     "lemma": "Verlesung",
     "type": "noun",
     "translations": [
@@ -58446,51 +59329,6 @@
     "zuinfinitive": "zu vermodern"
   },
   {
-    "lemma": "Vermögen",
-    "type": "noun",
-    "translations": [
-      "assets",
-      "capability",
-      "ability",
-      "fortune",
-      "wealth",
-      "acquirement",
-      "asset",
-      "capacity",
-      "capital",
-      "estate",
-      "means",
-      "patrimony",
-      "power",
-      "property",
-      "utilisation",
-      "utilization"
-    ],
-    "level": "B2",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Vermögen",
-        "plural": "Vermögen"
-      },
-      "accusative": {
-        "singular": "Vermögen",
-        "plural": "Vermögen"
-      },
-      "dative": {
-        "singular": "Vermögen",
-        "plural": "Vermögen"
-      },
-      "genitive": {
-        "singular": "Vermögens",
-        "plural": "Vermögen"
-      }
-    }
-  },
-  {
     "lemma": "Vermutung",
     "type": "noun",
     "translations": [
@@ -58842,6 +59680,57 @@
     "noComparative": false,
     "comparative": "vernagelter",
     "superlative": "am vernageltsten"
+  },
+  {
+    "lemma": "vernarben",
+    "type": "verb",
+    "translations": [
+      "cicatrize",
+      "heal",
+      "become scarred",
+      "cicatrise",
+      "form a scar",
+      "heal up",
+      "scar over"
+    ],
+    "level": "C2",
+    "separable": false,
+    "present": {
+      "ich": "vernarbe",
+      "du": "vernarbst",
+      "es": "vernarbt",
+      "ihr": "vernarbt",
+      "Sie": "vernarben"
+    },
+    "simple": {
+      "ich": "vernarbte",
+      "du": "vernarbtest",
+      "es": "vernarbte",
+      "ihr": "vernarbtet",
+      "Sie": "vernarbten"
+    },
+    "conjunctive1": {
+      "ich": "vernarbe",
+      "du": "vernarbest",
+      "es": "vernarbe",
+      "ihr": "vernarbet",
+      "Sie": "vernarben"
+    },
+    "conjunctive2": {
+      "ich": "vernarbte",
+      "du": "vernarbtest",
+      "es": "vernarbte",
+      "ihr": "vernarbtet",
+      "Sie": "vernarbten"
+    },
+    "imperative": {
+      "du": "vernarbe du",
+      "ihr": "vernarbt ihr",
+      "Sie": "vernarben Sie"
+    },
+    "perfect": "vernarbt",
+    "gerund": "vernarbend",
+    "zuinfinitive": "zu vernarben"
   },
   {
     "lemma": "Vernehmen",
@@ -60939,51 +61828,6 @@
     }
   },
   {
-    "lemma": "verscherzen",
-    "type": "verb",
-    "translations": [
-      "alienate"
-    ],
-    "level": "C2",
-    "separable": false,
-    "present": {
-      "ich": "verscherze",
-      "du": "verscherzt",
-      "es": "verscherzt",
-      "ihr": "verscherzt",
-      "Sie": "verscherzen"
-    },
-    "simple": {
-      "ich": "verscherzte",
-      "du": "verscherztest",
-      "es": "verscherzte",
-      "ihr": "verscherztet",
-      "Sie": "verscherzten"
-    },
-    "conjunctive1": {
-      "ich": "verscherze",
-      "du": "verscherzest",
-      "es": "verscherze",
-      "ihr": "verscherzet",
-      "Sie": "verscherzen"
-    },
-    "conjunctive2": {
-      "ich": "verscherzte",
-      "du": "verscherztest",
-      "es": "verscherzte",
-      "ihr": "verscherztet",
-      "Sie": "verscherzten"
-    },
-    "imperative": {
-      "du": "verscherze du",
-      "ihr": "verscherzt ihr",
-      "Sie": "verscherzen Sie"
-    },
-    "perfect": "verscherzt",
-    "gerund": "verscherzend",
-    "zuinfinitive": "zu verscherzen"
-  },
-  {
     "lemma": "verscheuern",
     "type": "verb",
     "translations": [
@@ -61503,50 +62347,6 @@
     "noComparative": false,
     "comparative": "verschmitzter",
     "superlative": "am verschmitztesten"
-  },
-  {
-    "lemma": "verschneien",
-    "type": "verb",
-    "translations": [
-      "snow over"
-    ],
-    "separable": false,
-    "present": {
-      "ich": "verschneie",
-      "du": "verschneist",
-      "es": "verschneit",
-      "ihr": "verschneit",
-      "Sie": "verschneien"
-    },
-    "simple": {
-      "ich": "verschneite",
-      "du": "verschneitest",
-      "es": "verschneite",
-      "ihr": "verschneitet",
-      "Sie": "verschneiten"
-    },
-    "conjunctive1": {
-      "ich": "verschneie",
-      "du": "verschneiest",
-      "es": "verschneie",
-      "ihr": "verschneiet",
-      "Sie": "verschneien"
-    },
-    "conjunctive2": {
-      "ich": "verschneite",
-      "du": "verschneitest",
-      "es": "verschneite",
-      "ihr": "verschneitet",
-      "Sie": "verschneiten"
-    },
-    "imperative": {
-      "du": "verschneie du",
-      "ihr": "verschneit ihr",
-      "Sie": "verschneien Sie"
-    },
-    "perfect": "verschneit",
-    "gerund": "verschneiend",
-    "zuinfinitive": "zu verschneien"
   },
   {
     "lemma": "verschnörkeln",
@@ -62509,40 +63309,6 @@
     }
   },
   {
-    "lemma": "Versprechen",
-    "type": "noun",
-    "translations": [
-      "assurance",
-      "promise",
-      "commitment",
-      "pledge",
-      "plight"
-    ],
-    "level": "B1",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Versprechen",
-        "plural": "Versprechen"
-      },
-      "accusative": {
-        "singular": "Versprechen",
-        "plural": "Versprechen"
-      },
-      "dative": {
-        "singular": "Versprechen",
-        "plural": "Versprechen"
-      },
-      "genitive": {
-        "singular": "Versprechens",
-        "plural": "Versprechen"
-      }
-    }
-  },
-  {
     "lemma": "Verständigung",
     "type": "noun",
     "translations": [
@@ -63035,6 +63801,35 @@
     }
   },
   {
+    "lemma": "Verstecken",
+    "type": "noun",
+    "translations": [
+      "encryption"
+    ],
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": true,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Verstecken",
+        "plural": null
+      },
+      "accusative": {
+        "singular": "Verstecken",
+        "plural": null
+      },
+      "dative": {
+        "singular": "Verstecken",
+        "plural": null
+      },
+      "genitive": {
+        "singular": "Versteckens",
+        "plural": null
+      }
+    }
+  },
+  {
     "lemma": "Versteckspiel",
     "type": "noun",
     "translations": [
@@ -63322,54 +64117,6 @@
     }
   },
   {
-    "lemma": "vertäuen",
-    "type": "verb",
-    "translations": [
-      "moor",
-      "tie up",
-      "anchor",
-      "make fast"
-    ],
-    "level": "C2",
-    "separable": false,
-    "present": {
-      "ich": "vertäue",
-      "du": "vertäust",
-      "es": "vertäut",
-      "ihr": "vertäut",
-      "Sie": "vertäuen"
-    },
-    "simple": {
-      "ich": "vertäute",
-      "du": "vertäutest",
-      "es": "vertäute",
-      "ihr": "vertäutet",
-      "Sie": "vertäuten"
-    },
-    "conjunctive1": {
-      "ich": "vertäue",
-      "du": "vertäuest",
-      "es": "vertäue",
-      "ihr": "vertäuet",
-      "Sie": "vertäuen"
-    },
-    "conjunctive2": {
-      "ich": "vertäute",
-      "du": "vertäutest",
-      "es": "vertäute",
-      "ihr": "vertäutet",
-      "Sie": "vertäuten"
-    },
-    "imperative": {
-      "du": "vertäue du",
-      "ihr": "vertäut ihr",
-      "Sie": "vertäuen Sie"
-    },
-    "perfect": "vertäut",
-    "gerund": "vertäuend",
-    "zuinfinitive": "zu vertäuen"
-  },
-  {
     "lemma": "Verteidiger",
     "type": "noun",
     "translations": [
@@ -63578,1066 +64325,6 @@
       "genitive": {
         "singular": "Vertiefung",
         "plural": "Vertiefungen"
-      }
-    }
-  },
-  {
-    "lemma": "Verträglichkeit",
-    "type": "noun",
-    "translations": [
-      "compatibility",
-      "tolerance",
-      "agreeability",
-      "agreeableness",
-      "compatibleness",
-      "digestibility",
-      "good nature",
-      "good-naturedness",
-      "measurement compatibility",
-      "tolerability"
-    ],
-    "level": "C2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Verträglichkeit",
-        "plural": "Verträglichkeiten"
-      },
-      "accusative": {
-        "singular": "Verträglichkeit",
-        "plural": "Verträglichkeiten"
-      },
-      "dative": {
-        "singular": "Verträglichkeit",
-        "plural": "Verträglichkeiten"
-      },
-      "genitive": {
-        "singular": "Verträglichkeit",
-        "plural": "Verträglichkeiten"
-      }
-    }
-  },
-  {
-    "lemma": "verträglichsten",
-    "type": "adjective",
-    "translations": [
-      "compatible",
-      "agreeable",
-      "congenial",
-      "tolerable"
-    ],
-    "level": "C1",
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "verträglichster",
-        "f": "verträglichste",
-        "n": "verträglichstes",
-        "p": "verträglichste"
-      },
-      "accusative": {
-        "m": "verträglichsten",
-        "f": "verträglichste",
-        "n": "verträglichstes",
-        "p": "verträglichste"
-      },
-      "dative": {
-        "m": "verträglichstem",
-        "f": "verträglichster",
-        "n": "verträglichstem",
-        "p": "verträglichsten"
-      },
-      "genitive": {
-        "m": "verträglichsten",
-        "f": "verträglichster",
-        "n": "verträglichsten",
-        "p": "verträglichster"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "verträglichste",
-        "f": "verträglichste",
-        "n": "verträglichste",
-        "p": "verträglichsten"
-      },
-      "accusative": {
-        "m": "verträglichsten",
-        "f": "verträglichste",
-        "n": "verträglichste",
-        "p": "verträglichsten"
-      },
-      "dative": {
-        "m": "verträglichsten",
-        "f": "verträglichsten",
-        "n": "verträglichsten",
-        "p": "verträglichsten"
-      },
-      "genitive": {
-        "m": "verträglichsten",
-        "f": "verträglichsten",
-        "n": "verträglichsten",
-        "p": "verträglichsten"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "verträglichster",
-        "f": "verträglichste",
-        "n": "verträglichstes",
-        "p": "verträglichsten"
-      },
-      "accusative": {
-        "m": "verträglichsten",
-        "f": "verträglichste",
-        "n": "verträglichstes",
-        "p": "verträglichsten"
-      },
-      "dative": {
-        "m": "verträglichsten",
-        "f": "verträglichsten",
-        "n": "verträglichsten",
-        "p": "verträglichsten"
-      },
-      "genitive": {
-        "m": "verträglichsten",
-        "f": "verträglichsten",
-        "n": "verträglichsten",
-        "p": "verträglichsten"
-      }
-    },
-    "isComparative": false,
-    "isSuperlative": true,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "verträglicher",
-    "superlative": "am verträglichsten"
-  },
-  {
-    "lemma": "vertrauensseliger",
-    "type": "adjective",
-    "translations": [
-      "gullible"
-    ],
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "vertrauensseligerer",
-        "f": "vertrauensseligere",
-        "n": "vertrauensseligeres",
-        "p": "vertrauensseligere"
-      },
-      "accusative": {
-        "m": "vertrauensseligeren",
-        "f": "vertrauensseligere",
-        "n": "vertrauensseligeres",
-        "p": "vertrauensseligere"
-      },
-      "dative": {
-        "m": "vertrauensseligerem",
-        "f": "vertrauensseligerer",
-        "n": "vertrauensseligerem",
-        "p": "vertrauensseligeren"
-      },
-      "genitive": {
-        "m": "vertrauensseligeren",
-        "f": "vertrauensseligerer",
-        "n": "vertrauensseligeren",
-        "p": "vertrauensseligerer"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "vertrauensseligere",
-        "f": "vertrauensseligere",
-        "n": "vertrauensseligere",
-        "p": "vertrauensseligeren"
-      },
-      "accusative": {
-        "m": "vertrauensseligeren",
-        "f": "vertrauensseligere",
-        "n": "vertrauensseligere",
-        "p": "vertrauensseligeren"
-      },
-      "dative": {
-        "m": "vertrauensseligeren",
-        "f": "vertrauensseligeren",
-        "n": "vertrauensseligeren",
-        "p": "vertrauensseligeren"
-      },
-      "genitive": {
-        "m": "vertrauensseligeren",
-        "f": "vertrauensseligeren",
-        "n": "vertrauensseligeren",
-        "p": "vertrauensseligeren"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "vertrauensseligerer",
-        "f": "vertrauensseligere",
-        "n": "vertrauensseligeres",
-        "p": "vertrauensseligeren"
-      },
-      "accusative": {
-        "m": "vertrauensseligeren",
-        "f": "vertrauensseligere",
-        "n": "vertrauensseligeres",
-        "p": "vertrauensseligeren"
-      },
-      "dative": {
-        "m": "vertrauensseligeren",
-        "f": "vertrauensseligeren",
-        "n": "vertrauensseligeren",
-        "p": "vertrauensseligeren"
-      },
-      "genitive": {
-        "m": "vertrauensseligeren",
-        "f": "vertrauensseligeren",
-        "n": "vertrauensseligeren",
-        "p": "vertrauensseligeren"
-      }
-    },
-    "isComparative": true,
-    "isSuperlative": false,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "vertrauensseliger",
-    "superlative": "am vertrauensseligsten"
-  },
-  {
-    "lemma": "vertrauensseligsten",
-    "type": "adjective",
-    "translations": [
-      "gullible"
-    ],
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "vertrauensseligster",
-        "f": "vertrauensseligste",
-        "n": "vertrauensseligstes",
-        "p": "vertrauensseligste"
-      },
-      "accusative": {
-        "m": "vertrauensseligsten",
-        "f": "vertrauensseligste",
-        "n": "vertrauensseligstes",
-        "p": "vertrauensseligste"
-      },
-      "dative": {
-        "m": "vertrauensseligstem",
-        "f": "vertrauensseligster",
-        "n": "vertrauensseligstem",
-        "p": "vertrauensseligsten"
-      },
-      "genitive": {
-        "m": "vertrauensseligsten",
-        "f": "vertrauensseligster",
-        "n": "vertrauensseligsten",
-        "p": "vertrauensseligster"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "vertrauensseligste",
-        "f": "vertrauensseligste",
-        "n": "vertrauensseligste",
-        "p": "vertrauensseligsten"
-      },
-      "accusative": {
-        "m": "vertrauensseligsten",
-        "f": "vertrauensseligste",
-        "n": "vertrauensseligste",
-        "p": "vertrauensseligsten"
-      },
-      "dative": {
-        "m": "vertrauensseligsten",
-        "f": "vertrauensseligsten",
-        "n": "vertrauensseligsten",
-        "p": "vertrauensseligsten"
-      },
-      "genitive": {
-        "m": "vertrauensseligsten",
-        "f": "vertrauensseligsten",
-        "n": "vertrauensseligsten",
-        "p": "vertrauensseligsten"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "vertrauensseligster",
-        "f": "vertrauensseligste",
-        "n": "vertrauensseligstes",
-        "p": "vertrauensseligsten"
-      },
-      "accusative": {
-        "m": "vertrauensseligsten",
-        "f": "vertrauensseligste",
-        "n": "vertrauensseligstes",
-        "p": "vertrauensseligsten"
-      },
-      "dative": {
-        "m": "vertrauensseligsten",
-        "f": "vertrauensseligsten",
-        "n": "vertrauensseligsten",
-        "p": "vertrauensseligsten"
-      },
-      "genitive": {
-        "m": "vertrauensseligsten",
-        "f": "vertrauensseligsten",
-        "n": "vertrauensseligsten",
-        "p": "vertrauensseligsten"
-      }
-    },
-    "isComparative": false,
-    "isSuperlative": true,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "vertrauensseliger",
-    "superlative": "am vertrauensseligsten"
-  },
-  {
-    "lemma": "vertraulichsten",
-    "type": "adjective",
-    "translations": [
-      "confidential"
-    ],
-    "level": "C1",
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "vertraulichster",
-        "f": "vertraulichste",
-        "n": "vertraulichstes",
-        "p": "vertraulichste"
-      },
-      "accusative": {
-        "m": "vertraulichsten",
-        "f": "vertraulichste",
-        "n": "vertraulichstes",
-        "p": "vertraulichste"
-      },
-      "dative": {
-        "m": "vertraulichstem",
-        "f": "vertraulichster",
-        "n": "vertraulichstem",
-        "p": "vertraulichsten"
-      },
-      "genitive": {
-        "m": "vertraulichsten",
-        "f": "vertraulichster",
-        "n": "vertraulichsten",
-        "p": "vertraulichster"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "vertraulichste",
-        "f": "vertraulichste",
-        "n": "vertraulichste",
-        "p": "vertraulichsten"
-      },
-      "accusative": {
-        "m": "vertraulichsten",
-        "f": "vertraulichste",
-        "n": "vertraulichste",
-        "p": "vertraulichsten"
-      },
-      "dative": {
-        "m": "vertraulichsten",
-        "f": "vertraulichsten",
-        "n": "vertraulichsten",
-        "p": "vertraulichsten"
-      },
-      "genitive": {
-        "m": "vertraulichsten",
-        "f": "vertraulichsten",
-        "n": "vertraulichsten",
-        "p": "vertraulichsten"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "vertraulichster",
-        "f": "vertraulichste",
-        "n": "vertraulichstes",
-        "p": "vertraulichsten"
-      },
-      "accusative": {
-        "m": "vertraulichsten",
-        "f": "vertraulichste",
-        "n": "vertraulichstes",
-        "p": "vertraulichsten"
-      },
-      "dative": {
-        "m": "vertraulichsten",
-        "f": "vertraulichsten",
-        "n": "vertraulichsten",
-        "p": "vertraulichsten"
-      },
-      "genitive": {
-        "m": "vertraulichsten",
-        "f": "vertraulichsten",
-        "n": "vertraulichsten",
-        "p": "vertraulichsten"
-      }
-    },
-    "isComparative": false,
-    "isSuperlative": true,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "vertraulicher",
-    "superlative": "am vertraulichsten"
-  },
-  {
-    "lemma": "vertrautesten",
-    "type": "adjective",
-    "translations": [
-      "familiar"
-    ],
-    "level": "B2",
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "vertrautester",
-        "f": "vertrauteste",
-        "n": "vertrautestes",
-        "p": "vertrauteste"
-      },
-      "accusative": {
-        "m": "vertrautesten",
-        "f": "vertrauteste",
-        "n": "vertrautestes",
-        "p": "vertrauteste"
-      },
-      "dative": {
-        "m": "vertrautestem",
-        "f": "vertrautester",
-        "n": "vertrautestem",
-        "p": "vertrautesten"
-      },
-      "genitive": {
-        "m": "vertrautesten",
-        "f": "vertrautester",
-        "n": "vertrautesten",
-        "p": "vertrautester"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "vertrauteste",
-        "f": "vertrauteste",
-        "n": "vertrauteste",
-        "p": "vertrautesten"
-      },
-      "accusative": {
-        "m": "vertrautesten",
-        "f": "vertrauteste",
-        "n": "vertrauteste",
-        "p": "vertrautesten"
-      },
-      "dative": {
-        "m": "vertrautesten",
-        "f": "vertrautesten",
-        "n": "vertrautesten",
-        "p": "vertrautesten"
-      },
-      "genitive": {
-        "m": "vertrautesten",
-        "f": "vertrautesten",
-        "n": "vertrautesten",
-        "p": "vertrautesten"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "vertrautester",
-        "f": "vertrauteste",
-        "n": "vertrautestes",
-        "p": "vertrautesten"
-      },
-      "accusative": {
-        "m": "vertrautesten",
-        "f": "vertrauteste",
-        "n": "vertrautestes",
-        "p": "vertrautesten"
-      },
-      "dative": {
-        "m": "vertrautesten",
-        "f": "vertrautesten",
-        "n": "vertrautesten",
-        "p": "vertrautesten"
-      },
-      "genitive": {
-        "m": "vertrautesten",
-        "f": "vertrautesten",
-        "n": "vertrautesten",
-        "p": "vertrautesten"
-      }
-    },
-    "isComparative": false,
-    "isSuperlative": true,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "vertrauter",
-    "superlative": "am vertrautesten"
-  },
-  {
-    "lemma": "Vertrautheit",
-    "type": "noun",
-    "translations": [
-      "familiarity",
-      "intimacy",
-      "closeness",
-      "familiarness",
-      "intimateness"
-    ],
-    "level": "B2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Vertrautheit",
-        "plural": "Vertrautheiten"
-      },
-      "accusative": {
-        "singular": "Vertrautheit",
-        "plural": "Vertrautheiten"
-      },
-      "dative": {
-        "singular": "Vertrautheit",
-        "plural": "Vertrautheiten"
-      },
-      "genitive": {
-        "singular": "Vertrautheit",
-        "plural": "Vertrautheiten"
-      }
-    }
-  },
-  {
-    "lemma": "Vertreibung",
-    "type": "noun",
-    "translations": [
-      "displacement",
-      "banishment",
-      "eviction",
-      "expulsion",
-      "dissipation",
-      "driving out",
-      "ejection",
-      "forced migration"
-    ],
-    "level": "C2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Vertreibung",
-        "plural": "Vertreibungen"
-      },
-      "accusative": {
-        "singular": "Vertreibung",
-        "plural": "Vertreibungen"
-      },
-      "dative": {
-        "singular": "Vertreibung",
-        "plural": "Vertreibungen"
-      },
-      "genitive": {
-        "singular": "Vertreibung",
-        "plural": "Vertreibungen"
-      }
-    }
-  },
-  {
-    "lemma": "Vertreterin",
-    "type": "noun",
-    "translations": [
-      "representative",
-      "agent",
-      "saleswoman",
-      "ambassador",
-      "deputy",
-      "locum",
-      "member of parliament",
-      "proponent",
-      "proxy",
-      "replacement",
-      "replacement person",
-      "sales rep",
-      "sales representative",
-      "spokesperson",
-      "stand-in",
-      "traveler",
-      "traveling person",
-      "traveling salesman",
-      "travelling person",
-      "travelling salesman"
-    ],
-    "level": "B2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Vertreterin",
-        "plural": "Vertreterinnen"
-      },
-      "accusative": {
-        "singular": "Vertreterin",
-        "plural": "Vertreterinnen"
-      },
-      "dative": {
-        "singular": "Vertreterin",
-        "plural": "Vertreterinnen"
-      },
-      "genitive": {
-        "singular": "Vertreterin",
-        "plural": "Vertreterinnen"
-      }
-    }
-  },
-  {
-    "lemma": "Vertretung",
-    "type": "noun",
-    "translations": [
-      "representation",
-      "proxy",
-      "substitute",
-      "agency",
-      "branch",
-      "agency abroad",
-      "branch office",
-      "deputizing",
-      "fill-in",
-      "procuration",
-      "replacement",
-      "representative",
-      "stand-in",
-      "substitution"
-    ],
-    "level": "B1",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Vertretung",
-        "plural": "Vertretungen"
-      },
-      "accusative": {
-        "singular": "Vertretung",
-        "plural": "Vertretungen"
-      },
-      "dative": {
-        "singular": "Vertretung",
-        "plural": "Vertretungen"
-      },
-      "genitive": {
-        "singular": "Vertretung",
-        "plural": "Vertretungen"
-      }
-    }
-  },
-  {
-    "lemma": "Vertrieb",
-    "type": "noun",
-    "translations": [
-      "sales",
-      "distribution",
-      "market",
-      "marketing",
-      "sale",
-      "sales and marketing",
-      "sales department",
-      "secondary distribution"
-    ],
-    "level": "B2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Vertrieb",
-        "plural": "Vertriebe"
-      },
-      "accusative": {
-        "singular": "Vertrieb",
-        "plural": "Vertriebe"
-      },
-      "dative": {
-        "singular": "Vertrieb",
-        "plural": "Vertrieben"
-      },
-      "genitive": {
-        "singular": "Vertriebes",
-        "plural": "Vertriebe"
-      }
-    }
-  },
-  {
-    "lemma": "verübeln",
-    "type": "verb",
-    "translations": [
-      "resent for"
-    ],
-    "separable": false,
-    "present": {
-      "ich": "verübele",
-      "du": "verübelst",
-      "es": "verübelt",
-      "ihr": "verübelt",
-      "Sie": "verübeln"
-    },
-    "simple": {
-      "ich": "verübelte",
-      "du": "verübeltest",
-      "es": "verübelte",
-      "ihr": "verübeltet",
-      "Sie": "verübelten"
-    },
-    "conjunctive1": {
-      "ich": "verübele",
-      "du": "verübelst",
-      "es": "verübele",
-      "ihr": "verübelt",
-      "Sie": "verübeln"
-    },
-    "conjunctive2": {
-      "ich": "verübelte",
-      "du": "verübeltest",
-      "es": "verübelte",
-      "ihr": "verübeltet",
-      "Sie": "verübelten"
-    },
-    "imperative": {
-      "du": "verübele du",
-      "ihr": "verübelt ihr",
-      "Sie": "verübeln Sie"
-    },
-    "perfect": "verübelt",
-    "gerund": "verübelnd",
-    "zuinfinitive": "zu verübeln"
-  },
-  {
-    "lemma": "verulken",
-    "type": "verb",
-    "translations": [
-      "make fun of",
-      "spoof"
-    ],
-    "separable": false,
-    "present": {
-      "ich": "verulke",
-      "du": "verulkst",
-      "es": "verulkt",
-      "ihr": "verulkt",
-      "Sie": "verulken"
-    },
-    "simple": {
-      "ich": "verulkte",
-      "du": "verulktest",
-      "es": "verulkte",
-      "ihr": "verulktet",
-      "Sie": "verulkten"
-    },
-    "conjunctive1": {
-      "ich": "verulke",
-      "du": "verulkest",
-      "es": "verulke",
-      "ihr": "verulket",
-      "Sie": "verulken"
-    },
-    "conjunctive2": {
-      "ich": "verulkte",
-      "du": "verulktest",
-      "es": "verulkte",
-      "ihr": "verulktet",
-      "Sie": "verulkten"
-    },
-    "imperative": {
-      "du": "verulke du",
-      "ihr": "verulkt ihr",
-      "Sie": "verulken Sie"
-    },
-    "perfect": "verulkt",
-    "gerund": "verulkend",
-    "zuinfinitive": "zu verulken"
-  },
-  {
-    "lemma": "Verunstaltung",
-    "type": "noun",
-    "translations": [
-      "defacement",
-      "deformation",
-      "deformity",
-      "disfigurement"
-    ],
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Verunstaltung",
-        "plural": "Verunstaltungen"
-      },
-      "accusative": {
-        "singular": "Verunstaltung",
-        "plural": "Verunstaltungen"
-      },
-      "dative": {
-        "singular": "Verunstaltung",
-        "plural": "Verunstaltungen"
-      },
-      "genitive": {
-        "singular": "Verunstaltung",
-        "plural": "Verunstaltungen"
-      }
-    }
-  },
-  {
-    "lemma": "Verwaltungsdienst",
-    "type": "noun",
-    "translations": [
-      "administrative service"
-    ],
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": true,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Verwaltungsdienst",
-        "plural": null
-      },
-      "accusative": {
-        "singular": "Verwaltungsdienst",
-        "plural": null
-      },
-      "dative": {
-        "singular": "Verwaltungsdienst",
-        "plural": null
-      },
-      "genitive": {
-        "singular": "Verwaltungsdienstes",
-        "plural": null
-      }
-    }
-  },
-  {
-    "lemma": "Verwandlung",
-    "type": "noun",
-    "translations": [
-      "metamorphosis",
-      "transformation",
-      "conversion",
-      "metamorphism"
-    ],
-    "level": "C2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Verwandlung",
-        "plural": "Verwandlungen"
-      },
-      "accusative": {
-        "singular": "Verwandlung",
-        "plural": "Verwandlungen"
-      },
-      "dative": {
-        "singular": "Verwandlung",
-        "plural": "Verwandlungen"
-      },
-      "genitive": {
-        "singular": "Verwandlung",
-        "plural": "Verwandlungen"
-      }
-    }
-  },
-  {
-    "lemma": "Verwandtschaft",
-    "type": "noun",
-    "translations": [
-      "relationship",
-      "kinship",
-      "relatives",
-      "affinity",
-      "alliance",
-      "blood relationship",
-      "cognation",
-      "cousinhood",
-      "cousinship",
-      "kin",
-      "kinfolk",
-      "kinsfolk",
-      "relatedness",
-      "relation",
-      "relations"
-    ],
-    "level": "B2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Verwandtschaft",
-        "plural": "Verwandtschaften"
-      },
-      "accusative": {
-        "singular": "Verwandtschaft",
-        "plural": "Verwandtschaften"
-      },
-      "dative": {
-        "singular": "Verwandtschaft",
-        "plural": "Verwandtschaften"
-      },
-      "genitive": {
-        "singular": "Verwandtschaft",
-        "plural": "Verwandtschaften"
-      }
-    }
-  },
-  {
-    "lemma": "verwanzen",
-    "type": "verb",
-    "translations": [
-      "bug"
-    ],
-    "level": "C2",
-    "separable": false,
-    "present": {
-      "ich": "verwanze",
-      "du": "verwanzt",
-      "es": "verwanzt",
-      "ihr": "verwanzt",
-      "Sie": "verwanzen"
-    },
-    "simple": {
-      "ich": "verwanzte",
-      "du": "verwanztest",
-      "es": "verwanzte",
-      "ihr": "verwanztet",
-      "Sie": "verwanzten"
-    },
-    "conjunctive1": {
-      "ich": "verwanze",
-      "du": "verwanzest",
-      "es": "verwanze",
-      "ihr": "verwanzet",
-      "Sie": "verwanzen"
-    },
-    "conjunctive2": {
-      "ich": "verwanzte",
-      "du": "verwanztest",
-      "es": "verwanzte",
-      "ihr": "verwanztet",
-      "Sie": "verwanzten"
-    },
-    "imperative": {
-      "du": "verwanze du",
-      "ihr": "verwanzt ihr",
-      "Sie": "verwanzen Sie"
-    },
-    "perfect": "verwanzt",
-    "gerund": "verwanzend",
-    "zuinfinitive": "zu verwanzen"
-  },
-  {
-    "lemma": "Verwanzung",
-    "type": "noun",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Verwanzung",
-        "plural": "Verwanzungen"
-      },
-      "accusative": {
-        "singular": "Verwanzung",
-        "plural": "Verwanzungen"
-      },
-      "dative": {
-        "singular": "Verwanzung",
-        "plural": "Verwanzungen"
-      },
-      "genitive": {
-        "singular": "Verwanzung",
-        "plural": "Verwanzungen"
-      }
-    }
-  },
-  {
-    "lemma": "Verwarnung",
-    "type": "noun",
-    "translations": [
-      "caution",
-      "warning",
-      "admonishment",
-      "reprimand"
-    ],
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Verwarnung",
-        "plural": "Verwarnungen"
-      },
-      "accusative": {
-        "singular": "Verwarnung",
-        "plural": "Verwarnungen"
-      },
-      "dative": {
-        "singular": "Verwarnung",
-        "plural": "Verwarnungen"
-      },
-      "genitive": {
-        "singular": "Verwarnung",
-        "plural": "Verwarnungen"
       }
     }
   }

@@ -1,5 +1,41 @@
 [
   {
+    "lemma": "Zufahrtsstraße",
+    "type": "noun",
+    "translations": [
+      "access road",
+      "approach road",
+      "approach",
+      "distributor road",
+      "feeder street",
+      "service road",
+      "slip road"
+    ],
+    "level": "C2",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Zufahrtsstraße",
+        "plural": "Zufahrtsstraßen"
+      },
+      "accusative": {
+        "singular": "Zufahrtsstraße",
+        "plural": "Zufahrtsstraßen"
+      },
+      "dative": {
+        "singular": "Zufahrtsstraße",
+        "plural": "Zufahrtsstraßen"
+      },
+      "genitive": {
+        "singular": "Zufahrtsstraße",
+        "plural": "Zufahrtsstraßen"
+      }
+    }
+  },
+  {
     "lemma": "Zufall",
     "type": "noun",
     "translations": [
@@ -2298,37 +2334,6 @@
     }
   },
   {
-    "lemma": "Zusammenleben",
-    "type": "noun",
-    "translations": [
-      "living together",
-      "coexistence"
-    ],
-    "level": "C2",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": true,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Zusammenleben",
-        "plural": null
-      },
-      "accusative": {
-        "singular": "Zusammenleben",
-        "plural": null
-      },
-      "dative": {
-        "singular": "Zusammenleben",
-        "plural": null
-      },
-      "genitive": {
-        "singular": "Zusammenlebens",
-        "plural": null
-      }
-    }
-  },
-  {
     "lemma": "Zusammenprall",
     "type": "noun",
     "translations": [
@@ -3080,6 +3085,104 @@
     "superlative": "am zutraulichsten"
   },
   {
+    "lemma": "zutreffendsten",
+    "type": "adjective",
+    "translations": [
+      "appropriate",
+      "applicable"
+    ],
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "absolute": false,
+    "notDeclinable": false,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": "zutreffendster",
+        "f": "zutreffendste",
+        "n": "zutreffendstes",
+        "p": "zutreffendste"
+      },
+      "accusative": {
+        "m": "zutreffendsten",
+        "f": "zutreffendste",
+        "n": "zutreffendstes",
+        "p": "zutreffendste"
+      },
+      "dative": {
+        "m": "zutreffendstem",
+        "f": "zutreffendster",
+        "n": "zutreffendstem",
+        "p": "zutreffendsten"
+      },
+      "genitive": {
+        "m": "zutreffendsten",
+        "f": "zutreffendster",
+        "n": "zutreffendsten",
+        "p": "zutreffendster"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "zutreffendste",
+        "f": "zutreffendste",
+        "n": "zutreffendste",
+        "p": "zutreffendsten"
+      },
+      "accusative": {
+        "m": "zutreffendsten",
+        "f": "zutreffendste",
+        "n": "zutreffendste",
+        "p": "zutreffendsten"
+      },
+      "dative": {
+        "m": "zutreffendsten",
+        "f": "zutreffendsten",
+        "n": "zutreffendsten",
+        "p": "zutreffendsten"
+      },
+      "genitive": {
+        "m": "zutreffendsten",
+        "f": "zutreffendsten",
+        "n": "zutreffendsten",
+        "p": "zutreffendsten"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "zutreffendster",
+        "f": "zutreffendste",
+        "n": "zutreffendstes",
+        "p": "zutreffendsten"
+      },
+      "accusative": {
+        "m": "zutreffendsten",
+        "f": "zutreffendste",
+        "n": "zutreffendstes",
+        "p": "zutreffendsten"
+      },
+      "dative": {
+        "m": "zutreffendsten",
+        "f": "zutreffendsten",
+        "n": "zutreffendsten",
+        "p": "zutreffendsten"
+      },
+      "genitive": {
+        "m": "zutreffendsten",
+        "f": "zutreffendsten",
+        "n": "zutreffendsten",
+        "p": "zutreffendsten"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": true,
+    "superlativeOnly": false,
+    "noComparative": false,
+    "comparative": "zutreffender",
+    "superlative": "am zutreffendsten"
+  },
+  {
     "lemma": "Zutritt",
     "type": "noun",
     "translations": [
@@ -3279,36 +3382,6 @@
     "noComparative": false,
     "comparative": "zuversichtlicher",
     "superlative": "am zuversichtlichsten"
-  },
-  {
-    "lemma": "Zuviel",
-    "type": "noun",
-    "translations": [
-      "excess",
-      "surplus"
-    ],
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": true,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Zuviel",
-        "plural": null
-      },
-      "accusative": {
-        "singular": "Zuviel",
-        "plural": null
-      },
-      "dative": {
-        "singular": "Zuviel",
-        "plural": null
-      },
-      "genitive": {
-        "singular": "Zuviels",
-        "plural": null
-      }
-    }
   },
   {
     "lemma": "Zuwanderer",
@@ -4394,6 +4467,102 @@
     }
   },
   {
+    "lemma": "zweihundert",
+    "type": "adjective",
+    "translations": [
+      "two hundred"
+    ],
+    "level": "A1",
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": true,
+    "absolute": true,
+    "notDeclinable": true,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "zweihundert"
+      },
+      "accusative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "zweihundert"
+      },
+      "dative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "zweihundert"
+      },
+      "genitive": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "zweihundert"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "zweihundert"
+      },
+      "accusative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "zweihundert"
+      },
+      "dative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "zweihundert"
+      },
+      "genitive": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "zweihundert"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "zweihundert"
+      },
+      "accusative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "zweihundert"
+      },
+      "dative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "zweihundert"
+      },
+      "genitive": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "zweihundert"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": false,
+    "superlativeOnly": false,
+    "noComparative": false
+  },
+  {
     "lemma": "Zweisprachigkeit",
     "type": "noun",
     "translations": [
@@ -5432,47 +5601,6 @@
     "isSuperlative": false,
     "superlativeOnly": false,
     "noComparative": false
-  },
-  {
-    "lemma": "Zylinder",
-    "type": "noun",
-    "translations": [
-      "cylinder",
-      "top hat",
-      "actuator",
-      "barrel",
-      "drum",
-      "pot",
-      "renal cast",
-      "roller",
-      "stovepipe hat",
-      "top-hat",
-      "topper",
-      "urinary cast"
-    ],
-    "level": "C2",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Zylinder",
-        "plural": "Zylinder"
-      },
-      "accusative": {
-        "singular": "Zylinder",
-        "plural": "Zylinder"
-      },
-      "dative": {
-        "singular": "Zylinder",
-        "plural": "Zylindern"
-      },
-      "genitive": {
-        "singular": "Zylinders",
-        "plural": "Zylinder"
-      }
-    }
   },
   {
     "lemma": "Zypresse",
