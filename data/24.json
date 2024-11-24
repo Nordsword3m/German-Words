@@ -1,535 +1,5 @@
 [
   {
-    "lemma": "Zufahrtsstraße",
-    "type": "noun",
-    "translations": [
-      "access road",
-      "approach road",
-      "approach",
-      "distributor road",
-      "feeder street",
-      "service road",
-      "slip road"
-    ],
-    "level": "C2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Zufahrtsstraße",
-        "plural": "Zufahrtsstraßen"
-      },
-      "accusative": {
-        "singular": "Zufahrtsstraße",
-        "plural": "Zufahrtsstraßen"
-      },
-      "dative": {
-        "singular": "Zufahrtsstraße",
-        "plural": "Zufahrtsstraßen"
-      },
-      "genitive": {
-        "singular": "Zufahrtsstraße",
-        "plural": "Zufahrtsstraßen"
-      }
-    }
-  },
-  {
-    "lemma": "Zufall",
-    "type": "noun",
-    "translations": [
-      "chance",
-      "coincidence",
-      "accident",
-      "case",
-      "fortuity"
-    ],
-    "level": "B1",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Zufall",
-        "plural": "Zufälle"
-      },
-      "accusative": {
-        "singular": "Zufall",
-        "plural": "Zufälle"
-      },
-      "dative": {
-        "singular": "Zufall",
-        "plural": "Zufällen"
-      },
-      "genitive": {
-        "singular": "Zufalles",
-        "plural": "Zufälle"
-      }
-    }
-  },
-  {
-    "lemma": "Zuflucht",
-    "type": "noun",
-    "translations": [
-      "refuge",
-      "shelter",
-      "anchor",
-      "asylum",
-      "harborage",
-      "harbourage",
-      "recourse",
-      "resort",
-      "resource",
-      "safe haven"
-    ],
-    "level": "C2",
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Zuflucht",
-        "plural": "Zufluchten"
-      },
-      "accusative": {
-        "singular": "Zuflucht",
-        "plural": "Zufluchten"
-      },
-      "dative": {
-        "singular": "Zuflucht",
-        "plural": "Zufluchten"
-      },
-      "genitive": {
-        "singular": "Zuflucht",
-        "plural": "Zufluchten"
-      }
-    }
-  },
-  {
-    "lemma": "zufriedenstellendsten",
-    "type": "adjective",
-    "level": "B2",
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "zufriedenstellendster",
-        "f": "zufriedenstellendste",
-        "n": "zufriedenstellendstes",
-        "p": "zufriedenstellendste"
-      },
-      "accusative": {
-        "m": "zufriedenstellendsten",
-        "f": "zufriedenstellendste",
-        "n": "zufriedenstellendstes",
-        "p": "zufriedenstellendste"
-      },
-      "dative": {
-        "m": "zufriedenstellendstem",
-        "f": "zufriedenstellendster",
-        "n": "zufriedenstellendstem",
-        "p": "zufriedenstellendsten"
-      },
-      "genitive": {
-        "m": "zufriedenstellendsten",
-        "f": "zufriedenstellendster",
-        "n": "zufriedenstellendsten",
-        "p": "zufriedenstellendster"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "zufriedenstellendste",
-        "f": "zufriedenstellendste",
-        "n": "zufriedenstellendste",
-        "p": "zufriedenstellendsten"
-      },
-      "accusative": {
-        "m": "zufriedenstellendsten",
-        "f": "zufriedenstellendste",
-        "n": "zufriedenstellendste",
-        "p": "zufriedenstellendsten"
-      },
-      "dative": {
-        "m": "zufriedenstellendsten",
-        "f": "zufriedenstellendsten",
-        "n": "zufriedenstellendsten",
-        "p": "zufriedenstellendsten"
-      },
-      "genitive": {
-        "m": "zufriedenstellendsten",
-        "f": "zufriedenstellendsten",
-        "n": "zufriedenstellendsten",
-        "p": "zufriedenstellendsten"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "zufriedenstellendster",
-        "f": "zufriedenstellendste",
-        "n": "zufriedenstellendstes",
-        "p": "zufriedenstellendsten"
-      },
-      "accusative": {
-        "m": "zufriedenstellendsten",
-        "f": "zufriedenstellendste",
-        "n": "zufriedenstellendstes",
-        "p": "zufriedenstellendsten"
-      },
-      "dative": {
-        "m": "zufriedenstellendsten",
-        "f": "zufriedenstellendsten",
-        "n": "zufriedenstellendsten",
-        "p": "zufriedenstellendsten"
-      },
-      "genitive": {
-        "m": "zufriedenstellendsten",
-        "f": "zufriedenstellendsten",
-        "n": "zufriedenstellendsten",
-        "p": "zufriedenstellendsten"
-      }
-    },
-    "isComparative": false,
-    "isSuperlative": true,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "zufriedenstellender",
-    "superlative": "am zufriedenstellendsten"
-  },
-  {
-    "lemma": "Zugabteil",
-    "type": "noun",
-    "translations": [
-      "cabin",
-      "train compartment"
-    ],
-    "level": "C2",
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Zugabteil",
-        "plural": "Zugabteile"
-      },
-      "accusative": {
-        "singular": "Zugabteil",
-        "plural": "Zugabteile"
-      },
-      "dative": {
-        "singular": "Zugabteil",
-        "plural": "Zugabteilen"
-      },
-      "genitive": {
-        "singular": "Zugabteiles",
-        "plural": "Zugabteile"
-      }
-    }
-  },
-  {
-    "lemma": "zugänglichsten",
-    "type": "adjective",
-    "translations": [
-      "accessible",
-      "approachable",
-      "accostable",
-      "amenable"
-    ],
-    "level": "B2",
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "zugänglichster",
-        "f": "zugänglichste",
-        "n": "zugänglichstes",
-        "p": "zugänglichste"
-      },
-      "accusative": {
-        "m": "zugänglichsten",
-        "f": "zugänglichste",
-        "n": "zugänglichstes",
-        "p": "zugänglichste"
-      },
-      "dative": {
-        "m": "zugänglichstem",
-        "f": "zugänglichster",
-        "n": "zugänglichstem",
-        "p": "zugänglichsten"
-      },
-      "genitive": {
-        "m": "zugänglichsten",
-        "f": "zugänglichster",
-        "n": "zugänglichsten",
-        "p": "zugänglichster"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "zugänglichste",
-        "f": "zugänglichste",
-        "n": "zugänglichste",
-        "p": "zugänglichsten"
-      },
-      "accusative": {
-        "m": "zugänglichsten",
-        "f": "zugänglichste",
-        "n": "zugänglichste",
-        "p": "zugänglichsten"
-      },
-      "dative": {
-        "m": "zugänglichsten",
-        "f": "zugänglichsten",
-        "n": "zugänglichsten",
-        "p": "zugänglichsten"
-      },
-      "genitive": {
-        "m": "zugänglichsten",
-        "f": "zugänglichsten",
-        "n": "zugänglichsten",
-        "p": "zugänglichsten"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "zugänglichster",
-        "f": "zugänglichste",
-        "n": "zugänglichstes",
-        "p": "zugänglichsten"
-      },
-      "accusative": {
-        "m": "zugänglichsten",
-        "f": "zugänglichste",
-        "n": "zugänglichstes",
-        "p": "zugänglichsten"
-      },
-      "dative": {
-        "m": "zugänglichsten",
-        "f": "zugänglichsten",
-        "n": "zugänglichsten",
-        "p": "zugänglichsten"
-      },
-      "genitive": {
-        "m": "zugänglichsten",
-        "f": "zugänglichsten",
-        "n": "zugänglichsten",
-        "p": "zugänglichsten"
-      }
-    },
-    "isComparative": false,
-    "isSuperlative": true,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "zugänglicher",
-    "superlative": "am zugänglichsten"
-  },
-  {
-    "lemma": "zugegen",
-    "type": "adjective",
-    "translations": [
-      "present"
-    ],
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "zugegener",
-        "f": "zugegene",
-        "n": "zugegenes",
-        "p": "zugegene"
-      },
-      "accusative": {
-        "m": "zugegenen",
-        "f": "zugegene",
-        "n": "zugegenes",
-        "p": "zugegene"
-      },
-      "dative": {
-        "m": "zugegenem",
-        "f": "zugegener",
-        "n": "zugegenem",
-        "p": "zugegenen"
-      },
-      "genitive": {
-        "m": "zugegenen",
-        "f": "zugegener",
-        "n": "zugegenen",
-        "p": "zugegener"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "zugegene",
-        "f": "zugegene",
-        "n": "zugegene",
-        "p": "zugegenen"
-      },
-      "accusative": {
-        "m": "zugegenen",
-        "f": "zugegene",
-        "n": "zugegene",
-        "p": "zugegenen"
-      },
-      "dative": {
-        "m": "zugegenen",
-        "f": "zugegenen",
-        "n": "zugegenen",
-        "p": "zugegenen"
-      },
-      "genitive": {
-        "m": "zugegenen",
-        "f": "zugegenen",
-        "n": "zugegenen",
-        "p": "zugegenen"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "zugegener",
-        "f": "zugegene",
-        "n": "zugegenes",
-        "p": "zugegenen"
-      },
-      "accusative": {
-        "m": "zugegenen",
-        "f": "zugegene",
-        "n": "zugegenes",
-        "p": "zugegenen"
-      },
-      "dative": {
-        "m": "zugegenen",
-        "f": "zugegenen",
-        "n": "zugegenen",
-        "p": "zugegenen"
-      },
-      "genitive": {
-        "m": "zugegenen",
-        "f": "zugegenen",
-        "n": "zugegenen",
-        "p": "zugegenen"
-      }
-    },
-    "isComparative": false,
-    "isSuperlative": false,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "zugegener",
-    "superlative": "am zugegensten"
-  },
-  {
-    "lemma": "zugegener",
-    "type": "adjective",
-    "translations": [
-      "present"
-    ],
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "absolute": false,
-    "notDeclinable": false,
-    "noMixed": false,
-    "strong": {
-      "nominative": {
-        "m": "zugegenerer",
-        "f": "zugegenere",
-        "n": "zugegeneres",
-        "p": "zugegenere"
-      },
-      "accusative": {
-        "m": "zugegeneren",
-        "f": "zugegenere",
-        "n": "zugegeneres",
-        "p": "zugegenere"
-      },
-      "dative": {
-        "m": "zugegenerem",
-        "f": "zugegenerer",
-        "n": "zugegenerem",
-        "p": "zugegeneren"
-      },
-      "genitive": {
-        "m": "zugegeneren",
-        "f": "zugegenerer",
-        "n": "zugegeneren",
-        "p": "zugegenerer"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "zugegenere",
-        "f": "zugegenere",
-        "n": "zugegenere",
-        "p": "zugegeneren"
-      },
-      "accusative": {
-        "m": "zugegeneren",
-        "f": "zugegenere",
-        "n": "zugegenere",
-        "p": "zugegeneren"
-      },
-      "dative": {
-        "m": "zugegeneren",
-        "f": "zugegeneren",
-        "n": "zugegeneren",
-        "p": "zugegeneren"
-      },
-      "genitive": {
-        "m": "zugegeneren",
-        "f": "zugegeneren",
-        "n": "zugegeneren",
-        "p": "zugegeneren"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "zugegenerer",
-        "f": "zugegenere",
-        "n": "zugegeneres",
-        "p": "zugegeneren"
-      },
-      "accusative": {
-        "m": "zugegeneren",
-        "f": "zugegenere",
-        "n": "zugegeneres",
-        "p": "zugegeneren"
-      },
-      "dative": {
-        "m": "zugegeneren",
-        "f": "zugegeneren",
-        "n": "zugegeneren",
-        "p": "zugegeneren"
-      },
-      "genitive": {
-        "m": "zugegeneren",
-        "f": "zugegeneren",
-        "n": "zugegeneren",
-        "p": "zugegeneren"
-      }
-    },
-    "isComparative": true,
-    "isSuperlative": false,
-    "superlativeOnly": false,
-    "noComparative": false,
-    "comparative": "zugegener",
-    "superlative": "am zugegensten"
-  },
-  {
     "lemma": "zugegensten",
     "type": "adjective",
     "translations": [
@@ -1270,6 +740,35 @@
     "perfect": "gezurrt",
     "gerund": "zurrend",
     "zuinfinitive": "zu zurren"
+  },
+  {
+    "lemma": "Zurück",
+    "type": "noun",
+    "translations": [
+      "Back"
+    ],
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Zurück",
+        "plural": "Zurück"
+      },
+      "accusative": {
+        "singular": "Zurück",
+        "plural": "Zurück"
+      },
+      "dative": {
+        "singular": "Zurück",
+        "plural": "Zurück"
+      },
+      "genitive": {
+        "singular": "Zurücks",
+        "plural": "Zurück"
+      }
+    }
   },
   {
     "lemma": "zurück·biegen",
@@ -2255,6 +1754,50 @@
     }
   },
   {
+    "lemma": "Zusammenfassung",
+    "type": "noun",
+    "translations": [
+      "summary",
+      "abstract",
+      "aggregation",
+      "blue sheet",
+      "centralisation",
+      "centralization",
+      "compendium",
+      "precis",
+      "recapitulation",
+      "repackaging",
+      "roundup",
+      "résumé",
+      "subsumption",
+      "summing up",
+      "synopsis"
+    ],
+    "level": "A2",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Zusammenfassung",
+        "plural": "Zusammenfassungen"
+      },
+      "accusative": {
+        "singular": "Zusammenfassung",
+        "plural": "Zusammenfassungen"
+      },
+      "dative": {
+        "singular": "Zusammenfassung",
+        "plural": "Zusammenfassungen"
+      },
+      "genitive": {
+        "singular": "Zusammenfassung",
+        "plural": "Zusammenfassungen"
+      }
+    }
+  },
+  {
     "lemma": "Zusammenhang",
     "type": "noun",
     "translations": [
@@ -2797,6 +2340,42 @@
     }
   },
   {
+    "lemma": "Zuschnitt",
+    "type": "noun",
+    "translations": [
+      "cut",
+      "cutting",
+      "blank",
+      "calibre",
+      "layout",
+      "pre-cut",
+      "pre-cut part"
+    ],
+    "level": "C2",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Zuschnitt",
+        "plural": "Zuschnitte"
+      },
+      "accusative": {
+        "singular": "Zuschnitt",
+        "plural": "Zuschnitte"
+      },
+      "dative": {
+        "singular": "Zuschnitt",
+        "plural": "Zuschnitten"
+      },
+      "genitive": {
+        "singular": "Zuschnittes",
+        "plural": "Zuschnitte"
+      }
+    }
+  },
+  {
     "lemma": "Zustandekommen",
     "type": "noun",
     "translations": [
@@ -3254,6 +2833,44 @@
     }
   },
   {
+    "lemma": "Zuverlässigkeit",
+    "type": "noun",
+    "translations": [
+      "reliability",
+      "dependability",
+      "dependableness",
+      "reliableness",
+      "soundness",
+      "steadiness",
+      "trustiness",
+      "trustworthiness",
+      "unimpeachability"
+    ],
+    "level": "C1",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": true,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Zuverlässigkeit",
+        "plural": null
+      },
+      "accusative": {
+        "singular": "Zuverlässigkeit",
+        "plural": null
+      },
+      "dative": {
+        "singular": "Zuverlässigkeit",
+        "plural": null
+      },
+      "genitive": {
+        "singular": "Zuverlässigkeit",
+        "plural": null
+      }
+    }
+  },
+  {
     "lemma": "Zuversicht",
     "type": "noun",
     "translations": [
@@ -3382,6 +2999,36 @@
     "noComparative": false,
     "comparative": "zuversichtlicher",
     "superlative": "am zuversichtlichsten"
+  },
+  {
+    "lemma": "Zuviel",
+    "type": "noun",
+    "translations": [
+      "excess",
+      "surplus"
+    ],
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": true,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Zuviel",
+        "plural": null
+      },
+      "accusative": {
+        "singular": "Zuviel",
+        "plural": null
+      },
+      "dative": {
+        "singular": "Zuviel",
+        "plural": null
+      },
+      "genitive": {
+        "singular": "Zuviels",
+        "plural": null
+      }
+    }
   },
   {
     "lemma": "Zuwanderer",
@@ -3890,6 +3537,43 @@
     }
   },
   {
+    "lemma": "Zweck",
+    "type": "noun",
+    "translations": [
+      "purpose",
+      "goal",
+      "aim",
+      "function",
+      "intended purpose",
+      "intention",
+      "point",
+      "use"
+    ],
+    "level": "B1",
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Zweck",
+        "plural": "Zwecke"
+      },
+      "accusative": {
+        "singular": "Zweck",
+        "plural": "Zwecke"
+      },
+      "dative": {
+        "singular": "Zweck",
+        "plural": "Zwecken"
+      },
+      "genitive": {
+        "singular": "Zweckes",
+        "plural": "Zwecke"
+      }
+    }
+  },
+  {
     "lemma": "Zwecke",
     "type": "noun",
     "translations": [
@@ -4223,47 +3907,6 @@
     }
   },
   {
-    "lemma": "Zweifel",
-    "type": "noun",
-    "translations": [
-      "doubt",
-      "disbelief",
-      "doubting",
-      "misgiving",
-      "misgivings",
-      "peradventure",
-      "qualm",
-      "question",
-      "reservation",
-      "scepticism",
-      "scruple",
-      "skepticism"
-    ],
-    "level": "B1",
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Zweifel",
-        "plural": "Zweifel"
-      },
-      "accusative": {
-        "singular": "Zweifel",
-        "plural": "Zweifel"
-      },
-      "dative": {
-        "singular": "Zweifel",
-        "plural": "Zweifeln"
-      },
-      "genitive": {
-        "singular": "Zweifels",
-        "plural": "Zweifel"
-      }
-    }
-  },
-  {
     "lemma": "zweifelhaftesten",
     "type": "adjective",
     "translations": [
@@ -4388,6 +4031,38 @@
       "genitive": {
         "singular": "Zweifelsfalles",
         "plural": "Zweifelsfälle"
+      }
+    }
+  },
+  {
+    "lemma": "Zweifler",
+    "type": "noun",
+    "translations": [
+      "doubter",
+      "skeptic",
+      "disbeliever",
+      "sceptic"
+    ],
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Zweifler",
+        "plural": "Zweifler"
+      },
+      "accusative": {
+        "singular": "Zweifler",
+        "plural": "Zweifler"
+      },
+      "dative": {
+        "singular": "Zweifler",
+        "plural": "Zweiflern"
+      },
+      "genitive": {
+        "singular": "Zweiflers",
+        "plural": "Zweifler"
       }
     }
   },
@@ -4591,6 +4266,102 @@
         "plural": null
       }
     }
+  },
+  {
+    "lemma": "zweitausend",
+    "type": "adjective",
+    "translations": [
+      "two thousand"
+    ],
+    "level": "A1",
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "pluralOnly": true,
+    "absolute": true,
+    "notDeclinable": true,
+    "noMixed": false,
+    "strong": {
+      "nominative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "zweitausend"
+      },
+      "accusative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "zweitausend"
+      },
+      "dative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "zweitausend"
+      },
+      "genitive": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "zweitausend"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "zweitausend"
+      },
+      "accusative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "zweitausend"
+      },
+      "dative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "zweitausend"
+      },
+      "genitive": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "zweitausend"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "zweitausend"
+      },
+      "accusative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "zweitausend"
+      },
+      "dative": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "zweitausend"
+      },
+      "genitive": {
+        "m": null,
+        "f": null,
+        "n": null,
+        "p": "zweitausend"
+      }
+    },
+    "isComparative": false,
+    "isSuperlative": false,
+    "superlativeOnly": false,
+    "noComparative": false
   },
   {
     "lemma": "Zwerg",
@@ -5241,6 +5012,45 @@
       "genitive": {
         "singular": "Zwillingsschwester",
         "plural": "Zwillingsschwestern"
+      }
+    }
+  },
+  {
+    "lemma": "Zwinge",
+    "type": "noun",
+    "translations": [
+      "clamp",
+      "collar",
+      "collet",
+      "cramp",
+      "ferrel",
+      "ferrule",
+      "force loop",
+      "hoop",
+      "thimble",
+      "thumbscrew"
+    ],
+    "level": "C2",
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Zwinge",
+        "plural": "Zwingen"
+      },
+      "accusative": {
+        "singular": "Zwinge",
+        "plural": "Zwingen"
+      },
+      "dative": {
+        "singular": "Zwinge",
+        "plural": "Zwingen"
+      },
+      "genitive": {
+        "singular": "Zwinge",
+        "plural": "Zwingen"
       }
     }
   },
