@@ -17,9 +17,7 @@ class Validator {
 
   assertValid(obj: object) {
     if (Object.keys(this.errors).length > 0) {
-      throw new Error(
-        `\nObject: ${JSON.stringify(obj, null, 2)}\n\nErrors:${JSON.stringify(this.errors, null, 2)}`
-      );
+      throw new Error(`\nObject: ${JSON.stringify(obj, null, 2)}\n\nErrors:${JSON.stringify(this.errors, null, 2)}`);
     }
   }
 
@@ -43,10 +41,7 @@ class Validator {
       return true;
     }
 
-    const regex = new RegExp(
-      `^[a-zA-ZäöüÄÖÜßé${allowedChars}${numbersAllowed ? '0-9' : ''}]+$`,
-      'g'
-    );
+    const regex = new RegExp(`^[a-zA-ZäöüÄÖÜßé${allowedChars}${numbersAllowed ? '0-9' : ''}]+$`, 'g');
 
     if (!word || !regex.test(word)) {
       this.errors[fieldName] = `Invalid '${word}'`;
@@ -198,9 +193,7 @@ export const validateVerb = (verb: Verb) => {
     validator.validateContains('lemma', verb.lemma, '·');
     validator.validateCondition(
       'zuinfinitive',
-      () =>
-        /[a-zäöüß]zu[a-zäöü]/.test(verb.zuinfinitive) ||
-        /[a-zäöüß] zu [a-zäöü]/.test(verb.zuinfinitive),
+      () => /[a-zäöüß]zu[a-zäöü]/.test(verb.zuinfinitive) || /[a-zäöüß] zu [a-zäöü]/.test(verb.zuinfinitive),
       "'zu' must be sandwiched"
     );
   } else {
@@ -286,27 +279,15 @@ export const validateAdjective = (adjective: Adjective) => {
 
   if (adjective.notDeclinable) {
     if (!adjective.pluralOnly) {
-      validator.validateEqual(
-        'notDeclinable',
-        adjective.strong.nominative.m,
-        adjective.weak.genitive.f
-      );
+      validator.validateEqual('notDeclinable', adjective.strong.nominative.m, adjective.weak.genitive.f);
     } else {
-      validator.validateEqual(
-        'notDeclinable',
-        adjective.strong.nominative.p,
-        adjective.weak.genitive.p
-      );
+      validator.validateEqual('notDeclinable', adjective.strong.nominative.p, adjective.weak.genitive.p);
     }
   }
 
   Cases.forEach((c) => {
     GenderedForms.forEach((g) => {
-      if (
-        adjective.predicativeOnly ||
-        (adjective.singularOnly && g === 'p') ||
-        (adjective.pluralOnly && g !== 'p')
-      ) {
+      if (adjective.predicativeOnly || (adjective.singularOnly && g === 'p') || (adjective.pluralOnly && g !== 'p')) {
         validator.validateIsNull(`strong.${c}.${g}`, adjective.strong[c][g]);
         validator.validateIsNull(`weak.${c}.${g}`, adjective.weak[c][g]);
         validator.validateIsNull(`mixed.${c}.${g}`, adjective.mixed[c][g]);
