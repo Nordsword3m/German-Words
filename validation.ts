@@ -33,9 +33,9 @@ class Validator {
   validateWord(
     fieldName: string,
     word: string | null | undefined,
-    allowedChars: string = '',
-    numbersAllowed: boolean = false,
-    nullAllowed: boolean = false
+    allowedChars = '',
+    numbersAllowed = false,
+    nullAllowed = false
   ): boolean {
     if (word === null && nullAllowed) {
       return true;
