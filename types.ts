@@ -70,6 +70,7 @@ export enum Form {
 export const Forms = Object.values(Form);
 
 export type Noun = WordBase & {
+  type: WordType.Noun;
   gender: Gender | null;
   noArticle: boolean;
   singularOnly: boolean;
@@ -101,6 +102,7 @@ export type Imperative = {
 };
 
 export type Verb = WordBase & {
+  type: WordType.Verb;
   separable: boolean;
   present: Conjugation;
   simple: Conjugation;
@@ -139,6 +141,7 @@ export type Declension = {
 };
 
 export type Adjective = WordBase & {
+  type: WordType.Adjective;
   singularOnly: boolean;
   pluralOnly: boolean;
   predicativeOnly: boolean;
