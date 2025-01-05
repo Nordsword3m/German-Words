@@ -140,6 +140,13 @@ export type Declension = {
   };
 };
 
+export enum DeclensionType {
+  Strong = 'strong',
+  Weak = 'weak',
+  Mixed = 'mixed'
+}
+export const DeclensionTypes = Object.values(DeclensionType);
+
 export type Adjective = WordBase & {
   type: WordType.Adjective;
   singularOnly: boolean;
