@@ -25,11 +25,17 @@ export enum Level {
 }
 export const Levels = Object.values(Level);
 
+export enum LanguageCode {
+  English = 'en',
+  French = 'fr'
+}
+export const LanguageCodes = Object.values(LanguageCode);
+
 export type WordBase = {
   lemma: string;
   type: WordType;
   level?: Level;
-  translations?: string[];
+  translations: { [key in LanguageCode]: string[] };
   frequency?: number;
 };
 

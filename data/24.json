@@ -2,9 +2,14 @@
   {
     "lemma": "Zellentür",
     "type": "noun",
-    "translations": [
-      "cell door"
-    ],
+    "translations": {
+      "en": [
+        "cell door"
+      ],
+      "fr": [
+        "porte de cellule"
+      ]
+    },
     "level": "C2",
     "gender": "f",
     "noArticle": false,
@@ -32,9 +37,16 @@
   {
     "lemma": "Zeltpflock",
     "type": "noun",
-    "translations": [
-      "tent peg"
-    ],
+    "translations": {
+      "en": [
+        "tent peg"
+      ],
+      "fr": [
+        "piquet",
+        "piquet de tente",
+        "sardine"
+      ]
+    },
     "gender": "m",
     "noArticle": false,
     "singularOnly": false,
@@ -61,10 +73,15 @@
   {
     "lemma": "Zen",
     "type": "noun",
-    "translations": [
-      "Zen",
-      "Zen Buddhism"
-    ],
+    "translations": {
+      "en": [
+        "Zen",
+        "Zen Buddhism"
+      ],
+      "fr": [
+        "zen"
+      ]
+    },
     "level": "C2",
     "gender": "n",
     "noArticle": false,
@@ -92,10 +109,15 @@
   {
     "lemma": "zentnerschwer",
     "type": "adjective",
-    "translations": [
-      "extremely heavy",
-      "very heavy"
-    ],
+    "translations": {
+      "en": [
+        "extremely heavy",
+        "very heavy"
+      ],
+      "fr": [
+        "très lourd"
+      ]
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
@@ -188,9 +210,14 @@
   {
     "lemma": "Zer",
     "type": "noun",
-    "translations": [
-      "cerium"
-    ],
+    "translations": {
+      "en": [
+        "cerium"
+      ],
+      "fr": [
+        "cérium"
+      ]
+    },
     "level": "C2",
     "gender": "n",
     "noArticle": false,
@@ -218,9 +245,15 @@
   {
     "lemma": "zerbeißen",
     "type": "verb",
-    "translations": [
-      "chew up"
-    ],
+    "translations": {
+      "en": [
+        "chew up"
+      ],
+      "fr": [
+        "croquer",
+        "mordiller"
+      ]
+    },
     "level": "C2",
     "separable": false,
     "present": {
@@ -263,6 +296,12 @@
   {
     "lemma": "zerbeulen",
     "type": "verb",
+    "translations": {
+      "en": [],
+      "fr": [
+        "bosseler"
+      ]
+    },
     "level": "C2",
     "separable": false,
     "present": {
@@ -305,12 +344,19 @@
   {
     "lemma": "zerbrechlichsten",
     "type": "adjective",
-    "translations": [
-      "fragile",
-      "breakable",
-      "brittle",
-      "fracturable"
-    ],
+    "translations": {
+      "en": [
+        "fragile",
+        "breakable",
+        "brittle",
+        "fracturable"
+      ],
+      "fr": [
+        "fragile",
+        "délicat",
+        "cassable"
+      ]
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
@@ -405,13 +451,20 @@
   {
     "lemma": "zerkauen",
     "type": "verb",
-    "translations": [
-      "chew up",
-      "masticate",
-      "chew",
-      "scrunch",
-      "manducate"
-    ],
+    "translations": {
+      "en": [
+        "chew up",
+        "masticate",
+        "chew",
+        "scrunch",
+        "manducate"
+      ],
+      "fr": [
+        "mâcher",
+        "croquer",
+        "ronger"
+      ]
+    },
     "level": "C2",
     "separable": false,
     "present": {
@@ -454,9 +507,14 @@
   {
     "lemma": "zerknallen",
     "type": "verb",
-    "translations": [
-      "detonate"
-    ],
+    "translations": {
+      "en": [
+        "detonate"
+      ],
+      "fr": [
+        "exploser"
+      ]
+    },
     "separable": false,
     "present": {
       "ich": "zerknalle",
@@ -498,9 +556,16 @@
   {
     "lemma": "zerknautschen",
     "type": "verb",
-    "translations": [
-      "crumple"
-    ],
+    "translations": {
+      "en": [
+        "crumple"
+      ],
+      "fr": [
+        "froisser",
+        "chiffonner",
+        "friper"
+      ]
+    },
     "separable": false,
     "present": {
       "ich": "zerknautsche",
@@ -542,6 +607,12 @@
   {
     "lemma": "zerknirscht",
     "type": "adjective",
+    "translations": {
+      "en": [],
+      "fr": [
+        "rongé de remords"
+      ]
+    },
     "level": "B2",
     "predicativeOnly": false,
     "singularOnly": false,
@@ -637,6 +708,12 @@
   {
     "lemma": "zerknirschter",
     "type": "adjective",
+    "translations": {
+      "en": [],
+      "fr": [
+        "rongé de remords"
+      ]
+    },
     "level": "B2",
     "predicativeOnly": false,
     "singularOnly": false,
@@ -732,6 +809,12 @@
   {
     "lemma": "zerknirschtesten",
     "type": "adjective",
+    "translations": {
+      "en": [],
+      "fr": [
+        "rongé de remords"
+      ]
+    },
     "level": "B2",
     "predicativeOnly": false,
     "singularOnly": false,
@@ -827,11 +910,16 @@
   {
     "lemma": "zerlumpt",
     "type": "adjective",
-    "translations": [
-      "ragged",
-      "tattered",
-      "shabby"
-    ],
+    "translations": {
+      "en": [
+        "ragged",
+        "tattered",
+        "shabby"
+      ],
+      "fr": [
+        "en haillons"
+      ]
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
@@ -926,11 +1014,16 @@
   {
     "lemma": "zerlumpter",
     "type": "adjective",
-    "translations": [
-      "ragged",
-      "tattered",
-      "shabby"
-    ],
+    "translations": {
+      "en": [
+        "ragged",
+        "tattered",
+        "shabby"
+      ],
+      "fr": [
+        "en haillons"
+      ]
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
@@ -1025,11 +1118,16 @@
   {
     "lemma": "zerlumptesten",
     "type": "adjective",
-    "translations": [
-      "ragged",
-      "tattered",
-      "shabby"
-    ],
+    "translations": {
+      "en": [
+        "ragged",
+        "tattered",
+        "shabby"
+      ],
+      "fr": [
+        "en haillons"
+      ]
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
@@ -1124,11 +1222,16 @@
   {
     "lemma": "zermatschen",
     "type": "verb",
-    "translations": [
-      "squash",
-      "mash up",
-      "squish"
-    ],
+    "translations": {
+      "en": [
+        "squash",
+        "mash up",
+        "squish"
+      ],
+      "fr": [
+        "écrabouiller"
+      ]
+    },
     "level": "C1",
     "separable": false,
     "present": {
@@ -1171,9 +1274,15 @@
   {
     "lemma": "zerschlitzen",
     "type": "verb",
-    "translations": [
-      "slash"
-    ],
+    "translations": {
+      "en": [
+        "slash"
+      ],
+      "fr": [
+        "déchirer",
+        "fendre"
+      ]
+    },
     "separable": false,
     "present": {
       "ich": "zerschlitze",
@@ -1215,10 +1324,15 @@
   {
     "lemma": "Zerstörungswerk",
     "type": "noun",
-    "translations": [
-      "destruction work",
-      "work of destruction"
-    ],
+    "translations": {
+      "en": [
+        "destruction work",
+        "work of destruction"
+      ],
+      "fr": [
+        "œuvre de destruction"
+      ]
+    },
     "gender": "n",
     "noArticle": false,
     "singularOnly": true,
@@ -1245,10 +1359,16 @@
   {
     "lemma": "zerstreuter",
     "type": "adjective",
-    "translations": [
-      "absent-minded",
-      "distracted"
-    ],
+    "translations": {
+      "en": [
+        "absent-minded",
+        "distracted"
+      ],
+      "fr": [
+        "distrait",
+        "éparpillé"
+      ]
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
@@ -1343,10 +1463,16 @@
   {
     "lemma": "zerstreutesten",
     "type": "adjective",
-    "translations": [
-      "absent-minded",
-      "distracted"
-    ],
+    "translations": {
+      "en": [
+        "absent-minded",
+        "distracted"
+      ],
+      "fr": [
+        "distrait",
+        "éparpillé"
+      ]
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
@@ -1441,16 +1567,21 @@
   {
     "lemma": "Zertrümmerung",
     "type": "noun",
-    "translations": [
-      "smashing",
-      "cataclasis",
-      "demolition",
-      "destruction",
-      "disintegration",
-      "fragmentation",
-      "smashing up",
-      "splitting"
-    ],
+    "translations": {
+      "en": [
+        "smashing",
+        "cataclasis",
+        "demolition",
+        "destruction",
+        "disintegration",
+        "fragmentation",
+        "smashing up",
+        "splitting"
+      ],
+      "fr": [
+        "démolition"
+      ]
+    },
     "gender": "f",
     "noArticle": false,
     "singularOnly": false,
@@ -1477,9 +1608,15 @@
   {
     "lemma": "zetteln",
     "type": "verb",
-    "translations": [
-      "warp"
-    ],
+    "translations": {
+      "en": [
+        "warp"
+      ],
+      "fr": [
+        "ourdir",
+        "tramer"
+      ]
+    },
     "separable": false,
     "present": {
       "ich": "zettele",
@@ -1521,11 +1658,18 @@
   {
     "lemma": "Ziegenbart",
     "type": "noun",
-    "translations": [
-      "goatee",
-      "goats beard mushroom",
-      "goatbeard"
-    ],
+    "translations": {
+      "en": [
+        "goatee",
+        "goat's beard mushroom",
+        "goatbeard"
+      ],
+      "fr": [
+        "barbe de chèvre",
+        "barbiche",
+        "barbichette"
+      ]
+    },
     "level": "C2",
     "gender": "m",
     "noArticle": false,
@@ -1553,11 +1697,14 @@
   {
     "lemma": "zielführendsten",
     "type": "adjective",
-    "translations": [
-      "effective",
-      "goal-oriented",
-      "purposeful"
-    ],
+    "translations": {
+      "en": [
+        "effective",
+        "goal-oriented",
+        "purposeful"
+      ],
+      "fr": []
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
@@ -1652,6 +1799,10 @@
   {
     "lemma": "zielorientierter",
     "type": "adjective",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
     "level": "B2",
     "predicativeOnly": false,
     "singularOnly": false,
@@ -1747,6 +1898,10 @@
   {
     "lemma": "zielorientiertesten",
     "type": "adjective",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
     "level": "B2",
     "predicativeOnly": false,
     "singularOnly": false,
@@ -1842,6 +1997,10 @@
   {
     "lemma": "zielstrebigsten",
     "type": "adjective",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
     "level": "B2",
     "predicativeOnly": false,
     "singularOnly": false,
@@ -1937,11 +2096,23 @@
   {
     "lemma": "ziemlichsten",
     "type": "adjective",
-    "translations": [
-      "fairly",
-      "quite",
-      "rather"
-    ],
+    "translations": {
+      "en": [
+        "fairly",
+        "quite",
+        "rather"
+      ],
+      "fr": [
+        "relativement",
+        "assez",
+        "considérable",
+        "convenable",
+        "décent",
+        "important",
+        "lourd",
+        "significatif"
+      ]
+    },
     "level": "A2",
     "predicativeOnly": false,
     "singularOnly": false,
@@ -2037,10 +2208,15 @@
   {
     "lemma": "ziepen",
     "type": "verb",
-    "translations": [
-      "tweet",
-      "twinge"
-    ],
+    "translations": {
+      "en": [
+        "tweet",
+        "twinge"
+      ],
+      "fr": [
+        "tirer"
+      ]
+    },
     "level": "C2",
     "separable": false,
     "present": {
@@ -2083,9 +2259,15 @@
   {
     "lemma": "zierlichsten",
     "type": "adjective",
-    "translations": [
-      "dainty"
-    ],
+    "translations": {
+      "en": [
+        "dainty"
+      ],
+      "fr": [
+        "délicat",
+        "gracile"
+      ]
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
@@ -2180,6 +2362,13 @@
   {
     "lemma": "zig",
     "type": "adjective",
+    "translations": {
+      "en": [],
+      "fr": [
+        "beaucoup",
+        "un nombre incalculable"
+      ]
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": true,
@@ -2272,9 +2461,14 @@
   {
     "lemma": "Ziger",
     "type": "noun",
-    "translations": [
-      "herb cheese"
-    ],
+    "translations": {
+      "en": [
+        "herb cheese"
+      ],
+      "fr": [
+        "sérac"
+      ]
+    },
     "gender": "m",
     "noArticle": false,
     "singularOnly": false,
@@ -2301,9 +2495,16 @@
   {
     "lemma": "zimperlicher",
     "type": "adjective",
-    "translations": [
-      "squeamish"
-    ],
+    "translations": {
+      "en": [
+        "squeamish"
+      ],
+      "fr": [
+        "timide",
+        "délicat",
+        "sensible"
+      ]
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
@@ -2398,9 +2599,16 @@
   {
     "lemma": "zimperlichsten",
     "type": "adjective",
-    "translations": [
-      "squeamish"
-    ],
+    "translations": {
+      "en": [
+        "squeamish"
+      ],
+      "fr": [
+        "timide",
+        "délicat",
+        "sensible"
+      ]
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
@@ -2495,9 +2703,14 @@
   {
     "lemma": "zinken",
     "type": "adjective",
-    "translations": [
-      "zinc"
-    ],
+    "translations": {
+      "en": [
+        "zinc"
+      ],
+      "fr": [
+        "en zinc"
+      ]
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
@@ -2590,10 +2803,15 @@
   {
     "lemma": "zinnen",
     "type": "adjective",
-    "translations": [
-      "tin",
-      "tinnen"
-    ],
+    "translations": {
+      "en": [
+        "tin",
+        "tinnen"
+      ],
+      "fr": [
+        "en étain"
+      ]
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
@@ -2686,10 +2904,16 @@
   {
     "lemma": "zinnern",
     "type": "adjective",
-    "translations": [
-      "tin",
-      "pewter"
-    ],
+    "translations": {
+      "en": [
+        "tin",
+        "pewter"
+      ],
+      "fr": [
+        "d'étain",
+        "étain"
+      ]
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
@@ -2782,10 +3006,16 @@
   {
     "lemma": "Zinnkrug",
     "type": "noun",
-    "translations": [
-      "pewter jug",
-      "pewter"
-    ],
+    "translations": {
+      "en": [
+        "pewter jug",
+        "pewter"
+      ],
+      "fr": [
+        "chope en étain",
+        "cruche en étain"
+      ]
+    },
     "level": "C2",
     "gender": "m",
     "noArticle": false,
@@ -2813,6 +3043,10 @@
   {
     "lemma": "zinsen",
     "type": "verb",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
     "separable": false,
     "present": {
       "ich": "zinse",
@@ -2854,9 +3088,14 @@
   {
     "lemma": "zischeln",
     "type": "verb",
-    "translations": [
-      "whisper"
-    ],
+    "translations": {
+      "en": [
+        "whisper"
+      ],
+      "fr": [
+        "chuchoter"
+      ]
+    },
     "level": "C2",
     "separable": false,
     "present": {
@@ -2899,10 +3138,17 @@
   {
     "lemma": "Zischlaut",
     "type": "noun",
-    "translations": [
-      "sibilant",
-      "sibilant sound"
-    ],
+    "translations": {
+      "en": [
+        "sibilant",
+        "sibilant sound"
+      ],
+      "fr": [
+        "chuintante",
+        "sifflant",
+        "sifflante"
+      ]
+    },
     "level": "C2",
     "gender": "m",
     "noArticle": false,
@@ -2930,11 +3176,16 @@
   {
     "lemma": "Zitroneneis",
     "type": "noun",
-    "translations": [
-      "lemon ice cream",
-      "lemon flavoured ice cream",
-      "lemon sorbet"
-    ],
+    "translations": {
+      "en": [
+        "lemon ice cream",
+        "lemon flavoured ice cream",
+        "lemon sorbet"
+      ],
+      "fr": [
+        "glace au citron"
+      ]
+    },
     "level": "C2",
     "gender": "n",
     "noArticle": false,
@@ -2962,10 +3213,16 @@
   {
     "lemma": "zittriger",
     "type": "adjective",
-    "translations": [
-      "shaky",
-      "faltering"
-    ],
+    "translations": {
+      "en": [
+        "shaky",
+        "faltering"
+      ],
+      "fr": [
+        "tremblotant",
+        "tremblé"
+      ]
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
@@ -3060,10 +3317,16 @@
   {
     "lemma": "zittrigsten",
     "type": "adjective",
-    "translations": [
-      "shaky",
-      "faltering"
-    ],
+    "translations": {
+      "en": [
+        "shaky",
+        "faltering"
+      ],
+      "fr": [
+        "tremblotant",
+        "tremblé"
+      ]
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
@@ -3158,9 +3421,15 @@
   {
     "lemma": "zögerlichsten",
     "type": "adjective",
-    "translations": [
-      "hesitant"
-    ],
+    "translations": {
+      "en": [
+        "hesitant"
+      ],
+      "fr": [
+        "hésitant",
+        "frileux"
+      ]
+    },
     "level": "C1",
     "predicativeOnly": false,
     "singularOnly": false,
@@ -3256,9 +3525,14 @@
   {
     "lemma": "zornentbrannt",
     "type": "adjective",
-    "translations": [
-      "furious"
-    ],
+    "translations": {
+      "en": [
+        "furious"
+      ],
+      "fr": [
+        "rageur"
+      ]
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
@@ -3351,6 +3625,10 @@
   {
     "lemma": "zornfunkelnd",
     "type": "adjective",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
@@ -3443,9 +3721,15 @@
   {
     "lemma": "zorniger",
     "type": "adjective",
-    "translations": [
-      "angry"
-    ],
+    "translations": {
+      "en": [
+        "angry"
+      ],
+      "fr": [
+        "en colère",
+        "furieux"
+      ]
+    },
     "level": "B1",
     "predicativeOnly": false,
     "singularOnly": false,
@@ -3541,9 +3825,15 @@
   {
     "lemma": "zornigsten",
     "type": "adjective",
-    "translations": [
-      "angry"
-    ],
+    "translations": {
+      "en": [
+        "angry"
+      ],
+      "fr": [
+        "en colère",
+        "furieux"
+      ]
+    },
     "level": "B1",
     "predicativeOnly": false,
     "singularOnly": false,
@@ -3639,6 +3929,12 @@
   {
     "lemma": "zornrot",
     "type": "adjective",
+    "translations": {
+      "en": [],
+      "fr": [
+        "rouge de colère"
+      ]
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
@@ -3731,9 +4027,15 @@
   {
     "lemma": "zotteligsten",
     "type": "adjective",
-    "translations": [
-      "shaggy"
-    ],
+    "translations": {
+      "en": [
+        "shaggy"
+      ],
+      "fr": [
+        "ébouriffé",
+        "hirsute"
+      ]
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
@@ -3828,6 +4130,10 @@
   {
     "lemma": "zottig",
     "type": "adjective",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
@@ -3922,6 +4228,10 @@
   {
     "lemma": "zottiger",
     "type": "adjective",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
@@ -4016,6 +4326,10 @@
   {
     "lemma": "zottigsten",
     "type": "adjective",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
@@ -4110,10 +4424,13 @@
   {
     "lemma": "zu·fächeln",
     "type": "verb",
-    "translations": [
-      "fan",
-      "waft"
-    ],
+    "translations": {
+      "en": [
+        "fan",
+        "waft"
+      ],
+      "fr": []
+    },
     "separable": true,
     "present": {
       "ich": "fächele zu",
@@ -4155,10 +4472,15 @@
   {
     "lemma": "zu·fassen",
     "type": "verb",
-    "translations": [
-      "make a grab",
-      "seize the opportunity"
-    ],
+    "translations": {
+      "en": [
+        "make a grab",
+        "seize the opportunity"
+      ],
+      "fr": [
+        "s'agripper"
+      ]
+    },
     "separable": true,
     "present": {
       "ich": "fasse zu",
@@ -4200,9 +4522,16 @@
   {
     "lemma": "zu·fliegen",
     "type": "verb",
-    "translations": [
-      "fly to"
-    ],
+    "translations": {
+      "en": [
+        "fly to"
+      ],
+      "fr": [
+        "approcher de",
+        "se réfugier chez",
+        "voler"
+      ]
+    },
     "separable": true,
     "present": {
       "ich": "fliege zu",
@@ -4244,10 +4573,16 @@
   {
     "lemma": "zu·gehören",
     "type": "verb",
-    "translations": [
-      "appertain to",
-      "belong to"
-    ],
+    "translations": {
+      "en": [
+        "appertain to",
+        "belong to"
+      ],
+      "fr": [
+        "appartenir à",
+        "faire partie de"
+      ]
+    },
     "separable": true,
     "present": {
       "ich": "gehöre zu",
@@ -4289,9 +4624,14 @@
   {
     "lemma": "zu·gipsen",
     "type": "verb",
-    "translations": [
-      "plaster"
-    ],
+    "translations": {
+      "en": [
+        "plaster"
+      ],
+      "fr": [
+        "plâtrer"
+      ]
+    },
     "separable": true,
     "present": {
       "ich": "gipse zu",
@@ -4333,9 +4673,12 @@
   {
     "lemma": "zu·hängen",
     "type": "verb",
-    "translations": [
-      "cover with curtains"
-    ],
+    "translations": {
+      "en": [
+        "cover with curtains"
+      ],
+      "fr": []
+    },
     "separable": true,
     "present": {
       "ich": "hänge zu",
@@ -4377,10 +4720,15 @@
   {
     "lemma": "zu·knallen",
     "type": "verb",
-    "translations": [
-      "bang",
-      "slam"
-    ],
+    "translations": {
+      "en": [
+        "bang",
+        "slam"
+      ],
+      "fr": [
+        "claquer"
+      ]
+    },
     "separable": true,
     "present": {
       "ich": "knalle zu",
@@ -4422,9 +4770,14 @@
   {
     "lemma": "zu·kneifen",
     "type": "verb",
-    "translations": [
-      "pinch hard"
-    ],
+    "translations": {
+      "en": [
+        "pinch hard"
+      ],
+      "fr": [
+        "fermer"
+      ]
+    },
     "separable": true,
     "present": {
       "ich": "kneife zu",
@@ -4466,9 +4819,14 @@
   {
     "lemma": "zu·knoten",
     "type": "verb",
-    "translations": [
-      "knot"
-    ],
+    "translations": {
+      "en": [
+        "knot"
+      ],
+      "fr": [
+        "nouer"
+      ]
+    },
     "separable": true,
     "present": {
       "ich": "knote zu",
@@ -4510,9 +4868,12 @@
   {
     "lemma": "zu·kriechen",
     "type": "verb",
-    "translations": [
-      "creep up"
-    ],
+    "translations": {
+      "en": [
+        "creep up"
+      ],
+      "fr": []
+    },
     "separable": true,
     "present": {
       "ich": "krieche zu",
@@ -4554,9 +4915,14 @@
   {
     "lemma": "zu·kriegen",
     "type": "verb",
-    "translations": [
-      "close"
-    ],
+    "translations": {
+      "en": [
+        "close"
+      ],
+      "fr": [
+        "fermer"
+      ]
+    },
     "separable": true,
     "present": {
       "ich": "kriege zu",
@@ -4598,6 +4964,12 @@
   {
     "lemma": "zu·marschieren",
     "type": "verb",
+    "translations": {
+      "en": [],
+      "fr": [
+        "marcher vers"
+      ]
+    },
     "separable": true,
     "present": {
       "ich": "marschiere zu",
@@ -4639,9 +5011,14 @@
   {
     "lemma": "zu·schwimmen",
     "type": "verb",
-    "translations": [
-      "swim on"
-    ],
+    "translations": {
+      "en": [
+        "swim on"
+      ],
+      "fr": [
+        "nager vers"
+      ]
+    },
     "separable": true,
     "present": {
       "ich": "schwimme zu",
@@ -4683,10 +5060,15 @@
   {
     "lemma": "zu·springen",
     "type": "verb",
-    "translations": [
-      "spring toward",
-      "spring towards"
-    ],
+    "translations": {
+      "en": [
+        "spring toward",
+        "spring towards"
+      ],
+      "fr": [
+        "sauter"
+      ]
+    },
     "separable": true,
     "present": {
       "ich": "springe zu",
@@ -4728,11 +5110,14 @@
   {
     "lemma": "zu·zählen",
     "type": "verb",
-    "translations": [
-      "add",
-      "add into the equation",
-      "include in"
-    ],
+    "translations": {
+      "en": [
+        "add",
+        "add into the equation",
+        "include in"
+      ],
+      "fr": []
+    },
     "separable": true,
     "present": {
       "ich": "zähle zu",
@@ -4774,10 +5159,16 @@
   {
     "lemma": "Zuber",
     "type": "noun",
-    "translations": [
-      "tub",
-      "washtub"
-    ],
+    "translations": {
+      "en": [
+        "tub",
+        "washtub"
+      ],
+      "fr": [
+        "baquet",
+        "comporte"
+      ]
+    },
     "level": "C2",
     "gender": "m",
     "noArticle": false,
@@ -4805,11 +5196,19 @@
   {
     "lemma": "Zuckerguss",
     "type": "noun",
-    "translations": [
-      "icing",
-      "frosting",
-      "sugar icing"
-    ],
+    "translations": {
+      "en": [
+        "icing",
+        "frosting",
+        "sugar icing"
+      ],
+      "fr": [
+        "glace",
+        "glace de sucre",
+        "glace royale",
+        "glaçage"
+      ]
+    },
     "level": "C2",
     "gender": "m",
     "noArticle": false,
@@ -4837,6 +5236,10 @@
   {
     "lemma": "zufriedenstellendsten",
     "type": "adjective",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
     "level": "B2",
     "predicativeOnly": false,
     "singularOnly": false,
@@ -4932,12 +5335,21 @@
   {
     "lemma": "zugänglichsten",
     "type": "adjective",
-    "translations": [
-      "accessible",
-      "approachable",
-      "accostable",
-      "amenable"
-    ],
+    "translations": {
+      "en": [
+        "accessible",
+        "approachable",
+        "accostable",
+        "amenable"
+      ],
+      "fr": [
+        "accessible",
+        "consultable",
+        "disponible",
+        "abordable",
+        "approchable"
+      ]
+    },
     "level": "B2",
     "predicativeOnly": false,
     "singularOnly": false,
@@ -5033,9 +5445,14 @@
   {
     "lemma": "zugegener",
     "type": "adjective",
-    "translations": [
-      "present"
-    ],
+    "translations": {
+      "en": [
+        "present"
+      ],
+      "fr": [
+        "présent"
+      ]
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
@@ -5130,9 +5547,14 @@
   {
     "lemma": "zugegensten",
     "type": "adjective",
-    "translations": [
-      "present"
-    ],
+    "translations": {
+      "en": [
+        "present"
+      ],
+      "fr": [
+        "présent"
+      ]
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
@@ -5227,13 +5649,20 @@
   {
     "lemma": "züngeln",
     "type": "verb",
-    "translations": [
-      "flicker",
-      "French kiss",
-      "French-kiss",
-      "dart",
-      "lick"
-    ],
+    "translations": {
+      "en": [
+        "flicker",
+        "French kiss",
+        "French-kiss",
+        "dart",
+        "lick"
+      ],
+      "fr": [
+        "darder",
+        "darder sa langue",
+        "jaillir"
+      ]
+    },
     "level": "C2",
     "separable": false,
     "present": {
@@ -5276,11 +5705,19 @@
   {
     "lemma": "zürnen",
     "type": "verb",
-    "translations": [
-      "be angry",
-      "be angry with",
-      "be cross"
-    ],
+    "translations": {
+      "en": [
+        "be angry",
+        "be angry with",
+        "be cross"
+      ],
+      "fr": [
+        "être en colère",
+        "se courroucer",
+        "se courroucer contre",
+        "être fâché"
+      ]
+    },
     "level": "C2",
     "separable": false,
     "present": {
@@ -5323,13 +5760,21 @@
   {
     "lemma": "zurren",
     "type": "verb",
-    "translations": [
-      "lash",
-      "drag",
-      "frap",
-      "lash down",
-      "tie"
-    ],
+    "translations": {
+      "en": [
+        "lash",
+        "drag",
+        "frap",
+        "lash down",
+        "tie"
+      ],
+      "fr": [
+        "tirer",
+        "amarrer",
+        "amarrer sur",
+        "arrimer"
+      ]
+    },
     "level": "C2",
     "separable": false,
     "present": {
@@ -5372,11 +5817,16 @@
   {
     "lemma": "zurück·biegen",
     "type": "verb",
-    "translations": [
-      "bend back",
-      "back-bend",
-      "bend down"
-    ],
+    "translations": {
+      "en": [
+        "bend back",
+        "back-bend",
+        "bend down"
+      ],
+      "fr": [
+        "replier"
+      ]
+    },
     "separable": true,
     "present": {
       "ich": "biege zurück",
@@ -5418,10 +5868,16 @@
   {
     "lemma": "zurück·gleiten",
     "type": "verb",
-    "translations": [
-      "glide back",
-      "slide back"
-    ],
+    "translations": {
+      "en": [
+        "glide back",
+        "slide back"
+      ],
+      "fr": [
+        "glisser en arrière",
+        "reculer"
+      ]
+    },
     "separable": true,
     "present": {
       "ich": "gleite zurück",
@@ -5463,10 +5919,16 @@
   {
     "lemma": "zurück·sinken",
     "type": "verb",
-    "translations": [
-      "sink back",
-      "sink down"
-    ],
+    "translations": {
+      "en": [
+        "sink back",
+        "sink down"
+      ],
+      "fr": [
+        "retomber",
+        "s'effondrer"
+      ]
+    },
     "separable": true,
     "present": {
       "ich": "sinke zurück",
@@ -5508,6 +5970,10 @@
   {
     "lemma": "zurück·stopfen",
     "type": "verb",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
     "separable": true,
     "present": {
       "ich": "stopfe zurück",
@@ -5549,9 +6015,12 @@
   {
     "lemma": "zurück·winken",
     "type": "verb",
-    "translations": [
-      "wave back"
-    ],
+    "translations": {
+      "en": [
+        "wave back"
+      ],
+      "fr": []
+    },
     "separable": true,
     "present": {
       "ich": "winke zurück",
@@ -5593,10 +6062,15 @@
   {
     "lemma": "zurück·zwingen",
     "type": "verb",
-    "translations": [
-      "force back",
-      "push back"
-    ],
+    "translations": {
+      "en": [
+        "force back",
+        "push back"
+      ],
+      "fr": [
+        "forcer à revenir"
+      ]
+    },
     "separable": true,
     "present": {
       "ich": "zwinge zurück",
@@ -5638,16 +6112,25 @@
   {
     "lemma": "zusammen·drängen",
     "type": "verb",
-    "translations": [
-      "compress",
-      "condense",
-      "crowd together",
-      "huddle together",
-      "compact",
-      "concentrate",
-      "congest",
-      "herd"
-    ],
+    "translations": {
+      "en": [
+        "compress",
+        "condense",
+        "crowd together",
+        "huddle together",
+        "compact",
+        "concentrate",
+        "congest",
+        "herd"
+      ],
+      "fr": [
+        "entasser",
+        "agglomérer",
+        "s'agglutiner",
+        "se bousculer",
+        "se concentrer"
+      ]
+    },
     "separable": true,
     "present": {
       "ich": "dränge zusammen",
@@ -5689,10 +6172,17 @@
   {
     "lemma": "zusammen·knüllen",
     "type": "verb",
-    "translations": [
-      "wad",
-      "scrunch up"
-    ],
+    "translations": {
+      "en": [
+        "wad",
+        "scrunch up"
+      ],
+      "fr": [
+        "froisser",
+        "chiffonner",
+        "triturer"
+      ]
+    },
     "level": "C2",
     "separable": true,
     "present": {
@@ -5735,9 +6225,15 @@
   {
     "lemma": "zusammen·krampfen",
     "type": "verb",
-    "translations": [
-      "knot stomach"
-    ],
+    "translations": {
+      "en": [
+        "knot stomach"
+      ],
+      "fr": [
+        "se contracter",
+        "se crisper"
+      ]
+    },
     "separable": true,
     "present": {
       "ich": "krampfe zusammen",
@@ -5779,11 +6275,16 @@
   {
     "lemma": "zusammen·kratzen",
     "type": "verb",
-    "translations": [
-      "scrape together",
-      "scrape up",
-      "scratch together"
-    ],
+    "translations": {
+      "en": [
+        "scrape together",
+        "scrape up",
+        "scratch together"
+      ],
+      "fr": [
+        "racler"
+      ]
+    },
     "separable": true,
     "present": {
       "ich": "kratze zusammen",
@@ -5825,10 +6326,13 @@
   {
     "lemma": "zusammen·krümmen",
     "type": "verb",
-    "translations": [
-      "double up",
-      "writhe"
-    ],
+    "translations": {
+      "en": [
+        "double up",
+        "writhe"
+      ],
+      "fr": []
+    },
     "separable": true,
     "present": {
       "ich": "krümme zusammen",
@@ -5870,12 +6374,17 @@
   {
     "lemma": "zusammen·quetschen",
     "type": "verb",
-    "translations": [
-      "compress",
-      "crush together",
-      "squash",
-      "squeeze together"
-    ],
+    "translations": {
+      "en": [
+        "compress",
+        "crush together",
+        "squash",
+        "squeeze together"
+      ],
+      "fr": [
+        "comprimer"
+      ]
+    },
     "separable": true,
     "present": {
       "ich": "quetsche zusammen",
@@ -5917,10 +6426,15 @@
   {
     "lemma": "zusammen·schrecken",
     "type": "verb",
-    "translations": [
-      "jump",
-      "startle"
-    ],
+    "translations": {
+      "en": [
+        "jump",
+        "startle"
+      ],
+      "fr": [
+        "sursauter"
+      ]
+    },
     "level": "C2",
     "separable": true,
     "present": {
@@ -5963,16 +6477,25 @@
   {
     "lemma": "zusammen·schrumpfen",
     "type": "verb",
-    "translations": [
-      "contract",
-      "shrink",
-      "dwarf",
-      "dwindle",
-      "dwindle away",
-      "join by shrinking",
-      "shrink up",
-      "shrivel"
-    ],
+    "translations": {
+      "en": [
+        "contract",
+        "shrink",
+        "dwarf",
+        "dwindle",
+        "dwindle away",
+        "join by shrinking",
+        "shrink up",
+        "shrivel"
+      ],
+      "fr": [
+        "fondre",
+        "se racornir",
+        "se ratatiner",
+        "se recroqueviller",
+        "se rétrécir"
+      ]
+    },
     "separable": true,
     "present": {
       "ich": "schrumpfe zusammen",
@@ -6014,11 +6537,17 @@
   {
     "lemma": "zusammen·sinken",
     "type": "verb",
-    "translations": [
-      "collapse",
-      "sink down",
-      "crock"
-    ],
+    "translations": {
+      "en": [
+        "collapse",
+        "sink down",
+        "crock"
+      ],
+      "fr": [
+        "s'effondrer",
+        "s'affaisser"
+      ]
+    },
     "separable": true,
     "present": {
       "ich": "sinke zusammen",
@@ -6060,10 +6589,15 @@
   {
     "lemma": "zusammen·sparen",
     "type": "verb",
-    "translations": [
-      "save up",
-      "squirrel away"
-    ],
+    "translations": {
+      "en": [
+        "save up",
+        "squirrel away"
+      ],
+      "fr": [
+        "économiser difficilement"
+      ]
+    },
     "level": "C2",
     "separable": true,
     "present": {
@@ -6106,21 +6640,20 @@
   {
     "lemma": "zusammen·stauchen",
     "type": "verb",
-    "translations": [
-      "bawl out",
-      "call down",
-      "carpet",
-      "give a dressing-down",
-      "give a rocket",
-      "give a slating",
-      "give an earful",
-      "lay into",
-      "pan",
-      "row",
-      "slate",
-      "tear off a strip",
-      "thrash"
-    ],
+    "translations": {
+      "en": [
+        "bawl out",
+        "call down",
+        "carpet",
+        "give a dressing-down",
+        "give a rocket",
+        "give a slating",
+        "give an earful"
+      ],
+      "fr": [
+        "engueuler qn"
+      ]
+    },
     "separable": true,
     "present": {
       "ich": "stauche zusammen",
@@ -6162,11 +6695,16 @@
   {
     "lemma": "zusammen·treiben",
     "type": "verb",
-    "translations": [
-      "round up",
-      "herd together",
-      "herd up"
-    ],
+    "translations": {
+      "en": [
+        "round up",
+        "herd together",
+        "herd up"
+      ],
+      "fr": [
+        "rassembler"
+      ]
+    },
     "separable": true,
     "present": {
       "ich": "treibe zusammen",
@@ -6208,6 +6746,10 @@
   {
     "lemma": "zusammenschiebbar",
     "type": "adjective",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
@@ -6300,9 +6842,16 @@
   {
     "lemma": "zuträglichsten",
     "type": "adjective",
-    "translations": [
-      "beneficial"
-    ],
+    "translations": {
+      "en": [
+        "beneficial"
+      ],
+      "fr": [
+        "profitable",
+        "sain",
+        "utile"
+      ]
+    },
     "level": "C1",
     "predicativeOnly": false,
     "singularOnly": false,
@@ -6398,6 +6947,10 @@
   {
     "lemma": "zutraulichsten",
     "type": "adjective",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
@@ -6492,10 +7045,15 @@
   {
     "lemma": "zutreffendsten",
     "type": "adjective",
-    "translations": [
-      "appropriate",
-      "applicable"
-    ],
+    "translations": {
+      "en": [
+        "appropriate",
+        "applicable"
+      ],
+      "fr": [
+        "exact"
+      ]
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
@@ -6590,10 +7148,15 @@
   {
     "lemma": "zuversichtlichsten",
     "type": "adjective",
-    "translations": [
-      "optimistic",
-      "confident"
-    ],
+    "translations": {
+      "en": [
+        "optimistic",
+        "confident"
+      ],
+      "fr": [
+        "confiant"
+      ]
+    },
     "level": "B2",
     "predicativeOnly": false,
     "singularOnly": false,
@@ -6689,9 +7252,14 @@
   {
     "lemma": "zwanghaftesten",
     "type": "adjective",
-    "translations": [
-      "compulsive"
-    ],
+    "translations": {
+      "en": [
+        "compulsive"
+      ],
+      "fr": [
+        "compulsif"
+      ]
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
@@ -6786,9 +7354,14 @@
   {
     "lemma": "zwanzig",
     "type": "adjective",
-    "translations": [
-      "twenty"
-    ],
+    "translations": {
+      "en": [
+        "twenty"
+      ],
+      "fr": [
+        "vingt"
+      ]
+    },
     "level": "A1",
     "predicativeOnly": false,
     "singularOnly": false,
@@ -6882,6 +7455,10 @@
   {
     "lemma": "zwecken",
     "type": "verb",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
     "level": "C2",
     "separable": false,
     "present": {
@@ -6924,10 +7501,16 @@
   {
     "lemma": "zwei",
     "type": "adjective",
-    "translations": [
-      "two",
-      "two year old"
-    ],
+    "translations": {
+      "en": [
+        "two",
+        "two year old"
+      ],
+      "fr": [
+        "deux",
+        "deux heures"
+      ]
+    },
     "level": "A1",
     "predicativeOnly": false,
     "singularOnly": false,
@@ -7021,9 +7604,14 @@
   {
     "lemma": "zweieinhalb",
     "type": "adjective",
-    "translations": [
-      "two and a half"
-    ],
+    "translations": {
+      "en": [
+        "two and a half"
+      ],
+      "fr": [
+        "deux et demi"
+      ]
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": true,
@@ -7116,10 +7704,15 @@
   {
     "lemma": "zweifelhaftesten",
     "type": "adjective",
-    "translations": [
-      "doubtful",
-      "dubious"
-    ],
+    "translations": {
+      "en": [
+        "doubtful",
+        "dubious"
+      ],
+      "fr": [
+        "douteux"
+      ]
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
@@ -7214,9 +7807,16 @@
   {
     "lemma": "zweihundert",
     "type": "adjective",
-    "translations": [
-      "two hundred"
-    ],
+    "translations": {
+      "en": [
+        "two hundred"
+      ],
+      "fr": [
+        "deux cents",
+        "deux cent",
+        "deux-cents"
+      ]
+    },
     "level": "A1",
     "predicativeOnly": false,
     "singularOnly": false,
@@ -7310,9 +7910,14 @@
   {
     "lemma": "zweitausend",
     "type": "adjective",
-    "translations": [
-      "two thousand"
-    ],
+    "translations": {
+      "en": [
+        "two thousand"
+      ],
+      "fr": [
+        "deux-mille"
+      ]
+    },
     "level": "A1",
     "predicativeOnly": false,
     "singularOnly": false,
@@ -7406,6 +8011,10 @@
   {
     "lemma": "zwergenhafter",
     "type": "adjective",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
@@ -7500,6 +8109,10 @@
   {
     "lemma": "zwergenhaftesten",
     "type": "adjective",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
@@ -7594,10 +8207,17 @@
   {
     "lemma": "Zwicker",
     "type": "noun",
-    "translations": [
-      "pince-nez",
-      "pair of pince-nez"
-    ],
+    "translations": {
+      "en": [
+        "pince-nez",
+        "pair of pince-nez"
+      ],
+      "fr": [
+        "pince-nez",
+        "binocle",
+        "lorgnon"
+      ]
+    },
     "level": "C2",
     "gender": "m",
     "noArticle": false,
@@ -7625,11 +8245,17 @@
   {
     "lemma": "zwielichtigsten",
     "type": "adjective",
-    "translations": [
-      "dubious",
-      "shady",
-      "seedy"
-    ],
+    "translations": {
+      "en": [
+        "dubious",
+        "shady",
+        "seedy"
+      ],
+      "fr": [
+        "louche",
+        "douteux"
+      ]
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,
@@ -7724,11 +8350,16 @@
   {
     "lemma": "Zwitterion",
     "type": "noun",
-    "translations": [
-      "zwitterion",
-      "amphoteric ion",
-      "dipolar ion"
-    ],
+    "translations": {
+      "en": [
+        "zwitterion",
+        "amphoteric ion",
+        "dipolar ion"
+      ],
+      "fr": [
+        "amphion"
+      ]
+    },
     "gender": "n",
     "noArticle": false,
     "singularOnly": false,
@@ -7755,9 +8386,12 @@
   {
     "lemma": "zwo",
     "type": "adjective",
-    "translations": [
-      "two"
-    ],
+    "translations": {
+      "en": [
+        "two"
+      ],
+      "fr": []
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": true,
@@ -7850,9 +8484,14 @@
   {
     "lemma": "zwölf",
     "type": "adjective",
-    "translations": [
-      "twelve"
-    ],
+    "translations": {
+      "en": [
+        "twelve"
+      ],
+      "fr": [
+        "douze"
+      ]
+    },
     "level": "A1",
     "predicativeOnly": false,
     "singularOnly": false,
@@ -7946,9 +8585,14 @@
   {
     "lemma": "zyprisch",
     "type": "adjective",
-    "translations": [
-      "Cypriot"
-    ],
+    "translations": {
+      "en": [
+        "Cypriot"
+      ],
+      "fr": [
+        "chypriote"
+      ]
+    },
     "predicativeOnly": false,
     "singularOnly": false,
     "pluralOnly": false,

@@ -14,9 +14,9 @@ Each word entry in this list has a set of common properties allowing them to be 
 type WordBase = {
   lemma: string;
   type: WordType;
-  level: Level | null;
-  translations: string[];
-  frequency: number | undefined;
+  level?: Level;
+  translations: { [key in LanguageCode]: string[] };
+  frequency?: number;
 };
 ```
 
@@ -32,7 +32,7 @@ type WordBase = {
   - `B2`
   - `C1`
   - `C2`
-- `translations`: A list of English translations for the word.
+- `translations`: An object containing a list translations for the word in different languages.
 - `frequency`: The frequency of this word, as it appears in the Leipzig Web-public Germany 2019 1M Corpora. Note, not every word has an associated frequency. The frequency is a number between 0 and 1, where 1 means the word appears in every sentence.
 
 ### Word Types
@@ -45,13 +45,14 @@ Each noun entry in the list is represented by the following type
 
 ```typescript
 type Noun = WordBase & {
-  gender: Gender;
+  type: WordType.Noun;
+  gender: Gender | null;
   noArticle: boolean;
   singularOnly: boolean;
   pluralOnly: boolean;
   cases: {
     [key in Case]: {
-      [key in Form]: string;
+      [key in Form]: string | null;
     };
   };
 };
@@ -82,12 +83,13 @@ Each verb entry in the list is represented by the following type
 
 ```typescript
 type Verb = WordBase & {
+  type: WordType.Verb;
   separable: boolean;
   present: Conjugation;
   simple: Conjugation;
   conjunctive1: Conjugation;
   conjunctive2: Conjugation;
-  imperative: { "du": string "ihr": string, "Sie": string } | null;
+  imperative: Imperative | null;
   perfect: string;
   gerund: string;
   zuinfinitive: string;
@@ -127,19 +129,22 @@ Each adjective entry in the list is represented by the following type
 
 ```typescript
 type Adjective = WordBase & {
+  type: WordType.Adjective;
   singularOnly: boolean;
   pluralOnly: boolean;
   predicativeOnly: boolean;
-  noMixed: boolean;
   absolute: boolean;
   notDeclinable: boolean;
+  noMixed: boolean;
   strong: Declension;
   weak: Declension;
   mixed: Declension;
-  comparative: string;
+  comparative?: string;
   isComparative: boolean;
-  superlative: string;
+  noComparative: boolean;
+  superlative?: string;
   isSuperlative: boolean;
+  superlativeOnly: boolean;
   commonNouns?: string[];
 };
 ```
