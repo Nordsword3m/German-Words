@@ -153,6 +153,15 @@ export enum DeclensionType {
 }
 export const DeclensionTypes = Object.values(DeclensionType);
 
+export enum Ending {
+  E = 'e',
+  Er = 'er',
+  En = 'en',
+  Em = 'em',
+  Es = 'es'
+}
+export const Endings = Object.values(Ending);
+
 export type Adjective = WordBase & {
   type: WordType.Adjective;
   singularOnly: boolean;
