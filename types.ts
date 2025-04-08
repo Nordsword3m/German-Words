@@ -118,6 +118,7 @@ export type Verb = WordBase & {
   perfect: string;
   gerund: string;
   zuinfinitive: string;
+  withSein: boolean;
 };
 
 export enum GenderedForm {
