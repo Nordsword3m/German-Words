@@ -85,6 +85,7 @@ Each verb entry in the list is represented by the following type
 type Verb = WordBase & {
   type: WordType.Verb;
   separable: boolean;
+  withSein: boolean;
   present: Conjugation;
   simple: Conjugation;
   conjunctive1: Conjugation;
@@ -97,6 +98,7 @@ type Verb = WordBase & {
 ```
 
 - `separable`: A boolean indicating if the verb is separable. The sepearation is indicated by a dot `·` in `WordBase.lemma` (e.g. `'weg·laufen'`, `'an·rufen'`, `'mit·kommen'`). Note, some verbs can be both separable and inseparable (e.g. `'anerkennen'` can be both `'an·erkennen'` and `'anerkennen'`).
+- `withSein`: A boolean indicating if `sein` is used as the helper verb (false indicates `haben`).
 - `present`: The present tense conjugation of the verb.
 - `simple`: The simple past tense conjugation of the verb.
 - `conjunctive1`: The first conjunctive conjugation of the verb.

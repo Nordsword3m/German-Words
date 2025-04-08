@@ -344,6 +344,7 @@
     },
     "level": "B2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "drücke auf",
       "du": "drückst auf",
@@ -402,6 +403,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": true,
     "present": {
       "ich": "fliege auf",
       "du": "fliegst auf",
@@ -467,6 +469,7 @@
     },
     "level": "A2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "rege auf",
       "du": "regst auf",
@@ -564,6 +567,7 @@
       ]
     },
     "separable": true,
+    "withSein": true,
     "present": {
       "ich": "brenne aus",
       "du": "brennst aus",
@@ -620,6 +624,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "schenke aus",
       "du": "schenkst aus",
@@ -790,6 +795,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "bedränge",
       "du": "bedrängst",
@@ -1065,6 +1071,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "beunruhige",
       "du": "beunruhigst",
@@ -1120,6 +1127,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "beurlaube",
       "du": "beurlaubst",
@@ -1587,6 +1595,7 @@
     },
     "level": "A1",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "dusche",
       "du": "duschst",
@@ -2055,6 +2064,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": true,
     "present": {
       "ich": "entbrenne",
       "du": "entbrennst",
@@ -3233,6 +3243,7 @@
       ]
     },
     "separable": true,
+    "withSein": true,
     "present": {
       "ich": "falle heraus",
       "du": "fällst heraus",
@@ -3282,6 +3293,7 @@
     },
     "level": "B1",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "höre hin",
       "du": "hörst hin",
@@ -3340,6 +3352,7 @@
       ]
     },
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "halte hoch",
       "du": "hältst hoch",
@@ -4990,6 +5003,7 @@
     },
     "level": "B1",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "prophezeie",
       "du": "prophezeist",
@@ -5236,6 +5250,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "räche",
       "du": "rächst",
@@ -5995,6 +6010,7 @@
     },
     "level": "A2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "schimpfe",
       "du": "schimpfst",
@@ -7327,6 +7343,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "umlege",
       "du": "umlegst",
@@ -8400,6 +8417,7 @@
     },
     "level": "B1",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "verspeise",
       "du": "verspeist",
@@ -8453,6 +8471,7 @@
       ]
     },
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "verstetige",
       "du": "verstetigst",
@@ -8510,6 +8529,7 @@
     },
     "level": "A2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "verzeihe",
       "du": "verzeihst",
@@ -8921,6 +8941,7 @@
       ]
     },
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "lese weiter",
       "du": "liest weiter",
@@ -9083,6 +9104,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "widersetze",
       "du": "widersetzt",
@@ -9552,6 +9574,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": true,
     "present": {
       "ich": "falle zusammen",
       "du": "fällst zusammen",
@@ -9692,6 +9715,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "bringe ab",
       "du": "bringst ab",
@@ -9757,6 +9781,7 @@
     },
     "level": "B2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "nutze ab",
       "du": "nutzt ab",
@@ -10301,6 +10326,7 @@
       ]
     },
     "separable": true,
+    "withSein": true,
     "present": {
       "ich": "fahre aus",
       "du": "fährst aus",
@@ -10572,6 +10598,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "bange",
       "du": "bangst",
@@ -10777,6 +10804,7 @@
     },
     "level": "A2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "benehme",
       "du": "benimmst",
@@ -10839,6 +10867,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "bestäube",
       "du": "bestäubst",
@@ -11070,6 +11099,7 @@
       ]
     },
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "breite",
       "du": "breitest",
@@ -11158,6 +11188,7 @@
     },
     "level": "A2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "diktiere",
       "du": "diktierst",
@@ -11419,6 +11450,7 @@
     },
     "level": "A2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "zeichne ein",
       "du": "zeichnest ein",
@@ -11616,6 +11648,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "entreiße",
       "du": "entreißt",
@@ -11713,6 +11746,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "erübrige",
       "du": "erübrigst",
@@ -11840,6 +11874,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "flaniere",
       "du": "flanierst",
@@ -12279,6 +12314,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": true,
     "present": {
       "ich": "gefriere",
       "du": "gefrierst",
@@ -12965,6 +13001,7 @@
       ]
     },
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "liege herum",
       "du": "liegst herum",
@@ -13017,6 +13054,7 @@
     },
     "level": "B1",
     "separable": true,
+    "withSein": true,
     "present": {
       "ich": "fahre herunter",
       "du": "fährst herunter",
@@ -13076,6 +13114,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": true,
     "present": {
       "ich": "komme hin",
       "du": "kommst hin",
@@ -13130,6 +13169,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "richte hin",
       "du": "richtest hin",
@@ -13337,6 +13377,7 @@
     },
     "level": "C1",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "inspiziere",
       "du": "inspizierst",
@@ -13569,6 +13610,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "kartiere",
       "du": "kartierst",
@@ -13914,6 +13956,7 @@
     },
     "level": "C1",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "korreliere",
       "du": "korrelierst",
@@ -15376,6 +15419,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "prange",
       "du": "prangst",
@@ -15916,6 +15960,7 @@
     },
     "level": "B2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "relaxe",
       "du": "relaxt",
@@ -16190,6 +16235,7 @@
     },
     "level": "B2",
     "separable": false,
+    "withSein": true,
     "present": {
       "ich": "rudere",
       "du": "ruderst",
@@ -16322,6 +16368,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "schmerze",
       "du": "schmerzt",
@@ -17078,6 +17125,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "strotze",
       "du": "strotzt",
@@ -17320,6 +17368,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "tarne",
       "du": "tarnst",
@@ -17572,6 +17621,7 @@
     },
     "level": "B2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "triumphiere",
       "du": "triumphierst",
@@ -17630,6 +17680,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "tropfe",
       "du": "tropfst",
@@ -17789,6 +17840,7 @@
     },
     "level": "B2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "überbiete",
       "du": "überbietest",
@@ -17848,6 +17900,7 @@
     },
     "level": "C1",
     "separable": true,
+    "withSein": true,
     "present": {
       "ich": "kehre um",
       "du": "kehrst um",
@@ -18027,6 +18080,7 @@
     },
     "level": "B2",
     "separable": true,
+    "withSein": true,
     "present": {
       "ich": "komme unter",
       "du": "kommst unter",
@@ -18287,6 +18341,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "verbreitere",
       "du": "verbreiterst",
@@ -18348,6 +18403,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "vereinheitliche",
       "du": "vereinheitlichst",
@@ -18413,6 +18469,7 @@
     },
     "level": "C1",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "verfälsche",
       "du": "verfälschst",
@@ -18506,6 +18563,7 @@
       ]
     },
     "separable": false,
+    "withSein": true,
     "present": {
       "ich": "verrutsche",
       "du": "verrutschst",
@@ -18635,6 +18693,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "sage voraus",
       "du": "sagst voraus",
@@ -18945,6 +19004,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "winde",
       "du": "windest",
@@ -19137,6 +19197,7 @@
     },
     "level": "C1",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "wittere",
       "du": "witterst",
@@ -19284,6 +19345,7 @@
     },
     "level": "B2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "zittere",
       "du": "zitterst",
@@ -19369,6 +19431,7 @@
       ]
     },
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "schaue zurück",
       "du": "schaust zurück",
@@ -19426,6 +19489,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": true,
     "present": {
       "ich": "drehe ab",
       "du": "drehst ab",
@@ -19488,6 +19552,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "höre ab",
       "du": "hörst ab",
@@ -19545,6 +19610,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": true,
     "present": {
       "ich": "rücke ab",
       "du": "rückst ab",
@@ -19609,6 +19675,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "stoße ab",
       "du": "stößt ab",
@@ -19934,6 +20001,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "heuere an",
       "du": "heuerst an",
@@ -19999,6 +20067,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": true,
     "present": {
       "ich": "schwelle an",
       "du": "schwillst an",
@@ -20233,6 +20302,7 @@
     },
     "level": "C1",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "leuchte auf",
       "du": "leuchtest auf",
@@ -20287,6 +20357,7 @@
     },
     "level": "B2",
     "separable": true,
+    "withSein": true,
     "present": {
       "ich": "reiße auf",
       "du": "reißt auf",
@@ -20348,6 +20419,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "grabe aus",
       "du": "gräbst aus",
@@ -20400,6 +20472,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "säe aus",
       "du": "säst aus",
@@ -20607,6 +20680,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "blocke",
       "du": "blockst",
@@ -20748,6 +20822,7 @@
     },
     "level": "B1",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "bügele",
       "du": "bügelst",
@@ -21393,6 +21468,7 @@
       ]
     },
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "stehe durch",
       "du": "stehst durch",
@@ -21554,6 +21630,7 @@
     },
     "level": "C1",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "durchlebe",
       "du": "durchlebst",
@@ -21611,6 +21688,7 @@
       ]
     },
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "schneide ein",
       "du": "schneidest ein",
@@ -21670,6 +21748,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "schüchtere ein",
       "du": "schüchterst ein",
@@ -21912,6 +21991,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "enteigne",
       "du": "enteignest",
@@ -22163,6 +22243,7 @@
     },
     "level": "B1",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "erwidere",
       "du": "erwiderst",
@@ -22579,6 +22660,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "fuße",
       "du": "fußt",
@@ -23632,6 +23714,7 @@
     },
     "level": "C1",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "bekomme heraus",
       "du": "bekommst heraus",
@@ -23733,6 +23816,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "halte inne",
       "du": "hältst inne",
@@ -24650,6 +24734,7 @@
     },
     "level": "B1",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "schlage nach",
       "du": "schlägst nach",
@@ -24702,6 +24787,7 @@
       ]
     },
     "separable": true,
+    "withSein": true,
     "present": {
       "ich": "wachse nach",
       "du": "wächst nach",
@@ -24834,6 +24920,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "schreibe nieder",
       "du": "schreibst nieder",
@@ -25268,6 +25355,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "poche",
       "du": "pochst",
@@ -25479,6 +25567,7 @@
     },
     "level": "A2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "rase",
       "du": "rast",
@@ -25537,6 +25626,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "rotiere",
       "du": "rotierst",
@@ -25601,6 +25691,7 @@
     },
     "level": "C1",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "rüttele",
       "du": "rüttelst",
@@ -25993,6 +26084,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "sause",
       "du": "saust",
@@ -26102,6 +26194,7 @@
     },
     "level": "B2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "schere",
       "du": "scherst",
@@ -26155,6 +26248,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "schmiege",
       "du": "schmiegst",
@@ -26483,6 +26577,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "stehe still",
       "du": "stehst still",
@@ -26541,6 +26636,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "summe",
       "du": "summst",
@@ -26706,6 +26802,7 @@
     },
     "level": "A1",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "twittere",
       "du": "twitterst",
@@ -26876,6 +26973,7 @@
     },
     "level": "C1",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "überschwemme",
       "du": "überschwemmst",
@@ -27016,6 +27114,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "umschließe",
       "du": "umschließt",
@@ -27386,6 +27485,7 @@
     },
     "level": "C1",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "verachte",
       "du": "verachtest",
@@ -27451,6 +27551,7 @@
     },
     "level": "C1",
     "separable": false,
+    "withSein": true,
     "present": {
       "ich": "verblasse",
       "du": "verblasst",
@@ -27505,6 +27606,7 @@
     },
     "level": "B2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "verdächtige",
       "du": "verdächtigst",
@@ -27756,6 +27858,7 @@
       ]
     },
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "verströme",
       "du": "verströmst",
@@ -27849,6 +27952,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "vollstrecke",
       "du": "vollstreckst",
@@ -28440,6 +28544,7 @@
     },
     "level": "B2",
     "separable": true,
+    "withSein": true,
     "present": {
       "ich": "falle zurück",
       "du": "fällst zurück",
@@ -28501,6 +28606,7 @@
     },
     "level": "B1",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "wasche ab",
       "du": "wäschst ab",
@@ -28566,6 +28672,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "wische ab",
       "du": "wischst ab",
@@ -28877,6 +28984,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "sporne an",
       "du": "spornst an",
@@ -28984,6 +29092,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "helle auf",
       "du": "hellst auf",
@@ -29048,6 +29157,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "sauge auf",
       "du": "saugst auf",
@@ -29252,6 +29362,7 @@
     },
     "level": "B2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "lösche aus",
       "du": "löschst aus",
@@ -29308,6 +29419,7 @@
     },
     "level": "A2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "schlafe aus",
       "du": "schläfst aus",
@@ -29634,6 +29746,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "blinke",
       "du": "blinkst",
@@ -29911,6 +30024,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "dünste",
       "du": "dünstest",
@@ -29964,6 +30078,7 @@
       ]
     },
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "durchstreife",
       "du": "durchstreifst",
@@ -30115,6 +30230,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "bilde ein",
       "du": "bildest ein",
@@ -30174,6 +30290,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": true,
     "present": {
       "ich": "laufe ein",
       "du": "läufst ein",
@@ -30233,6 +30350,7 @@
     },
     "level": "B2",
     "separable": true,
+    "withSein": true,
     "present": {
       "ich": "stürze ein",
       "du": "stürzt ein",
@@ -30604,6 +30722,7 @@
     },
     "level": "B2",
     "separable": false,
+    "withSein": true,
     "present": {
       "ich": "erstarre",
       "du": "erstarrst",
@@ -32301,6 +32420,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "knete",
       "du": "knetest",
@@ -32623,6 +32743,7 @@
     },
     "level": "A2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "langweile",
       "du": "langweilst",
@@ -33413,6 +33534,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "nähre",
       "du": "nährst",
@@ -33716,6 +33838,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "nötige",
       "du": "nötigst",
@@ -34236,6 +34359,7 @@
     },
     "level": "B1",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "rasiere",
       "du": "rasierst",
@@ -34288,6 +34412,7 @@
     },
     "level": "C1",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "rätsele",
       "du": "rätselst",
@@ -35044,6 +35169,7 @@
       ]
     },
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "schocke",
       "du": "schockst",
@@ -35104,6 +35230,7 @@
     },
     "level": "B1",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "schütte",
       "du": "schüttest",
@@ -35854,6 +35981,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "sprudele",
       "du": "sprudelst",
@@ -35967,6 +36095,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "straffe",
       "du": "straffst",
@@ -36176,6 +36305,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "taste",
       "du": "tastest",
@@ -36915,6 +37045,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": true,
     "present": {
       "ich": "verdunste",
       "du": "verdunstest",
@@ -37015,6 +37146,7 @@
     },
     "level": "B1",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "vergrabe",
       "du": "vergräbst",
@@ -37070,6 +37202,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": true,
     "present": {
       "ich": "verhungere",
       "du": "verhungerst",
@@ -37592,6 +37725,7 @@
       ]
     },
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "sehe vorher",
       "du": "siehst vorher",
@@ -37884,6 +38018,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": true,
     "present": {
       "ich": "wirbele",
       "du": "wirbelst",
@@ -38218,6 +38353,7 @@
     },
     "level": "B1",
     "separable": false,
+    "withSein": true,
     "present": {
       "ich": "zerreiße",
       "du": "zerreißt",
@@ -38309,6 +38445,7 @@
       "fr": []
     },
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "steuere zu",
       "du": "steuerst zu",
@@ -38369,6 +38506,7 @@
     },
     "level": "B2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "zucke",
       "du": "zuckst",
@@ -38422,6 +38560,7 @@
       ]
     },
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "finde zurück",
       "du": "findest zurück",
@@ -38478,6 +38617,7 @@
       ]
     },
     "separable": true,
+    "withSein": true,
     "present": {
       "ich": "gehe zusammen",
       "du": "gehst zusammen",
@@ -38637,6 +38777,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "fasse ab",
       "du": "fasst ab",
@@ -38698,6 +38839,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "hake ab",
       "du": "hakst ab",
@@ -38757,6 +38899,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": true,
     "present": {
       "ich": "reise ab",
       "du": "reist ab",
@@ -38818,6 +38961,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "sauge ab",
       "du": "saugst ab",
@@ -38877,6 +39021,7 @@
       ]
     },
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "sperre ab",
       "du": "sperrst ab",
@@ -38936,6 +39081,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "staube ab",
       "du": "staubst ab",
@@ -39001,6 +39147,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "tue ab",
       "du": "tust ab",
@@ -39242,6 +39389,7 @@
     },
     "level": "A1",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "probiere an",
       "du": "probierst an",
@@ -39300,6 +39448,7 @@
     },
     "level": "C1",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "werbe an",
       "du": "wirbst an",
@@ -39756,6 +39905,7 @@
     },
     "level": "B2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "schrecke auf",
       "du": "schreckst auf",
@@ -39964,6 +40114,7 @@
     },
     "level": "C1",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "präge aus",
       "du": "prägst aus",
@@ -40018,6 +40169,7 @@
     },
     "level": "C1",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "spioniere aus",
       "du": "spionierst aus",
@@ -40081,6 +40233,7 @@
     },
     "level": "A1",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "strecke aus",
       "du": "streckst aus",
@@ -40374,6 +40527,7 @@
     },
     "level": "A2",
     "separable": false,
+    "withSein": true,
     "present": {
       "ich": "balanciere",
       "du": "balancierst",
@@ -40505,6 +40659,7 @@
     },
     "level": "C1",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "beharre",
       "du": "beharrst",
@@ -40706,6 +40861,7 @@
     },
     "level": "C1",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "bezaubere",
       "du": "bezauberst",
@@ -41266,6 +41422,7 @@
     },
     "level": "C1",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "ziehe durch",
       "du": "ziehst durch",
@@ -41323,6 +41480,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "durchschlage",
       "du": "durchschlägst",
@@ -41425,6 +41583,7 @@
     },
     "level": "B1",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "entgegne",
       "du": "entgegnest",
@@ -41858,6 +42017,7 @@
     },
     "level": "B2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "fische",
       "du": "fischst",
@@ -42057,6 +42217,7 @@
     },
     "level": "B2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "flirte",
       "du": "flirtest",
@@ -42223,6 +42384,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": true,
     "present": {
       "ich": "flute",
       "du": "flutest",
@@ -43374,6 +43536,7 @@
     },
     "level": "B1",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "hagele",
       "du": "hagelst",
@@ -43434,6 +43597,7 @@
     },
     "level": "B1",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "hämmere",
       "du": "hämmerst",
@@ -43563,6 +43727,7 @@
       ]
     },
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "mache her",
       "du": "machst her",
@@ -43703,6 +43868,7 @@
     },
     "level": "A2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "setze hin",
       "du": "setzt hin",
@@ -43802,6 +43968,7 @@
     },
     "level": "C1",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "hocke",
       "du": "hockst",
@@ -44056,6 +44223,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "hülle",
       "du": "hüllst",
@@ -44559,6 +44727,7 @@
     },
     "level": "B2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "klammere",
       "du": "klammerst",
@@ -44624,6 +44793,7 @@
     },
     "level": "B1",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "klatsche",
       "du": "klatschst",
@@ -46534,6 +46704,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "mustere",
       "du": "musterst",
@@ -46595,6 +46766,7 @@
     },
     "level": "B1",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "prüfe nach",
       "du": "prüfst nach",
@@ -46892,6 +47064,7 @@
     },
     "level": "B2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "preise",
       "du": "preist",
@@ -47123,6 +47296,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "raste",
       "du": "rastest",
@@ -47173,6 +47347,7 @@
       ]
     },
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "haue raus",
       "du": "haust raus",
@@ -48786,6 +48961,7 @@
       ]
     },
     "separable": true,
+    "withSein": true,
     "present": {
       "ich": "schlage um",
       "du": "schlägst um",
@@ -49242,6 +49418,7 @@
     },
     "level": "C1",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "verblüffe",
       "du": "verblüffst",
@@ -49300,6 +49477,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "versöhne",
       "du": "versöhnst",
@@ -49469,6 +49647,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "verwische",
       "du": "verwischst",
@@ -49529,6 +49708,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "verwüste",
       "du": "verwüstest",
@@ -49629,6 +49809,7 @@
     },
     "level": "C1",
     "separable": false,
+    "withSein": true,
     "present": {
       "ich": "verziehe",
       "du": "verziehst",
@@ -49687,6 +49868,7 @@
     },
     "level": "C1",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "wähne",
       "du": "wähnst",
@@ -49893,6 +50075,7 @@
     },
     "level": "B2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "wälze",
       "du": "wälzt",
@@ -49988,6 +50171,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "schmeiße weg",
       "du": "schmeißt weg",
@@ -50078,6 +50262,7 @@
       ]
     },
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "habe wieder",
       "du": "hast wieder",
@@ -50505,6 +50690,7 @@
     },
     "level": "C1",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "zerre",
       "du": "zerrst",
@@ -50675,6 +50861,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "dränge zurück",
       "du": "drängst zurück",
@@ -50733,6 +50920,7 @@
       ]
     },
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "versetze zurück",
       "du": "versetzt zurück",
@@ -50833,6 +51021,7 @@
     },
     "level": "B1",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "kaufe ab",
       "du": "kaufst ab",
@@ -50892,6 +51081,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "trockne ab",
       "du": "trocknest ab",
@@ -50950,6 +51140,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "wähle ab",
       "du": "wählst ab",
@@ -51003,6 +51194,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "abstrahiere",
       "du": "abstrahierst",
@@ -51656,6 +51848,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "assistiere",
       "du": "assistierst",
@@ -51823,6 +52016,7 @@
       ]
     },
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "höhle aus",
       "du": "höhlst aus",
@@ -52057,6 +52251,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "berichtige",
       "du": "berichtigst",
@@ -52218,6 +52413,7 @@
     },
     "level": "B2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "beschwöre",
       "du": "beschwörst",
@@ -53080,6 +53276,7 @@
       ]
     },
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "färbe ein",
       "du": "färbst ein",
@@ -53138,6 +53335,7 @@
     },
     "level": "C2",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "schleuse ein",
       "du": "schleust ein",
@@ -54082,6 +54280,7 @@
     },
     "level": "A1",
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "habe frei",
       "du": "hast frei",
@@ -54129,6 +54328,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "friste",
       "du": "fristest",
@@ -55091,6 +55291,7 @@
     },
     "level": "C2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "hantiere",
       "du": "hantierst",
@@ -55175,6 +55376,7 @@
       "fr": []
     },
     "separable": true,
+    "withSein": false,
     "present": {
       "ich": "schiebe her",
       "du": "schiebst her",
@@ -55226,6 +55428,7 @@
       ]
     },
     "separable": true,
+    "withSein": true,
     "present": {
       "ich": "komme hinaus",
       "du": "kommst hinaus",
@@ -55608,6 +55811,7 @@
     },
     "level": "C1",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "jammere",
       "du": "jammerst",
@@ -55661,6 +55865,7 @@
     },
     "level": "A1",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "jogge",
       "du": "joggst",
@@ -55756,6 +55961,7 @@
     },
     "level": "B2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "katapultiere",
       "du": "katapultierst",
@@ -56881,6 +57087,7 @@
     },
     "level": "B1",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "missverstehe",
       "du": "missverstehst",
@@ -57498,6 +57705,7 @@
     },
     "level": "B2",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "pflastere",
       "du": "pflasterst",
@@ -57553,6 +57761,7 @@
     },
     "level": "C1",
     "separable": false,
+    "withSein": false,
     "present": {
       "ich": "pflücke",
       "du": "pflückst",
