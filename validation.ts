@@ -130,6 +130,12 @@ class Validator {
       this.errors[fieldName] = `'${val1}' must be equal to '${val2}'`;
     }
   }
+
+  validateFalse(fieldName: string, condition: boolean, msg: string) {
+    if (condition) {
+      this.errors[fieldName] = msg;
+    }
+  }
 }
 
 export const validateWordBase = (word: WordBase) => {
@@ -144,6 +150,7 @@ export const validateWordBase = (word: WordBase) => {
   validator.validateOneOfType('type', word.type, WordTypes);
 
   if (word.level) {
+    // TODO - missing levels
     validator.validateOneOfType('level', word.level, Levels);
   }
 
@@ -206,7 +213,6 @@ export const validateVerb = (verb: Verb) => {
   const separableChar = verb.separable ? ' ' : '';
 
   if (verb.separable) {
-    validator.validateContains('lemma', verb.lemma, '·');
     validator.validateCondition(
       'zuinfinitive',
       () =>
@@ -219,7 +225,7 @@ export const validateVerb = (verb: Verb) => {
     validator.validateContains('zuinfinitive', verb.zuinfinitive, 'zu');
   }
 
-  const numBaseWords = verb.separable ? verb.present.ich.split(' ').length : 1;
+  const numBaseWords = verb.separable ? 2 : 1;
 
   Pronouns.forEach((p) => {
     validator.validateWord(`present.${p}`, verb.present[p], '/' + separableChar);
@@ -227,28 +233,22 @@ export const validateVerb = (verb: Verb) => {
 
     validator.validateWord(`simple.${p}`, verb.simple[p], '/' + separableChar);
     validator.validateWordCount(`simple.${p}`, verb.simple[p], numBaseWords);
-
-    validator.validateWord(`conjunctive1.${p}`, verb.conjunctive1[p], separableChar);
-    validator.validateWordCount(`conjunctive1.${p}`, verb.conjunctive1[p], numBaseWords);
-
-    validator.validateWord(`conjunctive2.${p}`, verb.conjunctive2[p], '/' + separableChar);
-    validator.validateWordCount(`conjunctive2.${p}`, verb.conjunctive2[p], numBaseWords);
   });
 
-  if (verb.imperative) {
+  if (!verb.modal) {
     validator.validateWord('imperative.du', verb.imperative.du, ' ');
-    validator.validateWordCount('imperative.du', verb.imperative.du, numBaseWords + 1);
+    validator.validateWordCount('imperative.du', verb.imperative.du, numBaseWords);
 
     validator.validateWord('imperative.ihr', verb.imperative.ihr, ' ');
-    validator.validateWordCount('imperative.ihr', verb.imperative.ihr, numBaseWords + 1);
-
-    validator.validateWord('imperative.Sie', verb.imperative.Sie, ' ');
-    validator.validateWordCount('imperative.Sie', verb.imperative.Sie, numBaseWords + 1);
-
-    validator.validateWord('perfect', verb.perfect, ' ');
-    validator.validateWord('gerund', verb.gerund, ' ');
-    validator.validateWord('zuinfinitive', verb.zuinfinitive, ' ');
+    validator.validateWordCount('imperative.ihr', verb.imperative.ihr, numBaseWords);
+  } else {
+    validator.validateFalse('separable', verb.separable, 'Modal verbs cannot be separable');
+    validator.validateFalse('reflexive', verb.reflexive, 'Modal verbs cannot be reflexive');
   }
+
+  validator.validateWord('perfect', verb.perfect, ' ');
+  validator.validateWord('gerund', verb.gerund, ' ');
+  validator.validateWord('zuinfinitive', verb.zuinfinitive, ' ');
 
   validator.assertValid(verb);
 };
@@ -257,82 +257,30 @@ export const validateAdjective = (adjective: Adjective) => {
   const validator = new Validator();
 
   validator.validateIsBoolean('predicativeOnly', adjective.predicativeOnly);
-  validator.validateIsBoolean('pluralOnly', adjective.pluralOnly);
-  validator.validateIsBoolean('isComparative', adjective.isComparative);
-  validator.validateIsBoolean('isSuperlative', adjective.isSuperlative);
-
-  validator.validateCondition(
-    'predicativeOnly/pluralOnly',
-    () => !adjective.predicativeOnly || !adjective.pluralOnly,
-    "Can't be predicativeOnly and pluralOnly at the same time"
-  );
-  validator.validateCondition(
-    'singularOnly/pluralOnly',
-    () => !adjective.singularOnly || !adjective.pluralOnly,
-    "Can't be singularOnly and pluralOnly at the same time"
-  );
-
-  validator.validateCondition(
-    'isComparative/isSuperlative',
-    () => !adjective.isComparative || !adjective.isSuperlative,
-    "Can't be isComparative and isSuperlative at the same time"
-  );
-
-  if (adjective.absolute) {
-    validator.validateIsUndefined('absolute', adjective.comparative);
-    validator.validateIsUndefined('absolute', adjective.superlative);
-  } else {
-    if (adjective.superlativeOnly) {
-      validator.validateIsUndefined('superlativeOnly', adjective.comparative);
-    } else {
-      if (adjective.noComparative) {
-        validator.validateIsUndefined('comparative', adjective.comparative);
-      } else {
-        validator.validateWord('comparative', adjective.comparative, '', false, true);
-      }
-    }
-
-    validator.validateWord('superlative', adjective.superlative, ' ', false, true);
-  }
 
   if (adjective.notDeclinable) {
-    if (!adjective.pluralOnly) {
-      validator.validateEqual(
-        'notDeclinable',
-        adjective.strong.nominative.m,
-        adjective.weak.genitive.f
-      );
-    } else {
-      validator.validateEqual(
-        'notDeclinable',
-        adjective.strong.nominative.p,
-        adjective.weak.genitive.p
-      );
-    }
+    validator.validateEqual(
+      'notDeclinable',
+      adjective.strong.nominative.p,
+      adjective.weak.genitive.p
+    );
   }
 
-  Cases.forEach((c) => {
-    GenderedForms.forEach((g) => {
-      if (
-        adjective.predicativeOnly ||
-        (adjective.singularOnly && g === 'p') ||
-        (adjective.pluralOnly && g !== 'p')
-      ) {
-        validator.validateIsNull(`strong.${c}.${g}`, adjective.strong[c][g]);
-        validator.validateIsNull(`weak.${c}.${g}`, adjective.weak[c][g]);
-        validator.validateIsNull(`mixed.${c}.${g}`, adjective.mixed[c][g]);
-      } else {
-        validator.validateWord(`strong.${c}.${g}`, adjective.strong[c][g]);
-        validator.validateWord(`weak.${c}.${g}`, adjective.weak[c][g]);
-
-        if (adjective.noMixed) {
+  if (!adjective.notDeclinable) {
+    Cases.forEach((c) => {
+      GenderedForms.forEach((g) => {
+        if (adjective.predicativeOnly || (adjective.singularOnly && g === 'p')) {
+          validator.validateIsNull(`strong.${c}.${g}`, adjective.strong[c][g]);
+          validator.validateIsNull(`weak.${c}.${g}`, adjective.weak[c][g]);
           validator.validateIsNull(`mixed.${c}.${g}`, adjective.mixed[c][g]);
         } else {
+          validator.validateWord(`strong.${c}.${g}`, adjective.strong[c][g]);
+          validator.validateWord(`weak.${c}.${g}`, adjective.weak[c][g]);
           validator.validateWord(`mixed.${c}.${g}`, adjective.mixed[c][g]);
         }
-      }
+      });
     });
-  });
+  }
 
   validator.assertValid(adjective);
 };
