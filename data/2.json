@@ -1,1733 +1,5 @@
 [
   {
-    "lemma": "Gang",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "gang"
-      ],
-      "fr": [
-        "gang",
-        "bande",
-        "équipe"
-      ]
-    },
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Gang",
-        "plural": "Gangs"
-      },
-      "accusative": {
-        "singular": "Gang",
-        "plural": "Gangs"
-      },
-      "dative": {
-        "singular": "Gang",
-        "plural": "Gangs"
-      },
-      "genitive": {
-        "singular": "Gang",
-        "plural": "Gangs"
-      }
-    },
-    "frequency": 0.0005450006812508539
-  },
-  {
-    "lemma": "gefährden",
-    "type": "verb",
-    "translations": {
-      "en": [
-        "endanger",
-        "expose to danger",
-        "imperil"
-      ],
-      "fr": [
-        "mettre en danger",
-        "compromettre"
-      ]
-    },
-    "separable": false,
-    "superSeparable": false,
-    "modal": false,
-    "reflexive": false,
-    "present": {
-      "ich": "gefährde",
-      "du": "gefährdest",
-      "es": "gefährdet",
-      "ihr": "gefährdet",
-      "Sie": "gefährden"
-    },
-    "simple": {
-      "ich": "gefährdete",
-      "du": "gefährdetest",
-      "es": "gefährdete",
-      "ihr": "gefährdetet",
-      "Sie": "gefährdeten"
-    },
-    "imperative": {
-      "du": "gefährd",
-      "ihr": "gefährdet"
-    },
-    "perfect": "gefährdet",
-    "gerund": "gefährdend",
-    "zuinfinitive": "zu gefährden",
-    "withSein": false,
-    "frequency": 0.0005450006812508539
-  },
-  {
-    "lemma": "gesundheitlich",
-    "type": "adjective",
-    "translations": {
-      "en": [
-        "health"
-      ],
-      "fr": [
-        "sanitaire",
-        "santé"
-      ]
-    },
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "notDeclinable": false,
-    "strong": {
-      "nominative": {
-        "m": "gesundheitlicher",
-        "f": "gesundheitliche",
-        "n": "gesundheitliches",
-        "p": "gesundheitliche"
-      },
-      "accusative": {
-        "m": "gesundheitlichen",
-        "f": "gesundheitliche",
-        "n": "gesundheitliches",
-        "p": "gesundheitliche"
-      },
-      "dative": {
-        "m": "gesundheitlichem",
-        "f": "gesundheitlicher",
-        "n": "gesundheitlichem",
-        "p": "gesundheitlichen"
-      },
-      "genitive": {
-        "m": "gesundheitlichen",
-        "f": "gesundheitlicher",
-        "n": "gesundheitlichen",
-        "p": "gesundheitlicher"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "gesundheitliche",
-        "f": "gesundheitliche",
-        "n": "gesundheitliche",
-        "p": "gesundheitlichen"
-      },
-      "accusative": {
-        "m": "gesundheitlichen",
-        "f": "gesundheitliche",
-        "n": "gesundheitliche",
-        "p": "gesundheitlichen"
-      },
-      "dative": {
-        "m": "gesundheitlichen",
-        "f": "gesundheitlichen",
-        "n": "gesundheitlichen",
-        "p": "gesundheitlichen"
-      },
-      "genitive": {
-        "m": "gesundheitlichen",
-        "f": "gesundheitlichen",
-        "n": "gesundheitlichen",
-        "p": "gesundheitlichen"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "gesundheitlicher",
-        "f": "gesundheitliche",
-        "n": "gesundheitliches",
-        "p": "gesundheitlichen"
-      },
-      "accusative": {
-        "m": "gesundheitlichen",
-        "f": "gesundheitliche",
-        "n": "gesundheitliches",
-        "p": "gesundheitlichen"
-      },
-      "dative": {
-        "m": "gesundheitlichen",
-        "f": "gesundheitlichen",
-        "n": "gesundheitlichen",
-        "p": "gesundheitlichen"
-      },
-      "genitive": {
-        "m": "gesundheitlichen",
-        "f": "gesundheitlichen",
-        "n": "gesundheitlichen",
-        "p": "gesundheitlichen"
-      }
-    },
-    "frequency": 0.0005450006812508539,
-    "commonNouns": []
-  },
-  {
-    "lemma": "russisch",
-    "type": "adjective",
-    "translations": {
-      "en": [
-        "Russian"
-      ],
-      "fr": [
-        "russe"
-      ]
-    },
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "notDeclinable": false,
-    "strong": {
-      "nominative": {
-        "m": "russischer",
-        "f": "russische",
-        "n": "russisches",
-        "p": "russische"
-      },
-      "accusative": {
-        "m": "russischen",
-        "f": "russische",
-        "n": "russisches",
-        "p": "russische"
-      },
-      "dative": {
-        "m": "russischem",
-        "f": "russischer",
-        "n": "russischem",
-        "p": "russischen"
-      },
-      "genitive": {
-        "m": "russischen",
-        "f": "russischer",
-        "n": "russischen",
-        "p": "russischer"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "russische",
-        "f": "russische",
-        "n": "russische",
-        "p": "russischen"
-      },
-      "accusative": {
-        "m": "russischen",
-        "f": "russische",
-        "n": "russische",
-        "p": "russischen"
-      },
-      "dative": {
-        "m": "russischen",
-        "f": "russischen",
-        "n": "russischen",
-        "p": "russischen"
-      },
-      "genitive": {
-        "m": "russischen",
-        "f": "russischen",
-        "n": "russischen",
-        "p": "russischen"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "russischer",
-        "f": "russische",
-        "n": "russisches",
-        "p": "russischen"
-      },
-      "accusative": {
-        "m": "russischen",
-        "f": "russische",
-        "n": "russisches",
-        "p": "russischen"
-      },
-      "dative": {
-        "m": "russischen",
-        "f": "russischen",
-        "n": "russischen",
-        "p": "russischen"
-      },
-      "genitive": {
-        "m": "russischen",
-        "f": "russischen",
-        "n": "russischen",
-        "p": "russischen"
-      }
-    },
-    "frequency": 0.0005450006812508539,
-    "commonNouns": []
-  },
-  {
-    "lemma": "Tat",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "act",
-        "action",
-        "deed",
-        "crime"
-      ],
-      "fr": [
-        "action",
-        "acte",
-        "crime"
-      ]
-    },
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Tat",
-        "plural": "Taten"
-      },
-      "accusative": {
-        "singular": "Tat",
-        "plural": "Taten"
-      },
-      "dative": {
-        "singular": "Tat",
-        "plural": "Taten"
-      },
-      "genitive": {
-        "singular": "Tat",
-        "plural": "Taten"
-      }
-    },
-    "frequency": 0.0005450006812508539
-  },
-  {
-    "lemma": "übermitteln",
-    "type": "verb",
-    "translations": {
-      "en": [],
-      "fr": [
-        "transmettre"
-      ]
-    },
-    "separable": false,
-    "superSeparable": false,
-    "modal": false,
-    "reflexive": false,
-    "present": {
-      "ich": "übermittle",
-      "du": "übermittelst",
-      "es": "übermittelt",
-      "ihr": "übermittelt",
-      "Sie": "übermitteln"
-    },
-    "simple": {
-      "ich": "übermittelte",
-      "du": "übermitteltest",
-      "es": "übermittelte",
-      "ihr": "übermitteltet",
-      "Sie": "übermittelten"
-    },
-    "imperative": {
-      "du": "übermittle",
-      "ihr": "übermittelt"
-    },
-    "perfect": "übermittelt",
-    "gerund": "übermittelnd",
-    "zuinfinitive": "zu übermitteln",
-    "withSein": false,
-    "frequency": 0.0005450006812508539
-  },
-  {
-    "lemma": "Verpflichtung",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "obligation",
-        "commitment",
-        "duty",
-        "engagement",
-        "liability"
-      ],
-      "fr": [
-        "engagement",
-        "devoir",
-        "obligation",
-        "passif"
-      ]
-    },
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Verpflichtung",
-        "plural": "Verpflichtungen"
-      },
-      "accusative": {
-        "singular": "Verpflichtung",
-        "plural": "Verpflichtungen"
-      },
-      "dative": {
-        "singular": "Verpflichtung",
-        "plural": "Verpflichtungen"
-      },
-      "genitive": {
-        "singular": "Verpflichtung",
-        "plural": "Verpflichtungen"
-      }
-    },
-    "frequency": 0.0005450006812508539
-  },
-  {
-    "lemma": "Ei",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "ovum",
-        "egg",
-        "oval",
-        "oval ball",
-        "balls",
-        "brilliant idea",
-        "currency",
-        "euros",
-        "marks"
-      ],
-      "fr": [
-        "œuf",
-        "couille",
-        "chose réalisable",
-        "balle"
-      ]
-    },
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Ei",
-        "plural": "Eier"
-      },
-      "accusative": {
-        "singular": "Ei",
-        "plural": "Eier"
-      },
-      "dative": {
-        "singular": "Ei",
-        "plural": "Eiern"
-      },
-      "genitive": {
-        "singular": "Eies",
-        "plural": "Eier"
-      }
-    },
-    "frequency": 0.000543750679688352
-  },
-  {
-    "lemma": "Identität",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "identity"
-      ],
-      "fr": [
-        "identité"
-      ]
-    },
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Identität",
-        "plural": "Identitäten"
-      },
-      "accusative": {
-        "singular": "Identität",
-        "plural": "Identitäten"
-      },
-      "dative": {
-        "singular": "Identität",
-        "plural": "Identitäten"
-      },
-      "genitive": {
-        "singular": "Identität",
-        "plural": "Identitäten"
-      }
-    },
-    "frequency": 0.000543750679688352
-  },
-  {
-    "lemma": "kennzeichnen",
-    "type": "verb",
-    "translations": {
-      "en": [
-        "mark",
-        "label",
-        "flag",
-        "tag",
-        "characterize",
-        "denote"
-      ],
-      "fr": [
-        "marquer",
-        "caractériser"
-      ]
-    },
-    "separable": false,
-    "superSeparable": false,
-    "modal": false,
-    "reflexive": false,
-    "present": {
-      "ich": "kennzeichne",
-      "du": "kennzeichnest",
-      "es": "kennzeichnet",
-      "ihr": "kennzeichnet",
-      "Sie": "kennzeichnen"
-    },
-    "simple": {
-      "ich": "kennzeichnete",
-      "du": "kennzeichnetest",
-      "es": "kennzeichnete",
-      "ihr": "kennzeichnetet",
-      "Sie": "kennzeichneten"
-    },
-    "imperative": {
-      "du": "kennzeichne",
-      "ihr": "kennzeichnet"
-    },
-    "perfect": "gekennzeichnet",
-    "gerund": "kennzeichnend",
-    "zuinfinitive": "zu kennzeichnen",
-    "withSein": false,
-    "frequency": 0.000543750679688352
-  },
-  {
-    "lemma": "Dienstleister",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "service provider"
-      ],
-      "fr": [
-        "prestataire de services"
-      ]
-    },
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Dienstleister",
-        "plural": "Dienstleister"
-      },
-      "accusative": {
-        "singular": "Dienstleister",
-        "plural": "Dienstleister"
-      },
-      "dative": {
-        "singular": "Dienstleister",
-        "plural": "Dienstleistern"
-      },
-      "genitive": {
-        "singular": "Dienstleisters",
-        "plural": "Dienstleister"
-      }
-    },
-    "frequency": 0.0005412506765633482
-  },
-  {
-    "lemma": "Musiker",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "musician"
-      ],
-      "fr": [
-        "musicien"
-      ]
-    },
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Musiker",
-        "plural": "Musiker"
-      },
-      "accusative": {
-        "singular": "Musiker",
-        "plural": "Musiker"
-      },
-      "dative": {
-        "singular": "Musiker",
-        "plural": "Musikern"
-      },
-      "genitive": {
-        "singular": "Musikers",
-        "plural": "Musiker"
-      }
-    },
-    "frequency": 0.0005412506765633482
-  },
-  {
-    "lemma": "stolz",
-    "type": "adjective",
-    "translations": {
-      "en": [
-        "proud",
-        "haughty",
-        "impressive",
-        "very",
-        "tall"
-      ],
-      "fr": [
-        "fier"
-      ]
-    },
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "notDeclinable": false,
-    "strong": {
-      "nominative": {
-        "m": "stolzer",
-        "f": "stolze",
-        "n": "stolzes",
-        "p": "stolze"
-      },
-      "accusative": {
-        "m": "stolzen",
-        "f": "stolze",
-        "n": "stolzes",
-        "p": "stolze"
-      },
-      "dative": {
-        "m": "stolzem",
-        "f": "stolzer",
-        "n": "stolzem",
-        "p": "stolzen"
-      },
-      "genitive": {
-        "m": "stolzen",
-        "f": "stolzer",
-        "n": "stolzen",
-        "p": "stolzer"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "stolze",
-        "f": "stolze",
-        "n": "stolze",
-        "p": "stolzen"
-      },
-      "accusative": {
-        "m": "stolzen",
-        "f": "stolze",
-        "n": "stolze",
-        "p": "stolzen"
-      },
-      "dative": {
-        "m": "stolzen",
-        "f": "stolzen",
-        "n": "stolzen",
-        "p": "stolzen"
-      },
-      "genitive": {
-        "m": "stolzen",
-        "f": "stolzen",
-        "n": "stolzen",
-        "p": "stolzen"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "stolzer",
-        "f": "stolze",
-        "n": "stolzes",
-        "p": "stolzen"
-      },
-      "accusative": {
-        "m": "stolzen",
-        "f": "stolze",
-        "n": "stolzes",
-        "p": "stolzen"
-      },
-      "dative": {
-        "m": "stolzen",
-        "f": "stolzen",
-        "n": "stolzen",
-        "p": "stolzen"
-      },
-      "genitive": {
-        "m": "stolzen",
-        "f": "stolzen",
-        "n": "stolzen",
-        "p": "stolzen"
-      }
-    },
-    "frequency": 0.0005412506765633482,
-    "commonNouns": []
-  },
-  {
-    "lemma": "Symptom",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "symptom"
-      ],
-      "fr": [
-        "symptôme"
-      ]
-    },
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Symptom",
-        "plural": "Symptome"
-      },
-      "accusative": {
-        "singular": "Symptom",
-        "plural": "Symptome"
-      },
-      "dative": {
-        "singular": "Symptom",
-        "plural": "Symptomen"
-      },
-      "genitive": {
-        "singular": "Symptoms",
-        "plural": "Symptome"
-      }
-    },
-    "frequency": 0.0005412506765633482
-  },
-  {
-    "lemma": "Kredit",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "loan",
-        "credit"
-      ],
-      "fr": [
-        "crédit"
-      ]
-    },
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Kredit",
-        "plural": "Kredite"
-      },
-      "accusative": {
-        "singular": "Kredit",
-        "plural": "Kredite"
-      },
-      "dative": {
-        "singular": "Kredit",
-        "plural": "Krediten"
-      },
-      "genitive": {
-        "singular": "Kredits",
-        "plural": "Kredite"
-      }
-    },
-    "frequency": 0.0005400006750008462
-  },
-  {
-    "lemma": "Kredit",
-    "type": "noun",
-    "translations": {
-      "en": [],
-      "fr": []
-    },
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Kredit",
-        "plural": "Kredits"
-      },
-      "accusative": {
-        "singular": "Kredit",
-        "plural": "Kredits"
-      },
-      "dative": {
-        "singular": "Kredit",
-        "plural": "Kredits"
-      },
-      "genitive": {
-        "singular": "Kredits",
-        "plural": "Kredits"
-      }
-    },
-    "frequency": 0.0005400006750008462
-  },
-  {
-    "lemma": "kündigen",
-    "type": "verb",
-    "translations": {
-      "en": [
-        "give notice",
-        "terminate",
-        "cancel",
-        "dismiss",
-        "quit",
-        "resign"
-      ],
-      "fr": [
-        "résilier"
-      ]
-    },
-    "separable": false,
-    "superSeparable": false,
-    "modal": false,
-    "reflexive": false,
-    "present": {
-      "ich": "kündige",
-      "du": "kündigst",
-      "es": "kündigt",
-      "ihr": "kündigt",
-      "Sie": "kündigen"
-    },
-    "simple": {
-      "ich": "kündigte",
-      "du": "kündigtest",
-      "es": "kündigte",
-      "ihr": "kündigtet",
-      "Sie": "kündigten"
-    },
-    "imperative": {
-      "du": "kündig",
-      "ihr": "kündigt"
-    },
-    "perfect": "gekündigt",
-    "gerund": "kündigend",
-    "zuinfinitive": "zu kündigen",
-    "withSein": false,
-    "frequency": 0.0005400006750008462
-  },
-  {
-    "lemma": "User",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "user"
-      ],
-      "fr": [
-        "utilisateur",
-        "consommateur"
-      ]
-    },
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "User",
-        "plural": "User"
-      },
-      "accusative": {
-        "singular": "User",
-        "plural": "User"
-      },
-      "dative": {
-        "singular": "User",
-        "plural": "Usern"
-      },
-      "genitive": {
-        "singular": "Users",
-        "plural": "User"
-      }
-    },
-    "frequency": 0.0005400006750008462
-  },
-  {
-    "lemma": "versehen",
-    "type": "verb",
-    "translations": {
-      "en": [
-        "provide",
-        "supply",
-        "occupy",
-        "perform",
-        "be mistaken",
-        "expect"
-      ],
-      "fr": [
-        "munir",
-        "pourvoir",
-        "faire",
-        "tenir",
-        "se tromper",
-        "être préparé à quelque chose",
-        "oindre"
-      ]
-    },
-    "separable": false,
-    "superSeparable": false,
-    "modal": false,
-    "reflexive": false,
-    "present": {
-      "ich": "versehe",
-      "du": "versiehst",
-      "es": "versieht",
-      "ihr": "verseht",
-      "Sie": "versehen"
-    },
-    "simple": {
-      "ich": "versah",
-      "du": "versahst",
-      "es": "versah",
-      "ihr": "versaht",
-      "Sie": "versahen"
-    },
-    "imperative": {
-      "du": "versieh",
-      "ihr": "verseht"
-    },
-    "perfect": "versehen",
-    "gerund": "versehend",
-    "zuinfinitive": "zu versehen",
-    "withSein": false,
-    "frequency": 0.0005400006750008462
-  },
-  {
-    "lemma": "Westen",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "west",
-        "Western Germany",
-        "Mainland West"
-      ],
-      "fr": [
-        "ouest",
-        "l'Occident",
-        "l'Allemagne occidentale",
-        "Far West"
-      ]
-    },
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": true,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Westen",
-        "plural": null
-      },
-      "accusative": {
-        "singular": "Westen",
-        "plural": null
-      },
-      "dative": {
-        "singular": "Westen",
-        "plural": null
-      },
-      "genitive": {
-        "singular": "Westens",
-        "plural": null
-      }
-    },
-    "frequency": 0.0005400006750008462
-  },
-  {
-    "lemma": "aufheben",
-    "type": "verb",
-    "translations": {
-      "en": [
-        "pick up",
-        "abolish",
-        "keep"
-      ],
-      "fr": [
-        "ramasser",
-        "annuler",
-        "abroger",
-        "garder"
-      ]
-    },
-    "separable": true,
-    "superSeparable": false,
-    "modal": false,
-    "reflexive": false,
-    "present": {
-      "ich": "hebe auf",
-      "du": "hebst auf",
-      "es": "hebt auf",
-      "ihr": "hebt auf",
-      "Sie": "heben auf"
-    },
-    "simple": {
-      "ich": "hob auf",
-      "du": "hobst auf",
-      "es": "hob auf",
-      "ihr": "hobt auf",
-      "Sie": "hoben auf"
-    },
-    "imperative": {
-      "du": "heb auf",
-      "ihr": "hebt auf"
-    },
-    "perfect": "aufgehoben",
-    "gerund": "aufhebend",
-    "zuinfinitive": "aufzuheben",
-    "withSein": false,
-    "frequency": 0.0005387506734383443
-  },
-  {
-    "lemma": "aussetzen",
-    "type": "verb",
-    "translations": {
-      "en": [
-        "abandon",
-        "expose",
-        "maroon",
-        "subject",
-        "suspend",
-        "interrupt",
-        "offer",
-        "critize"
-      ],
-      "fr": [
-        "exposer à",
-        "interrompre",
-        "critiquer",
-        "s’exposer"
-      ]
-    },
-    "separable": true,
-    "superSeparable": false,
-    "modal": false,
-    "reflexive": false,
-    "present": {
-      "ich": "setze aus",
-      "du": "setzt aus",
-      "es": "setzt aus",
-      "ihr": "setzt aus",
-      "Sie": "setzen aus"
-    },
-    "simple": {
-      "ich": "setzte aus",
-      "du": "setztest aus",
-      "es": "setzte aus",
-      "ihr": "setztet aus",
-      "Sie": "setzten aus"
-    },
-    "imperative": {
-      "du": "setz aus",
-      "ihr": "setzt aus"
-    },
-    "perfect": "ausgesetzt",
-    "gerund": "aussetzend",
-    "zuinfinitive": "auszusetzen",
-    "withSein": false,
-    "frequency": 0.0005387506734383443
-  },
-  {
-    "lemma": "Frieden",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "peace"
-      ],
-      "fr": [
-        "paix",
-        "traité de paix"
-      ]
-    },
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Frieden",
-        "plural": "Frieden"
-      },
-      "accusative": {
-        "singular": "Frieden",
-        "plural": "Frieden"
-      },
-      "dative": {
-        "singular": "Frieden",
-        "plural": "Frieden"
-      },
-      "genitive": {
-        "singular": "Friedens",
-        "plural": "Frieden"
-      }
-    },
-    "frequency": 0.0005387506734383443
-  },
-  {
-    "lemma": "nett",
-    "type": "adjective",
-    "translations": {
-      "en": [
-        "nice",
-        "cute"
-      ],
-      "fr": [
-        "joli",
-        "sympa",
-        "gentil"
-      ]
-    },
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "notDeclinable": false,
-    "strong": {
-      "nominative": {
-        "m": "netter",
-        "f": "nette",
-        "n": "nettes",
-        "p": "nette"
-      },
-      "accusative": {
-        "m": "netten",
-        "f": "nette",
-        "n": "nettes",
-        "p": "nette"
-      },
-      "dative": {
-        "m": "nettem",
-        "f": "netter",
-        "n": "nettem",
-        "p": "netten"
-      },
-      "genitive": {
-        "m": "netten",
-        "f": "netter",
-        "n": "netten",
-        "p": "netter"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "nette",
-        "f": "nette",
-        "n": "nette",
-        "p": "netten"
-      },
-      "accusative": {
-        "m": "netten",
-        "f": "nette",
-        "n": "nette",
-        "p": "netten"
-      },
-      "dative": {
-        "m": "netten",
-        "f": "netten",
-        "n": "netten",
-        "p": "netten"
-      },
-      "genitive": {
-        "m": "netten",
-        "f": "netten",
-        "n": "netten",
-        "p": "netten"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "netter",
-        "f": "nette",
-        "n": "nettes",
-        "p": "netten"
-      },
-      "accusative": {
-        "m": "netten",
-        "f": "nette",
-        "n": "nettes",
-        "p": "netten"
-      },
-      "dative": {
-        "m": "netten",
-        "f": "netten",
-        "n": "netten",
-        "p": "netten"
-      },
-      "genitive": {
-        "m": "netten",
-        "f": "netten",
-        "n": "netten",
-        "p": "netten"
-      }
-    },
-    "frequency": 0.0005387506734383443,
-    "commonNouns": []
-  },
-  {
-    "lemma": "Volk",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "people",
-        "folk",
-        "population"
-      ],
-      "fr": [
-        "peuple",
-        "nation"
-      ]
-    },
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Volk",
-        "plural": "Völker"
-      },
-      "accusative": {
-        "singular": "Volk",
-        "plural": "Völker"
-      },
-      "dative": {
-        "singular": "Volke",
-        "plural": "Völkern"
-      },
-      "genitive": {
-        "singular": "Volkes",
-        "plural": "Völker"
-      }
-    },
-    "frequency": 0.0005387506734383443
-  },
-  {
-    "lemma": "ausüben",
-    "type": "verb",
-    "translations": {
-      "en": [
-        "exercise",
-        "perform",
-        "practise",
-        "exert"
-      ],
-      "fr": [
-        "exercer",
-        "faire pression"
-      ]
-    },
-    "separable": true,
-    "superSeparable": false,
-    "modal": false,
-    "reflexive": false,
-    "present": {
-      "ich": "übe aus",
-      "du": "übst aus",
-      "es": "übt aus",
-      "ihr": "übt aus",
-      "Sie": "üben aus"
-    },
-    "simple": {
-      "ich": "übte aus",
-      "du": "übtest aus",
-      "es": "übte aus",
-      "ihr": "übtet aus",
-      "Sie": "übten aus"
-    },
-    "imperative": {
-      "du": "übe aus",
-      "ihr": "übt aus"
-    },
-    "perfect": "ausgeübt",
-    "gerund": "ausübend",
-    "zuinfinitive": "auszuüben",
-    "withSein": false,
-    "frequency": 0.0005375006718758424
-  },
-  {
-    "lemma": "Haltung",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "posture",
-        "attitude",
-        "bearing",
-        "composure",
-        "breeding",
-        "cattle-breeding",
-        "stockbreeding"
-      ],
-      "fr": [
-        "maintien",
-        "pose",
-        "position",
-        "posture",
-        "station verticale",
-        "tenue",
-        "garde-à-vous",
-        "attitude",
-        "esprit",
-        "état moral",
-        "mentalité",
-        "conduite",
-        "contenance",
-        "empire sur soi-même",
-        "maîtrise de soi-même",
-        "élevage"
-      ]
-    },
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Haltung",
-        "plural": "Haltungen"
-      },
-      "accusative": {
-        "singular": "Haltung",
-        "plural": "Haltungen"
-      },
-      "dative": {
-        "singular": "Haltung",
-        "plural": "Haltungen"
-      },
-      "genitive": {
-        "singular": "Haltung",
-        "plural": "Haltungen"
-      }
-    },
-    "frequency": 0.0005375006718758424
-  },
-  {
-    "lemma": "link",
-    "type": "adjective",
-    "translations": {
-      "en": [
-        "left"
-      ],
-      "fr": []
-    },
-    "predicativeOnly": false,
-    "singularOnly": false,
-    "notDeclinable": false,
-    "strong": {
-      "nominative": {
-        "m": "linker",
-        "f": "linke",
-        "n": "linkes",
-        "p": "linke"
-      },
-      "accusative": {
-        "m": "linken",
-        "f": "linke",
-        "n": "linkes",
-        "p": "linke"
-      },
-      "dative": {
-        "m": "linkem",
-        "f": "linker",
-        "n": "linkem",
-        "p": "linken"
-      },
-      "genitive": {
-        "m": "linken",
-        "f": "linker",
-        "n": "linken",
-        "p": "linker"
-      }
-    },
-    "weak": {
-      "nominative": {
-        "m": "linke",
-        "f": "linke",
-        "n": "linke",
-        "p": "linken"
-      },
-      "accusative": {
-        "m": "linken",
-        "f": "linke",
-        "n": "linke",
-        "p": "linken"
-      },
-      "dative": {
-        "m": "linken",
-        "f": "linken",
-        "n": "linken",
-        "p": "linken"
-      },
-      "genitive": {
-        "m": "linken",
-        "f": "linken",
-        "n": "linken",
-        "p": "linken"
-      }
-    },
-    "mixed": {
-      "nominative": {
-        "m": "linker",
-        "f": "linke",
-        "n": "linkes",
-        "p": "linken"
-      },
-      "accusative": {
-        "m": "linken",
-        "f": "linke",
-        "n": "linkes",
-        "p": "linken"
-      },
-      "dative": {
-        "m": "linken",
-        "f": "linken",
-        "n": "linken",
-        "p": "linken"
-      },
-      "genitive": {
-        "m": "linken",
-        "f": "linken",
-        "n": "linken",
-        "p": "linken"
-      }
-    },
-    "frequency": 0.0005375006718758424,
-    "commonNouns": [
-      "Rot"
-    ]
-  },
-  {
-    "lemma": "Parlament",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "parliament"
-      ],
-      "fr": [
-        "parlement"
-      ]
-    },
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Parlament",
-        "plural": "Parlamente"
-      },
-      "accusative": {
-        "singular": "Parlament",
-        "plural": "Parlamente"
-      },
-      "dative": {
-        "singular": "Parlamente",
-        "plural": "Parlamenten"
-      },
-      "genitive": {
-        "singular": "Parlamentes",
-        "plural": "Parlamente"
-      }
-    },
-    "frequency": 0.0005375006718758424
-  },
-  {
-    "lemma": "Sanierung",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "redevelopment",
-        "remediation",
-        "renovation",
-        "rescue operation",
-        "turnaround"
-      ],
-      "fr": [
-        "assainissement",
-        "rénovation",
-        "redressement"
-      ]
-    },
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Sanierung",
-        "plural": "Sanierungen"
-      },
-      "accusative": {
-        "singular": "Sanierung",
-        "plural": "Sanierungen"
-      },
-      "dative": {
-        "singular": "Sanierung",
-        "plural": "Sanierungen"
-      },
-      "genitive": {
-        "singular": "Sanierung",
-        "plural": "Sanierungen"
-      }
-    },
-    "frequency": 0.0005375006718758424
-  },
-  {
-    "lemma": "Ton",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "clay"
-      ],
-      "fr": [
-        "argile"
-      ]
-    },
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Ton",
-        "plural": "Tone"
-      },
-      "accusative": {
-        "singular": "Ton",
-        "plural": "Tone"
-      },
-      "dative": {
-        "singular": "Tone",
-        "plural": "Tonen"
-      },
-      "genitive": {
-        "singular": "Tones",
-        "plural": "Tone"
-      }
-    },
-    "frequency": 0.0005375006718758424
-  },
-  {
-    "lemma": "Ton",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "sound",
-        "tone",
-        "shade",
-        "manners",
-        "attitude",
-        "intonation"
-      ],
-      "fr": [
-        "son",
-        "ton"
-      ]
-    },
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Ton",
-        "plural": "Töne"
-      },
-      "accusative": {
-        "singular": "Ton",
-        "plural": "Töne"
-      },
-      "dative": {
-        "singular": "Tone",
-        "plural": "Tönen"
-      },
-      "genitive": {
-        "singular": "Tones",
-        "plural": "Töne"
-      }
-    },
-    "frequency": 0.0005375006718758424
-  },
-  {
-    "lemma": "zurückgehen",
-    "type": "verb",
-    "translations": {
-      "en": [
-        "go back",
-        "return",
-        "decline",
-        "decrease",
-        "go down"
-      ],
-      "fr": [
-        "retourner",
-        "rentrer",
-        "diminuer",
-        "baisser",
-        "remonter"
-      ]
-    },
-    "separable": true,
-    "superSeparable": false,
-    "modal": false,
-    "reflexive": false,
-    "present": {
-      "ich": "gehe zurück",
-      "du": "gehst zurück",
-      "es": "geht zurück",
-      "ihr": "geht zurück",
-      "Sie": "gehen zurück"
-    },
-    "simple": {
-      "ich": "ging zurück",
-      "du": "gingst zurück",
-      "es": "ging zurück",
-      "ihr": "gingt zurück",
-      "Sie": "gingen zurück"
-    },
-    "imperative": {
-      "du": "geh zurück",
-      "ihr": "geht zurück"
-    },
-    "perfect": "zurückgegangen",
-    "gerund": "zurückgehend",
-    "zuinfinitive": "zurückzugehen",
-    "withSein": false,
-    "frequency": 0.0005375006718758424
-  },
-  {
-    "lemma": "Helfer",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "helper",
-        "assistant",
-        "help"
-      ],
-      "fr": [
-        "adjoint",
-        "aide",
-        "assistant",
-        "auxiliaire",
-        "collaborateur",
-        "second",
-        "secouriste",
-        "aides"
-      ]
-    },
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Helfer",
-        "plural": "Helfer"
-      },
-      "accusative": {
-        "singular": "Helfer",
-        "plural": "Helfer"
-      },
-      "dative": {
-        "singular": "Helfer",
-        "plural": "Helfern"
-      },
-      "genitive": {
-        "singular": "Helfers",
-        "plural": "Helfer"
-      }
-    },
-    "frequency": 0.0005362506703133405
-  },
-  {
-    "lemma": "Kollegin",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "colleague"
-      ],
-      "fr": [
-        "collègue"
-      ]
-    },
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Kollegin",
-        "plural": "Kolleginnen"
-      },
-      "accusative": {
-        "singular": "Kollegin",
-        "plural": "Kolleginnen"
-      },
-      "dative": {
-        "singular": "Kollegin",
-        "plural": "Kolleginnen"
-      },
-      "genitive": {
-        "singular": "Kollegin",
-        "plural": "Kolleginnen"
-      }
-    },
-    "frequency": 0.0005362506703133405
-  },
-  {
-    "lemma": "Zertifikat",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "certificate"
-      ],
-      "fr": [
-        "certificat"
-      ]
-    },
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Zertifikat",
-        "plural": "Zertifikate"
-      },
-      "accusative": {
-        "singular": "Zertifikat",
-        "plural": "Zertifikate"
-      },
-      "dative": {
-        "singular": "Zertifikate",
-        "plural": "Zertifikaten"
-      },
-      "genitive": {
-        "singular": "Zertifikates",
-        "plural": "Zertifikate"
-      }
-    },
-    "frequency": 0.0005362506703133405
-  },
-  {
     "lemma": "biologisch",
     "type": "adjective",
     "translations": {
@@ -2780,97 +1052,33 @@
     "type": "noun",
     "translations": {
       "en": [
+        "clamp",
+        "hayrick",
+        "haystack",
+        "hire",
+        "pile",
         "rent",
         "rentage",
         "rental",
-        "hire"
+        "rick",
+        "stack"
       ],
       "fr": [
-        "loyer",
         "bail",
         "bail à loyer",
-        "location"
-      ]
-    },
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Miete",
-        "plural": "Mieten"
-      },
-      "accusative": {
-        "singular": "Miete",
-        "plural": "Mieten"
-      },
-      "dative": {
-        "singular": "Miete",
-        "plural": "Mieten"
-      },
-      "genitive": {
-        "singular": "Miete",
-        "plural": "Mieten"
-      }
-    },
-    "frequency": 0.0005262506578133251
-  },
-  {
-    "lemma": "Miete",
-    "type": "noun",
-    "translations": {
-      "en": [],
-      "fr": []
-    },
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Miete",
-        "plural": "Mieten"
-      },
-      "accusative": {
-        "singular": "Miete",
-        "plural": "Mieten"
-      },
-      "dative": {
-        "singular": "Miete",
-        "plural": "Mieten"
-      },
-      "genitive": {
-        "singular": "Miete",
-        "plural": "Mieten"
-      }
-    },
-    "frequency": 0.0005262506578133251
-  },
-  {
-    "lemma": "Miete",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "clamp",
-        "pile",
-        "rick",
-        "stack",
-        "hayrick",
-        "haystack"
-      ],
-      "fr": [
-        "silo",
+        "location",
+        "loyer",
         "meule",
-        "pile",
-        "mule",
-        "stouque",
         "meule de foin",
         "moulange",
+        "mule",
+        "muleron",
         "mulon",
-        "veilloche",
+        "pile",
+        "silo",
+        "stouque",
         "vailloche",
-        "muleron"
+        "veilloche"
       ]
     },
     "gender": "f",
@@ -6179,49 +4387,16 @@
     "type": "noun",
     "translations": {
       "en": [
+        "cataract",
+        "glaucoma",
+        "leucoma",
         "starling",
         "starlings"
       ],
       "fr": [
-        "étourneau"
-      ]
-    },
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Star",
-        "plural": "Stare"
-      },
-      "accusative": {
-        "singular": "Star",
-        "plural": "Stare"
-      },
-      "dative": {
-        "singular": "Stare",
-        "plural": "Staren"
-      },
-      "genitive": {
-        "singular": "Stares",
-        "plural": "Stare"
-      }
-    },
-    "frequency": 0.0005050006312507924
-  },
-  {
-    "lemma": "Star",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "cataract",
-        "glaucoma",
-        "leucoma"
-      ],
-      "fr": [
         "cataracte",
-        "glaucome"
+        "glaucome",
+        "étourneau"
       ]
     },
     "gender": "m",
@@ -17778,43 +15953,9 @@
         "ball"
       ],
       "fr": [
+        "bal",
         "balle",
         "ballon"
-      ]
-    },
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Ball",
-        "plural": "Bälle"
-      },
-      "accusative": {
-        "singular": "Ball",
-        "plural": "Bälle"
-      },
-      "dative": {
-        "singular": "Balle",
-        "plural": "Bällen"
-      },
-      "genitive": {
-        "singular": "Balls",
-        "plural": "Bälle"
-      }
-    },
-    "frequency": 0.00044375055468819633
-  },
-  {
-    "lemma": "Ball",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "ball"
-      ],
-      "fr": [
-        "bal"
       ]
     },
     "gender": "m",
@@ -18352,45 +16493,13 @@
     "type": "noun",
     "translations": {
       "en": [
+        "board",
         "shelf"
       ],
       "fr": [
-        "étagère",
-        "bord"
+        "bord",
+        "étagère"
       ]
-    },
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Bord",
-        "plural": "Borde"
-      },
-      "accusative": {
-        "singular": "Bord",
-        "plural": "Borde"
-      },
-      "dative": {
-        "singular": "Bord",
-        "plural": "Borden"
-      },
-      "genitive": {
-        "singular": "Bordes",
-        "plural": "Borde"
-      }
-    },
-    "frequency": 0.0004400005500006904
-  },
-  {
-    "lemma": "Bord",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "board"
-      ],
-      "fr": []
     },
     "gender": "m",
     "noArticle": false,
@@ -22084,41 +20193,6 @@
       "fr": [
         "louer"
       ]
-    },
-    "separable": false,
-    "superSeparable": false,
-    "modal": false,
-    "reflexive": false,
-    "present": {
-      "ich": "miete",
-      "du": "mietest",
-      "es": "mietet",
-      "ihr": "mietet",
-      "Sie": "mieten"
-    },
-    "simple": {
-      "ich": "mietete",
-      "du": "mietetest",
-      "es": "mietete",
-      "ihr": "mietetet",
-      "Sie": "mieteten"
-    },
-    "imperative": {
-      "du": "miete",
-      "ihr": "mietet"
-    },
-    "perfect": "gemietet",
-    "gerund": "mietend",
-    "zuinfinitive": "zu mieten",
-    "withSein": false,
-    "frequency": 0.00042125052656316077
-  },
-  {
-    "lemma": "mieten",
-    "type": "verb",
-    "translations": {
-      "en": [],
-      "fr": []
     },
     "separable": false,
     "superSeparable": false,
@@ -27267,53 +25341,20 @@
     "type": "noun",
     "translations": {
       "en": [
-        "flight",
-        "escape"
-      ],
-      "fr": [
-        "fuite",
-        "déroute",
-        "évasion"
-      ]
-    },
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Flucht",
-        "plural": "Fluchten"
-      },
-      "accusative": {
-        "singular": "Flucht",
-        "plural": "Fluchten"
-      },
-      "dative": {
-        "singular": "Flucht",
-        "plural": "Fluchten"
-      },
-      "genitive": {
-        "singular": "Flucht",
-        "plural": "Fluchten"
-      }
-    },
-    "frequency": 0.0004000005000006272
-  },
-  {
-    "lemma": "Flucht",
-    "type": "noun",
-    "translations": {
-      "en": [
         "alignement",
-        "row",
-        "suite",
-        "enfilade"
-      ],
-      "fr": [
         "enfilade",
+        "escape",
+        "flight",
+        "row",
+        "suite"
+      ],
+      "fr": [
         "alignement",
-        "enfilade de pièces"
+        "déroute",
+        "enfilade",
+        "enfilade de pièces",
+        "fuite",
+        "évasion"
       ]
     },
     "gender": "f",
@@ -29989,45 +28030,14 @@
     "type": "noun",
     "translations": {
       "en": [
-        "squadron",
         "relay",
-        "season"
+        "season",
+        "squadron"
       ],
       "fr": [
         "escadron",
         "saison"
       ]
-    },
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Staffel",
-        "plural": "Staffeln"
-      },
-      "accusative": {
-        "singular": "Staffel",
-        "plural": "Staffeln"
-      },
-      "dative": {
-        "singular": "Staffel",
-        "plural": "Staffeln"
-      },
-      "genitive": {
-        "singular": "Staffel",
-        "plural": "Staffeln"
-      }
-    },
-    "frequency": 0.0003900004875006114
-  },
-  {
-    "lemma": "Staffel",
-    "type": "noun",
-    "translations": {
-      "en": [],
-      "fr": []
     },
     "gender": "m",
     "noArticle": false,
@@ -30671,50 +28681,18 @@
     "type": "noun",
     "translations": {
       "en": [
-        "notebook",
+        "booklet",
+        "haft",
+        "hilt",
         "issue",
-        "number",
-        "booklet"
+        "notebook",
+        "number"
       ],
       "fr": [
         "cahier",
         "livraison",
         "numéro"
       ]
-    },
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Heft",
-        "plural": "Hefte"
-      },
-      "accusative": {
-        "singular": "Heft",
-        "plural": "Hefte"
-      },
-      "dative": {
-        "singular": "Hefte",
-        "plural": "Heften"
-      },
-      "genitive": {
-        "singular": "Heftes",
-        "plural": "Hefte"
-      }
-    },
-    "frequency": 0.00038625048281310545
-  },
-  {
-    "lemma": "Heft",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "hilt",
-        "haft"
-      ],
-      "fr": []
     },
     "gender": "n",
     "noArticle": false,
@@ -32236,49 +30214,16 @@
     "type": "noun",
     "translations": {
       "en": [
-        "practices",
-        "vogue",
         "fashion",
+        "mode",
+        "practices",
         "style",
-        "mode"
+        "vogue"
       ],
       "fr": [
         "mode",
         "vogue"
       ]
-    },
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Mode",
-        "plural": "Moden"
-      },
-      "accusative": {
-        "singular": "Mode",
-        "plural": "Moden"
-      },
-      "dative": {
-        "singular": "Mode",
-        "plural": "Moden"
-      },
-      "genitive": {
-        "singular": "Mode",
-        "plural": "Moden"
-      }
-    },
-    "frequency": 0.00038125047656309755
-  },
-  {
-    "lemma": "Mode",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "mode"
-      ],
-      "fr": []
     },
     "gender": "m",
     "noArticle": false,
@@ -36579,6 +34524,7 @@
     "type": "noun",
     "translations": {
       "en": [
+        "golden age",
         "marriage",
         "wedding"
       ],
@@ -36587,39 +34533,6 @@
         "noce",
         "noces"
       ]
-    },
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Hochzeit",
-        "plural": "Hochzeiten"
-      },
-      "accusative": {
-        "singular": "Hochzeit",
-        "plural": "Hochzeiten"
-      },
-      "dative": {
-        "singular": "Hochzeit",
-        "plural": "Hochzeiten"
-      },
-      "genitive": {
-        "singular": "Hochzeit",
-        "plural": "Hochzeiten"
-      }
-    },
-    "frequency": 0.0003625004531255679
-  },
-  {
-    "lemma": "Hochzeit",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "golden age"
-      ],
-      "fr": []
     },
     "gender": "f",
     "noArticle": false,
@@ -38174,40 +36087,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "builder"
-      ],
-      "fr": []
-    },
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Bauer",
-        "plural": "Bauer"
-      },
-      "accusative": {
-        "singular": "Bauer",
-        "plural": "Bauer"
-      },
-      "dative": {
-        "singular": "Bauer",
-        "plural": "Bauern"
-      },
-      "genitive": {
-        "singular": "Bauers",
-        "plural": "Bauer"
-      }
-    },
-    "frequency": 0.00035750044687556
-  },
-  {
-    "lemma": "Bauer",
-    "type": "noun",
-    "translations": {
-      "en": [
         "bird cage",
+        "builder",
         "cage"
       ],
       "fr": [
@@ -48214,75 +46095,9 @@
         "mouse"
       ],
       "fr": [
-        "souris"
-      ]
-    },
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Maus",
-        "plural": "Mäuse"
-      },
-      "accusative": {
-        "singular": "Maus",
-        "plural": "Mäuse"
-      },
-      "dative": {
-        "singular": "Maus",
-        "plural": "Mäusen"
-      },
-      "genitive": {
-        "singular": "Maus",
-        "plural": "Mäuse"
-      }
-    },
-    "frequency": 0.0003275004093755126
-  },
-  {
-    "lemma": "Maus",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "mouse"
-      ],
-      "fr": [
-        "souris"
-      ]
-    },
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Maus",
-        "plural": "Mäuse"
-      },
-      "accusative": {
-        "singular": "Maus",
-        "plural": "Mäuse"
-      },
-      "dative": {
-        "singular": "Maus",
-        "plural": "Mäusen"
-      },
-      "genitive": {
-        "singular": "Maus",
-        "plural": "Mäuse"
-      }
-    },
-    "frequency": 0.0003275004093755126
-  },
-  {
-    "lemma": "Maus",
-    "type": "noun",
-    "translations": {
-      "en": [],
-      "fr": [
+        "muscle",
         "pognon",
+        "souris",
         "ticket"
       ]
     },
@@ -48311,85 +46126,20 @@
     "frequency": 0.0003275004093755126
   },
   {
-    "lemma": "Maus",
-    "type": "noun",
-    "translations": {
-      "en": [],
-      "fr": [
-        "muscle"
-      ]
-    },
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Maus",
-        "plural": "Mäuse"
-      },
-      "accusative": {
-        "singular": "Maus",
-        "plural": "Mäuse"
-      },
-      "dative": {
-        "singular": "Maus",
-        "plural": "Mäusen"
-      },
-      "genitive": {
-        "singular": "Maus",
-        "plural": "Mäuse"
-      }
-    },
-    "frequency": 0.0003275004093755126
-  },
-  {
     "lemma": "Tee",
     "type": "noun",
     "translations": {
       "en": [
+        "infusion",
         "tea",
         "tea plant",
-        "infusion"
-      ],
-      "fr": [
-        "thé",
-        "infusion"
-      ]
-    },
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Tee",
-        "plural": "Tees"
-      },
-      "accusative": {
-        "singular": "Tee",
-        "plural": "Tees"
-      },
-      "dative": {
-        "singular": "Tee",
-        "plural": "Tees"
-      },
-      "genitive": {
-        "singular": "Tees",
-        "plural": "Tees"
-      }
-    },
-    "frequency": 0.0003275004093755126
-  },
-  {
-    "lemma": "Tee",
-    "type": "noun",
-    "translations": {
-      "en": [
         "tee",
         "tee box"
       ],
-      "fr": []
+      "fr": [
+        "infusion",
+        "thé"
+      ]
     },
     "gender": "n",
     "noArticle": false,
@@ -50131,5 +47881,2726 @@
     },
     "frequency": 0.0003225004031255047,
     "commonNouns": []
+  },
+  {
+    "lemma": "beheben",
+    "type": "verb",
+    "translations": {
+      "en": [
+        "rectify",
+        "remedy",
+        "withdraw money"
+      ],
+      "fr": [
+        "réparer",
+        "résoudre",
+        "rectifier",
+        "remédier"
+      ]
+    },
+    "separable": false,
+    "superSeparable": false,
+    "modal": false,
+    "reflexive": false,
+    "present": {
+      "ich": "behebe",
+      "du": "behebst",
+      "es": "behebt",
+      "ihr": "behebt",
+      "Sie": "beheben"
+    },
+    "simple": {
+      "ich": "behob",
+      "du": "behobst",
+      "es": "behob",
+      "ihr": "behobt",
+      "Sie": "behoben"
+    },
+    "imperative": {
+      "du": "behebe",
+      "ihr": "behebt"
+    },
+    "perfect": "behoben",
+    "gerund": "behebend",
+    "zuinfinitive": "zu beheben",
+    "withSein": false,
+    "frequency": 0.0003225004031255047
+  },
+  {
+    "lemma": "bevorzugen",
+    "type": "verb",
+    "translations": {
+      "en": [
+        "prefer",
+        "favour"
+      ],
+      "fr": [
+        "préférer",
+        "favoriser"
+      ]
+    },
+    "separable": false,
+    "superSeparable": false,
+    "modal": false,
+    "reflexive": false,
+    "present": {
+      "ich": "bevorzuge",
+      "du": "bevorzugst",
+      "es": "bevorzugt",
+      "ihr": "bevorzugt",
+      "Sie": "bevorzugen"
+    },
+    "simple": {
+      "ich": "bevorzugte",
+      "du": "bevorzugtest",
+      "es": "bevorzugte",
+      "ihr": "bevorzugtet",
+      "Sie": "bevorzugten"
+    },
+    "imperative": {
+      "du": "bevorzuge",
+      "ihr": "bevorzugt"
+    },
+    "perfect": "bevorzugt",
+    "gerund": "bevorzugend",
+    "zuinfinitive": "zu bevorzugen",
+    "withSein": false,
+    "frequency": 0.0003225004031255047
+  },
+  {
+    "lemma": "Erholung",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "recovery"
+      ],
+      "fr": [
+        "repos",
+        "restauration"
+      ]
+    },
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": true,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Erholung",
+        "plural": null
+      },
+      "accusative": {
+        "singular": "Erholung",
+        "plural": null
+      },
+      "dative": {
+        "singular": "Erholung",
+        "plural": null
+      },
+      "genitive": {
+        "singular": "Erholung",
+        "plural": null
+      }
+    },
+    "frequency": 0.0003225004031255047
+  },
+  {
+    "lemma": "Kindertagesstätte",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "day care center"
+      ],
+      "fr": [
+        "crèche"
+      ]
+    },
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Kindertagesstätte",
+        "plural": "Kindertagesstätten"
+      },
+      "accusative": {
+        "singular": "Kindertagesstätte",
+        "plural": "Kindertagesstätten"
+      },
+      "dative": {
+        "singular": "Kindertagesstätte",
+        "plural": "Kindertagesstätten"
+      },
+      "genitive": {
+        "singular": "Kindertagesstätte",
+        "plural": "Kindertagesstätten"
+      }
+    },
+    "frequency": 0.0003225004031255047
+  },
+  {
+    "lemma": "östlich",
+    "type": "adjective",
+    "translations": {
+      "en": [
+        "eastern"
+      ],
+      "fr": [
+        "oriental"
+      ]
+    },
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "notDeclinable": false,
+    "strong": {
+      "nominative": {
+        "m": "östlicher",
+        "f": "östliche",
+        "n": "östliches",
+        "p": "östliche"
+      },
+      "accusative": {
+        "m": "östlichen",
+        "f": "östliche",
+        "n": "östliches",
+        "p": "östliche"
+      },
+      "dative": {
+        "m": "östlichem",
+        "f": "östlicher",
+        "n": "östlichem",
+        "p": "östlichen"
+      },
+      "genitive": {
+        "m": "östlichen",
+        "f": "östlicher",
+        "n": "östlichen",
+        "p": "östlicher"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "östliche",
+        "f": "östliche",
+        "n": "östliche",
+        "p": "östlichen"
+      },
+      "accusative": {
+        "m": "östlichen",
+        "f": "östliche",
+        "n": "östliche",
+        "p": "östlichen"
+      },
+      "dative": {
+        "m": "östlichen",
+        "f": "östlichen",
+        "n": "östlichen",
+        "p": "östlichen"
+      },
+      "genitive": {
+        "m": "östlichen",
+        "f": "östlichen",
+        "n": "östlichen",
+        "p": "östlichen"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "östlicher",
+        "f": "östliche",
+        "n": "östliches",
+        "p": "östlichen"
+      },
+      "accusative": {
+        "m": "östlichen",
+        "f": "östliche",
+        "n": "östliches",
+        "p": "östlichen"
+      },
+      "dative": {
+        "m": "östlichen",
+        "f": "östlichen",
+        "n": "östlichen",
+        "p": "östlichen"
+      },
+      "genitive": {
+        "m": "östlichen",
+        "f": "östlichen",
+        "n": "östlichen",
+        "p": "östlichen"
+      }
+    },
+    "frequency": 0.0003225004031255047,
+    "commonNouns": []
+  },
+  {
+    "lemma": "sanieren",
+    "type": "verb",
+    "translations": {
+      "en": [
+        "redevelop",
+        "put something back on an even keel",
+        "itself back on an even keel"
+      ],
+      "fr": [
+        "assainir",
+        "guérir",
+        "rétablir"
+      ]
+    },
+    "separable": false,
+    "superSeparable": false,
+    "modal": false,
+    "reflexive": false,
+    "present": {
+      "ich": "saniere",
+      "du": "sanierst",
+      "es": "saniert",
+      "ihr": "saniert",
+      "Sie": "sanieren"
+    },
+    "simple": {
+      "ich": "sanierte",
+      "du": "saniertest",
+      "es": "sanierte",
+      "ihr": "saniertet",
+      "Sie": "sanierten"
+    },
+    "imperative": {
+      "du": "sanier",
+      "ihr": "saniert"
+    },
+    "perfect": "saniert",
+    "gerund": "sanierend",
+    "zuinfinitive": "zu sanieren",
+    "withSein": false,
+    "frequency": 0.0003225004031255047
+  },
+  {
+    "lemma": "Staatsanwaltschaft",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "prosecution",
+        "public prosecutor's office"
+      ],
+      "fr": [
+        "ministère public",
+        "parquet"
+      ]
+    },
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Staatsanwaltschaft",
+        "plural": "Staatsanwaltschaften"
+      },
+      "accusative": {
+        "singular": "Staatsanwaltschaft",
+        "plural": "Staatsanwaltschaften"
+      },
+      "dative": {
+        "singular": "Staatsanwaltschaft",
+        "plural": "Staatsanwaltschaften"
+      },
+      "genitive": {
+        "singular": "Staatsanwaltschaft",
+        "plural": "Staatsanwaltschaften"
+      }
+    },
+    "frequency": 0.0003225004031255047
+  },
+  {
+    "lemma": "süß",
+    "type": "adjective",
+    "translations": {
+      "en": [
+        "sweet",
+        "cute"
+      ],
+      "fr": [
+        "doux",
+        "sucré",
+        "mignon"
+      ]
+    },
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "notDeclinable": false,
+    "strong": {
+      "nominative": {
+        "m": "süßer",
+        "f": "süße",
+        "n": "süßes",
+        "p": "süße"
+      },
+      "accusative": {
+        "m": "süßen",
+        "f": "süße",
+        "n": "süßes",
+        "p": "süße"
+      },
+      "dative": {
+        "m": "süßem",
+        "f": "süßer",
+        "n": "süßem",
+        "p": "süßen"
+      },
+      "genitive": {
+        "m": "süßen",
+        "f": "süßer",
+        "n": "süßen",
+        "p": "süßer"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "süße",
+        "f": "süße",
+        "n": "süße",
+        "p": "süßen"
+      },
+      "accusative": {
+        "m": "süßen",
+        "f": "süße",
+        "n": "süße",
+        "p": "süßen"
+      },
+      "dative": {
+        "m": "süßen",
+        "f": "süßen",
+        "n": "süßen",
+        "p": "süßen"
+      },
+      "genitive": {
+        "m": "süßen",
+        "f": "süßen",
+        "n": "süßen",
+        "p": "süßen"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "süßer",
+        "f": "süße",
+        "n": "süßes",
+        "p": "süßen"
+      },
+      "accusative": {
+        "m": "süßen",
+        "f": "süße",
+        "n": "süßes",
+        "p": "süßen"
+      },
+      "dative": {
+        "m": "süßen",
+        "f": "süßen",
+        "n": "süßen",
+        "p": "süßen"
+      },
+      "genitive": {
+        "m": "süßen",
+        "f": "süßen",
+        "n": "süßen",
+        "p": "süßen"
+      }
+    },
+    "comparative": "süßer",
+    "superlative": "süßesten",
+    "frequency": 0.0003225004031255047,
+    "commonNouns": []
+  },
+  {
+    "lemma": "vorschreiben",
+    "type": "verb",
+    "translations": {
+      "en": [
+        "enjoin",
+        "oblige",
+        "prescribe",
+        "stipulate"
+      ],
+      "fr": [
+        "prescrire"
+      ]
+    },
+    "separable": true,
+    "superSeparable": false,
+    "modal": false,
+    "reflexive": false,
+    "present": {
+      "ich": "schreibe vor",
+      "du": "schreibst vor",
+      "es": "schreibt vor",
+      "ihr": "schreibt vor",
+      "Sie": "schreiben vor"
+    },
+    "simple": {
+      "ich": "schrieb vor",
+      "du": "schriebst vor",
+      "es": "schrieb vor",
+      "ihr": "schriebt vor",
+      "Sie": "schrieben vor"
+    },
+    "imperative": {
+      "du": "schreib vor",
+      "ihr": "schreibt vor"
+    },
+    "perfect": "vorgeschrieben",
+    "gerund": "vorschreibend",
+    "zuinfinitive": "vorzuschreiben",
+    "withSein": false,
+    "frequency": 0.0003225004031255047
+  },
+  {
+    "lemma": "zugehen",
+    "type": "verb",
+    "translations": {
+      "en": [
+        "approach"
+      ],
+      "fr": [
+        "s’approcher",
+        "s'avancer",
+        "fermer"
+      ]
+    },
+    "separable": true,
+    "superSeparable": false,
+    "modal": false,
+    "reflexive": false,
+    "present": {
+      "ich": "gehe zu",
+      "du": "gehst zu",
+      "es": "geht zu",
+      "ihr": "geht zu",
+      "Sie": "gehen zu"
+    },
+    "simple": {
+      "ich": "ging zu",
+      "du": "gingst zu",
+      "es": "ging zu",
+      "ihr": "gingt zu",
+      "Sie": "gingen zu"
+    },
+    "imperative": {
+      "du": "geh zu",
+      "ihr": "geht zu"
+    },
+    "perfect": "zugegangen",
+    "gerund": "zugehend",
+    "zuinfinitive": "zuzugehen",
+    "withSein": false,
+    "frequency": 0.0003225004031255047
+  },
+  {
+    "lemma": "Anruf",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "phone call",
+        "call"
+      ],
+      "fr": [
+        "appel",
+        "appel téléphonique"
+      ]
+    },
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Anruf",
+        "plural": "Anrufe"
+      },
+      "accusative": {
+        "singular": "Anruf",
+        "plural": "Anrufe"
+      },
+      "dative": {
+        "singular": "Anruf",
+        "plural": "Anrufen"
+      },
+      "genitive": {
+        "singular": "Anrufs",
+        "plural": "Anrufe"
+      }
+    },
+    "frequency": 0.0003212504015630027
+  },
+  {
+    "lemma": "Arbeitsgemeinschaft",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "working group",
+        "workshop",
+        "team",
+        "working committee"
+      ],
+      "fr": [
+        "groupe de travail"
+      ]
+    },
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Arbeitsgemeinschaft",
+        "plural": "Arbeitsgemeinschaften"
+      },
+      "accusative": {
+        "singular": "Arbeitsgemeinschaft",
+        "plural": "Arbeitsgemeinschaften"
+      },
+      "dative": {
+        "singular": "Arbeitsgemeinschaft",
+        "plural": "Arbeitsgemeinschaften"
+      },
+      "genitive": {
+        "singular": "Arbeitsgemeinschaft",
+        "plural": "Arbeitsgemeinschaften"
+      }
+    },
+    "frequency": 0.0003212504015630027
+  },
+  {
+    "lemma": "aufteilen",
+    "type": "verb",
+    "translations": {
+      "en": [
+        "portion"
+      ],
+      "fr": [
+        "partager",
+        "diviser",
+        "partitionner"
+      ]
+    },
+    "separable": true,
+    "superSeparable": false,
+    "modal": false,
+    "reflexive": false,
+    "present": {
+      "ich": "teile auf",
+      "du": "teilst auf",
+      "es": "teilt auf",
+      "ihr": "teilt auf",
+      "Sie": "teilen auf"
+    },
+    "simple": {
+      "ich": "teilte auf",
+      "du": "teiltest auf",
+      "es": "teilte auf",
+      "ihr": "teiltet auf",
+      "Sie": "teilten auf"
+    },
+    "imperative": {
+      "du": "teil auf",
+      "ihr": "teilt auf"
+    },
+    "perfect": "aufgeteilt",
+    "gerund": "aufteilend",
+    "zuinfinitive": "aufzuteilen",
+    "withSein": false,
+    "frequency": 0.0003212504015630027
+  },
+  {
+    "lemma": "Blüte",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "blossom",
+        "flower",
+        "florescence",
+        "flowering time",
+        "bloom",
+        "dud",
+        "eczema"
+      ],
+      "fr": [
+        "fleur",
+        "exéma",
+        "eczéma"
+      ]
+    },
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Blüte",
+        "plural": "Blüten"
+      },
+      "accusative": {
+        "singular": "Blüte",
+        "plural": "Blüten"
+      },
+      "dative": {
+        "singular": "Blüte",
+        "plural": "Blüten"
+      },
+      "genitive": {
+        "singular": "Blüte",
+        "plural": "Blüten"
+      }
+    },
+    "frequency": 0.0003212504015630027
+  },
+  {
+    "lemma": "Flyer",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "flyer",
+        "leaflet"
+      ],
+      "fr": [
+        "tract",
+        "flyer"
+      ]
+    },
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Flyer",
+        "plural": "Flyer"
+      },
+      "accusative": {
+        "singular": "Flyer",
+        "plural": "Flyer"
+      },
+      "dative": {
+        "singular": "Flyer",
+        "plural": "Flyern"
+      },
+      "genitive": {
+        "singular": "Flyers",
+        "plural": "Flyer"
+      }
+    },
+    "frequency": 0.0003212504015630027
+  },
+  {
+    "lemma": "Heizung",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "heating"
+      ],
+      "fr": [
+        "chauffage"
+      ]
+    },
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Heizung",
+        "plural": "Heizungen"
+      },
+      "accusative": {
+        "singular": "Heizung",
+        "plural": "Heizungen"
+      },
+      "dative": {
+        "singular": "Heizung",
+        "plural": "Heizungen"
+      },
+      "genitive": {
+        "singular": "Heizung",
+        "plural": "Heizungen"
+      }
+    },
+    "frequency": 0.0003212504015630027
+  },
+  {
+    "lemma": "Künstlerin",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "artist"
+      ],
+      "fr": [
+        "artiste"
+      ]
+    },
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Künstlerin",
+        "plural": "Künstlerinnen"
+      },
+      "accusative": {
+        "singular": "Künstlerin",
+        "plural": "Künstlerinnen"
+      },
+      "dative": {
+        "singular": "Künstlerin",
+        "plural": "Künstlerinnen"
+      },
+      "genitive": {
+        "singular": "Künstlerin",
+        "plural": "Künstlerinnen"
+      }
+    },
+    "frequency": 0.0003212504015630027
+  },
+  {
+    "lemma": "Realschule",
+    "type": "noun",
+    "translations": {
+      "en": [],
+      "fr": [
+        "école secondaire"
+      ]
+    },
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Realschule",
+        "plural": "Realschulen"
+      },
+      "accusative": {
+        "singular": "Realschule",
+        "plural": "Realschulen"
+      },
+      "dative": {
+        "singular": "Realschule",
+        "plural": "Realschulen"
+      },
+      "genitive": {
+        "singular": "Realschule",
+        "plural": "Realschulen"
+      }
+    },
+    "frequency": 0.0003212504015630027
+  },
+  {
+    "lemma": "Schwäche",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "flaw",
+        "weakness"
+      ],
+      "fr": [
+        "faiblesse",
+        "faible"
+      ]
+    },
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Schwäche",
+        "plural": "Schwächen"
+      },
+      "accusative": {
+        "singular": "Schwäche",
+        "plural": "Schwächen"
+      },
+      "dative": {
+        "singular": "Schwäche",
+        "plural": "Schwächen"
+      },
+      "genitive": {
+        "singular": "Schwäche",
+        "plural": "Schwächen"
+      }
+    },
+    "frequency": 0.0003212504015630027
+  },
+  {
+    "lemma": "Sportart",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "sport",
+        "kind of sport"
+      ],
+      "fr": [
+        "discipline",
+        "discipline sportive"
+      ]
+    },
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Sportart",
+        "plural": "Sportarten"
+      },
+      "accusative": {
+        "singular": "Sportart",
+        "plural": "Sportarten"
+      },
+      "dative": {
+        "singular": "Sportart",
+        "plural": "Sportarten"
+      },
+      "genitive": {
+        "singular": "Sportart",
+        "plural": "Sportarten"
+      }
+    },
+    "frequency": 0.0003212504015630027
+  },
+  {
+    "lemma": "Betrachtung",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "viewing",
+        "contemplation"
+      ],
+      "fr": [
+        "considération",
+        "prise en compte"
+      ]
+    },
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Betrachtung",
+        "plural": "Betrachtungen"
+      },
+      "accusative": {
+        "singular": "Betrachtung",
+        "plural": "Betrachtungen"
+      },
+      "dative": {
+        "singular": "Betrachtung",
+        "plural": "Betrachtungen"
+      },
+      "genitive": {
+        "singular": "Betrachtung",
+        "plural": "Betrachtungen"
+      }
+    },
+    "frequency": 0.00032000040000050074
+  },
+  {
+    "lemma": "demonstrieren",
+    "type": "verb",
+    "translations": {
+      "en": [
+        "demonstrate"
+      ],
+      "fr": [
+        "démontrer"
+      ]
+    },
+    "separable": false,
+    "superSeparable": false,
+    "modal": false,
+    "reflexive": false,
+    "present": {
+      "ich": "demonstriere",
+      "du": "demonstrierst",
+      "es": "demonstriert",
+      "ihr": "demonstriert",
+      "Sie": "demonstrieren"
+    },
+    "simple": {
+      "ich": "demonstrierte",
+      "du": "demonstriertest",
+      "es": "demonstrierte",
+      "ihr": "demonstriertet",
+      "Sie": "demonstrierten"
+    },
+    "imperative": {
+      "du": "demonstriere",
+      "ihr": "demonstriert"
+    },
+    "perfect": "demonstriert",
+    "gerund": "demonstrierend",
+    "zuinfinitive": "zu demonstrieren",
+    "withSein": false,
+    "frequency": 0.00032000040000050074
+  },
+  {
+    "lemma": "europaweit",
+    "type": "adjective",
+    "translations": {
+      "en": [
+        "Europe-wide",
+        "pan-European"
+      ],
+      "fr": [
+        "dans toute l'Europe",
+        "à l'échelle de l'Europe"
+      ]
+    },
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "notDeclinable": false,
+    "strong": {
+      "nominative": {
+        "m": "europaweiter",
+        "f": "europaweite",
+        "n": "europaweites",
+        "p": "europaweite"
+      },
+      "accusative": {
+        "m": "europaweiten",
+        "f": "europaweite",
+        "n": "europaweites",
+        "p": "europaweite"
+      },
+      "dative": {
+        "m": "europaweitem",
+        "f": "europaweiter",
+        "n": "europaweitem",
+        "p": "europaweiten"
+      },
+      "genitive": {
+        "m": "europaweiten",
+        "f": "europaweiter",
+        "n": "europaweiten",
+        "p": "europaweiter"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "europaweite",
+        "f": "europaweite",
+        "n": "europaweite",
+        "p": "europaweiten"
+      },
+      "accusative": {
+        "m": "europaweiten",
+        "f": "europaweite",
+        "n": "europaweite",
+        "p": "europaweiten"
+      },
+      "dative": {
+        "m": "europaweiten",
+        "f": "europaweiten",
+        "n": "europaweiten",
+        "p": "europaweiten"
+      },
+      "genitive": {
+        "m": "europaweiten",
+        "f": "europaweiten",
+        "n": "europaweiten",
+        "p": "europaweiten"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "europaweiter",
+        "f": "europaweite",
+        "n": "europaweites",
+        "p": "europaweiten"
+      },
+      "accusative": {
+        "m": "europaweiten",
+        "f": "europaweite",
+        "n": "europaweites",
+        "p": "europaweiten"
+      },
+      "dative": {
+        "m": "europaweiten",
+        "f": "europaweiten",
+        "n": "europaweiten",
+        "p": "europaweiten"
+      },
+      "genitive": {
+        "m": "europaweiten",
+        "f": "europaweiten",
+        "n": "europaweiten",
+        "p": "europaweiten"
+      }
+    },
+    "frequency": 0.00032000040000050074,
+    "commonNouns": []
+  },
+  {
+    "lemma": "herausgeben",
+    "type": "verb",
+    "translations": {
+      "en": [
+        "hand over",
+        "give change",
+        "publish",
+        "release"
+      ],
+      "fr": [
+        "remettre",
+        "libérer",
+        "rendre",
+        "rendre la monnaie",
+        "éditer"
+      ]
+    },
+    "separable": true,
+    "superSeparable": false,
+    "modal": false,
+    "reflexive": false,
+    "present": {
+      "ich": "gebe heraus",
+      "du": "gibst heraus",
+      "es": "gibt heraus",
+      "ihr": "gebt heraus",
+      "Sie": "geben heraus"
+    },
+    "simple": {
+      "ich": "gab heraus",
+      "du": "gabst heraus",
+      "es": "gab heraus",
+      "ihr": "gabt heraus",
+      "Sie": "gaben heraus"
+    },
+    "imperative": {
+      "du": "gib heraus",
+      "ihr": "gebt heraus"
+    },
+    "perfect": "herausgegeben",
+    "gerund": "herausgebend",
+    "zuinfinitive": "herauszugeben",
+    "withSein": false,
+    "frequency": 0.00032000040000050074
+  },
+  {
+    "lemma": "restlich",
+    "type": "adjective",
+    "translations": {
+      "en": [
+        "remaining"
+      ],
+      "fr": [
+        "restant"
+      ]
+    },
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "notDeclinable": false,
+    "strong": {
+      "nominative": {
+        "m": "restlicher",
+        "f": "restliche",
+        "n": "restliches",
+        "p": "restliche"
+      },
+      "accusative": {
+        "m": "restlichen",
+        "f": "restliche",
+        "n": "restliches",
+        "p": "restliche"
+      },
+      "dative": {
+        "m": "restlichem",
+        "f": "restlicher",
+        "n": "restlichem",
+        "p": "restlichen"
+      },
+      "genitive": {
+        "m": "restlichen",
+        "f": "restlicher",
+        "n": "restlichen",
+        "p": "restlicher"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "restliche",
+        "f": "restliche",
+        "n": "restliche",
+        "p": "restlichen"
+      },
+      "accusative": {
+        "m": "restlichen",
+        "f": "restliche",
+        "n": "restliche",
+        "p": "restlichen"
+      },
+      "dative": {
+        "m": "restlichen",
+        "f": "restlichen",
+        "n": "restlichen",
+        "p": "restlichen"
+      },
+      "genitive": {
+        "m": "restlichen",
+        "f": "restlichen",
+        "n": "restlichen",
+        "p": "restlichen"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "restlicher",
+        "f": "restliche",
+        "n": "restliches",
+        "p": "restlichen"
+      },
+      "accusative": {
+        "m": "restlichen",
+        "f": "restliche",
+        "n": "restliches",
+        "p": "restlichen"
+      },
+      "dative": {
+        "m": "restlichen",
+        "f": "restlichen",
+        "n": "restlichen",
+        "p": "restlichen"
+      },
+      "genitive": {
+        "m": "restlichen",
+        "f": "restlichen",
+        "n": "restlichen",
+        "p": "restlichen"
+      }
+    },
+    "frequency": 0.00032000040000050074,
+    "commonNouns": []
+  },
+  {
+    "lemma": "spezialisiert",
+    "type": "adjective",
+    "translations": {
+      "en": [
+        "specialized",
+        "specialised"
+      ],
+      "fr": []
+    },
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "notDeclinable": false,
+    "strong": {
+      "nominative": {
+        "m": "spezialisierter",
+        "f": "spezialisierte",
+        "n": "spezialisiertes",
+        "p": "spezialisierte"
+      },
+      "accusative": {
+        "m": "spezialisierten",
+        "f": "spezialisierte",
+        "n": "spezialisiertes",
+        "p": "spezialisierte"
+      },
+      "dative": {
+        "m": "spezialisiertem",
+        "f": "spezialisierter",
+        "n": "spezialisiertem",
+        "p": "spezialisierten"
+      },
+      "genitive": {
+        "m": "spezialisierten",
+        "f": "spezialisierter",
+        "n": "spezialisierten",
+        "p": "spezialisierter"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "spezialisierte",
+        "f": "spezialisierte",
+        "n": "spezialisierte",
+        "p": "spezialisierten"
+      },
+      "accusative": {
+        "m": "spezialisierten",
+        "f": "spezialisierte",
+        "n": "spezialisierte",
+        "p": "spezialisierten"
+      },
+      "dative": {
+        "m": "spezialisierten",
+        "f": "spezialisierten",
+        "n": "spezialisierten",
+        "p": "spezialisierten"
+      },
+      "genitive": {
+        "m": "spezialisierten",
+        "f": "spezialisierten",
+        "n": "spezialisierten",
+        "p": "spezialisierten"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "spezialisierter",
+        "f": "spezialisierte",
+        "n": "spezialisiertes",
+        "p": "spezialisierten"
+      },
+      "accusative": {
+        "m": "spezialisierten",
+        "f": "spezialisierte",
+        "n": "spezialisiertes",
+        "p": "spezialisierten"
+      },
+      "dative": {
+        "m": "spezialisierten",
+        "f": "spezialisierten",
+        "n": "spezialisierten",
+        "p": "spezialisierten"
+      },
+      "genitive": {
+        "m": "spezialisierten",
+        "f": "spezialisierten",
+        "n": "spezialisierten",
+        "p": "spezialisierten"
+      }
+    },
+    "frequency": 0.00032000040000050074,
+    "commonNouns": []
+  },
+  {
+    "lemma": "vorübergehend",
+    "type": "adjective",
+    "translations": {
+      "en": [
+        "temporary",
+        "transient",
+        "passing"
+      ],
+      "fr": [
+        "éphémère",
+        "momentané",
+        "passager",
+        "provisoire",
+        "temporaire",
+        "transitoire"
+      ]
+    },
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "notDeclinable": false,
+    "strong": {
+      "nominative": {
+        "m": "vorübergehender",
+        "f": "vorübergehende",
+        "n": "vorübergehendes",
+        "p": "vorübergehende"
+      },
+      "accusative": {
+        "m": "vorübergehenden",
+        "f": "vorübergehende",
+        "n": "vorübergehendes",
+        "p": "vorübergehende"
+      },
+      "dative": {
+        "m": "vorübergehendem",
+        "f": "vorübergehender",
+        "n": "vorübergehendem",
+        "p": "vorübergehenden"
+      },
+      "genitive": {
+        "m": "vorübergehenden",
+        "f": "vorübergehender",
+        "n": "vorübergehenden",
+        "p": "vorübergehender"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "vorübergehende",
+        "f": "vorübergehende",
+        "n": "vorübergehende",
+        "p": "vorübergehenden"
+      },
+      "accusative": {
+        "m": "vorübergehenden",
+        "f": "vorübergehende",
+        "n": "vorübergehende",
+        "p": "vorübergehenden"
+      },
+      "dative": {
+        "m": "vorübergehenden",
+        "f": "vorübergehenden",
+        "n": "vorübergehenden",
+        "p": "vorübergehenden"
+      },
+      "genitive": {
+        "m": "vorübergehenden",
+        "f": "vorübergehenden",
+        "n": "vorübergehenden",
+        "p": "vorübergehenden"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "vorübergehender",
+        "f": "vorübergehende",
+        "n": "vorübergehendes",
+        "p": "vorübergehenden"
+      },
+      "accusative": {
+        "m": "vorübergehenden",
+        "f": "vorübergehende",
+        "n": "vorübergehendes",
+        "p": "vorübergehenden"
+      },
+      "dative": {
+        "m": "vorübergehenden",
+        "f": "vorübergehenden",
+        "n": "vorübergehenden",
+        "p": "vorübergehenden"
+      },
+      "genitive": {
+        "m": "vorübergehenden",
+        "f": "vorübergehenden",
+        "n": "vorübergehenden",
+        "p": "vorübergehenden"
+      }
+    },
+    "frequency": 0.00032000040000050074,
+    "commonNouns": []
+  },
+  {
+    "lemma": "Waffe",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "weapon",
+        "arm",
+        "talon"
+      ],
+      "fr": [
+        "arme"
+      ]
+    },
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Waffe",
+        "plural": "Waffen"
+      },
+      "accusative": {
+        "singular": "Waffe",
+        "plural": "Waffen"
+      },
+      "dative": {
+        "singular": "Waffe",
+        "plural": "Waffen"
+      },
+      "genitive": {
+        "singular": "Waffe",
+        "plural": "Waffen"
+      }
+    },
+    "frequency": 0.00032000040000050074
+  },
+  {
+    "lemma": "Wahrscheinlichkeit",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "probability",
+        "chance"
+      ],
+      "fr": [
+        "probabilité"
+      ]
+    },
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Wahrscheinlichkeit",
+        "plural": "Wahrscheinlichkeiten"
+      },
+      "accusative": {
+        "singular": "Wahrscheinlichkeit",
+        "plural": "Wahrscheinlichkeiten"
+      },
+      "dative": {
+        "singular": "Wahrscheinlichkeit",
+        "plural": "Wahrscheinlichkeiten"
+      },
+      "genitive": {
+        "singular": "Wahrscheinlichkeit",
+        "plural": "Wahrscheinlichkeiten"
+      }
+    },
+    "frequency": 0.00032000040000050074
+  },
+  {
+    "lemma": "aufwendig",
+    "type": "adjective",
+    "translations": {
+      "en": [
+        "costly",
+        "sumptuous",
+        "extensive",
+        "laborious",
+        "expensive",
+        "lavish"
+      ],
+      "fr": [
+        "dispendieux",
+        "coûteux",
+        "somptueux"
+      ]
+    },
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "notDeclinable": false,
+    "strong": {
+      "nominative": {
+        "m": "aufwendiger",
+        "f": "aufwendige",
+        "n": "aufwendiges",
+        "p": "aufwendige"
+      },
+      "accusative": {
+        "m": "aufwendigen",
+        "f": "aufwendige",
+        "n": "aufwendiges",
+        "p": "aufwendige"
+      },
+      "dative": {
+        "m": "aufwendigem",
+        "f": "aufwendiger",
+        "n": "aufwendigem",
+        "p": "aufwendigen"
+      },
+      "genitive": {
+        "m": "aufwendigen",
+        "f": "aufwendiger",
+        "n": "aufwendigen",
+        "p": "aufwendiger"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "aufwendige",
+        "f": "aufwendige",
+        "n": "aufwendige",
+        "p": "aufwendigen"
+      },
+      "accusative": {
+        "m": "aufwendigen",
+        "f": "aufwendige",
+        "n": "aufwendige",
+        "p": "aufwendigen"
+      },
+      "dative": {
+        "m": "aufwendigen",
+        "f": "aufwendigen",
+        "n": "aufwendigen",
+        "p": "aufwendigen"
+      },
+      "genitive": {
+        "m": "aufwendigen",
+        "f": "aufwendigen",
+        "n": "aufwendigen",
+        "p": "aufwendigen"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "aufwendiger",
+        "f": "aufwendige",
+        "n": "aufwendiges",
+        "p": "aufwendigen"
+      },
+      "accusative": {
+        "m": "aufwendigen",
+        "f": "aufwendige",
+        "n": "aufwendiges",
+        "p": "aufwendigen"
+      },
+      "dative": {
+        "m": "aufwendigen",
+        "f": "aufwendigen",
+        "n": "aufwendigen",
+        "p": "aufwendigen"
+      },
+      "genitive": {
+        "m": "aufwendigen",
+        "f": "aufwendigen",
+        "n": "aufwendigen",
+        "p": "aufwendigen"
+      }
+    },
+    "frequency": 0.00031875039843799876,
+    "commonNouns": []
+  },
+  {
+    "lemma": "ausgeprägt",
+    "type": "adjective",
+    "translations": {
+      "en": [
+        "pronounced",
+        "marked",
+        "distinct",
+        "distinctive"
+      ],
+      "fr": [
+        "prononcé",
+        "accusé",
+        "proéminent",
+        "marqué"
+      ]
+    },
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "notDeclinable": false,
+    "strong": {
+      "nominative": {
+        "m": "ausgeprägter",
+        "f": "ausgeprägte",
+        "n": "ausgeprägtes",
+        "p": "ausgeprägte"
+      },
+      "accusative": {
+        "m": "ausgeprägten",
+        "f": "ausgeprägte",
+        "n": "ausgeprägtes",
+        "p": "ausgeprägte"
+      },
+      "dative": {
+        "m": "ausgeprägtem",
+        "f": "ausgeprägter",
+        "n": "ausgeprägtem",
+        "p": "ausgeprägten"
+      },
+      "genitive": {
+        "m": "ausgeprägten",
+        "f": "ausgeprägter",
+        "n": "ausgeprägten",
+        "p": "ausgeprägter"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "ausgeprägte",
+        "f": "ausgeprägte",
+        "n": "ausgeprägte",
+        "p": "ausgeprägten"
+      },
+      "accusative": {
+        "m": "ausgeprägten",
+        "f": "ausgeprägte",
+        "n": "ausgeprägte",
+        "p": "ausgeprägten"
+      },
+      "dative": {
+        "m": "ausgeprägten",
+        "f": "ausgeprägten",
+        "n": "ausgeprägten",
+        "p": "ausgeprägten"
+      },
+      "genitive": {
+        "m": "ausgeprägten",
+        "f": "ausgeprägten",
+        "n": "ausgeprägten",
+        "p": "ausgeprägten"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "ausgeprägter",
+        "f": "ausgeprägte",
+        "n": "ausgeprägtes",
+        "p": "ausgeprägten"
+      },
+      "accusative": {
+        "m": "ausgeprägten",
+        "f": "ausgeprägte",
+        "n": "ausgeprägtes",
+        "p": "ausgeprägten"
+      },
+      "dative": {
+        "m": "ausgeprägten",
+        "f": "ausgeprägten",
+        "n": "ausgeprägten",
+        "p": "ausgeprägten"
+      },
+      "genitive": {
+        "m": "ausgeprägten",
+        "f": "ausgeprägten",
+        "n": "ausgeprägten",
+        "p": "ausgeprägten"
+      }
+    },
+    "frequency": 0.00031875039843799876,
+    "commonNouns": []
+  },
+  {
+    "lemma": "Aussteller",
+    "type": "noun",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Aussteller",
+        "plural": "Aussteller"
+      },
+      "accusative": {
+        "singular": "Aussteller",
+        "plural": "Aussteller"
+      },
+      "dative": {
+        "singular": "Aussteller",
+        "plural": "Ausstellern"
+      },
+      "genitive": {
+        "singular": "Ausstellers",
+        "plural": "Aussteller"
+      }
+    },
+    "frequency": 0.00031875039843799876
+  },
+  {
+    "lemma": "berufen",
+    "type": "verb",
+    "translations": {
+      "en": [
+        "appeal"
+      ],
+      "fr": [
+        "assigner",
+        "désigner",
+        "nommer",
+        "recomander",
+        "appuyer",
+        "faire appel",
+        "se prévaloir"
+      ]
+    },
+    "separable": false,
+    "superSeparable": false,
+    "modal": false,
+    "reflexive": false,
+    "present": {
+      "ich": "berufe",
+      "du": "berufst",
+      "es": "beruft",
+      "ihr": "beruft",
+      "Sie": "berufen"
+    },
+    "simple": {
+      "ich": "berief",
+      "du": "beriefst",
+      "es": "berief",
+      "ihr": "berieft",
+      "Sie": "beriefen"
+    },
+    "imperative": {
+      "du": "beruf",
+      "ihr": "beruft"
+    },
+    "perfect": "berufen",
+    "gerund": "berufend",
+    "zuinfinitive": "zu berufen",
+    "withSein": false,
+    "frequency": 0.00031875039843799876
+  },
+  {
+    "lemma": "friedlich",
+    "type": "adjective",
+    "translations": {
+      "en": [
+        "amicable",
+        "peaceful",
+        "pacific",
+        "placid"
+      ],
+      "fr": [
+        "paisible",
+        "pacifique"
+      ]
+    },
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "notDeclinable": false,
+    "strong": {
+      "nominative": {
+        "m": "friedlicher",
+        "f": "friedliche",
+        "n": "friedliches",
+        "p": "friedliche"
+      },
+      "accusative": {
+        "m": "friedlichen",
+        "f": "friedliche",
+        "n": "friedliches",
+        "p": "friedliche"
+      },
+      "dative": {
+        "m": "friedlichem",
+        "f": "friedlicher",
+        "n": "friedlichem",
+        "p": "friedlichen"
+      },
+      "genitive": {
+        "m": "friedlichen",
+        "f": "friedlicher",
+        "n": "friedlichen",
+        "p": "friedlicher"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "friedliche",
+        "f": "friedliche",
+        "n": "friedliche",
+        "p": "friedlichen"
+      },
+      "accusative": {
+        "m": "friedlichen",
+        "f": "friedliche",
+        "n": "friedliche",
+        "p": "friedlichen"
+      },
+      "dative": {
+        "m": "friedlichen",
+        "f": "friedlichen",
+        "n": "friedlichen",
+        "p": "friedlichen"
+      },
+      "genitive": {
+        "m": "friedlichen",
+        "f": "friedlichen",
+        "n": "friedlichen",
+        "p": "friedlichen"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "friedlicher",
+        "f": "friedliche",
+        "n": "friedliches",
+        "p": "friedlichen"
+      },
+      "accusative": {
+        "m": "friedlichen",
+        "f": "friedliche",
+        "n": "friedliches",
+        "p": "friedlichen"
+      },
+      "dative": {
+        "m": "friedlichen",
+        "f": "friedlichen",
+        "n": "friedlichen",
+        "p": "friedlichen"
+      },
+      "genitive": {
+        "m": "friedlichen",
+        "f": "friedlichen",
+        "n": "friedlichen",
+        "p": "friedlichen"
+      }
+    },
+    "frequency": 0.00031875039843799876,
+    "commonNouns": [
+      "Zuhause",
+      "Zusammenleben"
+    ]
+  },
+  {
+    "lemma": "Griff",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "handle",
+        "grip"
+      ],
+      "fr": [
+        "poignée",
+        "geste"
+      ]
+    },
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Griff",
+        "plural": "Griffe"
+      },
+      "accusative": {
+        "singular": "Griff",
+        "plural": "Griffe"
+      },
+      "dative": {
+        "singular": "Griffe",
+        "plural": "Griffen"
+      },
+      "genitive": {
+        "singular": "Griffs",
+        "plural": "Griffe"
+      }
+    },
+    "frequency": 0.00031875039843799876
+  },
+  {
+    "lemma": "Satzung",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "statute"
+      ],
+      "fr": [
+        "statut"
+      ]
+    },
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Satzung",
+        "plural": "Satzungen"
+      },
+      "accusative": {
+        "singular": "Satzung",
+        "plural": "Satzungen"
+      },
+      "dative": {
+        "singular": "Satzung",
+        "plural": "Satzungen"
+      },
+      "genitive": {
+        "singular": "Satzung",
+        "plural": "Satzungen"
+      }
+    },
+    "frequency": 0.00031875039843799876
+  },
+  {
+    "lemma": "schlafen",
+    "type": "verb",
+    "translations": {
+      "en": [
+        "sleep",
+        "stay at someones place",
+        "stay over night",
+        "stay the night"
+      ],
+      "fr": [
+        "dormir",
+        "passer la nuit",
+        "coucher"
+      ]
+    },
+    "separable": false,
+    "superSeparable": false,
+    "modal": false,
+    "reflexive": false,
+    "present": {
+      "ich": "schlafe",
+      "du": "schläfst",
+      "es": "schläft",
+      "ihr": "schlaft",
+      "Sie": "schlafen"
+    },
+    "simple": {
+      "ich": "schlief",
+      "du": "schliefst",
+      "es": "schlief",
+      "ihr": "schlieft",
+      "Sie": "schliefen"
+    },
+    "imperative": {
+      "du": "schlaf",
+      "ihr": "schlaft"
+    },
+    "perfect": "geschlafen",
+    "gerund": "schlafend",
+    "zuinfinitive": "zu schlafen",
+    "withSein": false,
+    "frequency": 0.00031875039843799876
+  },
+  {
+    "lemma": "verbergen",
+    "type": "verb",
+    "translations": {
+      "en": [
+        "hide",
+        "conceal",
+        "suppress"
+      ],
+      "fr": [
+        "se cacher",
+        "cacher",
+        "masquer",
+        "voiler",
+        "deguiser"
+      ]
+    },
+    "separable": false,
+    "superSeparable": false,
+    "modal": false,
+    "reflexive": false,
+    "present": {
+      "ich": "verberge",
+      "du": "verbirgst",
+      "es": "verbirgt",
+      "ihr": "verbergt",
+      "Sie": "verbergen"
+    },
+    "simple": {
+      "ich": "verbarg",
+      "du": "verbargst",
+      "es": "verbarg",
+      "ihr": "verbargt",
+      "Sie": "verbargen"
+    },
+    "imperative": {
+      "du": "verbirg",
+      "ihr": "verbergt"
+    },
+    "perfect": "verborgen",
+    "gerund": "verbergend",
+    "zuinfinitive": "zu verbergen",
+    "withSein": false,
+    "frequency": 0.00031875039843799876
+  },
+  {
+    "lemma": "vertreiben",
+    "type": "verb",
+    "translations": {
+      "en": [
+        "expel",
+        "banish",
+        "drive away",
+        "market",
+        "distribute"
+      ],
+      "fr": [
+        "expulser",
+        "distribuer"
+      ]
+    },
+    "separable": false,
+    "superSeparable": false,
+    "modal": false,
+    "reflexive": false,
+    "present": {
+      "ich": "vertreibe",
+      "du": "vertreibst",
+      "es": "vertreibt",
+      "ihr": "vertreibt",
+      "Sie": "vertreiben"
+    },
+    "simple": {
+      "ich": "vertrieb",
+      "du": "vertriebst",
+      "es": "vertrieb",
+      "ihr": "vertriebt",
+      "Sie": "vertrieben"
+    },
+    "imperative": {
+      "du": "vertreibe",
+      "ihr": "vertreibt"
+    },
+    "perfect": "vertrieben",
+    "gerund": "vertreibend",
+    "zuinfinitive": "zu vertreiben",
+    "withSein": false,
+    "frequency": 0.00031875039843799876
+  },
+  {
+    "lemma": "vollkommen",
+    "type": "adjective",
+    "translations": {
+      "en": [
+        "absolute",
+        "perfect",
+        "complete"
+      ],
+      "fr": [
+        "parfait",
+        "complètement"
+      ]
+    },
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "notDeclinable": false,
+    "strong": {
+      "nominative": {
+        "m": "vollkommener",
+        "f": "vollkommene",
+        "n": "vollkommenes",
+        "p": "vollkommene"
+      },
+      "accusative": {
+        "m": "vollkommenen",
+        "f": "vollkommene",
+        "n": "vollkommenes",
+        "p": "vollkommene"
+      },
+      "dative": {
+        "m": "vollkommenem",
+        "f": "vollkommener",
+        "n": "vollkommenem",
+        "p": "vollkommenen"
+      },
+      "genitive": {
+        "m": "vollkommenen",
+        "f": "vollkommener",
+        "n": "vollkommenen",
+        "p": "vollkommener"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "vollkommene",
+        "f": "vollkommene",
+        "n": "vollkommene",
+        "p": "vollkommenen"
+      },
+      "accusative": {
+        "m": "vollkommenen",
+        "f": "vollkommene",
+        "n": "vollkommene",
+        "p": "vollkommenen"
+      },
+      "dative": {
+        "m": "vollkommenen",
+        "f": "vollkommenen",
+        "n": "vollkommenen",
+        "p": "vollkommenen"
+      },
+      "genitive": {
+        "m": "vollkommenen",
+        "f": "vollkommenen",
+        "n": "vollkommenen",
+        "p": "vollkommenen"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "vollkommener",
+        "f": "vollkommene",
+        "n": "vollkommenes",
+        "p": "vollkommenen"
+      },
+      "accusative": {
+        "m": "vollkommenen",
+        "f": "vollkommene",
+        "n": "vollkommenes",
+        "p": "vollkommenen"
+      },
+      "dative": {
+        "m": "vollkommenen",
+        "f": "vollkommenen",
+        "n": "vollkommenen",
+        "p": "vollkommenen"
+      },
+      "genitive": {
+        "m": "vollkommenen",
+        "f": "vollkommenen",
+        "n": "vollkommenen",
+        "p": "vollkommenen"
+      }
+    },
+    "frequency": 0.00031875039843799876,
+    "commonNouns": [
+      "Recht",
+      "Recht"
+    ]
+  },
+  {
+    "lemma": "Zertifizierung",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "certification"
+      ],
+      "fr": []
+    },
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Zertifizierung",
+        "plural": "Zertifizierungen"
+      },
+      "accusative": {
+        "singular": "Zertifizierung",
+        "plural": "Zertifizierungen"
+      },
+      "dative": {
+        "singular": "Zertifizierung",
+        "plural": "Zertifizierungen"
+      },
+      "genitive": {
+        "singular": "Zertifizierung",
+        "plural": "Zertifizierungen"
+      }
+    },
+    "frequency": 0.00031875039843799876
+  },
+  {
+    "lemma": "Algorithmus",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "algorithm"
+      ],
+      "fr": [
+        "algorithme"
+      ]
+    },
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Algorithmus",
+        "plural": "Algorithmen"
+      },
+      "accusative": {
+        "singular": "Algorithmus",
+        "plural": "Algorithmen"
+      },
+      "dative": {
+        "singular": "Algorithmus",
+        "plural": "Algorithmen"
+      },
+      "genitive": {
+        "singular": "Algorithmus",
+        "plural": "Algorithmen"
+      }
+    },
+    "frequency": 0.0003175003968754968
+  },
+  {
+    "lemma": "Anhänger",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "trailer",
+        "pendant",
+        "label",
+        "follower",
+        "supporter"
+      ],
+      "fr": [
+        "remorque",
+        "pendentif",
+        "étiquette",
+        "partisan",
+        "supporter",
+        "tenant",
+        "adepte"
+      ]
+    },
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Anhänger",
+        "plural": "Anhänger"
+      },
+      "accusative": {
+        "singular": "Anhänger",
+        "plural": "Anhänger"
+      },
+      "dative": {
+        "singular": "Anhänger",
+        "plural": "Anhängern"
+      },
+      "genitive": {
+        "singular": "Anhängers",
+        "plural": "Anhänger"
+      }
+    },
+    "frequency": 0.0003175003968754968
+  },
+  {
+    "lemma": "bedenken",
+    "type": "verb",
+    "translations": {
+      "en": [
+        "consider",
+        "give",
+        "reflect"
+      ],
+      "fr": [
+        "réfléchir",
+        "considérer",
+        "pondérer"
+      ]
+    },
+    "separable": false,
+    "superSeparable": false,
+    "modal": false,
+    "reflexive": false,
+    "present": {
+      "ich": "bedenke",
+      "du": "bedenkst",
+      "es": "bedenkt",
+      "ihr": "bedenkt",
+      "Sie": "bedenken"
+    },
+    "simple": {
+      "ich": "bedachte",
+      "du": "bedachtest",
+      "es": "bedachte",
+      "ihr": "bedachtet",
+      "Sie": "bedachten"
+    },
+    "imperative": {
+      "du": "bedenke",
+      "ihr": "bedenkt"
+    },
+    "perfect": "bedacht",
+    "gerund": "bedenkend",
+    "zuinfinitive": "zu bedenken",
+    "withSein": false,
+    "frequency": 0.0003175003968754968
+  },
+  {
+    "lemma": "Effizienz",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "efficiency"
+      ],
+      "fr": [
+        "efficacité",
+        "efficience"
+      ]
+    },
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Effizienz",
+        "plural": "Effizienzen"
+      },
+      "accusative": {
+        "singular": "Effizienz",
+        "plural": "Effizienzen"
+      },
+      "dative": {
+        "singular": "Effizienz",
+        "plural": "Effizienzen"
+      },
+      "genitive": {
+        "singular": "Effizienz",
+        "plural": "Effizienzen"
+      }
+    },
+    "frequency": 0.0003175003968754968
+  },
+  {
+    "lemma": "ehren",
+    "type": "verb",
+    "translations": {
+      "en": [
+        "honor"
+      ],
+      "fr": [
+        "honorer"
+      ]
+    },
+    "separable": false,
+    "superSeparable": false,
+    "modal": false,
+    "reflexive": false,
+    "present": {
+      "ich": "ehre",
+      "du": "ehrst",
+      "es": "ehrt",
+      "ihr": "ehrt",
+      "Sie": "ehren"
+    },
+    "simple": {
+      "ich": "ehrte",
+      "du": "ehrtest",
+      "es": "ehrte",
+      "ihr": "ehrtet",
+      "Sie": "ehrten"
+    },
+    "imperative": {
+      "du": "ehre",
+      "ihr": "ehrt"
+    },
+    "perfect": "geehrt",
+    "gerund": "ehrend",
+    "zuinfinitive": "zu ehren",
+    "withSein": false,
+    "frequency": 0.0003175003968754968
+  },
+  {
+    "lemma": "Mission",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "mission"
+      ],
+      "fr": []
+    },
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Mission",
+        "plural": "Missionen"
+      },
+      "accusative": {
+        "singular": "Mission",
+        "plural": "Missionen"
+      },
+      "dative": {
+        "singular": "Mission",
+        "plural": "Missionen"
+      },
+      "genitive": {
+        "singular": "Mission",
+        "plural": "Missionen"
+      }
+    },
+    "frequency": 0.0003175003968754968
+  },
+  {
+    "lemma": "Zuständigkeit",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "responsibility",
+        "competence"
+      ],
+      "fr": [
+        "responsabilité",
+        "compétence"
+      ]
+    },
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Zuständigkeit",
+        "plural": "Zuständigkeiten"
+      },
+      "accusative": {
+        "singular": "Zuständigkeit",
+        "plural": "Zuständigkeiten"
+      },
+      "dative": {
+        "singular": "Zuständigkeit",
+        "plural": "Zuständigkeiten"
+      },
+      "genitive": {
+        "singular": "Zuständigkeit",
+        "plural": "Zuständigkeiten"
+      }
+    },
+    "frequency": 0.0003175003968754968
+  },
+  {
+    "lemma": "Auffassung",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "concept",
+        "perception",
+        "view",
+        "understanding"
+      ],
+      "fr": [
+        "conception",
+        "avis",
+        "intelligence"
+      ]
+    },
+    "gender": "f",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Auffassung",
+        "plural": "Auffassungen"
+      },
+      "accusative": {
+        "singular": "Auffassung",
+        "plural": "Auffassungen"
+      },
+      "dative": {
+        "singular": "Auffassung",
+        "plural": "Auffassungen"
+      },
+      "genitive": {
+        "singular": "Auffassung",
+        "plural": "Auffassungen"
+      }
+    },
+    "frequency": 0.0003162503953129948
+  },
+  {
+    "lemma": "baulich",
+    "type": "adjective",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "notDeclinable": false,
+    "strong": {
+      "nominative": {
+        "m": "baulicher",
+        "f": "bauliche",
+        "n": "bauliches",
+        "p": "bauliche"
+      },
+      "accusative": {
+        "m": "baulichen",
+        "f": "bauliche",
+        "n": "bauliches",
+        "p": "bauliche"
+      },
+      "dative": {
+        "m": "baulichem",
+        "f": "baulicher",
+        "n": "baulichem",
+        "p": "baulichen"
+      },
+      "genitive": {
+        "m": "baulichen",
+        "f": "baulicher",
+        "n": "baulichen",
+        "p": "baulicher"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "bauliche",
+        "f": "bauliche",
+        "n": "bauliche",
+        "p": "baulichen"
+      },
+      "accusative": {
+        "m": "baulichen",
+        "f": "bauliche",
+        "n": "bauliche",
+        "p": "baulichen"
+      },
+      "dative": {
+        "m": "baulichen",
+        "f": "baulichen",
+        "n": "baulichen",
+        "p": "baulichen"
+      },
+      "genitive": {
+        "m": "baulichen",
+        "f": "baulichen",
+        "n": "baulichen",
+        "p": "baulichen"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "baulicher",
+        "f": "bauliche",
+        "n": "bauliches",
+        "p": "baulichen"
+      },
+      "accusative": {
+        "m": "baulichen",
+        "f": "bauliche",
+        "n": "bauliches",
+        "p": "baulichen"
+      },
+      "dative": {
+        "m": "baulichen",
+        "f": "baulichen",
+        "n": "baulichen",
+        "p": "baulichen"
+      },
+      "genitive": {
+        "m": "baulichen",
+        "f": "baulichen",
+        "n": "baulichen",
+        "p": "baulichen"
+      }
+    },
+    "frequency": 0.0003162503953129948,
+    "commonNouns": []
+  },
+  {
+    "lemma": "etabliert",
+    "type": "adjective",
+    "translations": {
+      "en": [
+        "established"
+      ],
+      "fr": [
+        "établi",
+        "reconnu",
+        "accepté"
+      ]
+    },
+    "predicativeOnly": false,
+    "singularOnly": false,
+    "notDeclinable": false,
+    "strong": {
+      "nominative": {
+        "m": "etablierter",
+        "f": "etablierte",
+        "n": "etabliertes",
+        "p": "etablierte"
+      },
+      "accusative": {
+        "m": "etablierten",
+        "f": "etablierte",
+        "n": "etabliertes",
+        "p": "etablierte"
+      },
+      "dative": {
+        "m": "etabliertem",
+        "f": "etablierter",
+        "n": "etabliertem",
+        "p": "etablierten"
+      },
+      "genitive": {
+        "m": "etablierten",
+        "f": "etablierter",
+        "n": "etablierten",
+        "p": "etablierter"
+      }
+    },
+    "weak": {
+      "nominative": {
+        "m": "etablierte",
+        "f": "etablierte",
+        "n": "etablierte",
+        "p": "etablierten"
+      },
+      "accusative": {
+        "m": "etablierten",
+        "f": "etablierte",
+        "n": "etablierte",
+        "p": "etablierten"
+      },
+      "dative": {
+        "m": "etablierten",
+        "f": "etablierten",
+        "n": "etablierten",
+        "p": "etablierten"
+      },
+      "genitive": {
+        "m": "etablierten",
+        "f": "etablierten",
+        "n": "etablierten",
+        "p": "etablierten"
+      }
+    },
+    "mixed": {
+      "nominative": {
+        "m": "etablierter",
+        "f": "etablierte",
+        "n": "etabliertes",
+        "p": "etablierten"
+      },
+      "accusative": {
+        "m": "etablierten",
+        "f": "etablierte",
+        "n": "etabliertes",
+        "p": "etablierten"
+      },
+      "dative": {
+        "m": "etablierten",
+        "f": "etablierten",
+        "n": "etablierten",
+        "p": "etablierten"
+      },
+      "genitive": {
+        "m": "etablierten",
+        "f": "etablierten",
+        "n": "etablierten",
+        "p": "etablierten"
+      }
+    },
+    "frequency": 0.0003162503953129948,
+    "commonNouns": [
+      "Methode"
+    ]
+  },
+  {
+    "lemma": "Förderverein",
+    "type": "noun",
+    "translations": {
+      "en": [],
+      "fr": [
+        "association de soutien"
+      ]
+    },
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Förderverein",
+        "plural": "Fördervereine"
+      },
+      "accusative": {
+        "singular": "Förderverein",
+        "plural": "Fördervereine"
+      },
+      "dative": {
+        "singular": "Fördervereine",
+        "plural": "Fördervereinen"
+      },
+      "genitive": {
+        "singular": "Fördervereins",
+        "plural": "Fördervereine"
+      }
+    },
+    "frequency": 0.0003162503953129948
   }
 ]
