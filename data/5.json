@@ -4,13 +4,13 @@
     "type": "adjective",
     "translations": {
       "en": [
-        "radioactive",
-        "radiant",
         "beaming",
-        "glorious",
         "bright",
-        "vivid",
-        "refulgent"
+        "glorious",
+        "radiant",
+        "radioactive",
+        "refulgent",
+        "vivid"
       ],
       "fr": []
     },
@@ -340,9 +340,9 @@
     "type": "adjective",
     "translations": {
       "en": [
+        "mostly",
         "wide",
-        "widely",
-        "mostly"
+        "widely"
       ],
       "fr": [
         "considérable",
@@ -576,12 +576,12 @@
     "translations": {
       "en": [
         "acquaintance",
-        "friend",
-        "boyfriend"
+        "boyfriend",
+        "friend"
       ],
       "fr": [
-        "copain",
-        "connaissance"
+        "connaissance",
+        "copain"
       ]
     },
     "gender": "m",
@@ -613,15 +613,15 @@
     "type": "noun",
     "translations": {
       "en": [
-        "reduction",
-        "relief",
         "ease",
         "facilitation",
-        "facility"
+        "facility",
+        "reduction",
+        "relief"
       ],
       "fr": [
-        "soulagement",
-        "allègement"
+        "allègement",
+        "soulagement"
       ]
     },
     "gender": "f",
@@ -816,8 +816,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "gulf",
-        "Golf"
+        "Golf",
+        "gulf"
       ],
       "fr": [
         "golfe"
@@ -924,8 +924,8 @@
     "translations": {
       "en": [
         "sweep",
-        "turn",
-        "take care of"
+        "take care of",
+        "turn"
       ],
       "fr": [
         "balayer",
@@ -1002,10 +1002,10 @@
     "type": "noun",
     "translations": {
       "en": [
-        "body",
-        "trunk",
         "belly",
-        "stomach"
+        "body",
+        "stomach",
+        "trunk"
       ],
       "fr": [
         "corps",
@@ -1180,12 +1180,12 @@
     "translations": {
       "en": [
         "Paradise",
-        "paradise",
-        "narthex"
+        "narthex",
+        "paradise"
       ],
       "fr": [
-        "paradis",
-        "narthex"
+        "narthex",
+        "paradis"
       ]
     },
     "gender": "n",
@@ -1248,8 +1248,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "property damage",
-        "material damage"
+        "material damage",
+        "property damage"
       ],
       "fr": [
         "dégâts matériels"
@@ -1288,8 +1288,8 @@
         "splint"
       ],
       "fr": [
-        "rail",
-        "attelle"
+        "attelle",
+        "rail"
       ]
     },
     "gender": "f",
@@ -1592,8 +1592,8 @@
         "affable"
       ],
       "fr": [
-        "sympathique",
-        "sympa"
+        "sympa",
+        "sympathique"
       ]
     },
     "predicativeOnly": false,
@@ -1724,10 +1724,10 @@
         "lingerie"
       ],
       "fr": [
-        "linge",
+        "blanchiment",
         "lavage",
         "lessive",
-        "blanchiment",
+        "linge",
         "sous-vêtement féminin"
       ]
     },
@@ -1760,10 +1760,10 @@
     "type": "verb",
     "translations": {
       "en": [
+        "conjure up",
         "do magic",
-        "perform magic",
         "do magic tricks",
-        "conjure up"
+        "perform magic"
       ],
       "fr": [
         "faire de la magie"
@@ -1803,18 +1803,18 @@
     "translations": {
       "en": [
         "arrangement",
-        "compilation",
-        "composition",
-        "list",
-        "combination",
-        "compiling",
         "arranging",
+        "assembling",
+        "combination",
+        "compilation",
+        "compiling",
+        "composition",
         "drafting",
-        "assembling"
+        "list"
       ],
       "fr": [
-        "regroupement",
-        "compilation"
+        "compilation",
+        "regroupement"
       ]
     },
     "gender": "f",
@@ -1880,13 +1880,13 @@
     "type": "verb",
     "translations": {
       "en": [
-        "notice",
-        "observe",
+        "comment",
         "mark",
+        "mention",
         "note",
         "note down",
-        "comment",
-        "mention",
+        "notice",
+        "observe",
         "remark"
       ],
       "fr": []
@@ -1996,13 +1996,13 @@
     "translations": {
       "en": [
         "annoy",
-        "tease",
+        "annoyed",
         "be",
-        "annoyed"
+        "tease"
       ],
       "fr": [
-        "ennuyer",
         "embêter",
+        "ennuyer",
         "énerver"
       ]
     },
@@ -2202,14 +2202,14 @@
     "type": "adjective",
     "translations": {
       "en": [
-        "relaxing",
         "refreshing",
-        "restorative",
-        "restful"
+        "relaxing",
+        "restful",
+        "restorative"
       ],
       "fr": [
-        "reposant",
-        "rafraîchissant"
+        "rafraîchissant",
+        "reposant"
       ]
     },
     "predicativeOnly": false,
@@ -2340,15 +2340,15 @@
     "type": "verb",
     "translations": {
       "en": [
+        "form",
         "model",
         "sculpt",
         "sculpture",
-        "shape",
-        "form"
+        "shape"
       ],
       "fr": [
-        "former",
-        "conditionner"
+        "conditionner",
+        "former"
       ]
     },
     "separable": false,
@@ -2384,8 +2384,8 @@
     "type": "adjective",
     "translations": {
       "en": [
-        "wholly",
-        "entirely"
+        "entirely",
+        "wholly"
       ],
       "fr": [
         "total",
@@ -2485,9 +2485,9 @@
         "lane"
       ],
       "fr": [
-        "ruelle",
+        "alignement",
         "passage",
-        "alignement"
+        "ruelle"
       ]
     },
     "gender": "f",
@@ -2626,8 +2626,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "jacket",
-        "coat"
+        "coat",
+        "jacket"
       ],
       "fr": [
         "veste"
@@ -2855,8 +2855,8 @@
     "translations": {
       "en": [],
       "fr": [
-        "zone de vie",
-        "domaine de vie"
+        "domaine de vie",
+        "zone de vie"
       ]
     },
     "gender": "m",
@@ -2891,9 +2891,9 @@
         "milestone"
       ],
       "fr": [
+        "borne milliaire",
         "borne routière",
-        "pierre milliaire",
-        "borne milliaire"
+        "pierre milliaire"
       ]
     },
     "gender": "m",
@@ -2960,9 +2960,9 @@
     "type": "adjective",
     "translations": {
       "en": [
+        "fancy",
         "inventive",
-        "original",
-        "fancy"
+        "original"
       ],
       "fr": [
         "original"
@@ -3125,9 +3125,9 @@
     "type": "noun",
     "translations": {
       "en": [
-        "special reduced price",
+        "exceptional price",
         "special price",
-        "exceptional price"
+        "special reduced price"
       ],
       "fr": [
         "prix spécial"
@@ -3199,16 +3199,16 @@
     "type": "noun",
     "translations": {
       "en": [
-        "trunk",
-        "tribe",
         "phylum",
+        "stem",
         "strain",
-        "stem"
+        "tribe",
+        "trunk"
       ],
       "fr": [
-        "tronc",
+        "embranchement",
         "tribu",
-        "embranchement"
+        "tronc"
       ]
     },
     "gender": "m",
@@ -3442,10 +3442,10 @@
     "type": "verb",
     "translations": {
       "en": [
-        "thether",
+        "connect",
         "lash",
-        "tie up",
-        "connect"
+        "thether",
+        "tie up"
       ],
       "fr": []
     },
@@ -3513,8 +3513,8 @@
     "type": "verb",
     "translations": {
       "en": [
-        "open",
-        "make for a place"
+        "make for a place",
+        "open"
       ],
       "fr": [
         "ouvrir",
@@ -3649,10 +3649,10 @@
     "type": "noun",
     "translations": {
       "en": [
+        "inhabitant",
         "occupant",
         "occupier",
-        "resident",
-        "inhabitant"
+        "resident"
       ],
       "fr": [
         "habitante"
@@ -3691,9 +3691,9 @@
         "thankful"
       ],
       "fr": [
-        "reconnaissant",
         "gratifiant",
         "lucratif",
+        "reconnaissant",
         "résistant",
         "solide"
       ]
@@ -3792,8 +3792,8 @@
         "married couple"
       ],
       "fr": [
-        "couple marié",
-        "couple"
+        "couple",
+        "couple marié"
       ]
     },
     "gender": "n",
@@ -3922,9 +3922,9 @@
     "translations": {
       "en": [
         "be",
-        "issued",
+        "expatiate",
         "fare",
-        "expatiate"
+        "issued"
       ],
       "fr": []
     },
@@ -4004,8 +4004,8 @@
         "shortage of skilled labour"
       ],
       "fr": [
-        "manque de personnel qualifié",
-        "manque de main d'œuvre qualifiée"
+        "manque de main d'œuvre qualifiée",
+        "manque de personnel qualifié"
       ]
     },
     "gender": "m",
@@ -4109,14 +4109,14 @@
     "translations": {
       "en": [
         "crack",
-        "sleep",
-        "nap"
+        "nap",
+        "sleep"
       ],
       "fr": [
         "craquer",
         "dormir",
-        "niquer",
         "forcer",
+        "niquer",
         "ouvrir"
       ]
     },
@@ -4195,8 +4195,8 @@
         "nail"
       ],
       "fr": [
-        "ongle",
-        "clou"
+        "clou",
+        "ongle"
       ]
     },
     "gender": "m",
@@ -4496,14 +4496,14 @@
     "type": "verb",
     "translations": {
       "en": [
-        "exploit",
         "commercially",
+        "exploit",
         "market",
         "put on the market"
       ],
       "fr": [
-        "se faire de l’argent",
-        "commercialiser"
+        "commercialiser",
+        "se faire de l’argent"
       ]
     },
     "separable": false,
@@ -4539,16 +4539,16 @@
     "type": "noun",
     "translations": {
       "en": [
+        "gemination",
         "iteration",
         "repeat",
         "repetition",
-        "retake",
-        "gemination"
+        "retake"
       ],
       "fr": [
+        "rediffusion",
         "réitération",
-        "répétition",
-        "rediffusion"
+        "répétition"
       ]
     },
     "gender": "f",
@@ -4580,34 +4580,34 @@
     "type": "verb",
     "translations": {
       "en": [
+        "be emerging",
+        "be evolving",
+        "become apparent",
+        "check",
         "copy",
         "draw",
         "imitate",
-        "check",
         "initial",
-        "validate",
-        "become apparent",
         "loom",
-        "be emerging",
-        "be evolving",
-        "stand out"
+        "stand out",
+        "validate"
       ],
       "fr": [
-        "dessiner",
-        "copier",
-        "reproduire",
-        "émarger",
-        "parafer",
-        "signer",
-        "contresigner",
-        "émerger",
-        "peindre",
-        "voir",
-        "profiler",
         "annoncer",
+        "contresigner",
+        "copier",
+        "dessiner",
+        "distinguer",
         "découper",
         "détacher",
-        "distinguer"
+        "parafer",
+        "peindre",
+        "profiler",
+        "reproduire",
+        "signer",
+        "voir",
+        "émarger",
+        "émerger"
       ]
     },
     "separable": true,
@@ -4643,13 +4643,13 @@
     "type": "verb",
     "translations": {
       "en": [
-        "resemble",
+        "be alike",
         "be similar",
-        "be alike"
+        "resemble"
       ],
       "fr": [
-        "ressembler",
-        "apparenter"
+        "apparenter",
+        "ressembler"
       ]
     },
     "separable": false,
@@ -4716,11 +4716,11 @@
     "type": "verb",
     "translations": {
       "en": [
-        "rise",
         "get up",
-        "stand up",
+        "rise",
         "rise up",
-        "stand open"
+        "stand open",
+        "stand up"
       ],
       "fr": [
         "se lever",
@@ -4762,9 +4762,9 @@
     "translations": {
       "en": [
         "ascend",
-        "rise",
         "get on",
-        "mount"
+        "mount",
+        "rise"
       ],
       "fr": [
         "monter"
@@ -4803,9 +4803,9 @@
     "type": "noun",
     "translations": {
       "en": [
-        "expansion",
         "broadening",
         "enlargement",
+        "expansion",
         "increase"
       ],
       "fr": [
@@ -4881,8 +4881,8 @@
         "with respect to this"
       ],
       "fr": [
-        "à ce sujet",
-        "à ce propos"
+        "à ce propos",
+        "à ce sujet"
       ]
     },
     "predicativeOnly": false,
@@ -4977,9 +4977,9 @@
         "search"
       ],
       "fr": [
-        "rechercher",
+        "explorer",
         "fouiller",
-        "explorer"
+        "rechercher"
       ]
     },
     "separable": false,
@@ -5088,21 +5088,21 @@
     "type": "adjective",
     "translations": {
       "en": [
-        "smooth",
-        "slippery",
-        "icy",
-        "plain",
+        "blank",
+        "continuous",
         "easy",
         "easygoing",
+        "icy",
         "laidback",
-        "continuous",
+        "plain",
         "simply",
-        "blank"
+        "slippery",
+        "smooth"
       ],
       "fr": [
-        "lisse",
         "doux",
         "glissant",
+        "lisse",
         "sans problèmes"
       ]
     },
@@ -5203,8 +5203,8 @@
       ],
       "fr": [
         "comte",
-        "graphique",
-        "graphe"
+        "graphe",
+        "graphique"
       ]
     },
     "gender": "m",
@@ -5275,8 +5275,8 @@
         "balance"
       ],
       "fr": [
-        "crédit",
-        "avoir"
+        "avoir",
+        "crédit"
       ]
     },
     "gender": "n",
@@ -5404,8 +5404,8 @@
         "insolvency"
       ],
       "fr": [
-        "insolvabilité",
-        "faillite"
+        "faillite",
+        "insolvabilité"
       ]
     },
     "gender": "f",
@@ -5667,15 +5667,15 @@
     "translations": {
       "en": [
         "gentle",
-        "mild",
         "lenient",
-        "soft",
-        "mellow"
+        "mellow",
+        "mild",
+        "soft"
       ],
       "fr": [
+        "clément",
         "doux",
-        "suave",
-        "clément"
+        "suave"
       ]
     },
     "predicativeOnly": false,
@@ -6095,17 +6095,17 @@
     "type": "noun",
     "translations": {
       "en": [
-        "saying",
         "ruling",
+        "saying",
         "verdict"
       ],
       "fr": [
-        "maxime",
-        "dicton",
         "adage",
-        "formule tout faite",
-        "dispositif",
         "arrêt",
+        "dicton",
+        "dispositif",
+        "formule tout faite",
+        "maxime",
         "verdict"
       ]
     },
@@ -6138,8 +6138,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "tram",
         "streetcar",
+        "tram",
         "tramway"
       ],
       "fr": [
@@ -6441,9 +6441,9 @@
     "translations": {
       "en": [],
       "fr": [
+        "ailleurs",
         "autrement",
         "manière",
-        "ailleurs",
         "quelqu'un d'autre"
       ]
     },
@@ -6536,13 +6536,13 @@
     "type": "noun",
     "translations": {
       "en": [
-        "remark",
-        "footnote"
+        "footnote",
+        "remark"
       ],
       "fr": [
         "annotation",
-        "remarque",
-        "note"
+        "note",
+        "remarque"
       ]
     },
     "gender": "f",
@@ -6574,17 +6574,17 @@
     "type": "verb",
     "translations": {
       "en": [
-        "state",
-        "reveal",
         "express",
+        "reveal",
+        "state",
         "testify"
       ],
       "fr": [
         "affirmer",
         "déclarer",
         "signifier",
-        "vouloir dire",
-        "témoigner"
+        "témoigner",
+        "vouloir dire"
       ]
     },
     "separable": true,
@@ -6620,9 +6620,9 @@
     "type": "adjective",
     "translations": {
       "en": [
+        "considerable",
         "notable",
-        "remarkable",
-        "considerable"
+        "remarkable"
       ],
       "fr": [
         "remarquable"
@@ -6756,8 +6756,8 @@
     "type": "verb",
     "translations": {
       "en": [
-        "calm",
-        "blow over"
+        "blow over",
+        "calm"
       ],
       "fr": [
         "calmer",
@@ -7164,9 +7164,9 @@
         "news"
       ],
       "fr": [
-        "nouvelles",
         "informations",
-        "infos"
+        "infos",
+        "nouvelles"
       ]
     },
     "gender": null,
@@ -7351,9 +7351,9 @@
       ],
       "fr": [
         "actif",
+        "activement",
         "dynamique",
-        "énergique",
-        "activement"
+        "énergique"
       ]
     },
     "predicativeOnly": false,
@@ -7481,9 +7481,9 @@
     "translations": {
       "en": [],
       "fr": [
-        "interdit",
         "illégal",
         "inadmissible",
+        "interdit",
         "irrecevable"
       ]
     },
@@ -8066,20 +8066,20 @@
     "type": "verb",
     "translations": {
       "en": [
-        "desire",
-        "crave",
         "covet",
-        "wish",
+        "crave",
+        "desire",
         "long",
+        "wish",
         "yearn"
       ],
       "fr": [
         "convoiter",
-        "désirer",
-        "vouloir",
         "demander",
+        "désirer",
+        "désirer aller",
         "mandier",
-        "désirer aller"
+        "vouloir"
       ]
     },
     "separable": false,
@@ -8115,10 +8115,10 @@
     "type": "verb",
     "translations": {
       "en": [
-        "operate",
-        "work",
         "be active",
-        "busy oneself"
+        "busy oneself",
+        "operate",
+        "work"
       ],
       "fr": [
         "actionner",
@@ -8395,8 +8395,8 @@
     "translations": {
       "en": [
         "extraction",
-        "production",
         "isolation",
+        "production",
         "quarrying"
       ],
       "fr": [
@@ -8608,16 +8608,16 @@
     "type": "noun",
     "translations": {
       "en": [
-        "precipitation",
         "expression",
-        "knockdown"
+        "knockdown",
+        "precipitation"
       ],
       "fr": [
-        "précipitation",
-        "précipité",
+        "coup dur",
         "expression",
         "mise au tapis",
-        "coup dur"
+        "précipitation",
+        "précipité"
       ]
     },
     "gender": "m",
@@ -8810,10 +8810,10 @@
     "type": "verb",
     "translations": {
       "en": [
-        "rest",
         "halt",
-        "stop",
-        "stall"
+        "rest",
+        "stall",
+        "stop"
       ],
       "fr": [
         "reposer",
@@ -8857,8 +8857,8 @@
         "sideways"
       ],
       "fr": [
-        "latéral",
         "de côté",
+        "latéral",
         "latéralement"
       ]
     },
@@ -8954,8 +8954,8 @@
         "support group"
       ],
       "fr": [
-        "groupe de parole",
-        "groupe d'entraide"
+        "groupe d'entraide",
+        "groupe de parole"
       ]
     },
     "gender": "f",
@@ -9330,12 +9330,12 @@
       ],
       "fr": [
         "annoncer",
-        "départ",
-        "notifier",
         "communiquer",
-        "désinscrire",
+        "déconnecter",
+        "départ",
         "désenregistrer",
-        "déconnecter"
+        "désinscrire",
+        "notifier"
       ]
     },
     "separable": true,
@@ -9467,24 +9467,24 @@
     "type": "noun",
     "translations": {
       "en": [
+        "hanging basket",
         "hanging lamp",
-        "traffic light",
-        "traffic lights",
+        "hanging planter",
         "robot",
         "stop light",
-        "traffic signal",
+        "traffic light",
         "traffic light coalition",
-        "hanging basket",
-        "hanging planter"
+        "traffic lights",
+        "traffic signal"
       ],
       "fr": [
-        "suspension",
+        "coalition en feu tricolore",
+        "feu",
+        "feu de circulation",
         "feu de signalisation",
         "feu tricolore",
-        "feu de circulation",
-        "feu",
         "lumière",
-        "coalition en feu tricolore"
+        "suspension"
       ]
     },
     "gender": "f",
@@ -9848,13 +9848,13 @@
         "festive"
       ],
       "fr": [
-        "solennel",
-        "solennelle",
-        "festif",
-        "festive",
         "de cérémonie",
         "de festivité",
-        "de fête"
+        "de fête",
+        "festif",
+        "festive",
+        "solennel",
+        "solennelle"
       ]
     },
     "predicativeOnly": false,
@@ -9947,9 +9947,9 @@
     "translations": {
       "en": [
         "barbecue grill",
-        "grill",
         "covering grill",
-        "diner"
+        "diner",
+        "grill"
       ],
       "fr": [
         "barbecue"
@@ -10015,8 +10015,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "intensity",
-        "intenseness"
+        "intenseness",
+        "intensity"
       ],
       "fr": [
         "intensité"
@@ -10094,8 +10094,8 @@
         "conceptual"
       ],
       "fr": [
-        "conceptuel",
-        "conceptionnel"
+        "conceptionnel",
+        "conceptuel"
       ]
     },
     "predicativeOnly": false,
@@ -10187,8 +10187,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "regional church",
-        "national church"
+        "national church",
+        "regional church"
       ],
       "fr": [
         "église nationale"
@@ -10226,8 +10226,8 @@
         "moderate"
       ],
       "fr": [
-        "modéré",
-        "faible"
+        "faible",
+        "modéré"
       ]
     },
     "predicativeOnly": false,
@@ -10323,8 +10323,8 @@
         "mint"
       ],
       "fr": [
-        "pièce (de monnaie)",
-        "hôtel des monnaies"
+        "hôtel des monnaies",
+        "pièce (de monnaie)"
       ]
     },
     "gender": "f",
@@ -10429,11 +10429,11 @@
     "type": "noun",
     "translations": {
       "en": [
-        "president",
-        "chairwoman",
         "chair",
+        "chairperson",
+        "chairwoman",
         "female",
-        "chairperson"
+        "president"
       ],
       "fr": [
         "présidente"
@@ -10734,14 +10734,14 @@
     "type": "verb",
     "translations": {
       "en": [
+        "bet",
         "tap",
-        "type",
-        "bet"
+        "type"
       ],
       "fr": [
-        "taper",
         "dactylographier",
-        "miser"
+        "miser",
+        "taper"
       ]
     },
     "separable": false,
@@ -10819,9 +10819,9 @@
       ],
       "fr": [
         "déplacer",
+        "refouler",
         "repousser",
-        "supplanter",
-        "refouler"
+        "supplanter"
       ]
     },
     "separable": false,
@@ -10897,12 +10897,12 @@
     "type": "verb",
     "translations": {
       "en": [
-        "tolerate",
-        "get along with"
+        "get along with",
+        "tolerate"
       ],
       "fr": [
-        "tolérer",
-        "s'entendre"
+        "s'entendre",
+        "tolérer"
       ]
     },
     "separable": false,
@@ -10938,10 +10938,10 @@
     "type": "adjective",
     "translations": {
       "en": [
-        "front",
         "fore",
-        "leading",
-        "forward"
+        "forward",
+        "front",
+        "leading"
       ],
       "fr": []
     },
@@ -11308,13 +11308,13 @@
     "type": "noun",
     "translations": {
       "en": [
-        "eggwhite",
         "albumen",
+        "eggwhite",
         "protein"
       ],
       "fr": [
-        "blanc d'œuf",
         "albumen",
+        "blanc d'œuf",
         "protéine"
       ]
     },
@@ -11348,9 +11348,9 @@
     "translations": {
       "en": [],
       "fr": [
-        "s'opposer",
         "entraver",
-        "faire obstacle"
+        "faire obstacle",
+        "s'opposer"
       ]
     },
     "separable": true,
@@ -11386,57 +11386,57 @@
     "type": "noun",
     "translations": {
       "en": [
-        "feather",
+        "back",
+        "big game",
+        "boar",
+        "boar spear",
+        "bones",
+        "bristle",
         "crest",
+        "dip pen",
+        "feather",
+        "fountain pen",
+        "hairy canary",
+        "miner's shavings",
+        "mines junior clerk",
+        "mining wedge",
+        "nib",
+        "pen",
+        "pinna",
         "plume",
         "quill",
         "quill feather",
-        "pinna",
-        "nib",
-        "dip pen",
-        "pen",
-        "fountain pen",
-        "spring",
-        "tongue",
-        "bristle",
-        "back",
-        "boar",
-        "bones",
-        "big game",
         "rib",
         "scut",
         "spear",
-        "boar spear",
-        "mining wedge",
-        "miner's shavings",
-        "mines junior clerk",
-        "hairy canary"
+        "spring",
+        "tongue"
       ],
       "fr": [
-        "plume",
-        "penne",
-        "plumet",
-        "ressort",
-        "languette",
-        "soie",
-        "échine",
-        "sanglier",
-        "os",
-        "gros gibier",
+        "abattre",
+        "balayette",
+        "carré",
         "côte",
         "côtelette",
-        "carré",
-        "queue",
-        "lièvre",
-        "épieu",
-        "abattre",
-        "épieu à sanglier",
-        "balayette",
         "goupillon",
+        "gros gibier",
         "guiche",
         "jacquot",
+        "languette",
+        "lièvre",
+        "moineau",
+        "os",
+        "penne",
         "pinceau",
-        "moineau"
+        "plume",
+        "plumet",
+        "queue",
+        "ressort",
+        "sanglier",
+        "soie",
+        "échine",
+        "épieu",
+        "épieu à sanglier"
       ]
     },
     "gender": "f",
@@ -11512,15 +11512,15 @@
     "translations": {
       "en": [
         "container",
+        "hilt",
         "receptacle",
-        "vessel",
-        "hilt"
+        "vessel"
       ],
       "fr": [
-        "récipient",
         "contenant",
-        "vase",
-        "vaisseau"
+        "récipient",
+        "vaisseau",
+        "vase"
       ]
     },
     "gender": "n",
@@ -11552,13 +11552,13 @@
     "type": "noun",
     "translations": {
       "en": [
-        "limit value",
-        "limit"
+        "limit",
+        "limit value"
       ],
       "fr": [
-        "valeur limite",
+        "limite",
         "seuil",
-        "limite"
+        "valeur limite"
       ]
     },
     "gender": "m",
@@ -11664,8 +11664,8 @@
         "knee"
       ],
       "fr": [
-        "genou",
-        "coude"
+        "coude",
+        "genou"
       ]
     },
     "gender": "n",
@@ -11702,10 +11702,10 @@
       ],
       "fr": [
         "bouton",
-        "poignée sphérique",
-        "petit enfant",
         "gamin",
-        "gamine"
+        "gamine",
+        "petit enfant",
+        "poignée sphérique"
       ]
     },
     "gender": "m",
@@ -11737,18 +11737,18 @@
     "type": "verb",
     "translations": {
       "en": [
-        "subside",
         "abate",
+        "desist",
         "give a discount",
         "let up",
-        "desist"
+        "subside"
       ],
       "fr": [
         "diminuer",
-        "réduire",
         "faiblir",
-        "s'affaiblir",
-        "relâcher"
+        "relâcher",
+        "réduire",
+        "s'affaiblir"
       ]
     },
     "separable": true,
@@ -11855,8 +11855,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "signature",
-        "signatory"
+        "signatory",
+        "signature"
       ],
       "fr": [
         "signature"
@@ -11891,8 +11891,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "singing",
-        "chanting"
+        "chanting",
+        "singing"
       ],
       "fr": []
     },
@@ -12026,9 +12026,9 @@
         "sporadic"
       ],
       "fr": [
-        "sporadique",
         "isolé",
-        "isolée"
+        "isolée",
+        "sporadique"
       ]
     },
     "predicativeOnly": false,
@@ -12123,8 +12123,8 @@
         "completeness"
       ],
       "fr": [
-        "état complet",
-        "complétude"
+        "complétude",
+        "état complet"
       ]
     },
     "gender": "f",
@@ -12160,8 +12160,8 @@
         "member of parliament"
       ],
       "fr": [
-        "députée",
-        "déléguée"
+        "déléguée",
+        "députée"
       ]
     },
     "gender": "f",
@@ -12452,12 +12452,12 @@
     "type": "verb",
     "translations": {
       "en": [
-        "complain",
-        "bemoan"
+        "bemoan",
+        "complain"
       ],
       "fr": [
-        "se plaindre",
-        "regretter"
+        "regretter",
+        "se plaindre"
       ]
     },
     "separable": false,
@@ -12677,9 +12677,9 @@
     "type": "adjective",
     "translations": {
       "en": [
-        "secret",
+        "clandestine",
         "covert",
-        "clandestine"
+        "secret"
       ],
       "fr": [
         "clandestin",
@@ -12808,28 +12808,28 @@
     "translations": {
       "en": [
         "broken",
-        "bust",
         "broken-down",
+        "bust",
         "fucked-up",
-        "out of order",
         "kaput",
-        "shattered",
         "knackered",
-        "ruined"
+        "out of order",
+        "ruined",
+        "shattered"
       ],
       "fr": [
-        "cassé",
-        "fichu",
+        "brisé",
         "capout",
+        "cassé",
         "claqué",
         "claquée",
-        "raplapla",
         "crevé",
         "crevée",
+        "fichu",
         "foutu",
+        "raplapla",
         "ruiné",
-        "ruinée",
-        "brisé"
+        "ruinée"
       ]
     },
     "predicativeOnly": false,
@@ -12955,8 +12955,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "leather",
-        "football"
+        "football",
+        "leather"
       ],
       "fr": [
         "cuir"
@@ -13030,9 +13030,9 @@
     "type": "noun",
     "translations": {
       "en": [
-        "noon",
+        "lunchtime",
         "midday",
-        "lunchtime"
+        "noon"
       ],
       "fr": [
         "midi"
@@ -13262,8 +13262,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "rightness",
-        "correctness"
+        "correctness",
+        "rightness"
       ],
       "fr": [
         "exactitude"
@@ -13438,8 +13438,8 @@
     "translations": {
       "en": [
         "impossible",
-        "ridiculous",
-        "inconceivable"
+        "inconceivable",
+        "ridiculous"
       ],
       "fr": [
         "impossible",
@@ -13536,16 +13536,16 @@
     "type": "verb",
     "translations": {
       "en": [
+        "commit",
         "make a slip of the pen",
         "mispell",
-        "prescribe",
-        "commit"
+        "prescribe"
       ],
       "fr": [
         "faire une faute d'orthographe",
-        "écrire de travers",
         "prescrire",
-        "se vouer"
+        "se vouer",
+        "écrire de travers"
       ]
     },
     "separable": false,
@@ -13581,18 +13581,18 @@
     "type": "noun",
     "translations": {
       "en": [
+        "expulsion",
+        "rebuke",
         "reference",
         "referral",
-        "expulsion",
         "reprehension",
         "reprimand",
-        "rebuke",
         "reproof"
       ],
       "fr": [
-        "référence",
         "expulsion",
-        "reproche"
+        "reproche",
+        "référence"
       ]
     },
     "gender": "m",
@@ -13625,16 +13625,16 @@
     "translations": {
       "en": [
         "amplitude",
-        "extension",
-        "expanse",
-        "length",
         "distance",
+        "expanse",
+        "extension",
+        "length",
         "width"
       ],
       "fr": [
         "amplitude",
-        "extension",
         "distance",
+        "extension",
         "largeur"
       ]
     },
@@ -13908,9 +13908,9 @@
         "continue"
       ],
       "fr": [
+        "continuer",
         "persister",
-        "se poursuivre",
-        "continuer"
+        "se poursuivre"
       ]
     },
     "separable": true,
@@ -13946,13 +13946,13 @@
     "type": "verb",
     "translations": {
       "en": [
-        "dodge",
         "avoid",
+        "dodge",
         "swerve"
       ],
       "fr": [
-        "esquiver",
         "contourner",
+        "esquiver",
         "éviter"
       ]
     },
@@ -14032,8 +14032,8 @@
       "en": [
         "bin",
         "container",
-        "repository",
-        "receptacle"
+        "receptacle",
+        "repository"
       ],
       "fr": [
         "bac",
@@ -14071,8 +14071,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "harmony",
-        "concord"
+        "concord",
+        "harmony"
       ],
       "fr": [
         "concorde"
@@ -14218,20 +14218,20 @@
     "type": "noun",
     "translations": {
       "en": [
+        "donation",
         "dower",
         "endowment",
         "faculty",
-        "talent",
         "gift",
         "present",
-        "donation"
+        "talent"
       ],
       "fr": [
-        "talent",
-        "don",
-        "cadeau",
+        "administration",
         "aumône",
-        "administration"
+        "cadeau",
+        "don",
+        "talent"
       ]
     },
     "gender": "f",
@@ -14263,8 +14263,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "warranty",
-        "guarantee"
+        "guarantee",
+        "warranty"
       ],
       "fr": [
         "garantie"
@@ -14404,8 +14404,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "laughter",
-        "laugh"
+        "laugh",
+        "laughter"
       ],
       "fr": [
         "rire",
@@ -14449,8 +14449,8 @@
         "stocking",
         "storage",
         "storing",
-        "warehousing",
-        "stratification"
+        "stratification",
+        "warehousing"
       ],
       "fr": [
         "emmagasinement",
@@ -14490,12 +14490,12 @@
     "translations": {
       "en": [
         "annoying",
-        "tiresome",
-        "irksome"
+        "irksome",
+        "tiresome"
       ],
       "fr": [
-        "ennuyeux",
         "embarrassant",
+        "ennuyeux",
         "gênant"
       ]
     },
@@ -14654,8 +14654,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "principle investigator",
         "head of project",
+        "principle investigator",
         "project head",
         "project leader",
         "project manager",
@@ -14695,16 +14695,16 @@
     "translations": {
       "en": [
         "rack",
-        "shelf",
+        "regal",
         "seigniorage",
-        "regal"
+        "shelf"
       ],
       "fr": [
         "casier",
-        "étagère",
         "rayon",
         "rayonnage",
-        "régale"
+        "régale",
+        "étagère"
       ]
     },
     "gender": "n",
@@ -14804,9 +14804,9 @@
     "type": "noun",
     "translations": {
       "en": [
+        "perception",
         "reception",
-        "reception desk",
-        "perception"
+        "reception desk"
       ],
       "fr": [
         "réception"
@@ -14841,10 +14841,10 @@
     "type": "noun",
     "translations": {
       "en": [
-        "sanctuary",
-        "reserve",
         "dependency",
-        "protectorate"
+        "protectorate",
+        "reserve",
+        "sanctuary"
       ],
       "fr": []
     },
@@ -14878,9 +14878,9 @@
     "translations": {
       "en": [
         "deepening",
-        "immersion",
         "depression",
-        "hollow"
+        "hollow",
+        "immersion"
       ],
       "fr": []
     },
@@ -14913,13 +14913,13 @@
     "type": "noun",
     "translations": {
       "en": [
-        "utilization",
+        "exploitation",
         "using",
-        "exploitation"
+        "utilization"
       ],
       "fr": [
-        "utilisation",
-        "exploitation"
+        "exploitation",
+        "utilisation"
       ]
     },
     "gender": "f",
@@ -14955,10 +14955,10 @@
         "covenant"
       ],
       "fr": [
-        "consentement",
         "acceptation",
-        "promesse",
-        "assentiment"
+        "assentiment",
+        "consentement",
+        "promesse"
       ]
     },
     "gender": "f",
@@ -15025,9 +15025,9 @@
     "type": "adjective",
     "translations": {
       "en": [
+        "abrasive",
         "aggressive",
-        "thugish",
-        "abrasive"
+        "thugish"
       ],
       "fr": [
         "agressif"
@@ -15342,9 +15342,9 @@
         "skin"
       ],
       "fr": [
+        "dépouille",
         "fourrure",
-        "pelage",
-        "dépouille"
+        "pelage"
       ]
     },
     "gender": "n",
@@ -15376,10 +15376,10 @@
     "type": "verb",
     "translations": {
       "en": [
-        "strengthen",
-        "stabilize",
         "harden",
-        "solidify"
+        "solidify",
+        "stabilize",
+        "strengthen"
       ],
       "fr": [
         "renforcer",
@@ -15456,8 +15456,8 @@
       "en": [
         "gargantuan",
         "gigantic",
-        "humongous",
         "huge",
+        "humongous",
         "mammoth",
         "titanic"
       ],
@@ -15554,13 +15554,13 @@
     "type": "noun",
     "translations": {
       "en": [
-        "faith",
         "belief",
-        "creed"
+        "creed",
+        "faith"
       ],
       "fr": [
-        "foi",
-        "croyance"
+        "croyance",
+        "foi"
       ]
     },
     "gender": "m",
@@ -15723,8 +15723,8 @@
     "type": "verb",
     "translations": {
       "en": [
-        "shorten",
         "reduce",
+        "shorten",
         "simplify"
       ],
       "fr": [
@@ -15770,9 +15770,9 @@
         "render"
       ],
       "fr": [
-        "nettoyer",
         "embellir",
-        "lustrer"
+        "lustrer",
+        "nettoyer"
       ]
     },
     "separable": false,
@@ -16077,10 +16077,10 @@
     "type": "verb",
     "translations": {
       "en": [
-        "make worse",
         "deteriorate",
-        "worsen",
-        "get worse"
+        "get worse",
+        "make worse",
+        "worsen"
       ],
       "fr": [
         "détériorer",
@@ -16155,8 +16155,8 @@
     "type": "verb",
     "translations": {
       "en": [
-        "tear off",
-        "demolish"
+        "demolish",
+        "tear off"
       ],
       "fr": [
         "arracher",
@@ -16201,8 +16201,8 @@
         "antisemitism"
       ],
       "fr": [
-        "antisémitisme",
-        "anti-sémitisme"
+        "anti-sémitisme",
+        "antisémitisme"
       ]
     },
     "gender": "m",
@@ -16270,8 +16270,8 @@
     "translations": {
       "en": [
         "attest",
-        "certify",
         "authenticate",
+        "certify",
         "confirm"
       ],
       "fr": [
@@ -16680,16 +16680,16 @@
       "en": [
         "acceptance",
         "approval",
-        "release",
-        "liberalization"
+        "liberalization",
+        "release"
       ],
       "fr": [
-        "libération",
-        "validation",
         "approbation",
         "autorisation",
-        "libéralisation",
         "levée",
+        "libéralisation",
+        "libération",
+        "validation",
         "élargissement"
       ]
     },
@@ -16722,8 +16722,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "home match",
-        "home game"
+        "home game",
+        "home match"
       ],
       "fr": [
         "match à domicile"
@@ -16758,9 +16758,9 @@
     "type": "noun",
     "translations": {
       "en": [
-        "customer",
         "client",
-        "clientess"
+        "clientess",
+        "customer"
       ],
       "fr": [
         "cliente"
@@ -16795,10 +16795,10 @@
     "type": "noun",
     "translations": {
       "en": [
-        "runner",
-        "bishop",
         "armature",
-        "muller"
+        "bishop",
+        "muller",
+        "runner"
       ],
       "fr": [
         "coureur",
@@ -16836,8 +16836,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "stomach",
-        "maw"
+        "maw",
+        "stomach"
       ],
       "fr": [
         "estomac"
@@ -17069,8 +17069,8 @@
         "keep up with"
       ],
       "fr": [
-        "tenir tête",
-        "suivre"
+        "suivre",
+        "tenir tête"
       ]
     },
     "separable": true,
@@ -17106,14 +17106,14 @@
     "type": "noun",
     "translations": {
       "en": [
-        "plate",
+        "baldhead",
         "disk",
-        "baldhead"
+        "plate"
       ],
       "fr": [
-        "plaque",
+        "calvitie",
         "disque",
-        "calvitie"
+        "plaque"
       ]
     },
     "gender": "f",
@@ -17272,8 +17272,8 @@
     "type": "adjective",
     "translations": {
       "en": [
-        "standard",
-        "by default"
+        "by default",
+        "standard"
       ],
       "fr": [
         "standard"
@@ -17412,8 +17412,8 @@
         "spanning"
       ],
       "fr": [
-        "transversal",
-        "pluridisciplinaire"
+        "pluridisciplinaire",
+        "transversal"
       ]
     },
     "predicativeOnly": false,
@@ -17624,9 +17624,9 @@
         "landmark"
       ],
       "fr": [
-        "repère",
+        "enblème",
         "point de repère",
-        "enblème"
+        "repère"
       ]
     },
     "gender": "n",
@@ -17859,9 +17859,9 @@
         "warehouse"
       ],
       "fr": [
-        "entrepôt",
+        "consigne",
         "dépôt",
-        "consigne"
+        "entrepôt"
       ]
     },
     "gender": "n",
@@ -17897,9 +17897,9 @@
         "spouse"
       ],
       "fr": [
+        "conjoint",
         "mari",
-        "époux",
-        "conjoint"
+        "époux"
       ]
     },
     "gender": "m",
@@ -17967,24 +17967,24 @@
     "type": "adjective",
     "translations": {
       "en": [
-        "upscale",
-        "upmarket",
-        "exalted",
-        "elevated",
         "cheerful",
+        "elevated",
+        "exalted",
         "festive",
         "in the mood",
         "lifted",
+        "luxurious",
         "sublime",
-        "luxurious"
+        "upmarket",
+        "upscale"
       ],
       "fr": [
-        "élevé",
-        "soigné",
-        "soutenu",
         "animé",
         "bonne",
-        "luxueux"
+        "luxueux",
+        "soigné",
+        "soutenu",
+        "élevé"
       ]
     },
     "predicativeOnly": false,
@@ -18366,14 +18366,14 @@
     "type": "noun",
     "translations": {
       "en": [
-        "coffer",
-        "box"
+        "box",
+        "coffer"
       ],
       "fr": [
         "caisse",
-        "plumard",
         "chose",
-        "cul"
+        "cul",
+        "plumard"
       ]
     },
     "gender": "f",
@@ -18571,10 +18571,10 @@
         "get rid of"
       ],
       "fr": [
-        "se débarrasser",
         "bazarder",
         "foutre en l’air",
-        "paumer"
+        "paumer",
+        "se débarrasser"
       ]
     },
     "separable": true,
@@ -18610,13 +18610,13 @@
     "type": "noun",
     "translations": {
       "en": [
-        "nut",
-        "hazelnut"
+        "hazelnut",
+        "nut"
       ],
       "fr": [
-        "noix",
         "fruit à coque",
-        "noisette"
+        "noisette",
+        "noix"
       ]
     },
     "gender": "f",
@@ -18683,12 +18683,12 @@
     "type": "verb",
     "translations": {
       "en": [
-        "risk",
-        "hazard"
+        "hazard",
+        "risk"
       ],
       "fr": [
-        "risquer",
-        "hasarder"
+        "hasarder",
+        "risquer"
       ]
     },
     "separable": false,
@@ -18799,9 +18799,9 @@
         "radiation"
       ],
       "fr": [
-        "rayonnement",
         "radiation",
-        "radiations"
+        "radiations",
+        "rayonnement"
       ]
     },
     "gender": "f",
@@ -18907,8 +18907,8 @@
         "illustrate"
       ],
       "fr": [
-        "illustrer",
-        "concrétiser"
+        "concrétiser",
+        "illustrer"
       ]
     },
     "separable": false,
@@ -19084,9 +19084,9 @@
         "notification"
       ],
       "fr": [
+        "expédition",
         "notification",
-        "remise",
-        "expédition"
+        "remise"
       ]
     },
     "gender": "f",
@@ -19191,9 +19191,9 @@
         "reinforce"
       ],
       "fr": [
-        "renforcer",
+        "appuyer",
         "confirmer",
-        "appuyer"
+        "renforcer"
       ]
     },
     "separable": false,
@@ -19229,12 +19229,12 @@
     "type": "adjective",
     "translations": {
       "en": [
-        "malign",
-        "malevolent"
+        "malevolent",
+        "malign"
       ],
       "fr": [
-        "perfide",
-        "méchant"
+        "méchant",
+        "perfide"
       ]
     },
     "predicativeOnly": false,
@@ -19366,8 +19366,8 @@
         "Federal Supreme Court"
       ],
       "fr": [
-        "cour suprême fédérale allemande",
-        "cour suprême fédérale"
+        "cour suprême fédérale",
+        "cour suprême fédérale allemande"
       ]
     },
     "gender": "m",
@@ -19539,17 +19539,17 @@
     "type": "noun",
     "translations": {
       "en": [
-        "introduction",
         "initiation",
+        "introduction",
         "setting to work"
       ],
       "fr": [
+        "arrivée",
         "avant-propos",
-        "préambule",
-        "préface",
-        "introduction",
         "initiation",
-        "arrivée"
+        "introduction",
+        "préambule",
+        "préface"
       ]
     },
     "gender": "f",
@@ -19841,13 +19841,13 @@
     "translations": {
       "en": [
         "chore",
-        "housework",
         "homework",
+        "housework",
         "paper"
       ],
       "fr": [
-        "ménage",
         "devoir",
+        "ménage",
         "travail domestique"
       ]
     },
@@ -19986,18 +19986,18 @@
     "type": "adjective",
     "translations": {
       "en": [
-        "delicious",
-        "exquisite",
         "amusing",
         "costly",
+        "delicious",
+        "exquisite",
         "precious"
       ],
       "fr": [
-        "délicieux",
-        "exquis",
         "amusant",
+        "coûteuse",
         "coûteux",
-        "coûteuse"
+        "délicieux",
+        "exquis"
       ]
     },
     "predicativeOnly": false,
@@ -20162,8 +20162,8 @@
       ],
       "fr": [
         "armée",
-        "troupe",
-        "militaire"
+        "militaire",
+        "troupe"
       ]
     },
     "gender": "n",
@@ -20325,9 +20325,9 @@
     "type": "noun",
     "translations": {
       "en": [
-        "post office box",
+        "P.O. Box",
         "PO Box",
-        "P.O. Box"
+        "post office box"
       ],
       "fr": [
         "boîte postale"
@@ -20362,17 +20362,17 @@
     "type": "noun",
     "translations": {
       "en": [
-        "brochure",
-        "pamphlet",
-        "leaflet",
-        "backdrop",
         "back cloth",
+        "backdrop",
+        "brochure",
+        "leaflet",
+        "pamphlet",
         "prospectus"
       ],
       "fr": [
-        "prospectus",
+        "fond de décor",
         "perspective",
-        "fond de décor"
+        "prospectus"
       ]
     },
     "gender": "m",
@@ -20478,9 +20478,9 @@
     "type": "noun",
     "translations": {
       "en": [
+        "self-awareness",
         "self-confidence",
-        "self-consciousness",
-        "self-awareness"
+        "self-consciousness"
       ],
       "fr": [
         "confiance en soi",
@@ -20621,9 +20621,9 @@
         "encryption"
       ],
       "fr": [
+        "chiffrage",
         "chiffrement",
-        "cryptage",
-        "chiffrage"
+        "cryptage"
       ]
     },
     "gender": "f",
@@ -20693,9 +20693,9 @@
         "headquarters"
       ],
       "fr": [
-        "siège",
+        "centrale",
         "quartier général",
-        "centrale"
+        "siège"
       ]
     },
     "gender": "f",
@@ -20860,14 +20860,14 @@
     "translations": {
       "en": [
         "conditioning",
-        "preparation",
-        "editing"
+        "editing",
+        "preparation"
       ],
       "fr": [
-        "préparation",
-        "traitement",
+        "forme",
         "mise",
-        "forme"
+        "préparation",
+        "traitement"
       ]
     },
     "gender": "f",
@@ -20963,8 +20963,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "Ph.D. student",
         "Ph.D. candidate",
+        "Ph.D. student",
         "doctorand"
       ],
       "fr": [
@@ -21000,8 +21000,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "consent",
-        "agreement"
+        "agreement",
+        "consent"
       ],
       "fr": [
         "accord"
@@ -21071,9 +21071,9 @@
     "type": "noun",
     "translations": {
       "en": [
+        "schedule",
         "time table",
-        "timetable",
-        "schedule"
+        "timetable"
       ],
       "fr": [
         "horaire"
@@ -21108,8 +21108,8 @@
     "type": "verb",
     "translations": {
       "en": [
-        "arrest",
         "apprehend",
+        "arrest",
         "seize"
       ],
       "fr": [
@@ -21185,9 +21185,9 @@
     "translations": {
       "en": [
         "functionality",
-        "workings",
+        "functioning",
         "mechanics",
-        "functioning"
+        "workings"
       ],
       "fr": []
     },
@@ -21220,15 +21220,15 @@
     "type": "noun",
     "translations": {
       "en": [
-        "publisher",
         "anthologist",
-        "issuer",
         "editor",
-        "emitter"
+        "emitter",
+        "issuer",
+        "publisher"
       ],
       "fr": [
-        "éditeur",
         "directeur",
+        "éditeur",
         "émetteur"
       ]
     },
@@ -21460,8 +21460,8 @@
         "monitoring"
       ],
       "fr": [
-        "surveillance",
-        "monitoring"
+        "monitoring",
+        "surveillance"
       ]
     },
     "gender": "n",
@@ -21497,9 +21497,9 @@
         "useful"
       ],
       "fr": [
-        "utiliser",
         "employer",
-        "servir"
+        "servir",
+        "utiliser"
       ]
     },
     "separable": false,
@@ -21662,9 +21662,9 @@
     "translations": {
       "en": [
         "arm",
+        "mount",
         "prepare",
-        "set-up",
-        "mount"
+        "set-up"
       ],
       "fr": [
         "armer",
@@ -21708,8 +21708,8 @@
         "painful"
       ],
       "fr": [
-        "douloureux",
-        "douloureuse"
+        "douloureuse",
+        "douloureux"
       ]
     },
     "predicativeOnly": false,
@@ -21804,9 +21804,9 @@
         "story"
       ],
       "fr": [
+        "article",
         "histoire",
         "message",
-        "article",
         "papier"
       ]
     },
@@ -21843,8 +21843,8 @@
         "telephone conversation"
       ],
       "fr": [
-        "conversation téléphonique",
-        "appel téléphonique"
+        "appel téléphonique",
+        "conversation téléphonique"
       ]
     },
     "gender": "n",
@@ -22040,15 +22040,15 @@
     "type": "noun",
     "translations": {
       "en": [
-        "vanguard",
-        "trailblazer",
         "outrider",
-        "precursor"
+        "precursor",
+        "trailblazer",
+        "vanguard"
       ],
       "fr": [
-        "précurseur",
+        "défricheur",
         "pionnier",
-        "défricheur"
+        "précurseur"
       ]
     },
     "gender": "m",
@@ -22080,14 +22080,14 @@
     "type": "noun",
     "translations": {
       "en": [
-        "twig",
+        "branch",
         "branchlet",
-        "branch"
+        "twig"
       ],
       "fr": [
-        "rameau",
+        "branche",
         "brindille",
-        "branche"
+        "rameau"
       ]
     },
     "gender": "m",
@@ -22284,23 +22284,23 @@
     "type": "noun",
     "translations": {
       "en": [
-        "pull-out",
-        "withdrawal",
+        "deduction",
+        "discovered attack",
         "flue",
         "fume hood",
         "print",
-        "discovered attack",
+        "pull-out",
         "trigger",
-        "deduction"
+        "withdrawal"
       ],
       "fr": [
-        "retrait",
-        "hotte",
-        "retirage",
-        "gâchette",
+        "déduction",
         "détente",
+        "gâchette",
+        "hotte",
         "queue de détente",
-        "déduction"
+        "retirage",
+        "retrait"
       ]
     },
     "gender": "m",
@@ -22401,8 +22401,8 @@
         "stay out"
       ],
       "fr": [
-        "se produire",
-        "manifester"
+        "manifester",
+        "se produire"
       ]
     },
     "separable": true,
@@ -22510,13 +22510,13 @@
     "type": "adjective",
     "translations": {
       "en": [
+        "bestial",
         "brutal",
-        "violent",
-        "brutish",
         "brute",
-        "tough",
+        "brutish",
         "ruffian",
-        "bestial"
+        "tough",
+        "violent"
       ],
       "fr": [
         "brutale"
@@ -22816,8 +22816,8 @@
         "diagnostically"
       ],
       "fr": [
-        "diagnostique",
-        "diagnostic"
+        "diagnostic",
+        "diagnostique"
       ]
     },
     "predicativeOnly": false,
@@ -22912,9 +22912,9 @@
         "wife"
       ],
       "fr": [
+        "conjointe",
         "femme",
-        "épouse",
-        "conjointe"
+        "épouse"
       ]
     },
     "gender": "f",
@@ -23121,8 +23121,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "airline",
-        "air carrier"
+        "air carrier",
+        "airline"
       ],
       "fr": [
         "compagnie aérienne"
@@ -23160,8 +23160,8 @@
         "volunteer"
       ],
       "fr": [
-        "volontaire",
-        "bénévole"
+        "bénévole",
+        "volontaire"
       ]
     },
     "gender": "f",
@@ -23193,8 +23193,8 @@
     "type": "adjective",
     "translations": {
       "en": [
-        "fertile",
         "fecund",
+        "fertile",
         "fruitful"
       ],
       "fr": [
@@ -23290,14 +23290,14 @@
     "type": "noun",
     "translations": {
       "en": [
-        "hearing",
         "ear",
+        "hearing",
         "right to be heard"
       ],
       "fr": [
-        "ouïe",
         "appareil auditif",
-        "droit d'être entendu"
+        "droit d'être entendu",
+        "ouïe"
       ]
     },
     "gender": "n",
@@ -23334,9 +23334,9 @@
         "manuscript"
       ],
       "fr": [
+        "manuscrit",
         "écriture",
-        "écriture manuelle",
-        "manuscrit"
+        "écriture manuelle"
       ]
     },
     "gender": "f",
@@ -23368,12 +23368,12 @@
     "type": "verb",
     "translations": {
       "en": [
-        "heal",
-        "cure"
+        "cure",
+        "heal"
       ],
       "fr": [
-        "guérir",
-        "cicatriser"
+        "cicatriser",
+        "guérir"
       ]
     },
     "separable": false,
@@ -23542,14 +23542,14 @@
     "type": "noun",
     "translations": {
       "en": [
+        "germ",
         "seed",
         "shoot",
-        "sprout",
-        "germ"
+        "sprout"
       ],
       "fr": [
-        "prémices",
-        "germe"
+        "germe",
+        "prémices"
       ]
     },
     "gender": "m",
@@ -23825,9 +23825,9 @@
         "residue"
       ],
       "fr": [
-        "résidu",
+        "arriéré",
         "retard",
-        "arriéré"
+        "résidu"
       ]
     },
     "gender": "m",
@@ -23864,9 +23864,9 @@
         "touch"
       ],
       "fr": [
-        "s’agiter",
         "bouger",
         "remuer",
+        "s’agiter",
         "émouvoir"
       ]
     },
@@ -23934,8 +23934,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "butterfly",
-        "Lepidopter"
+        "Lepidopter",
+        "butterfly"
       ],
       "fr": [
         "papillon"
@@ -24001,12 +24001,12 @@
     "type": "noun",
     "translations": {
       "en": [
-        "southwest",
-        "south-west"
+        "south-west",
+        "southwest"
       ],
       "fr": [
-        "sud-ouest",
-        "Sud-Ouest"
+        "Sud-Ouest",
+        "sud-ouest"
       ]
     },
     "gender": "m",
@@ -24071,16 +24071,16 @@
     "type": "adjective",
     "translations": {
       "en": [
-        "higher-level",
         "high-level",
-        "superior",
+        "higher-level",
+        "importance",
         "overriding",
-        "importance"
+        "superior"
       ],
       "fr": [
-        "supérieur",
+        "générique",
         "principal",
-        "générique"
+        "supérieur"
       ]
     },
     "predicativeOnly": false,
@@ -24177,9 +24177,9 @@
       ],
       "fr": [
         "abondant",
+        "luxuriant",
         "plantureux",
-        "proliférant",
-        "luxuriant"
+        "proliférant"
       ]
     },
     "predicativeOnly": false,
@@ -24271,8 +24271,8 @@
     "type": "verb",
     "translations": {
       "en": [
-        "hold back",
-        "delay"
+        "delay",
+        "hold back"
       ],
       "fr": [
         "retarder"
@@ -24347,15 +24347,15 @@
     "type": "verb",
     "translations": {
       "en": [
-        "call off",
-        "decline",
-        "cancel",
-        "declare off",
-        "write off",
         "beg off",
-        "renege",
+        "call off",
+        "cancel",
         "countermand",
-        "turn down"
+        "declare off",
+        "decline",
+        "renege",
+        "turn down",
+        "write off"
       ],
       "fr": [
         "annuler",
@@ -24396,12 +24396,12 @@
     "translations": {
       "en": [
         "foreboding",
-        "presentiment",
-        "idea"
+        "idea",
+        "presentiment"
       ],
       "fr": [
-        "pressentiment",
-        "idée"
+        "idée",
+        "pressentiment"
       ]
     },
     "gender": "f",
@@ -24543,14 +24543,14 @@
     "type": "verb",
     "translations": {
       "en": [
-        "flesh out",
-        "work out",
+        "complete",
         "draw up",
-        "complete"
+        "flesh out",
+        "work out"
       ],
       "fr": [
-        "élaborer",
-        "rédiger"
+        "rédiger",
+        "élaborer"
       ]
     },
     "separable": true,
@@ -24586,19 +24586,19 @@
     "type": "verb",
     "translations": {
       "en": [
+        "break away",
         "break out",
-        "escape",
-        "vomit",
         "burst",
-        "break away"
+        "escape",
+        "vomit"
       ],
       "fr": [
+        "casser",
+        "régurgiter",
         "s'évader",
         "se déclarer",
-        "éclater",
         "vomir",
-        "régurgiter",
-        "casser"
+        "éclater"
       ]
     },
     "separable": true,
@@ -24743,14 +24743,14 @@
     "type": "noun",
     "translations": {
       "en": [
-        "breakthrough",
-        "break through",
         "breach",
+        "break through",
+        "breakthrough",
         "quantum leap"
       ],
       "fr": [
-        "claquage",
         "ajour",
+        "claquage",
         "percée"
       ]
     },
@@ -24861,8 +24861,8 @@
     "type": "verb",
     "translations": {
       "en": [
-        "focus",
-        "fix"
+        "fix",
+        "focus"
       ],
       "fr": [
         "fixer"
@@ -24901,8 +24901,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "Frank",
-        "Franconian"
+        "Franconian",
+        "Frank"
       ],
       "fr": [
         "Franc",
@@ -25045,9 +25045,9 @@
         "lecture theatre"
       ],
       "fr": [
+        "amphi",
         "amphithéâtre",
-        "auditorium",
-        "amphi"
+        "auditorium"
       ]
     },
     "gender": "m",
@@ -25228,8 +25228,8 @@
       ],
       "fr": [
         "briller",
-        "éclairer",
-        "luire"
+        "luire",
+        "éclairer"
       ]
     },
     "separable": false,
@@ -25265,9 +25265,9 @@
     "type": "noun",
     "translations": {
       "en": [
-        "marking",
         "mark",
-        "marker"
+        "marker",
+        "marking"
       ],
       "fr": []
     },
@@ -25305,8 +25305,8 @@
         "multi-family house"
       ],
       "fr": [
-        "maison plurifamiliale",
-        "bâtiment d’habitation collectif"
+        "bâtiment d’habitation collectif",
+        "maison plurifamiliale"
       ]
     },
     "gender": "n",
@@ -25341,9 +25341,9 @@
         "melody"
       ],
       "fr": [
-        "mélodie",
         "air",
-        "intonation"
+        "intonation",
+        "mélodie"
       ]
     },
     "gender": "f",
@@ -25573,12 +25573,12 @@
     "type": "noun",
     "translations": {
       "en": [
-        "switch",
-        "counter"
+        "counter",
+        "switch"
       ],
       "fr": [
-        "interrupteur",
-        "guichet"
+        "guichet",
+        "interrupteur"
       ]
     },
     "gender": "m",
@@ -25722,8 +25722,8 @@
         "spend the night"
       ],
       "fr": [
-        "passer la nuit",
-        "coucher"
+        "coucher",
+        "passer la nuit"
       ]
     },
     "separable": false,
@@ -26142,8 +26142,8 @@
     "type": "verb",
     "translations": {
       "en": [
-        "endure",
-        "bear"
+        "bear",
+        "endure"
       ],
       "fr": [
         "supporter"
@@ -26186,8 +26186,8 @@
         "expansion",
         "increase",
         "undue enrichment",
-        "unjustified enrichment",
-        "unjust enrichment"
+        "unjust enrichment",
+        "unjustified enrichment"
       ],
       "fr": [
         "augmentation",
@@ -26422,19 +26422,19 @@
     "type": "noun",
     "translations": {
       "en": [
-        "thread",
         "baton sinister",
         "fathom",
+        "glittering ribbon",
+        "measuring string",
         "raffia",
         "straw haulm",
         "straw skin",
-        "measuring string",
-        "glittering ribbon",
+        "thread",
         "vine shoot"
       ],
       "fr": [
-        "fil",
-        "brasse"
+        "brasse",
+        "fil"
       ]
     },
     "gender": "m",
@@ -26599,13 +26599,13 @@
     "type": "verb",
     "translations": {
       "en": [
-        "prevent",
-        "hinder"
+        "hinder",
+        "prevent"
       ],
       "fr": [
         "empêcher",
-        "gêner",
-        "entraver"
+        "entraver",
+        "gêner"
       ]
     },
     "separable": false,
@@ -26807,9 +26807,9 @@
         "flow out"
       ],
       "fr": [
-        "se jeter",
+        "aboutir",
         "déboucher",
-        "aboutir"
+        "se jeter"
       ]
     },
     "separable": false,
@@ -26849,8 +26849,8 @@
         "secondary school"
       ],
       "fr": [
-        "école secondaire",
-        "lycée"
+        "lycée",
+        "école secondaire"
       ]
     },
     "gender": "f",
@@ -26885,9 +26885,9 @@
         "operate"
       ],
       "fr": [
+        "agir",
         "opérer",
-        "œuvrer",
-        "agir"
+        "œuvrer"
       ]
     },
     "separable": false,
@@ -27067,13 +27067,13 @@
     "type": "noun",
     "translations": {
       "en": [
-        "query",
-        "further inquiry"
+        "further inquiry",
+        "query"
       ],
       "fr": [
+        "demande de précisions",
         "question",
-        "question en retour",
-        "demande de précisions"
+        "question en retour"
       ]
     },
     "gender": "f",
@@ -27210,8 +27210,8 @@
     "type": "verb",
     "translations": {
       "en": [
-        "simulate",
-        "fake"
+        "fake",
+        "simulate"
       ],
       "fr": []
     },
@@ -27286,8 +27286,8 @@
     "translations": {
       "en": [
         "death",
-        "dying",
-        "departure"
+        "departure",
+        "dying"
       ],
       "fr": []
     },
@@ -27450,14 +27450,14 @@
     "type": "adjective",
     "translations": {
       "en": [
-        "promising",
-        "auspicious"
+        "auspicious",
+        "promising"
       ],
       "fr": [
-        "prometteur",
-        "prometteuse",
         "encourageant",
-        "encourageante"
+        "encourageante",
+        "prometteur",
+        "prometteuse"
       ]
     },
     "predicativeOnly": false,
@@ -27549,16 +27549,16 @@
     "type": "noun",
     "translations": {
       "en": [
-        "Web",
+        "W3",
         "WWW",
-        "W3"
+        "Web"
       ],
       "fr": [
-        "Web",
-        "web",
-        "WWW",
         "Net",
-        "Toile"
+        "Toile",
+        "WWW",
+        "Web",
+        "web"
       ]
     },
     "gender": "n",
@@ -27686,8 +27686,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "restoration",
-        "recovery"
+        "recovery",
+        "restoration"
       ],
       "fr": [
         "restauration",
@@ -27793,12 +27793,12 @@
     "type": "noun",
     "translations": {
       "en": [
-        "wildlife protection",
-        "wildlife conservation"
+        "wildlife conservation",
+        "wildlife protection"
       ],
       "fr": [
-        "protection des espèces",
-        "conservation des espèces"
+        "conservation des espèces",
+        "protection des espèces"
       ]
     },
     "gender": "m",
@@ -27830,16 +27830,16 @@
     "type": "verb",
     "translations": {
       "en": [
-        "track down",
+        "detect",
         "ferret",
-        "detect"
+        "track down"
       ],
       "fr": [
         "débusquer",
-        "flairer",
-        "dépister",
         "découvrir",
-        "détecter"
+        "dépister",
+        "détecter",
+        "flairer"
       ]
     },
     "separable": true,
@@ -27876,8 +27876,8 @@
     "translations": {
       "en": [],
       "fr": [
-        "surélever d'un étage",
-        "augmenter"
+        "augmenter",
+        "surélever d'un étage"
       ]
     },
     "separable": true,
@@ -27913,8 +27913,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "limitation",
-        "limit"
+        "limit",
+        "limitation"
       ],
       "fr": [
         "démarcation",
@@ -27951,11 +27951,11 @@
     "type": "verb",
     "translations": {
       "en": [
-        "beat",
-        "defeat",
         "bag",
-        "overcome",
-        "conquer"
+        "beat",
+        "conquer",
+        "defeat",
+        "overcome"
       ],
       "fr": [
         "battre",
@@ -27998,9 +27998,9 @@
         "punish"
       ],
       "fr": [
+        "condamner",
         "punir",
-        "pénaliser",
-        "condamner"
+        "pénaliser"
       ]
     },
     "separable": false,
@@ -28172,9 +28172,9 @@
         "diet"
       ],
       "fr": [
-        "regime alimentaire",
         "diète",
-        "indemnité parlementaire"
+        "indemnité parlementaire",
+        "regime alimentaire"
       ]
     },
     "gender": "f",
@@ -28207,15 +28207,15 @@
     "translations": {
       "en": [],
       "fr": [
-        "entrer dans",
-        "descendre dans la mine",
-        "se glisser dans",
         "convoyer",
-        "roder",
+        "descendre dans la mine",
+        "défoncer",
+        "entrer dans",
         "prendre en main",
-        "s'habituer à",
         "rentrer",
-        "défoncer"
+        "roder",
+        "s'habituer à",
+        "se glisser dans"
       ]
     },
     "separable": true,
@@ -28254,8 +28254,8 @@
         "one-year-old"
       ],
       "fr": [
-        "d'un an",
-        "annuel"
+        "annuel",
+        "d'un an"
       ]
     },
     "predicativeOnly": false,
@@ -28352,8 +28352,8 @@
       ],
       "fr": [
         "fondamental",
-        "élémentaire",
-        "primordial"
+        "primordial",
+        "élémentaire"
       ]
     },
     "predicativeOnly": false,
@@ -28445,8 +28445,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "trade magazine",
-        "trade journal"
+        "trade journal",
+        "trade magazine"
       ],
       "fr": [
         "revue professionnelle",
@@ -28521,9 +28521,9 @@
     "type": "noun",
     "translations": {
       "en": [
-        "kind",
+        "genre",
         "genus",
-        "genre"
+        "kind"
       ],
       "fr": [
         "genre"
@@ -28631,8 +28631,8 @@
       "en": [],
       "fr": [
         "de derrière",
-        "à l'arrière",
-        "postérieur"
+        "postérieur",
+        "à l'arrière"
       ]
     },
     "predicativeOnly": false,
@@ -28860,12 +28860,12 @@
     "type": "verb",
     "translations": {
       "en": [
+        "connect",
         "couple",
+        "dead reckoning",
         "dock",
         "join",
-        "connect",
-        "link",
-        "dead reckoning"
+        "link"
       ],
       "fr": [
         "coupler",
@@ -28906,13 +28906,13 @@
     "type": "noun",
     "translations": {
       "en": [
-        "suit",
+        "costume",
         "fancy dress",
-        "costume"
+        "suit"
       ],
       "fr": [
-        "tailleur",
-        "costume"
+        "costume",
+        "tailleur"
       ]
     },
     "gender": "n",
@@ -29015,8 +29015,8 @@
     "translations": {
       "en": [
         "alleged",
-        "presumed",
         "conjectural",
+        "presumed",
         "presumptive",
         "putative"
       ],
@@ -29283,9 +29283,9 @@
         "nutsack"
       ],
       "fr": [
-        "sac",
         "couilles",
-        "poche"
+        "poche",
+        "sac"
       ]
     },
     "gender": "m",
@@ -29504,8 +29504,8 @@
     "translations": {
       "en": [
         "instructional material",
-        "teaching material",
-        "learning material"
+        "learning material",
+        "teaching material"
       ],
       "fr": [
         "matériel pédagogique"
@@ -29644,8 +29644,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "World Cup",
-        "World Championship"
+        "World Championship",
+        "World Cup"
       ],
       "fr": [
         "championnat du monde"
@@ -29680,8 +29680,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "unemployment benefit",
-        "dole"
+        "dole",
+        "unemployment benefit"
       ],
       "fr": [
         "allocation chômage",
@@ -29720,8 +29720,8 @@
         "decisive"
       ],
       "fr": [
-        "déterminant",
-        "décisif"
+        "décisif",
+        "déterminant"
       ]
     },
     "predicativeOnly": false,
@@ -29813,73 +29813,73 @@
     "type": "verb",
     "translations": {
       "en": [
-        "to get off (a vehicle)",
-        "to get out of (a vehicle)",
+        "ahead of schedule",
         "to alight from (a bus, train)",
-        "to disembark (a train)",
-        "to bail out",
-        "to eject",
-        "to parachute",
-        "to get out of the water",
-        "to step out of the water",
         "to back out of (a commitment)",
+        "to bail out",
         "to bail out of (an obligation, a commitment)",
         "to bale out of (an obligation, a commitment)",
-        "to drop out of something",
-        "to quit something",
-        "to withdraw from something",
-        "to opt out of something",
-        "to retire from something",
+        "to complete one’s studies",
+        "to disembark (a train)",
         "to drop out of (work, society)",
-        "to opt out of (work, society)",
-        "to quit one’s job",
+        "to drop out of something",
+        "to eject",
+        "to fail",
         "to flee",
+        "to get off (a vehicle)",
+        "to get out of (a vehicle)",
+        "to get out of the water",
+        "to opt out of (work, society)",
+        "to opt out of something",
+        "to parachute",
+        "to quit one’s job",
+        "to quit something",
+        "to retire from something",
+        "to step out of the water",
+        "to stop",
+        "to switch off",
         "to take flight",
         "to take to flight",
-        "to complete one’s studies",
-        "ahead of schedule",
         "to wean oneself off the drugs",
-        "to fail",
-        "to stop",
-        "to switch off"
+        "to withdraw from something"
       ],
       "fr": [
-        "descendre",
-        "débarquer",
-        "sauter",
-        "s’éjecter",
-        "parachuter",
-        "sauter en parachute",
-        "descendre à terre",
-        "sortir de l’eau",
         "abandonner",
-        "se retirer de quelque chose",
+        "abandonner la partie",
+        "abandonner quelque chose de guerre lasse",
+        "achever ses études",
+        "caler",
         "choisir",
         "de",
-        "ne",
-        "plus",
-        "participer",
-        "à",
-        "quelque chose",
-        "abandonner quelque chose de guerre lasse",
-        "abandonner la partie",
+        "descendre",
+        "descendre à terre",
+        "débarquer",
         "délaisser (quelqu’un, quelque chose)",
+        "démissionner",
+        "en avance",
+        "flancher",
+        "fuir",
+        "lâcher",
         "lâcher (quelqu’un, quelque chose)",
-        "se mettre en marge de (la société)",
-        "se marginaliser",
+        "ne",
+        "parachuter",
+        "participer",
+        "plus",
+        "prendre la fuite",
+        "quelque chose",
         "rompre avec (l’establishment, quelqu’un)",
         "rompre les ponts avec quelqu’un",
-        "démissionner",
-        "s’enfuir",
-        "fuir",
-        "prendre la fuite",
-        "achever ses études",
-        "en avance",
+        "sauter",
+        "sauter en parachute",
+        "se marginaliser",
+        "se mettre en marge de (la société)",
+        "se retirer de quelque chose",
         "se sevrer (d’un stupéfiant)",
-        "caler",
-        "flancher",
-        "lâcher",
-        "stâler"
+        "sortir de l’eau",
+        "stâler",
+        "s’enfuir",
+        "s’éjecter",
+        "à"
       ]
     },
     "separable": true,
@@ -30009,9 +30009,9 @@
     "type": "verb",
     "translations": {
       "en": [
+        "interpret",
         "point",
-        "portend",
-        "interpret"
+        "portend"
       ],
       "fr": [
         "signaler"
@@ -30275,8 +30275,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "native country",
-        "homeland"
+        "homeland",
+        "native country"
       ],
       "fr": [
         "pays natal"
@@ -30311,8 +30311,8 @@
     "type": "adjective",
     "translations": {
       "en": [
-        "light",
         "bright",
+        "light",
         "sharp",
         "smart"
       ],
@@ -30451,8 +30451,8 @@
         "heart"
       ],
       "fr": [
-        "élément central",
-        "pièce maîtresse"
+        "pièce maîtresse",
+        "élément central"
       ]
     },
     "gender": "n",
@@ -30764,9 +30764,9 @@
         "take note"
       ],
       "fr": [
-        "saisir",
+        "connaissance",
         "prendre",
-        "connaissance"
+        "saisir"
       ]
     },
     "separable": true,
@@ -31006,15 +31006,15 @@
     "type": "verb",
     "translations": {
       "en": [
-        "doctorate",
-        "doctor",
+        "Ph.D.",
         "PhD",
-        "Ph.D."
+        "doctor",
+        "doctorate"
       ],
       "fr": [
-        "thèse",
+        "docteur",
         "doctorat",
-        "docteur"
+        "thèse"
       ]
     },
     "separable": false,
@@ -31086,14 +31086,14 @@
     "translations": {
       "en": [
         "burst",
-        "tear",
         "rip",
-        "rupture"
+        "rupture",
+        "tear"
       ],
       "fr": [
+        "dessin",
         "déchirure",
-        "rupture",
-        "dessin"
+        "rupture"
       ]
     },
     "gender": "m",
@@ -31287,13 +31287,13 @@
     "type": "noun",
     "translations": {
       "en": [
-        "upheaval",
         "make-up",
+        "upheaval",
         "word wrap"
       ],
       "fr": [
-        "révolution",
-        "mise en page"
+        "mise en page",
+        "révolution"
       ]
     },
     "gender": "m",
@@ -31329,8 +31329,8 @@
       ],
       "fr": [
         "différence",
-        "distinction",
-        "différentiation"
+        "différentiation",
+        "distinction"
       ]
     },
     "gender": "f",
@@ -31362,18 +31362,18 @@
     "type": "noun",
     "translations": {
       "en": [
-        "power of attorney",
-        "proxy",
         "authority",
+        "certificate of authority",
         "commission",
-        "power",
         "full power",
         "full powers",
-        "procuration",
-        "warrant",
-        "certificate of authority",
         "letter of attorney",
-        "letter of authorization"
+        "letter of authorization",
+        "power",
+        "power of attorney",
+        "procuration",
+        "proxy",
+        "warrant"
       ],
       "fr": [
         "procuration"
@@ -31411,9 +31411,9 @@
         "weir"
       ],
       "fr": [
-        "seuil",
+        "barrage",
         "digue",
-        "barrage"
+        "seuil"
       ]
     },
     "gender": "n",
@@ -31446,9 +31446,9 @@
     "translations": {
       "en": [],
       "fr": [
-        "défense",
+        "arme",
         "armée",
-        "arme"
+        "défense"
       ]
     },
     "gender": "f",
@@ -31483,8 +31483,8 @@
         "tick"
       ],
       "fr": [
-        "tique",
-        "gauchiste"
+        "gauchiste",
+        "tique"
       ]
     },
     "gender": "f",
@@ -31516,12 +31516,12 @@
     "type": "noun",
     "translations": {
       "en": [
-        "onion",
-        "bulb"
+        "bulb",
+        "onion"
       ],
       "fr": [
-        "oignon",
-        "bulbe"
+        "bulbe",
+        "oignon"
       ]
     },
     "gender": "m",
@@ -31554,8 +31554,8 @@
     "translations": {
       "en": [
         "cycle",
-        "period",
-        "menstrual cycle"
+        "menstrual cycle",
+        "period"
       ],
       "fr": [
         "cycle"
@@ -31590,17 +31590,17 @@
     "type": "noun",
     "translations": {
       "en": [
-        "cancellation",
         "annulation",
+        "cancellation",
         "conclusion",
         "ending",
         "refusal"
       ],
       "fr": [
         "annulation",
-        "réponse négative",
         "conclusion",
-        "refus"
+        "refus",
+        "réponse négative"
       ]
     },
     "gender": "f",
@@ -31668,8 +31668,8 @@
         "bond"
       ],
       "fr": [
-        "obligation",
-        "emprunt"
+        "emprunt",
+        "obligation"
       ]
     },
     "gender": "f",
@@ -31778,28 +31778,28 @@
     "type": "noun",
     "translations": {
       "en": [
-        "raising",
-        "lifting",
-        "closing",
         "abolition",
+        "annulment",
+        "breaking off",
+        "cancellation",
+        "closing",
+        "dissolution of marriage",
+        "lifting",
+        "quashing",
+        "raising",
         "repeal",
         "rescinding",
-        "annulment",
-        "cancellation",
-        "revocation",
         "reversal",
-        "quashing",
-        "breaking off",
-        "dissolution of marriage"
+        "revocation"
       ],
       "fr": [
-        "levée",
-        "clôture",
         "abolition",
         "annulation",
-        "révocation",
+        "annulation de mariage",
         "cassation",
-        "annulation de mariage"
+        "clôture",
+        "levée",
+        "révocation"
       ]
     },
     "gender": "f",
@@ -31862,8 +31862,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "claim",
-        "assertion"
+        "assertion",
+        "claim"
       ],
       "fr": [
         "assertion"
@@ -32144,8 +32144,8 @@
       ],
       "fr": [
         "importance",
-        "notoriété",
-        "mettre en valeur"
+        "mettre en valeur",
+        "notoriété"
       ]
     },
     "gender": "f",
@@ -32177,16 +32177,16 @@
     "type": "noun",
     "translations": {
       "en": [
-        "slope",
         "inclination",
+        "slope",
         "tendency"
       ],
       "fr": [
-        "flanc",
-        "versant",
         "côte",
+        "flanc",
         "inclinaison",
-        "tendance"
+        "tendance",
+        "versant"
       ]
     },
     "gender": "m",
@@ -32218,9 +32218,9 @@
     "type": "noun",
     "translations": {
       "en": [
-        "charity",
         "aid agency",
         "aid organization",
+        "charity",
         "relief organization"
       ],
       "fr": [
@@ -32295,9 +32295,9 @@
         "weird"
       ],
       "fr": [
+        "bizarre",
         "bouffe",
         "comique",
-        "bizarre",
         "étrange"
       ]
     },
@@ -32547,9 +32547,9 @@
     "type": "adjective",
     "translations": {
       "en": [
+        "imperceptible",
         "seamless",
-        "smooth",
-        "imperceptible"
+        "smooth"
       ],
       "fr": []
     },
@@ -32646,8 +32646,8 @@
         "shrink"
       ],
       "fr": [
-        "psychologue",
-        "psy"
+        "psy",
+        "psychologue"
       ]
     },
     "gender": "m",
@@ -32774,9 +32774,9 @@
     "type": "noun",
     "translations": {
       "en": [
-        "resignation",
+        "back pedal brake",
         "coaster brake",
-        "back pedal brake"
+        "resignation"
       ],
       "fr": [
         "démission"
@@ -32980,8 +32980,8 @@
         "stop"
       ],
       "fr": [
-        "faire cesser",
-        "empêcher"
+        "empêcher",
+        "faire cesser"
       ]
     },
     "separable": false,
@@ -33017,8 +33017,8 @@
     "type": "verb",
     "translations": {
       "en": [
-        "subordinate",
         "insinuate",
+        "subordinate",
         "suppose"
       ],
       "fr": [
@@ -33098,13 +33098,13 @@
     "translations": {
       "en": [
         "accomplish",
-        "complete",
         "achieve",
+        "complete",
         "finish"
       ],
       "fr": [
-        "finaliser",
         "achever",
+        "finaliser",
         "terminer"
       ]
     },
@@ -33142,8 +33142,8 @@
     "translations": {
       "en": [
         "lead",
-        "protrusion",
-        "projection"
+        "projection",
+        "protrusion"
       ],
       "fr": [
         "avance",
@@ -33365,12 +33365,12 @@
     "type": "noun",
     "translations": {
       "en": [
-        "branch",
-        "bough",
-        "knurl",
-        "knot",
         "back",
-        "hump"
+        "bough",
+        "branch",
+        "hump",
+        "knot",
+        "knurl"
       ],
       "fr": [
         "branche",
@@ -33406,16 +33406,16 @@
     "type": "noun",
     "translations": {
       "en": [
+        "attachment",
         "composition",
         "essay",
-        "attachment",
         "top",
         "upper part"
       ],
       "fr": [
-        "rédaction",
+        "article",
         "essai",
-        "article"
+        "rédaction"
       ]
     },
     "gender": "m",
@@ -33480,14 +33480,14 @@
     "type": "noun",
     "translations": {
       "en": [
-        "escape",
-        "outbreak",
+        "break-out",
         "eruption",
-        "break-out"
+        "escape",
+        "outbreak"
       ],
       "fr": [
-        "évasion",
-        "éruption"
+        "éruption",
+        "évasion"
       ]
     },
     "gender": "m",
@@ -33613,13 +33613,13 @@
     "type": "noun",
     "translations": {
       "en": [
-        "benefit",
-        "abetment"
+        "abetment",
+        "benefit"
       ],
       "fr": [
         "aide financière",
-        "subside",
         "complicité",
+        "subside",
         "subvention (publique)"
       ]
     },
@@ -33652,13 +33652,13 @@
     "type": "verb",
     "translations": {
       "en": [
+        "accede",
         "join",
-        "support",
-        "accede"
+        "support"
       ],
       "fr": [
-        "joindre",
         "adhérer",
+        "joindre",
         "souscrire"
       ]
     },
@@ -33696,8 +33696,8 @@
     "translations": {
       "en": [
         "capable of bearing",
-        "resilient",
-        "reliable"
+        "reliable",
+        "resilient"
       ],
       "fr": []
     },
@@ -33920,17 +33920,17 @@
     "type": "noun",
     "translations": {
       "en": [
-        "block",
-        "notepad",
-        "scribbling block",
-        "writing pad",
         "bloc",
+        "block",
         "coalition",
-        "pillory",
-        "selvedge",
-        "selvage",
         "code block",
-        "unit"
+        "notepad",
+        "pillory",
+        "scribbling block",
+        "selvage",
+        "selvedge",
+        "unit",
+        "writing pad"
       ],
       "fr": [
         "bloc",
@@ -33966,8 +33966,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "bus route",
-        "bus line"
+        "bus line",
+        "bus route"
       ],
       "fr": [
         "ligne d'autobus"
@@ -34003,8 +34003,8 @@
     "translations": {
       "en": [],
       "fr": [
-        "être là",
-        "rester là"
+        "rester là",
+        "être là"
       ]
     },
     "separable": true,
@@ -34354,8 +34354,8 @@
     "type": "adjective",
     "translations": {
       "en": [
-        "mysterious",
-        "arcane"
+        "arcane",
+        "mysterious"
       ],
       "fr": [
         "mystérieux"
@@ -34452,10 +34452,10 @@
       "en": [
         "hill",
         "hillock",
-        "hump",
         "hummock",
-        "mound",
-        "motte"
+        "hump",
+        "motte",
+        "mound"
       ],
       "fr": [
         "colline",
@@ -34695,12 +34695,12 @@
     "type": "noun",
     "translations": {
       "en": [
-        "novelty",
-        "innovation"
+        "innovation",
+        "novelty"
       ],
       "fr": [
-        "nouveauté",
-        "innovation"
+        "innovation",
+        "nouveauté"
       ]
     },
     "gender": "f",
@@ -35020,8 +35020,8 @@
     "type": "verb",
     "translations": {
       "en": [
-        "renovate",
-        "refurbish"
+        "refurbish",
+        "renovate"
       ],
       "fr": [
         "rénover"
@@ -35060,14 +35060,14 @@
     "type": "noun",
     "translations": {
       "en": [
-        "bowl",
         "banger",
+        "bowl",
         "satellite dish"
       ],
       "fr": [
-        "plat creux",
         "coupe",
-        "cuvette"
+        "cuvette",
+        "plat creux"
       ]
     },
     "gender": "f",
@@ -35099,8 +35099,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "self-government",
-        "self-governance"
+        "self-governance",
+        "self-government"
       ],
       "fr": [
         "autogouvernance"
@@ -35367,14 +35367,14 @@
     "type": "verb",
     "translations": {
       "en": [
-        "deprive",
-        "deny",
         "agree upon something",
-        "arrange"
+        "arrange",
+        "deny",
+        "deprive"
       ],
       "fr": [
-        "dénier",
         "convenir",
+        "dénier",
         "juger"
       ]
     },
@@ -35411,8 +35411,8 @@
     "type": "adjective",
     "translations": {
       "en": [
-        "updated",
-        "refreshed"
+        "refreshed",
+        "updated"
       ],
       "fr": []
     },
@@ -35511,10 +35511,10 @@
       "fr": [
         "déceler",
         "découvrir",
-        "retourner",
         "démasquer",
-        "révéler",
-        "dévoiler"
+        "dévoiler",
+        "retourner",
+        "révéler"
       ]
     },
     "separable": true,
@@ -35723,19 +35723,19 @@
     "type": "adjective",
     "translations": {
       "en": [
-        "lonely",
         "alone",
-        "remote",
-        "isolated",
         "deserted",
+        "isolated",
+        "lonely",
+        "remote",
         "unique"
       ],
       "fr": [
+        "désert",
         "esseulé",
+        "isolé",
         "seul",
         "solitaire",
-        "isolé",
-        "désert",
         "unique"
       ]
     },
@@ -35902,13 +35902,13 @@
     "type": "noun",
     "translations": {
       "en": [
+        "mall",
         "pedestrian precinct",
-        "pedestrian zone",
-        "mall"
+        "pedestrian zone"
       ],
       "fr": [
-        "zone piétonnière",
-        "zone piétonne"
+        "zone piétonne",
+        "zone piétonnière"
       ]
     },
     "gender": "f",
@@ -36179,16 +36179,16 @@
     "type": "verb",
     "translations": {
       "en": [
-        "get started",
         "get going",
+        "get started",
         "kick off",
         "let rip"
       ],
       "fr": [
-        "démarer sur les chapeaux de roues",
-        "envoyer",
         "balancer",
-        "cracher sa Valda"
+        "cracher sa Valda",
+        "démarer sur les chapeaux de roues",
+        "envoyer"
       ]
     },
     "separable": true,
@@ -36263,18 +36263,18 @@
     "type": "noun",
     "translations": {
       "en": [
-        "inclination",
+        "affinity",
         "batter",
-        "propensity",
-        "affinity"
+        "inclination",
+        "propensity"
       ],
       "fr": [
+        "affinité",
         "inclinaison",
-        "propension",
-        "tendance",
         "inclination",
         "penchant",
-        "affinité"
+        "propension",
+        "tendance"
       ]
     },
     "gender": "f",
@@ -36309,9 +36309,9 @@
         "park"
       ],
       "fr": [
-        "stationner",
         "garer",
-        "parquer"
+        "parquer",
+        "stationner"
       ]
     },
     "separable": false,
@@ -36443,10 +36443,10 @@
     "type": "verb",
     "translations": {
       "en": [
-        "prognosticate",
-        "predict",
+        "forecast",
         "foretell",
-        "forecast"
+        "predict",
+        "prognosticate"
       ],
       "fr": [
         "prédire",
@@ -36629,8 +36629,8 @@
     "translations": {
       "en": [],
       "fr": [
-        "œuvre",
-        "travail"
+        "travail",
+        "œuvre"
       ]
     },
     "gender": "n",
@@ -36693,8 +36693,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "shot",
         "gunshoot",
+        "shot",
         "weft",
         "woof"
       ],
@@ -36844,8 +36844,8 @@
         "systemic"
       ],
       "fr": [
-        "systémique",
-        "généralisé"
+        "généralisé",
+        "systémique"
       ]
     },
     "predicativeOnly": false,
@@ -36972,8 +36972,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "subsidiary company",
-        "subsidiary"
+        "subsidiary",
+        "subsidiary company"
       ],
       "fr": [
         "filiale"
@@ -37009,14 +37009,14 @@
     "translations": {
       "en": [
         "agree",
-        "tally",
+        "correlate",
         "correspond",
-        "correlate"
+        "tally"
       ],
       "fr": [
-        "être d'accord",
         "correspondre",
-        "corréler"
+        "corréler",
+        "être d'accord"
       ]
     },
     "separable": true,
@@ -37148,8 +37148,8 @@
     "type": "adjective",
     "translations": {
       "en": [
-        "unfavourable",
-        "inconvenient"
+        "inconvenient",
+        "unfavourable"
       ],
       "fr": [
         "défavorable"
@@ -37280,10 +37280,10 @@
     "type": "noun",
     "translations": {
       "en": [
-        "interruption",
-        "break",
         "adjournment",
-        "interrupt"
+        "break",
+        "interrupt",
+        "interruption"
       ],
       "fr": [
         "interruption"
@@ -37559,8 +37559,8 @@
     "type": "verb",
     "translations": {
       "en": [
-        "suspect",
-        "guess"
+        "guess",
+        "suspect"
       ],
       "fr": [
         "pressentir",
@@ -37600,30 +37600,30 @@
     "type": "noun",
     "translations": {
       "en": [
-        "respect",
-        "reputation",
-        "looking at",
-        "view",
-        "glance",
         "appearance",
-        "outside",
-        "exterior",
-        "regard",
+        "authority",
+        "consequence",
         "consideration",
         "credit",
+        "exterior",
+        "glance",
+        "looking at",
+        "outside",
         "prestige",
-        "authority",
-        "vogue",
-        "consequence"
+        "regard",
+        "reputation",
+        "respect",
+        "view",
+        "vogue"
       ],
       "fr": [
-        "réputation",
-        "renommée",
-        "prestige",
-        "visionnage",
         "apparence",
         "considération",
-        "estime"
+        "estime",
+        "prestige",
+        "renommée",
+        "réputation",
+        "visionnage"
       ]
     },
     "gender": "n",
@@ -37655,19 +37655,19 @@
     "type": "verb",
     "translations": {
       "en": [
-        "leak",
-        "run out",
-        "flow out",
         "discontinue",
         "expire",
-        "sail",
-        "leave port"
+        "flow out",
+        "leak",
+        "leave port",
+        "run out",
+        "sail"
       ],
       "fr": [
-        "sortir",
-        "fuir",
         "expirer",
-        "quitter le port"
+        "fuir",
+        "quitter le port",
+        "sortir"
       ]
     },
     "separable": true,
@@ -37739,8 +37739,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "gift",
         "flair",
+        "gift",
         "talent"
       ],
       "fr": [
@@ -37815,10 +37815,10 @@
         "equip"
       ],
       "fr": [
-        "équiper",
+        "garnir",
         "monter",
         "munir",
-        "garnir"
+        "équiper"
       ]
     },
     "separable": false,
@@ -37982,8 +37982,8 @@
       "en": [
         "arouse",
         "awaken",
-        "wake up",
-        "evoke"
+        "evoke",
+        "wake up"
       ],
       "fr": []
     },
@@ -38144,13 +38144,13 @@
     "type": "noun",
     "translations": {
       "en": [
+        "blunder",
         "hammer",
         "hammering machine",
         "malleus",
-        "rush",
-        "stroke of luck",
         "outrage",
-        "blunder"
+        "rush",
+        "stroke of luck"
       ],
       "fr": [
         "marteau"
@@ -38221,8 +38221,8 @@
         "Internet access"
       ],
       "fr": [
-        "accès à Internet",
-        "accès Internet"
+        "accès Internet",
+        "accès à Internet"
       ]
     },
     "gender": "m",
@@ -38350,14 +38350,14 @@
     "type": "noun",
     "translations": {
       "en": [
-        "perambulator",
-        "pram",
+        "baby buggy",
         "baby carriage",
-        "baby buggy"
+        "perambulator",
+        "pram"
       ],
       "fr": [
-        "voiture d’enfant",
-        "landau"
+        "landau",
+        "voiture d’enfant"
       ]
     },
     "gender": "m",
@@ -38429,12 +38429,12 @@
     "type": "noun",
     "translations": {
       "en": [
-        "rural road",
-        "country road"
+        "country road",
+        "rural road"
       ],
       "fr": [
-        "route départementale",
-        "route"
+        "route",
+        "route départementale"
       ]
     },
     "gender": "f",
@@ -38469,8 +38469,8 @@
         "suffering"
       ],
       "fr": [
-        "souffrances",
-        "douleurs"
+        "douleurs",
+        "souffrances"
       ]
     },
     "gender": "n",
@@ -38536,15 +38536,15 @@
         "deficiency"
       ],
       "fr": [
-        "situation",
-        "mauvaise",
         "administration",
-        "violation",
-        "état de fait",
-        "déplorable",
-        "défaut",
         "anomalie",
-        "dysfonctionnement"
+        "dysfonctionnement",
+        "défaut",
+        "déplorable",
+        "mauvaise",
+        "situation",
+        "violation",
+        "état de fait"
       ]
     },
     "gender": "m",
@@ -39025,10 +39025,10 @@
         "proceed"
       ],
       "fr": [
-        "précéder",
         "aller",
+        "avancer",
         "avant",
-        "avancer"
+        "précéder"
       ]
     },
     "separable": true,
@@ -39097,9 +39097,9 @@
     "type": "verb",
     "translations": {
       "en": [
-        "turn towards",
         "devote",
-        "donate"
+        "donate",
+        "turn towards"
       ],
       "fr": []
     },
@@ -39136,19 +39136,19 @@
     "type": "verb",
     "translations": {
       "en": [
-        "clench",
-        "tackle",
         "approach",
-        "deal with"
+        "clench",
+        "deal with",
+        "tackle"
       ],
       "fr": [
-        "saisir",
-        "attraper",
-        "y",
-        "mettre",
-        "atteler",
+        "adresser",
         "affronter",
-        "adresser"
+        "atteler",
+        "attraper",
+        "mettre",
+        "saisir",
+        "y"
       ]
     },
     "separable": true,
@@ -39184,8 +39184,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "personnel",
-        "employees"
+        "employees",
+        "personnel"
       ],
       "fr": [
         "personnel"
@@ -39260,14 +39260,14 @@
     "type": "noun",
     "translations": {
       "en": [
-        "bus stop",
-        "bus shelter"
+        "bus shelter",
+        "bus stop"
       ],
       "fr": [
-        "arrêt de bus",
-        "aubette",
+        "Abribus",
         "abribus",
-        "Abribus"
+        "arrêt de bus",
+        "aubette"
       ]
     },
     "gender": "f",
@@ -39302,8 +39302,8 @@
         "family house"
       ],
       "fr": [
-        "maison unifamiliale",
-        "maison pour une famille"
+        "maison pour une famille",
+        "maison unifamiliale"
       ]
     },
     "gender": "n",
@@ -39372,9 +39372,9 @@
     "type": "noun",
     "translations": {
       "en": [
+        "professional school",
         "technical college",
         "technical school",
-        "professional school",
         "vocational school"
       ],
       "fr": [
@@ -39443,8 +39443,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "Friday night",
-        "Friday evening"
+        "Friday evening",
+        "Friday night"
       ],
       "fr": [
         "vendredi soir"
@@ -39510,8 +39510,8 @@
     "type": "adjective",
     "translations": {
       "en": [
-        "ingenious",
-        "brilliant"
+        "brilliant",
+        "ingenious"
       ],
       "fr": [
         "génial"
@@ -39606,16 +39606,16 @@
     "type": "noun",
     "translations": {
       "en": [
-        "hook",
-        "tick",
         "check",
-        "hitch"
+        "hitch",
+        "hook",
+        "tick"
       ],
       "fr": [
-        "crochet",
-        "portemanteau",
         "coche",
-        "hic"
+        "crochet",
+        "hic",
+        "portemanteau"
       ]
     },
     "gender": "m",
@@ -39750,23 +39750,23 @@
     "type": "noun",
     "translations": {
       "en": [
+        "day-nursery",
         "golden",
-        "hoard",
-        "treasure",
         "haven",
+        "hoard",
+        "hotbed",
+        "nursery school",
         "refuge",
         "shelter",
-        "hotbed",
-        "day-nursery",
-        "nursery school"
+        "treasure"
       ],
       "fr": [
-        "trésor",
         "en",
-        "pièces",
-        "or",
+        "garderie",
         "havre",
-        "garderie"
+        "or",
+        "pièces",
+        "trésor"
       ]
     },
     "gender": "m",
@@ -39901,15 +39901,15 @@
         "infantile",
         "infantine",
         "kiddy",
-        "puerile",
-        "naive"
+        "naive",
+        "puerile"
       ],
       "fr": [
+        "d'enfant",
         "enfantin",
         "enfantine",
         "filial",
         "filiale",
-        "d'enfant",
         "naïf"
       ]
     },
@@ -40003,11 +40003,11 @@
     "translations": {
       "en": [
         "body",
-        "corpse",
         "cadaver",
         "carcass",
-        "typographic omission",
-        "funeral"
+        "corpse",
+        "funeral",
+        "typographic omission"
       ],
       "fr": [
         "cadavre",
@@ -40046,9 +40046,9 @@
         "mask"
       ],
       "fr": [
-        "masque",
         "cagoule",
-        "grille d'écran"
+        "grille d'écran",
+        "masque"
       ]
     },
     "gender": "f",
@@ -40348,8 +40348,8 @@
         "pension"
       ],
       "fr": [
-        "pension de famille",
         "pension",
+        "pension de famille",
         "retraite"
       ]
     },
@@ -40413,11 +40413,11 @@
     "type": "noun",
     "translations": {
       "en": [
-        "lawn",
         "grass",
         "green",
-        "turf",
-        "guard-band"
+        "guard-band",
+        "lawn",
+        "turf"
       ],
       "fr": [
         "pelouse"
@@ -40518,13 +40518,13 @@
     "type": "verb",
     "translations": {
       "en": [
-        "spice up",
+        "focus",
         "sharpen",
-        "focus"
+        "spice up"
       ],
       "fr": [
-        "affûter",
         "affiler",
+        "affûter",
         "aiguiser",
         "amorcer"
       ]
@@ -40563,18 +40563,18 @@
     "translations": {
       "en": [
         "close",
+        "closure",
         "conclusion",
         "end",
-        "termination",
-        "closure",
+        "short",
         "short circuit",
-        "short"
+        "termination"
       ],
       "fr": [
-        "fin",
-        "fermeture",
         "conclusion",
-        "court-jus"
+        "court-jus",
+        "fermeture",
+        "fin"
       ]
     },
     "gender": "m",
@@ -40606,11 +40606,11 @@
     "type": "adjective",
     "translations": {
       "en": [
+        "exaggerated",
         "excessive",
-        "profuse",
-        "undue",
         "inordinate",
-        "exaggerated"
+        "profuse",
+        "undue"
       ],
       "fr": [
         "excessif"
@@ -40707,8 +40707,8 @@
     "type": "adjective",
     "translations": {
       "en": [
-        "unlike",
-        "unequal"
+        "unequal",
+        "unlike"
       ],
       "fr": [
         "différent"
@@ -40804,10 +40804,10 @@
     "translations": {
       "en": [],
       "fr": [
-        "heure de cours",
-        "leçon",
         "cours",
-        "heure d'enseignement"
+        "heure d'enseignement",
+        "heure de cours",
+        "leçon"
       ]
     },
     "gender": "f",
@@ -40935,8 +40935,8 @@
     "translations": {
       "en": [
         "confuse",
-        "mix up",
-        "get muddled"
+        "get muddled",
+        "mix up"
       ],
       "fr": [
         "confondre"
@@ -41013,14 +41013,14 @@
     "type": "noun",
     "translations": {
       "en": [
-        "showing",
+        "demonstration",
         "performance",
-        "demonstration"
+        "showing"
       ],
       "fr": [
-        "représentation",
+        "démonstration",
         "performance",
-        "démonstration"
+        "représentation"
       ]
     },
     "gender": "f",
@@ -41124,8 +41124,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "place of refuge",
-        "asylum"
+        "asylum",
+        "place of refuge"
       ],
       "fr": [
         "asile"
@@ -41271,23 +41271,23 @@
     "translations": {
       "en": [
         "annoying",
-        "irksome",
-        "wearing",
         "be a strain",
         "incriminating",
         "incriminatory",
         "inculpatory",
-        "smoking memo"
+        "irksome",
+        "smoking memo",
+        "wearing"
       ],
       "fr": [
         "accablant",
-        "gênant",
-        "lourd",
-        "pénible",
-        "incriminant",
         "accusant",
+        "gênant",
+        "incriminant",
         "inculpant",
+        "lourd",
         "mettant",
+        "pénible",
         "suspectant"
       ]
     },
@@ -41451,8 +41451,8 @@
     "translations": {
       "en": [],
       "fr": [
-        "management",
-        "gestion"
+        "gestion",
+        "management"
       ]
     },
     "gender": "f",
@@ -41615,8 +41615,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "Episcopal Conference",
-        "Conference of Bishops"
+        "Conference of Bishops",
+        "Episcopal Conference"
       ],
       "fr": []
     },
@@ -41651,15 +41651,15 @@
       "en": [
         "bloom",
         "blossom",
+        "come up",
         "flourish",
-        "thrive",
-        "turn up",
         "show up",
-        "come up"
+        "thrive",
+        "turn up"
       ],
       "fr": [
-        "fleurir",
-        "arriver"
+        "arriver",
+        "fleurir"
       ]
     },
     "separable": false,
@@ -41730,10 +41730,10 @@
     "type": "noun",
     "translations": {
       "en": [
-        "double room",
         "double bedroom",
-        "twin room",
-        "twin"
+        "double room",
+        "twin",
+        "twin room"
       ],
       "fr": [
         "chambre double"
@@ -41808,8 +41808,8 @@
     "translations": {
       "en": [],
       "fr": [
-        "revenus",
-        "recettes"
+        "recettes",
+        "revenus"
       ]
     },
     "gender": "f",
@@ -41846,8 +41846,8 @@
         "suspended driving licence"
       ],
       "fr": [
-        "interdiction de conduire",
-        "interdiction de circuler"
+        "interdiction de circuler",
+        "interdiction de conduire"
       ]
     },
     "gender": "n",
@@ -42046,16 +42046,16 @@
     "type": "verb",
     "translations": {
       "en": [
+        "cast",
         "pour",
-        "water",
-        "cast"
+        "water"
       ],
       "fr": [
-        "verser",
         "arroser",
-        "pleuvoir à verse",
         "dracher",
-        "fondre"
+        "fondre",
+        "pleuvoir à verse",
+        "verser"
       ]
     },
     "separable": false,
@@ -42126,9 +42126,9 @@
     "type": "noun",
     "translations": {
       "en": [
-        "broiling",
         "barbecue",
-        "braai"
+        "braai",
+        "broiling"
       ],
       "fr": [
         "grillades"
@@ -42202,14 +42202,14 @@
     "type": "noun",
     "translations": {
       "en": [
-        "coffer",
         "box",
+        "coffer",
         "cupboard"
       ],
       "fr": [
-        "coffre",
+        "armoire",
         "caisse",
-        "armoire"
+        "coffre"
       ]
     },
     "gender": "m",
@@ -42241,15 +42241,15 @@
     "type": "noun",
     "translations": {
       "en": [
-        "organism",
+        "life form",
         "living being",
-        "life form"
+        "organism"
       ],
       "fr": [
-        "être animé",
-        "être vivant",
+        "organisme vivant",
         "être",
-        "organisme vivant"
+        "être animé",
+        "être vivant"
       ]
     },
     "gender": "n",
@@ -42281,10 +42281,10 @@
     "type": "noun",
     "translations": {
       "en": [
-        "parliamentary term",
-        "legislative period",
+        "electoral period",
         "electoral term",
-        "electoral period"
+        "legislative period",
+        "parliamentary term"
       ],
       "fr": []
     },
@@ -42425,8 +42425,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "goblet",
-        "cup"
+        "cup",
+        "goblet"
       ],
       "fr": [
         "coupe"
@@ -42573,8 +42573,8 @@
       "en": [
         "drama",
         "play",
-        "spectacle",
-        "playhouse"
+        "playhouse",
+        "spectacle"
       ],
       "fr": [
         "pièce de théâtre"
@@ -42717,14 +42717,14 @@
     "type": "noun",
     "translations": {
       "en": [
-        "farewell",
-        "seeing off",
-        "funeral",
-        "passing",
         "adoption",
         "discharge",
         "dismissal",
-        "retirement"
+        "farewell",
+        "funeral",
+        "passing",
+        "retirement",
+        "seeing off"
       ],
       "fr": []
     },
@@ -42758,14 +42758,14 @@
     "translations": {
       "en": [
         "decrease",
-        "reduce",
-        "diminish"
+        "diminish",
+        "reduce"
       ],
       "fr": [
-        "diminuer",
-        "réduire",
         "amoindrir",
-        "atténuer"
+        "atténuer",
+        "diminuer",
+        "réduire"
       ]
     },
     "separable": false,
@@ -42801,15 +42801,15 @@
     "type": "adjective",
     "translations": {
       "en": [
-        "trusting",
+        "optimistic",
         "trustful",
-        "unsuspicious",
-        "optimistic"
+        "trusting",
+        "unsuspicious"
       ],
       "fr": [
+        "assurance",
         "confiance",
-        "plein",
-        "assurance"
+        "plein"
       ]
     },
     "predicativeOnly": false,
@@ -42901,10 +42901,10 @@
     "type": "verb",
     "translations": {
       "en": [
-        "exhibit",
-        "showcase",
         "demonstrate",
-        "pillory"
+        "exhibit",
+        "pillory",
+        "showcase"
       ],
       "fr": [
         "présenter"
@@ -42946,13 +42946,13 @@
         "fence"
       ],
       "fr": [
-        "clôture",
         "bouchure",
-        "clayon",
         "claion",
+        "clayon",
+        "clion",
         "cléan",
         "cléon",
-        "clion"
+        "clôture"
       ]
     },
     "gender": "m",
@@ -43117,10 +43117,10 @@
     "translations": {
       "en": [
         "acting",
-        "sitting",
-        "officiating",
         "incumbent",
-        "reigning"
+        "officiating",
+        "reigning",
+        "sitting"
       ],
       "fr": [
         "en exercice",
@@ -43218,8 +43218,8 @@
     "translations": {
       "en": [
         "clue",
-        "lead",
-        "indication"
+        "indication",
+        "lead"
       ],
       "fr": [
         "point de repère",
@@ -43255,8 +43255,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "surgery",
-        "office"
+        "office",
+        "surgery"
       ],
       "fr": [
         "cabinet médical"
@@ -43364,15 +43364,15 @@
     "translations": {
       "en": [
         "carriage",
+        "promotion",
         "transport",
-        "transportation",
-        "promotion"
+        "transportation"
       ],
       "fr": [
         "acheminement",
-        "transport",
         "avancement",
-        "promotion"
+        "promotion",
+        "transport"
       ]
     },
     "gender": "f",
@@ -43404,13 +43404,13 @@
     "type": "verb",
     "translations": {
       "en": [
-        "weight down",
-        "complain"
+        "complain",
+        "weight down"
       ],
       "fr": [
         "alourdir",
-        "se plaindre",
-        "se lamenter"
+        "se lamenter",
+        "se plaindre"
       ]
     },
     "separable": false,
@@ -43548,13 +43548,13 @@
     "type": "verb",
     "translations": {
       "en": [
+        "enroll",
         "inscribe",
-        "register",
-        "enroll"
+        "register"
       ],
       "fr": [
-        "inscrire",
-        "envoyer en recommandé"
+        "envoyer en recommandé",
+        "inscrire"
       ]
     },
     "separable": true,
@@ -43691,16 +43691,16 @@
     "type": "noun",
     "translations": {
       "en": [
+        "cure",
         "curing",
         "healing",
-        "recovery",
-        "cure"
+        "recovery"
       ],
       "fr": [
-        "guérison",
-        "processus de guérison",
         "cicatrisation",
-        "couverture"
+        "couverture",
+        "guérison",
+        "processus de guérison"
       ]
     },
     "gender": "f",
@@ -43796,17 +43796,17 @@
     "type": "noun",
     "translations": {
       "en": [
-        "captain",
-        "master",
-        "commander",
-        "skipper",
+        "Kapitän",
         "aviator",
+        "captain",
+        "commander",
+        "master",
         "pilot",
-        "Kapitän"
+        "skipper"
       ],
       "fr": [
-        "capitaine",
-        "Kapitän"
+        "Kapitän",
+        "capitaine"
       ]
     },
     "gender": "m",
@@ -44071,14 +44071,14 @@
     "type": "noun",
     "translations": {
       "en": [
+        "gran",
         "grandmother",
-        "granny",
-        "gran"
+        "granny"
       ],
       "fr": [
         "grand-maman",
-        "mamie",
-        "grand-mère"
+        "grand-mère",
+        "mamie"
       ]
     },
     "gender": "f",
@@ -44149,15 +44149,15 @@
     "type": "noun",
     "translations": {
       "en": [
+        "breed",
         "race",
-        "subspecies",
-        "breed"
+        "subspecies"
       ],
       "fr": [
-        "race",
+        "de la classe",
         "de la race",
         "du caractère",
-        "de la classe"
+        "race"
       ]
     },
     "gender": "f",
@@ -44284,8 +44284,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "infringement",
-        "encroachment"
+        "encroachment",
+        "infringement"
       ],
       "fr": []
     },
@@ -44323,8 +44323,8 @@
       ],
       "fr": [
         "comportement",
-        "manière",
-        "comporter"
+        "comporter",
+        "manière"
       ]
     },
     "gender": "f",
@@ -44482,25 +44482,25 @@
     "type": "noun",
     "translations": {
       "en": [
-        "breaking off",
-        "abortion",
         "abort",
-        "detriment",
-        "injury",
+        "abortion",
+        "breaking off",
         "damage",
-        "loss",
-        "drawback",
         "demolition",
+        "detriment",
+        "drawback",
+        "injury",
+        "loss",
         "pulling down"
       ],
       "fr": [
-        "interruption",
-        "rupture",
-        "procédure d’abandon",
-        "démontage",
-        "tort",
+        "abrupt",
         "démolition",
-        "abrupt"
+        "démontage",
+        "interruption",
+        "procédure d’abandon",
+        "rupture",
+        "tort"
       ]
     },
     "gender": "m",
@@ -44532,16 +44532,16 @@
     "type": "verb",
     "translations": {
       "en": [
-        "reject",
-        "turn down",
         "dismiss",
         "refuse to see",
-        "send away"
+        "reject",
+        "send away",
+        "turn down"
       ],
       "fr": [
-        "rejeter",
-        "refuser",
         "débouter",
+        "refuser",
+        "rejeter",
         "virer"
       ]
     },
@@ -44578,23 +44578,23 @@
     "type": "verb",
     "translations": {
       "en": [
-        "start",
-        "driving",
-        "start up",
-        "start a vehicle",
         "begin driving",
         "collide",
-        "to bump into sb. or sth.",
+        "driving",
+        "snap at sb.",
         "snarl at sb.",
-        "snap at sb."
+        "start",
+        "start a vehicle",
+        "start up",
+        "to bump into sb. or sth."
       ],
       "fr": [
+        "apostropher",
         "démarrer",
-        "rejoindre",
-        "heurter",
-        "télescoper",
         "entrer en collision",
-        "apostropher"
+        "heurter",
+        "rejoindre",
+        "télescoper"
       ]
     },
     "separable": true,
@@ -44634,8 +44634,8 @@
         "charisma"
       ],
       "fr": [
-        "diffusion",
-        "aura"
+        "aura",
+        "diffusion"
       ]
     },
     "gender": "f",
@@ -44809,8 +44809,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "spare part",
-        "replacement part"
+        "replacement part",
+        "spare part"
       ],
       "fr": [
         "pièce de rechange"
@@ -44845,9 +44845,9 @@
     "type": "verb",
     "translations": {
       "en": [
-        "set free",
+        "lay off",
         "release",
-        "lay off"
+        "set free"
       ],
       "fr": [
         "libérer"
@@ -44982,9 +44982,9 @@
     "type": "noun",
     "translations": {
       "en": [
-        "giro account",
+        "checking account",
         "current account",
-        "checking account"
+        "giro account"
       ],
       "fr": [
         "compte courant"
@@ -45020,14 +45020,14 @@
     "translations": {
       "en": [
         "brightness",
-        "radiance",
         "lustre",
+        "radiance",
         "splendor"
       ],
       "fr": [
         "brillant",
-        "éclat",
-        "magnificence"
+        "magnificence",
+        "éclat"
       ]
     },
     "gender": "m",
@@ -45063,8 +45063,8 @@
         "masthead"
       ],
       "fr": [
-        "ours",
-        "adresse bibliographique"
+        "adresse bibliographique",
+        "ours"
       ]
     },
     "gender": "n",
@@ -45096,8 +45096,8 @@
     "type": "adjective",
     "translations": {
       "en": [
-        "focused",
-        "concentrated"
+        "concentrated",
+        "focused"
       ],
       "fr": []
     },
@@ -45228,14 +45228,14 @@
     "type": "noun",
     "translations": {
       "en": [
+        "beer head",
         "crown",
-        "head",
-        "beer head"
+        "head"
       ],
       "fr": [
-        "couronne",
-        "comble",
         "cime",
+        "comble",
+        "couronne",
         "houppier"
       ]
     },
@@ -45374,16 +45374,16 @@
     "type": "adjective",
     "translations": {
       "en": [
-        "naked",
-        "bare",
-        "nude",
         "bald",
-        "mere"
+        "bare",
+        "mere",
+        "naked",
+        "nude"
       ],
       "fr": [
+        "(la) simple (existence, vie)",
         "nu",
-        "à même (le sol)",
-        "(la) simple (existence, vie)"
+        "à même (le sol)"
       ]
     },
     "predicativeOnly": false,
@@ -45477,9 +45477,9 @@
     "type": "noun",
     "translations": {
       "en": [
+        "National Socialist",
         "Nazi",
-        "national socialist",
-        "National Socialist"
+        "national socialist"
       ],
       "fr": []
     },
@@ -45700,8 +45700,8 @@
     "type": "noun",
     "translations": {
       "en": [
-        "postcard",
-        "post card"
+        "post card",
+        "postcard"
       ],
       "fr": [
         "carte postale"
@@ -45770,12 +45770,12 @@
     "type": "noun",
     "translations": {
       "en": [
-        "rainforest",
-        "rain forest"
+        "rain forest",
+        "rainforest"
       ],
       "fr": [
-        "forêt équatoriale",
-        "forêt tropicale"
+        "forêt tropicale",
+        "forêt équatoriale"
       ]
     },
     "gender": "m",
@@ -45982,8 +45982,8 @@
         "headline"
       ],
       "fr": [
-        "titre",
-        "manchette"
+        "manchette",
+        "titre"
       ]
     },
     "gender": "f",
@@ -46085,8 +46085,8 @@
     "type": "verb",
     "translations": {
       "en": [
-        "sight",
-        "look through"
+        "look through",
+        "sight"
       ],
       "fr": [
         "apercevoir",
@@ -46127,8 +46127,8 @@
     "type": "adjective",
     "translations": {
       "en": [
-        "statical",
-        "static"
+        "static",
+        "statical"
       ],
       "fr": [
         "statique"
@@ -46223,14 +46223,14 @@
     "type": "verb",
     "translations": {
       "en": [
-        "endow",
-        "donate",
         "bring about",
-        "cause"
+        "cause",
+        "donate",
+        "endow"
       ],
       "fr": [
-        "donner",
-        "causer"
+        "causer",
+        "donner"
       ]
     },
     "separable": false,
@@ -46434,8 +46434,8 @@
     "type": "verb",
     "translations": {
       "en": [
-        "prescribe",
-        "decree"
+        "decree",
+        "prescribe"
       ],
       "fr": [
         "prescrire",
@@ -46475,13 +46475,13 @@
     "type": "noun",
     "translations": {
       "en": [
-        "weather",
         "atmospheric conditions",
-        "scent"
+        "scent",
+        "weather"
       ],
       "fr": [
-        "temps",
-        "flair"
+        "flair",
+        "temps"
       ]
     },
     "gender": "f",
@@ -46514,12 +46514,12 @@
     "translations": {
       "en": [
         "gradual",
-        "step by step",
-        "gradually"
+        "gradually",
+        "step by step"
       ],
       "fr": [
-        "progressif",
         "peu à peu",
+        "progressif",
         "progressivement"
       ]
     },
@@ -46612,8 +46612,8 @@
     "type": "verb",
     "translations": {
       "en": [
-        "pose",
-        "bring up"
+        "bring up",
+        "pose"
       ],
       "fr": [
         "poser",
@@ -46853,8 +46853,8 @@
     "translations": {
       "en": [
         "brake",
-        "slow down",
-        "retard"
+        "retard",
+        "slow down"
       ],
       "fr": [
         "freiner"
@@ -46928,12 +46928,12 @@
     "type": "verb",
     "translations": {
       "en": [
-        "steal",
-        "purloin"
+        "purloin",
+        "steal"
       ],
       "fr": [
-        "détourner",
-        "approprier"
+        "approprier",
+        "détourner"
       ]
     },
     "separable": false,
