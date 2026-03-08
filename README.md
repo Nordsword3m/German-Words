@@ -14,7 +14,6 @@ Each word entry in this list has a set of common properties allowing them to be 
 type WordBase = {
   lemma: string;
   type: WordType;
-  level?: Level;
   translations: { [key in LanguageCode]: string[] };
   frequency?: number;
 };
@@ -25,13 +24,6 @@ type WordBase = {
   - `noun`
   - `verb`
   - `adjective`
-- `level`: The CEFR language proficiency level of the word. Note, not every word has an associated level. `Level` is an enum with the following values:
-  - `A1`
-  - `A2`
-  - `B1`
-  - `B2`
-  - `C1`
-  - `C2`
 - `translations`: An object containing a list translations for the word in different languages.
 - `frequency`: The frequency of this word, as it appears in the Leipzig Web-public Germany 2019 1M Corpora. Note, not every word has an associated frequency. The frequency is a number between 0 and 1, where 1 means the word appears in every sentence.
 
@@ -189,7 +181,7 @@ I created this list as I couldn't find a good list of German words with their di
 
 ## Method
 
-This data is scraped from `https://www.verbformen.de` using a scraper written in TypeScript. The generated data was then ran through some validators to ensure that the data was as clean as possible.
+This data parsed and processed from `https://kaikki.org/dictionary/downloads/de/de-extract.jsonl`, the dataset that backs `https://de.wiktionary.org`. The generated data was then ran through some validators to ensure that the data was as clean as possible.
 
 ## Ephesians 4:6
 

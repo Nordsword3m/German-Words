@@ -15,16 +15,6 @@ export type WordInfo = {
   gender: Gender | null;
 };
 
-export enum Level {
-  A1 = 'A1',
-  A2 = 'A2',
-  B1 = 'B1',
-  B2 = 'B2',
-  C1 = 'C1',
-  C2 = 'C2'
-}
-export const Levels = Object.values(Level);
-
 export enum LanguageCode {
   English = 'en',
   French = 'fr'
@@ -34,7 +24,6 @@ export const LanguageCodes = Object.values(LanguageCode);
 export type WordBase = {
   lemma: string;
   type: WordType;
-  level?: Level;
   translations: { [key in LanguageCode]: string[] };
   frequency?: number;
 };
