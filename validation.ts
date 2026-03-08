@@ -225,7 +225,7 @@ export const validateVerb = (verb: Verb) => {
     validator.validateContains('zuinfinitive', verb.zuinfinitive, 'zu');
   }
 
-  const numBaseWords = verb.separable ? 2 : 1;
+  const numBaseWords = verb.separable ? (verb.superSeparable ? 3 : 2) : 1;
 
   Pronouns.forEach((p) => {
     validator.validateWord(`present.${p}`, verb.present[p], '/' + separableChar);
@@ -242,7 +242,6 @@ export const validateVerb = (verb: Verb) => {
     validator.validateWord('imperative.ihr', verb.imperative.ihr, ' ');
     validator.validateWordCount('imperative.ihr', verb.imperative.ihr, numBaseWords);
   } else {
-    validator.validateFalse('separable', verb.separable, 'Modal verbs cannot be separable');
     validator.validateFalse('reflexive', verb.reflexive, 'Modal verbs cannot be reflexive');
   }
 

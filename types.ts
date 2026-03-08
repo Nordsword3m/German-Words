@@ -109,6 +109,7 @@ export type Imperative = {
 export type Verb = WordBase & {
   type: WordType.Verb;
   separable: boolean;
+  superSeparable: boolean;
   modal: boolean;
   reflexive: boolean;
   present: Conjugation;
