@@ -181,7 +181,7 @@ I created this list as I couldn't find a good list of German words with their di
 
 ## Method
 
-This data parsed and processed from `https://kaikki.org/dictionary/downloads/de/de-extract.jsonl`, the dataset that backs `https://de.wiktionary.org`. The generated data was then ran through some validators to ensure that the data was as clean as possible.
+This data is parsed and processed from `https://kaikki.org/dictionary/downloads/de/de-extract.jsonl`, the dataset that backs `https://de.wiktionary.org`. The generated data was then ran through some validators to ensure that the data was as clean as possible.
 
 ## Ephesians 4:6
 
