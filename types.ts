@@ -15,16 +15,6 @@ export type WordInfo = {
   gender: Gender | null;
 };
 
-export enum Level {
-  A1 = 'A1',
-  A2 = 'A2',
-  B1 = 'B1',
-  B2 = 'B2',
-  C1 = 'C1',
-  C2 = 'C2'
-}
-export const Levels = Object.values(Level);
-
 export enum LanguageCode {
   English = 'en',
   French = 'fr'
@@ -34,7 +24,6 @@ export const LanguageCodes = Object.values(LanguageCode);
 export type WordBase = {
   lemma: string;
   type: WordType;
-  level?: Level;
   translations: { [key in LanguageCode]: string[] };
   frequency?: number;
 };
@@ -104,17 +93,17 @@ export type Conjugation = {
 export type Imperative = {
   [Pronoun.Du]: string;
   [Pronoun.Ihr]: string;
-  [Pronoun.Sie]: string;
 };
 
 export type Verb = WordBase & {
   type: WordType.Verb;
   separable: boolean;
+  superSeparable: boolean;
+  modal: boolean;
+  reflexive: boolean;
   present: Conjugation;
   simple: Conjugation;
-  conjunctive1: Conjugation;
-  conjunctive2: Conjugation;
-  imperative: Imperative | null;
+  imperative: Imperative;
   perfect: string;
   gerund: string;
   zuinfinitive: string;
@@ -166,19 +155,12 @@ export const Endings = Object.values(Ending);
 export type Adjective = WordBase & {
   type: WordType.Adjective;
   singularOnly: boolean;
-  pluralOnly: boolean;
   predicativeOnly: boolean;
-  absolute: boolean;
   notDeclinable: boolean;
-  noMixed: boolean;
   strong: Declension;
   weak: Declension;
   mixed: Declension;
   comparative?: string;
-  isComparative: boolean;
-  noComparative: boolean;
   superlative?: string;
-  isSuperlative: boolean;
-  superlativeOnly: boolean;
   commonNouns?: string[];
 };
