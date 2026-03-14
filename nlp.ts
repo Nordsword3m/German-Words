@@ -70,8 +70,7 @@ export enum Tag {
 }
 
 export const isNounTag = (tag: Tag) => tag === Tag.Noun;
-export const isAdjectiveTag = (tag: Tag) =>
-  [Tag.AttributiveAdjective, Tag.AdverbialPredicateAdjective].includes(tag);
+export const isAdjectiveTag = (tag: Tag) => [Tag.AttributiveAdjective, Tag.AdverbialPredicateAdjective].includes(tag);
 export const isVerbTag = (tag: Tag) =>
   [
     Tag.FiniteAuxiliaryVerb,
@@ -97,8 +96,7 @@ export const isWordTag = (tag: Tag) =>
     Tag.Whitespace,
     Tag.Number
   ].includes(tag);
-export const isPunctuationTag = (tag: Tag) =>
-  [Tag.InternalPunct, Tag.SentenceFinalPunct, Tag.Comma].includes(tag);
+export const isPunctuationTag = (tag: Tag) => [Tag.InternalPunct, Tag.SentenceFinalPunct, Tag.Comma].includes(tag);
 
 export enum SpacyCase {
   Nom = 'Nom',
@@ -211,12 +209,24 @@ export class ApiCall {
 
     return filterFalsey(taggedSentences);
   }
+
+  async getWordDataSection(section: number, version: string): Promise<Word[] | undefined> {
+    const url = new URL(this.baseUrl);
+    url.searchParams.append('key', this.apiAuthKey);
+    url.pathname += `data/${version}/${section}.json`;
+    return await fetch(url)
+      .then(async (response) => {
+        if (response.status === 200) {
+          const data = await response.json();
+          return data as Word[];
+        }
+        return undefined;
+      })
+      .catch(() => undefined);
+  }
 }
 
-export const matchSentence = (
-  sentence: SpacyToken[],
-  lookupTables: LookupTables
-): (Word | undefined)[] => {
+export const matchSentence = (sentence: SpacyToken[], lookupTables: LookupTables): (Word | undefined)[] => {
   const matched: (Word | undefined)[] = [];
   let firstVerbMatchedIdx = -1;
   let firstVerbSentenceIdx = -1;
@@ -233,14 +243,10 @@ export const matchSentence = (
     if (isNounTag(token.tag)) {
       matched.push(lookupTables.nounLookupTable[token.text.toLowerCase()]);
     } else if (isAdjectiveTag(token.tag)) {
-      if (
-        firstVerbMatchedIdx !== -1 &&
-        (i === sentence.length - 1 || isPunctuationTag(sentence[i + 1].tag))
-      ) {
+      if (firstVerbMatchedIdx !== -1 && (i === sentence.length - 1 || isPunctuationTag(sentence[i + 1].tag))) {
         matched[firstVerbMatchedIdx] =
-          lookupTables.verbLookupTable[
-            token.text.toLowerCase() + sentence[firstVerbSentenceIdx].text.toLowerCase()
-          ] ?? matched[firstVerbMatchedIdx];
+          lookupTables.verbLookupTable[token.text.toLowerCase() + sentence[firstVerbSentenceIdx].text.toLowerCase()] ??
+          matched[firstVerbMatchedIdx];
         matched.push(undefined);
       } else {
         matched.push(lookupTables.adjectiveLookupTable[token.text.toLowerCase()]);
@@ -253,19 +259,14 @@ export const matchSentence = (
       matched.push(lookupTables.verbLookupTable[token.text.toLowerCase()]);
     } else if (firstVerbMatchedIdx !== -1 && token.tag === Tag.SeparableVerbalParticle) {
       matched[firstVerbMatchedIdx] =
-        lookupTables.verbLookupTable[
-          token.text.toLowerCase() + sentence[firstVerbSentenceIdx].text.toLowerCase()
-        ] ?? matched[firstVerbMatchedIdx];
+        lookupTables.verbLookupTable[token.text.toLowerCase() + sentence[firstVerbSentenceIdx].text.toLowerCase()] ??
+        matched[firstVerbMatchedIdx];
       matched.push(undefined);
     } else if (token.tag === Tag.Adverb) {
-      if (
-        firstVerbMatchedIdx !== -1 &&
-        (i === sentence.length - 1 || isPunctuationTag(sentence[i + 1].tag))
-      ) {
+      if (firstVerbMatchedIdx !== -1 && (i === sentence.length - 1 || isPunctuationTag(sentence[i + 1].tag))) {
         matched[firstVerbMatchedIdx] =
-          lookupTables.verbLookupTable[
-            token.text.toLowerCase() + sentence[firstVerbSentenceIdx].text.toLowerCase()
-          ] ?? matched[firstVerbMatchedIdx];
+          lookupTables.verbLookupTable[token.text.toLowerCase() + sentence[firstVerbSentenceIdx].text.toLowerCase()] ??
+          matched[firstVerbMatchedIdx];
       }
       matched.push(undefined);
     } else {
