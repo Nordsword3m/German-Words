@@ -211,9 +211,8 @@ export class ApiCall {
   }
 
   async getWordDataSection(section: number, version: string): Promise<Word[] | undefined> {
-    const url = new URL(this.baseUrl);
+    const url = new URL(`${this.baseUrl}/data/${version}/${section}.json`);
     url.searchParams.append('key', this.apiAuthKey);
-    url.pathname += `data/${version}/${section}.json`;
     return await fetch(url)
       .then(async (response) => {
         if (response.status === 200) {
