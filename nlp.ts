@@ -1,4 +1,4 @@
-import { Word } from './types';
+import { Noun, Word, WordType } from './types';
 import { filterFalsey, removeEmojis } from './utils';
 import { LookupTables } from './wordLookup';
 
@@ -285,3 +285,6 @@ export const getVocabWords = (
     if (!tagged) return undefined;
     return matchSentence(tagged, lookupTables);
   });
+
+export const getWordId = (word: Word) =>
+  word.lemma + word.type + (word.type === WordType.Noun ? (word as Noun).gender : '');
