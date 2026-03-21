@@ -1,6 +1,6 @@
 import { Adjective, Noun, Verb, Word, WordType } from './types';
 
-export const getNounLookups = (noun: Noun): (string | null)[] => {
+export const getNounLookups = (noun: Noun): string[] => {
   return [
     noun.cases.nominative.singular,
     noun.cases.genitive.singular,
@@ -10,7 +10,7 @@ export const getNounLookups = (noun: Noun): (string | null)[] => {
     noun.cases.genitive.plural,
     noun.cases.dative.plural,
     noun.cases.accusative.plural
-  ];
+  ].filter(Boolean) as string[];
 };
 
 const switchSeparable = (form: string) => {
@@ -20,7 +20,7 @@ const switchSeparable = (form: string) => {
   return sf[1] + sf[0];
 };
 
-export const getVerbLookups = (verb: Verb): (string | null)[] => {
+export const getVerbLookups = (verb: Verb): string[] => {
   return [
     switchSeparable(verb.present.ich),
     switchSeparable(verb.present.du),
@@ -36,10 +36,10 @@ export const getVerbLookups = (verb: Verb): (string | null)[] => {
     verb.perfect,
     verb.zuinfinitive,
     verb.lemma.replace(/·/, '')
-  ];
+  ].filter(Boolean) as string[];
 };
 
-export const getAdjectiveLookups = (adjective: Adjective): (string | null)[] => {
+export const getAdjectiveLookups = (adjective: Adjective): string[] => {
   return [
     adjective.lemma,
 
@@ -68,7 +68,7 @@ export const getAdjectiveLookups = (adjective: Adjective): (string | null)[] => 
     adjective.weak.dative.f,
     adjective.weak.genitive.m,
     adjective.weak.nominative.m
-  ];
+  ].filter(Boolean) as string[];
 };
 
 export type LookupTables = {
@@ -86,20 +86,17 @@ export const getLookupTables = (words: Word[]): LookupTables => {
     if (w.type === WordType.Noun) {
       const n = w as Noun;
       getNounLookups(n).forEach((r) => {
-        if (r === null) return;
         nounLookupTable[r.toLowerCase()] = n;
       });
     } else if (w.type === WordType.Verb) {
       const v = w as Verb;
       getVerbLookups(v).forEach((r) => {
-        if (r === null) return;
-        verbLookupTable[r] = v;
+        verbLookupTable[r.toLowerCase()] = v;
       });
     } else if (w.type === WordType.Adjective) {
       const a = w as Adjective;
       getAdjectiveLookups(a).forEach((r) => {
-        if (r === null) return;
-        adjectiveLookupTable[r] = a;
+        adjectiveLookupTable[r.toLowerCase()] = a;
       });
     }
   });
