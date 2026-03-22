@@ -90,7 +90,7 @@ type Verb = WordBase & {
 };
 ```
 
-- `separable`: A boolean indicating if the verb is separable. The separation is visible in conjugated forms, where the prefix appears at the end of the clause separated by a space (e.g. `'rufe an'` for `'anrufen'`). Note, some verbs can be both separable and inseparable (e.g. `'anerkennen'`).
+- `separable`: A boolean indicating if the verb is separable. The separation is visible in conjugated forms, where the prefix appears at the end of the clause separated by a space (e.g. `'rufe an'` for `'anrufen'`). Note, some verbs can be both separable and inseparable (e.g. `'umfahren'`).
 - `superSeparable`: A boolean indicating if the verb has two separable parts.
 - `modal`: A boolean indicating if the verb is a modal verb (e.g. `dürfen`, `können`, `müssen`).
 - `reflexive`: A boolean indicating if the verb is a reflexive verb.
