@@ -1,4 +1,4 @@
-import { Word } from './types';
+import { Noun, Word, WordType } from './types';
 import { filterFalsey, removeEmojis } from './utils';
 import { LookupTables } from './wordLookup';
 
@@ -211,6 +211,20 @@ export class ApiCall {
 
     return filterFalsey(taggedSentences);
   }
+
+  async getWordDataSection(section: number, version: string): Promise<Word[] | undefined> {
+    const url = new URL(`${this.baseUrl}/data/${version}/${section}.json`);
+    url.searchParams.append('key', this.apiAuthKey);
+    return await fetch(url)
+      .then(async (response) => {
+        if (response.status === 200) {
+          const data = await response.json();
+          return data as Word[];
+        }
+        return undefined;
+      })
+      .catch(() => undefined);
+  }
 }
 
 export const matchSentence = (
@@ -285,3 +299,6 @@ export const getVocabWords = (
     if (!tagged) return undefined;
     return matchSentence(tagged, lookupTables);
   });
+
+export const getWordId = (word: Word) =>
+  word.lemma + word.type + (word.type === WordType.Noun ? (word as Noun).gender : '');

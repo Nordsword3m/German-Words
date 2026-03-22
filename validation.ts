@@ -5,7 +5,6 @@ import {
   Forms,
   GenderedForms,
   Genders,
-  Levels,
   Noun,
   Pronouns,
   Verb,
@@ -19,13 +18,7 @@ class Validator {
 
   assertValid(obj: object) {
     if (Object.keys(this.errors).length > 0) {
-      throw new Error(
-        `\nObject: ${JSON.stringify(obj, null, 2)}\n\nErrors:${JSON.stringify(
-          this.errors,
-          null,
-          2
-        )}`
-      );
+      throw new Error(`\nObject: ${JSON.stringify(obj, null, 2)}\n\nErrors:${JSON.stringify(this.errors, null, 2)}`);
     }
   }
 
@@ -49,10 +42,7 @@ class Validator {
       return true;
     }
 
-    const regex = new RegExp(
-      `^[a-zA-ZäöüÄÖÜßé${allowedChars}${numbersAllowed ? '0-9' : ''}]+$`,
-      'g'
-    );
+    const regex = new RegExp(`^[a-zA-ZäöüÄÖÜßé${allowedChars}${numbersAllowed ? '0-9' : ''}]+$`, 'g');
 
     if (!word || !regex.test(word)) {
       this.errors[fieldName] = `Invalid '${word}'`;
@@ -149,11 +139,6 @@ export const validateWordBase = (word: WordBase) => {
   );
   validator.validateOneOfType('type', word.type, WordTypes);
 
-  if (word.level) {
-    // TODO - missing levels
-    validator.validateOneOfType('level', word.level, Levels);
-  }
-
   const allowedChars: { [key in LanguageCode]: string } = {
     en: " \\-\\'éè”&",
     fr: " \\-\\'”&àâäéèêëïîôöùûüÿçæœÀÂÄÉÈÊÏÎÔÖÙÛÜŸÇÆŒ"
@@ -215,9 +200,7 @@ export const validateVerb = (verb: Verb) => {
   if (verb.separable) {
     validator.validateCondition(
       'zuinfinitive',
-      () =>
-        /[a-zäöüß]zu[a-zäöü]/.test(verb.zuinfinitive) ||
-        /[a-zäöüß] zu [a-zäöü]/.test(verb.zuinfinitive),
+      () => /[a-zäöüß]zu[a-zäöü]/.test(verb.zuinfinitive) || /[a-zäöüß] zu [a-zäöü]/.test(verb.zuinfinitive),
       "'zu' must be sandwiched"
     );
   } else {
@@ -258,11 +241,7 @@ export const validateAdjective = (adjective: Adjective) => {
   validator.validateIsBoolean('predicativeOnly', adjective.predicativeOnly);
 
   if (adjective.notDeclinable) {
-    validator.validateEqual(
-      'notDeclinable',
-      adjective.strong.nominative.p,
-      adjective.weak.genitive.p
-    );
+    validator.validateEqual('notDeclinable', adjective.strong.nominative.p, adjective.weak.genitive.p);
   }
 
   if (!adjective.notDeclinable) {

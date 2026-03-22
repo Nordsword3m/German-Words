@@ -1,136 +1,5 @@
 [
   {
-    "lemma": "Mordverdacht",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "suspicion of murder"
-      ],
-      "fr": []
-    },
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": true,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Mordverdacht",
-        "plural": null
-      },
-      "accusative": {
-        "singular": "Mordverdacht",
-        "plural": null
-      },
-      "dative": {
-        "singular": "Mordverdachte",
-        "plural": null
-      },
-      "genitive": {
-        "singular": "Mordverdachts",
-        "plural": null
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
-    "lemma": "Morgenandacht",
-    "type": "noun",
-    "translations": {
-      "en": [],
-      "fr": []
-    },
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Morgenandacht",
-        "plural": "Morgenandachten"
-      },
-      "accusative": {
-        "singular": "Morgenandacht",
-        "plural": "Morgenandachten"
-      },
-      "dative": {
-        "singular": "Morgenandacht",
-        "plural": "Morgenandachten"
-      },
-      "genitive": {
-        "singular": "Morgenandacht",
-        "plural": "Morgenandachten"
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
-    "lemma": "Morgenland",
-    "type": "noun",
-    "translations": {
-      "en": [],
-      "fr": [
-        "levant"
-      ]
-    },
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": true,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Morgenland",
-        "plural": null
-      },
-      "accusative": {
-        "singular": "Morgenland",
-        "plural": null
-      },
-      "dative": {
-        "singular": "Morgenland",
-        "plural": null
-      },
-      "genitive": {
-        "singular": "Morgenlandes",
-        "plural": null
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
-    "lemma": "Morgenluft",
-    "type": "noun",
-    "translations": {
-      "en": [],
-      "fr": [
-        "air du matin",
-        "air matinal"
-      ]
-    },
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": true,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Morgenluft",
-        "plural": null
-      },
-      "accusative": {
-        "singular": "Morgenluft",
-        "plural": null
-      },
-      "dative": {
-        "singular": "Morgenluft",
-        "plural": null
-      },
-      "genitive": {
-        "singular": "Morgenluft",
-        "plural": null
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
     "lemma": "Morgensonne",
     "type": "noun",
     "translations": {
@@ -430,37 +299,6 @@
     "frequency": 0.000005000006250007812
   },
   {
-    "lemma": "Motorblock",
-    "type": "noun",
-    "translations": {
-      "en": [],
-      "fr": []
-    },
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Motorblock",
-        "plural": "Motorblöcke"
-      },
-      "accusative": {
-        "singular": "Motorblock",
-        "plural": "Motorblöcke"
-      },
-      "dative": {
-        "singular": "Motorblock",
-        "plural": "Motorblöcken"
-      },
-      "genitive": {
-        "singular": "Motorblockes",
-        "plural": "Motorblöcke"
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
     "lemma": "motorisieren",
     "type": "verb",
     "translations": {
@@ -503,37 +341,6 @@
     "gerund": "motorisierend",
     "zuinfinitive": "zu motorisieren",
     "withSein": false,
-    "frequency": 0.000005000006250007812
-  },
-  {
-    "lemma": "Motorradhelm",
-    "type": "noun",
-    "translations": {
-      "en": [],
-      "fr": []
-    },
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Motorradhelm",
-        "plural": "Motorradhelme"
-      },
-      "accusative": {
-        "singular": "Motorradhelm",
-        "plural": "Motorradhelme"
-      },
-      "dative": {
-        "singular": "Motorradhelm",
-        "plural": "Motorradhelmen"
-      },
-      "genitive": {
-        "singular": "Motorradhelms",
-        "plural": "Motorradhelme"
-      }
-    },
     "frequency": 0.000005000006250007812
   },
   {
@@ -601,7 +408,7 @@
         "plural": null
       },
       "genitive": {
-        "singular": "Muffelwildes",
+        "singular": "Muffelwilds",
         "plural": null
       }
     },
@@ -632,11 +439,11 @@
         "plural": "Mühlsteine"
       },
       "dative": {
-        "singular": "Mühlsteine",
+        "singular": "Mühlstein",
         "plural": "Mühlsteinen"
       },
       "genitive": {
-        "singular": "Mühlsteines",
+        "singular": "Mühlsteins",
         "plural": "Mühlsteine"
       }
     },
@@ -750,6 +557,37 @@
     "frequency": 0.000005000006250007812
   },
   {
+    "lemma": "Müllfahrzeug",
+    "type": "noun",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Müllfahrzeug",
+        "plural": "Müllfahrzeuge"
+      },
+      "accusative": {
+        "singular": "Müllfahrzeug",
+        "plural": "Müllfahrzeuge"
+      },
+      "dative": {
+        "singular": "Müllfahrzeug",
+        "plural": "Müllfahrzeugen"
+      },
+      "genitive": {
+        "singular": "Müllfahrzeuges",
+        "plural": "Müllfahrzeuge"
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
     "lemma": "Münchnerin",
     "type": "noun",
     "translations": {
@@ -814,41 +652,6 @@
       "genitive": {
         "singular": "Munddusche",
         "plural": "Mundduschen"
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
-    "lemma": "Mündel",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "ward"
-      ],
-      "fr": [
-        "pupille"
-      ]
-    },
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Mündel",
-        "plural": "Mündeln"
-      },
-      "accusative": {
-        "singular": "Mündel",
-        "plural": "Mündeln"
-      },
-      "dative": {
-        "singular": "Mündel",
-        "plural": "Mündeln"
-      },
-      "genitive": {
-        "singular": "Mündel",
-        "plural": "Mündeln"
       }
     },
     "frequency": 0.000005000006250007812
@@ -966,19 +769,19 @@
     "cases": {
       "nominative": {
         "singular": "Mundwasser",
-        "plural": "Mundwässer"
+        "plural": "Mundwasser"
       },
       "accusative": {
         "singular": "Mundwasser",
-        "plural": "Mundwässer"
+        "plural": "Mundwasser"
       },
       "dative": {
         "singular": "Mundwasser",
-        "plural": "Mundwässern"
+        "plural": "Mundwassern"
       },
       "genitive": {
         "singular": "Mundwassers",
-        "plural": "Mundwässer"
+        "plural": "Mundwasser"
       }
     },
     "frequency": 0.000005000006250007812
@@ -1008,7 +811,7 @@
         "plural": "Mundwerkzeugen"
       },
       "genitive": {
-        "singular": "Mundwerkzeugs",
+        "singular": "Mundwerkzeuges",
         "plural": "Mundwerkzeuge"
       }
     },
@@ -1272,11 +1075,11 @@
         "plural": "Muschelkalke"
       },
       "dative": {
-        "singular": "Muschelkalke",
+        "singular": "Muschelkalk",
         "plural": "Muschelkalken"
       },
       "genitive": {
-        "singular": "Muschelkalks",
+        "singular": "Muschelkalkes",
         "plural": "Muschelkalke"
       }
     },
@@ -1601,7 +1404,7 @@
         "plural": "Mutterpässe"
       },
       "dative": {
-        "singular": "Mutterpasse",
+        "singular": "Mutterpass",
         "plural": "Mutterpässen"
       },
       "genitive": {
@@ -1634,12 +1437,43 @@
         "plural": "Mutterschafe"
       },
       "dative": {
-        "singular": "Mutterschafe",
+        "singular": "Mutterschaf",
         "plural": "Mutterschafen"
       },
       "genitive": {
-        "singular": "Mutterschafs",
+        "singular": "Mutterschafes",
         "plural": "Mutterschafe"
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
+    "lemma": "Muttertagsgeschenk",
+    "type": "noun",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Muttertagsgeschenk",
+        "plural": "Muttertagsgeschenke"
+      },
+      "accusative": {
+        "singular": "Muttertagsgeschenk",
+        "plural": "Muttertagsgeschenke"
+      },
+      "dative": {
+        "singular": "Muttertagsgeschenk",
+        "plural": "Muttertagsgeschenken"
+      },
+      "genitive": {
+        "singular": "Muttertagsgeschenkes",
+        "plural": "Muttertagsgeschenke"
       }
     },
     "frequency": 0.000005000006250007812
@@ -1669,11 +1503,11 @@
         "plural": "Nabelbrüche"
       },
       "dative": {
-        "singular": "Nabelbruche",
+        "singular": "Nabelbruch",
         "plural": "Nabelbrüchen"
       },
       "genitive": {
-        "singular": "Nabelbruchs",
+        "singular": "Nabelbruches",
         "plural": "Nabelbrüche"
       }
     },
@@ -1885,19 +1719,19 @@
     "cases": {
       "nominative": {
         "singular": "Nachgeborener",
-        "plural": "Nachgeborenen"
+        "plural": "Nachgeborene"
       },
       "accusative": {
         "singular": "Nachgeborenen",
-        "plural": "Nachgeborenen"
+        "plural": "Nachgeborene"
       },
       "dative": {
-        "singular": "Nachgeborenen",
+        "singular": "Nachgeborenem",
         "plural": "Nachgeborenen"
       },
       "genitive": {
         "singular": "Nachgeborenen",
-        "plural": "Nachgeborenen"
+        "plural": "Nachgeborener"
       }
     },
     "frequency": 0.000005000006250007812
@@ -1931,37 +1765,6 @@
       "genitive": {
         "singular": "Nachgeburt",
         "plural": "Nachgeburten"
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
-    "lemma": "Nachgeschmack",
-    "type": "noun",
-    "translations": {
-      "en": [],
-      "fr": []
-    },
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Nachgeschmack",
-        "plural": "Nachgeschmäcke"
-      },
-      "accusative": {
-        "singular": "Nachgeschmack",
-        "plural": "Nachgeschmäcke"
-      },
-      "dative": {
-        "singular": "Nachgeschmack",
-        "plural": "Nachgeschmäcken"
-      },
-      "genitive": {
-        "singular": "Nachgeschmackes",
-        "plural": "Nachgeschmäcke"
       }
     },
     "frequency": 0.000005000006250007812
@@ -2166,11 +1969,11 @@
         "plural": "Nachschläge"
       },
       "dative": {
-        "singular": "Nachschlage",
+        "singular": "Nachschlag",
         "plural": "Nachschlägen"
       },
       "genitive": {
-        "singular": "Nachschlages",
+        "singular": "Nachschlags",
         "plural": "Nachschläge"
       }
     },
@@ -2495,11 +2298,11 @@
         "plural": "Nachtsichtgeräte"
       },
       "dative": {
-        "singular": "Nachtsichtgeräte",
+        "singular": "Nachtsichtgerät",
         "plural": "Nachtsichtgeräten"
       },
       "genitive": {
-        "singular": "Nachtsichtgeräts",
+        "singular": "Nachtsichtgerätes",
         "plural": "Nachtsichtgeräte"
       }
     },
@@ -2627,11 +2430,11 @@
         "plural": "Nackenschläge"
       },
       "dative": {
-        "singular": "Nackenschlage",
+        "singular": "Nackenschlag",
         "plural": "Nackenschlägen"
       },
       "genitive": {
-        "singular": "Nackenschlags",
+        "singular": "Nackenschlages",
         "plural": "Nackenschläge"
       }
     },
@@ -2836,7 +2639,7 @@
         "plural": null
       },
       "genitive": {
-        "singular": "Nahostkonfliktes",
+        "singular": "Nahostkonflikts",
         "plural": null
       }
     },
@@ -2937,11 +2740,11 @@
         "plural": "Nahverkehrszüge"
       },
       "dative": {
-        "singular": "Nahverkehrszuge",
+        "singular": "Nahverkehrszug",
         "plural": "Nahverkehrszügen"
       },
       "genitive": {
-        "singular": "Nahverkehrszugs",
+        "singular": "Nahverkehrszuges",
         "plural": "Nahverkehrszüge"
       }
     },
@@ -2968,11 +2771,11 @@
         "plural": "Namensbestandteile"
       },
       "dative": {
-        "singular": "Namensbestandteile",
+        "singular": "Namensbestandteil",
         "plural": "Namensbestandteilen"
       },
       "genitive": {
-        "singular": "Namensbestandteiles",
+        "singular": "Namensbestandteils",
         "plural": "Namensbestandteile"
       }
     },
@@ -3096,7 +2899,7 @@
         "plural": "Namenszusätze"
       },
       "dative": {
-        "singular": "Namenszusatze",
+        "singular": "Namenszusatz",
         "plural": "Namenszusätzen"
       },
       "genitive": {
@@ -3438,6 +3241,41 @@
     "commonNouns": []
   },
   {
+    "lemma": "Nationalrat",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "National Council"
+      ],
+      "fr": [
+        "Conseil national"
+      ]
+    },
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Nationalrat",
+        "plural": "Nationalräte"
+      },
+      "accusative": {
+        "singular": "Nationalrat",
+        "plural": "Nationalräte"
+      },
+      "dative": {
+        "singular": "Nationalrat",
+        "plural": "Nationalräten"
+      },
+      "genitive": {
+        "singular": "Nationalrates",
+        "plural": "Nationalräte"
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
     "lemma": "Nationalspielerin",
     "type": "noun",
     "translations": {
@@ -3525,11 +3363,11 @@
         "plural": null
       },
       "dative": {
-        "singular": "Naturzustande",
+        "singular": "Naturzustand",
         "plural": null
       },
       "genitive": {
-        "singular": "Naturzustandes",
+        "singular": "Naturzustands",
         "plural": null
       }
     },
@@ -3596,11 +3434,11 @@
         "plural": "Nebenberufe"
       },
       "dative": {
-        "singular": "Nebenberufe",
+        "singular": "Nebenberuf",
         "plural": "Nebenberufen"
       },
       "genitive": {
-        "singular": "Nebenberufs",
+        "singular": "Nebenberufes",
         "plural": "Nebenberufe"
       }
     },
@@ -3698,11 +3536,11 @@
         "plural": "Negativbeispiele"
       },
       "dative": {
-        "singular": "Negativbeispiele",
+        "singular": "Negativbeispiel",
         "plural": "Negativbeispielen"
       },
       "genitive": {
-        "singular": "Negativbeispieles",
+        "singular": "Negativbeispiels",
         "plural": "Negativbeispiele"
       }
     },
@@ -3868,7 +3706,7 @@
         "plural": "Nervengiften"
       },
       "genitive": {
-        "singular": "Nervengifts",
+        "singular": "Nervengiftes",
         "plural": "Nervengifte"
       }
     },
@@ -3899,7 +3737,7 @@
         "plural": "Nettopreise"
       },
       "dative": {
-        "singular": "Nettopreise",
+        "singular": "Nettopreis",
         "plural": "Nettopreisen"
       },
       "genitive": {
@@ -4029,39 +3867,6 @@
       "genitive": {
         "singular": "Neuentdeckung",
         "plural": "Neuentdeckungen"
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
-    "lemma": "Neunjähriger",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "nine-year-old"
-      ],
-      "fr": []
-    },
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Neunjähriger",
-        "plural": "Neunjährigen"
-      },
-      "accusative": {
-        "singular": "Neunjährigen",
-        "plural": "Neunjährigen"
-      },
-      "dative": {
-        "singular": "Neunjährigen",
-        "plural": "Neunjährigen"
-      },
-      "genitive": {
-        "singular": "Neunjährigen",
-        "plural": "Neunjährigen"
       }
     },
     "frequency": 0.000005000006250007812
@@ -4197,6 +4002,39 @@
       "genitive": {
         "singular": "Neurowissenschaftlers",
         "plural": "Neurowissenschaftler"
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
+    "lemma": "Nibelungenlied",
+    "type": "noun",
+    "translations": {
+      "en": [],
+      "fr": [
+        "Chanson des Nibelungen"
+      ]
+    },
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": true,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Nibelungenlied",
+        "plural": null
+      },
+      "accusative": {
+        "singular": "Nibelungenlied",
+        "plural": null
+      },
+      "dative": {
+        "singular": "Nibelungenlied",
+        "plural": null
+      },
+      "genitive": {
+        "singular": "Nibelungenlieds",
+        "plural": null
       }
     },
     "frequency": 0.000005000006250007812
@@ -4647,36 +4485,36 @@
     "frequency": 0.000005000006250007812
   },
   {
-    "lemma": "Nießbrauch",
+    "lemma": "Nikolaus",
     "type": "noun",
     "translations": {
       "en": [
-        "usufruct"
+        "Saint Nicholas"
       ],
       "fr": [
-        "usufruit"
+        "Saint-Nicolas"
       ]
     },
     "gender": "m",
     "noArticle": false,
-    "singularOnly": true,
+    "singularOnly": false,
     "pluralOnly": false,
     "cases": {
       "nominative": {
-        "singular": "Nießbrauch",
-        "plural": null
+        "singular": "Nikolaus",
+        "plural": "Nikolause"
       },
       "accusative": {
-        "singular": "Nießbrauch",
-        "plural": null
+        "singular": "Nikolaus",
+        "plural": "Nikolause"
       },
       "dative": {
-        "singular": "Nießbrauche",
-        "plural": null
+        "singular": "Nikolaus",
+        "plural": "Nikolausen"
       },
       "genitive": {
-        "singular": "Nießbrauches",
-        "plural": null
+        "singular": "Nikolaus",
+        "plural": "Nikolause"
       }
     },
     "frequency": 0.000005000006250007812
@@ -4773,6 +4611,37 @@
     "commonNouns": []
   },
   {
+    "lemma": "Nomadenvolk",
+    "type": "noun",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Nomadenvolk",
+        "plural": "Nomadenvölker"
+      },
+      "accusative": {
+        "singular": "Nomadenvolk",
+        "plural": "Nomadenvölker"
+      },
+      "dative": {
+        "singular": "Nomadenvolk",
+        "plural": "Nomadenvölkern"
+      },
+      "genitive": {
+        "singular": "Nomadenvolkes",
+        "plural": "Nomadenvölker"
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
     "lemma": "Nomenklatur",
     "type": "noun",
     "translations": {
@@ -4852,19 +4721,19 @@
     "cases": {
       "nominative": {
         "singular": "Norddeutscher",
-        "plural": "Norddeutschen"
+        "plural": "Norddeutsche"
       },
       "accusative": {
         "singular": "Norddeutschen",
-        "plural": "Norddeutschen"
+        "plural": "Norddeutsche"
       },
       "dative": {
-        "singular": "Norddeutschen",
+        "singular": "Norddeutschem",
         "plural": "Norddeutschen"
       },
       "genitive": {
         "singular": "Norddeutschen",
-        "plural": "Norddeutschen"
+        "plural": "Norddeutscher"
       }
     },
     "frequency": 0.000005000006250007812
@@ -4895,11 +4764,11 @@
         "plural": "Nordwinde"
       },
       "dative": {
-        "singular": "Nordwinde",
+        "singular": "Nordwind",
         "plural": "Nordwinden"
       },
       "genitive": {
-        "singular": "Nordwindes",
+        "singular": "Nordwinds",
         "plural": "Nordwinde"
       }
     },
@@ -5027,11 +4896,11 @@
         "plural": "Notenblätter"
       },
       "dative": {
-        "singular": "Notenblatte",
+        "singular": "Notenblatt",
         "plural": "Notenblättern"
       },
       "genitive": {
-        "singular": "Notenblatts",
+        "singular": "Notenblattes",
         "plural": "Notenblätter"
       }
     },
@@ -5095,11 +4964,11 @@
         "plural": "Notentexte"
       },
       "dative": {
-        "singular": "Notentexte",
+        "singular": "Notentext",
         "plural": "Notentexten"
       },
       "genitive": {
-        "singular": "Notentexts",
+        "singular": "Notentextes",
         "plural": "Notentexte"
       }
     },
@@ -5192,7 +5061,7 @@
         "plural": "Notstandsgesetze"
       },
       "dative": {
-        "singular": "Notstandsgesetze",
+        "singular": "Notstandsgesetz",
         "plural": "Notstandsgesetzen"
       },
       "genitive": {
@@ -5229,11 +5098,11 @@
         "plural": "Nudelsalate"
       },
       "dative": {
-        "singular": "Nudelsalate",
+        "singular": "Nudelsalat",
         "plural": "Nudelsalaten"
       },
       "genitive": {
-        "singular": "Nudelsalates",
+        "singular": "Nudelsalats",
         "plural": "Nudelsalate"
       }
     },
@@ -5466,7 +5335,7 @@
         "plural": "Nutzungskonflikten"
       },
       "genitive": {
-        "singular": "Nutzungskonfliktes",
+        "singular": "Nutzungskonflikts",
         "plural": "Nutzungskonflikte"
       }
     },
@@ -5729,6 +5598,37 @@
     "frequency": 0.000005000006250007812
   },
   {
+    "lemma": "Obstanbau",
+    "type": "noun",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": true,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Obstanbau",
+        "plural": null
+      },
+      "accusative": {
+        "singular": "Obstanbau",
+        "plural": null
+      },
+      "dative": {
+        "singular": "Obstanbau",
+        "plural": null
+      },
+      "genitive": {
+        "singular": "Obstanbaus",
+        "plural": null
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
     "lemma": "Obstbrand",
     "type": "noun",
     "translations": {
@@ -5749,11 +5649,11 @@
         "plural": "Obstbrände"
       },
       "dative": {
-        "singular": "Obstbrande",
+        "singular": "Obstbrand",
         "plural": "Obstbränden"
       },
       "genitive": {
-        "singular": "Obstbrands",
+        "singular": "Obstbrandes",
         "plural": "Obstbrände"
       }
     },
@@ -5831,41 +5731,6 @@
     "frequency": 0.000005000006250007812
   },
   {
-    "lemma": "Obstsalat",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "fruit salad"
-      ],
-      "fr": [
-        "salade de fruits"
-      ]
-    },
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Obstsalat",
-        "plural": "Obstsalate"
-      },
-      "accusative": {
-        "singular": "Obstsalat",
-        "plural": "Obstsalate"
-      },
-      "dative": {
-        "singular": "Obstsalate",
-        "plural": "Obstsalaten"
-      },
-      "genitive": {
-        "singular": "Obstsalates",
-        "plural": "Obstsalate"
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
     "lemma": "Ochsenkopf",
     "type": "noun",
     "translations": {
@@ -5888,11 +5753,11 @@
         "plural": "Ochsenköpfe"
       },
       "dative": {
-        "singular": "Ochsenkopfe",
+        "singular": "Ochsenkopf",
         "plural": "Ochsenköpfen"
       },
       "genitive": {
-        "singular": "Ochsenkopfs",
+        "singular": "Ochsenkopfes",
         "plural": "Ochsenköpfe"
       }
     },
@@ -6093,41 +5958,6 @@
     "commonNouns": []
   },
   {
-    "lemma": "Oktett",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "octet"
-      ],
-      "fr": [
-        "octet"
-      ]
-    },
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Oktett",
-        "plural": "Oktette"
-      },
-      "accusative": {
-        "singular": "Oktett",
-        "plural": "Oktette"
-      },
-      "dative": {
-        "singular": "Oktett",
-        "plural": "Oktetten"
-      },
-      "genitive": {
-        "singular": "Oktettes",
-        "plural": "Oktette"
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
     "lemma": "Okzident",
     "type": "noun",
     "translations": {
@@ -6188,11 +6018,11 @@
         "plural": "Ölbilder"
       },
       "dative": {
-        "singular": "Ölbilde",
+        "singular": "Ölbild",
         "plural": "Ölbildern"
       },
       "genitive": {
-        "singular": "Ölbilds",
+        "singular": "Ölbildes",
         "plural": "Ölbilder"
       }
     },
@@ -6393,11 +6223,13 @@
     "frequency": 0.000005000006250007812
   },
   {
-    "lemma": "Onlinekatalog",
+    "lemma": "Öltank",
     "type": "noun",
     "translations": {
       "en": [],
-      "fr": []
+      "fr": [
+        "réservoir d'huile"
+      ]
     },
     "gender": "m",
     "noArticle": false,
@@ -6405,20 +6237,20 @@
     "pluralOnly": false,
     "cases": {
       "nominative": {
-        "singular": "Onlinekatalog",
-        "plural": "Onlinekataloge"
+        "singular": "Öltank",
+        "plural": "Öltanks"
       },
       "accusative": {
-        "singular": "Onlinekatalog",
-        "plural": "Onlinekataloge"
+        "singular": "Öltank",
+        "plural": "Öltanks"
       },
       "dative": {
-        "singular": "Onlinekataloge",
-        "plural": "Onlinekatalogen"
+        "singular": "Öltank",
+        "plural": "Öltanks"
       },
       "genitive": {
-        "singular": "Onlinekatalogs",
-        "plural": "Onlinekataloge"
+        "singular": "Öltanks",
+        "plural": "Öltanks"
       }
     },
     "frequency": 0.000005000006250007812
@@ -6771,11 +6603,11 @@
         "plural": "Optionsfelder"
       },
       "dative": {
-        "singular": "Optionsfelde",
+        "singular": "Optionsfeld",
         "plural": "Optionsfeldern"
       },
       "genitive": {
-        "singular": "Optionsfelds",
+        "singular": "Optionsfeldes",
         "plural": "Optionsfelder"
       }
     },
@@ -6939,7 +6771,7 @@
         "plural": "Ordinariaten"
       },
       "genitive": {
-        "singular": "Ordinariates",
+        "singular": "Ordinariats",
         "plural": "Ordinariate"
       }
     },
@@ -7102,7 +6934,7 @@
         "plural": null
       },
       "genitive": {
-        "singular": "Origamis",
+        "singular": "Origami",
         "plural": null
       }
     },
@@ -7322,11 +7154,11 @@
         "plural": "Ortsämter"
       },
       "dative": {
-        "singular": "Ortsamte",
+        "singular": "Ortsamt",
         "plural": "Ortsämtern"
       },
       "genitive": {
-        "singular": "Ortsamtes",
+        "singular": "Ortsamts",
         "plural": "Ortsämter"
       }
     },
@@ -7353,11 +7185,11 @@
         "plural": "Ortstarife"
       },
       "dative": {
-        "singular": "Ortstarife",
+        "singular": "Ortstarif",
         "plural": "Ortstarifen"
       },
       "genitive": {
-        "singular": "Ortstarifs",
+        "singular": "Ortstarifes",
         "plural": "Ortstarife"
       }
     },
@@ -7503,19 +7335,19 @@
     "cases": {
       "nominative": {
         "singular": "Osteria",
-        "plural": "Osterien"
+        "plural": "Osterias"
       },
       "accusative": {
         "singular": "Osteria",
-        "plural": "Osterien"
+        "plural": "Osterias"
       },
       "dative": {
         "singular": "Osteria",
-        "plural": "Osterien"
+        "plural": "Osterias"
       },
       "genitive": {
         "singular": "Osteria",
-        "plural": "Osterien"
+        "plural": "Osterias"
       }
     },
     "frequency": 0.000005000006250007812
@@ -7942,11 +7774,11 @@
         "plural": "Oxide"
       },
       "dative": {
-        "singular": "Oxide",
+        "singular": "Oxid",
         "plural": "Oxiden"
       },
       "genitive": {
-        "singular": "Oxids",
+        "singular": "Oxides",
         "plural": "Oxide"
       }
     },
@@ -8013,11 +7845,11 @@
         "plural": "Packpapiere"
       },
       "dative": {
-        "singular": "Packpapiere",
+        "singular": "Packpapier",
         "plural": "Packpapieren"
       },
       "genitive": {
-        "singular": "Packpapiers",
+        "singular": "Packpapieres",
         "plural": "Packpapiere"
       }
     },
@@ -8044,11 +7876,11 @@
         "plural": "Packtische"
       },
       "dative": {
-        "singular": "Packtische",
+        "singular": "Packtisch",
         "plural": "Packtischen"
       },
       "genitive": {
-        "singular": "Packtischs",
+        "singular": "Packtisches",
         "plural": "Packtische"
       }
     },
@@ -8277,11 +8109,11 @@
         "plural": "Pannendienste"
       },
       "dative": {
-        "singular": "Pannendienste",
+        "singular": "Pannendienst",
         "plural": "Pannendiensten"
       },
       "genitive": {
-        "singular": "Pannendienstes",
+        "singular": "Pannendiensts",
         "plural": "Pannendienste"
       }
     },
@@ -8442,11 +8274,11 @@
         "plural": null
       },
       "dative": {
-        "singular": "Papiergelde",
+        "singular": "Papiergeld",
         "plural": null
       },
       "genitive": {
-        "singular": "Papiergeldes",
+        "singular": "Papiergelds",
         "plural": null
       }
     },
@@ -8539,11 +8371,11 @@
         "plural": "Papiertücher"
       },
       "dative": {
-        "singular": "Papiertuche",
+        "singular": "Papiertuch",
         "plural": "Papiertüchern"
       },
       "genitive": {
-        "singular": "Papiertuchs",
+        "singular": "Papiertuches",
         "plural": "Papiertücher"
       }
     },
@@ -8607,6 +8439,37 @@
       "genitive": {
         "singular": "Paprikapulvers",
         "plural": "Paprikapulver"
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
+    "lemma": "Papstbesuch",
+    "type": "noun",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Papstbesuch",
+        "plural": "Papstbesuche"
+      },
+      "accusative": {
+        "singular": "Papstbesuch",
+        "plural": "Papstbesuche"
+      },
+      "dative": {
+        "singular": "Papstbesuch",
+        "plural": "Papstbesuchen"
+      },
+      "genitive": {
+        "singular": "Papstbesuches",
+        "plural": "Papstbesuche"
       }
     },
     "frequency": 0.000005000006250007812
@@ -9045,47 +8908,12 @@
         "plural": "Partyspiele"
       },
       "dative": {
-        "singular": "Partyspiele",
+        "singular": "Partyspiel",
         "plural": "Partyspielen"
       },
       "genitive": {
-        "singular": "Partyspiels",
+        "singular": "Partyspieles",
         "plural": "Partyspiele"
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
-    "lemma": "Passagierflugzeug",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "airliner"
-      ],
-      "fr": [
-        "avion de ligne"
-      ]
-    },
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Passagierflugzeug",
-        "plural": "Passagierflugzeuge"
-      },
-      "accusative": {
-        "singular": "Passagierflugzeug",
-        "plural": "Passagierflugzeuge"
-      },
-      "dative": {
-        "singular": "Passagierflugzeuge",
-        "plural": "Passagierflugzeugen"
-      },
-      "genitive": {
-        "singular": "Passagierflugzeugs",
-        "plural": "Passagierflugzeuge"
       }
     },
     "frequency": 0.000005000006250007812
@@ -9148,11 +8976,11 @@
         "plural": "Passagierschiffe"
       },
       "dative": {
-        "singular": "Passagierschiffe",
+        "singular": "Passagierschiff",
         "plural": "Passagierschiffen"
       },
       "genitive": {
-        "singular": "Passagierschiffs",
+        "singular": "Passagierschiffes",
         "plural": "Passagierschiffe"
       }
     },
@@ -9762,11 +9590,11 @@
         "plural": "Patriziate"
       },
       "dative": {
-        "singular": "Patriziate",
+        "singular": "Patriziat",
         "plural": "Patriziaten"
       },
       "genitive": {
-        "singular": "Patriziates",
+        "singular": "Patriziats",
         "plural": "Patriziate"
       }
     },
@@ -10002,7 +9830,7 @@
         "plural": "Pausenverkäufen"
       },
       "genitive": {
-        "singular": "Pausenverkaufes",
+        "singular": "Pausenverkaufs",
         "plural": "Pausenverkäufe"
       }
     },
@@ -10151,11 +9979,11 @@
         "plural": "Pendelverkehre"
       },
       "dative": {
-        "singular": "Pendelverkehre",
+        "singular": "Pendelverkehr",
         "plural": "Pendelverkehren"
       },
       "genitive": {
-        "singular": "Pendelverkehres",
+        "singular": "Pendelverkehrs",
         "plural": "Pendelverkehre"
       }
     },
@@ -10256,11 +10084,11 @@
         "plural": "Pergamentpapiere"
       },
       "dative": {
-        "singular": "Pergamentpapiere",
+        "singular": "Pergamentpapier",
         "plural": "Pergamentpapieren"
       },
       "genitive": {
-        "singular": "Pergamentpapiers",
+        "singular": "Pergamentpapieres",
         "plural": "Pergamentpapiere"
       }
     },
@@ -10456,7 +10284,7 @@
         "plural": null
       },
       "dative": {
-        "singular": "Personenschutze",
+        "singular": "Personenschutz",
         "plural": null
       },
       "genitive": {
@@ -10485,19 +10313,19 @@
     "cases": {
       "nominative": {
         "singular": "Personenwagen",
-        "plural": "Personenwägen"
+        "plural": "Personenwagen"
       },
       "accusative": {
         "singular": "Personenwagen",
-        "plural": "Personenwägen"
+        "plural": "Personenwagen"
       },
       "dative": {
         "singular": "Personenwagen",
-        "plural": "Personenwägen"
+        "plural": "Personenwagen"
       },
       "genitive": {
         "singular": "Personenwagens",
-        "plural": "Personenwägen"
+        "plural": "Personenwagen"
       }
     },
     "frequency": 0.000005000006250007812
@@ -10628,41 +10456,6 @@
       "genitive": {
         "singular": "Petentin",
         "plural": "Petentinnen"
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
-    "lemma": "Petersdom",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "St. Peter's Basilica"
-      ],
-      "fr": [
-        "basilique Saint-Pierre"
-      ]
-    },
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": true,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Petersdom",
-        "plural": null
-      },
-      "accusative": {
-        "singular": "Petersdom",
-        "plural": null
-      },
-      "dative": {
-        "singular": "Petersdome",
-        "plural": null
-      },
-      "genitive": {
-        "singular": "Petersdoms",
-        "plural": null
       }
     },
     "frequency": 0.000005000006250007812
@@ -10854,11 +10647,11 @@
         "plural": "Pfingstfeste"
       },
       "dative": {
-        "singular": "Pfingstfeste",
+        "singular": "Pfingstfest",
         "plural": "Pfingstfesten"
       },
       "genitive": {
-        "singular": "Pfingstfests",
+        "singular": "Pfingstfestes",
         "plural": "Pfingstfeste"
       }
     },
@@ -10954,7 +10747,7 @@
         "plural": "Pflanzensamen"
       },
       "dative": {
-        "singular": "Pflanzensamen",
+        "singular": "Pflanzensame",
         "plural": "Pflanzensamen"
       },
       "genitive": {
@@ -11047,19 +10840,19 @@
     "cases": {
       "nominative": {
         "singular": "Pflugschar",
-        "plural": "Pflugschare"
+        "plural": "Pflugscharen"
       },
       "accusative": {
         "singular": "Pflugschar",
-        "plural": "Pflugschare"
+        "plural": "Pflugscharen"
       },
       "dative": {
-        "singular": "Pflugschare",
+        "singular": "Pflugschar",
         "plural": "Pflugscharen"
       },
       "genitive": {
-        "singular": "Pflugschars",
-        "plural": "Pflugschare"
+        "singular": "Pflugschar",
+        "plural": "Pflugscharen"
       }
     },
     "frequency": 0.000005000006250007812
@@ -11528,37 +11321,6 @@
     "frequency": 0.000005000006250007812
   },
   {
-    "lemma": "Piano",
-    "type": "noun",
-    "translations": {
-      "en": [],
-      "fr": []
-    },
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Piano",
-        "plural": "Piani"
-      },
-      "accusative": {
-        "singular": "Piano",
-        "plural": "Piani"
-      },
-      "dative": {
-        "singular": "Piano",
-        "plural": "Piani"
-      },
-      "genitive": {
-        "singular": "Pianos",
-        "plural": "Piani"
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
     "lemma": "Picknickplatz",
     "type": "noun",
     "translations": {
@@ -11579,7 +11341,7 @@
         "plural": "Picknickplätze"
       },
       "dative": {
-        "singular": "Picknickplatze",
+        "singular": "Picknickplatz",
         "plural": "Picknickplätzen"
       },
       "genitive": {
@@ -11603,19 +11365,19 @@
     "cases": {
       "nominative": {
         "singular": "Pigmentfleck",
-        "plural": "Pigmentflecken"
+        "plural": "Pigmentflecke"
       },
       "accusative": {
         "singular": "Pigmentfleck",
-        "plural": "Pigmentflecken"
+        "plural": "Pigmentflecke"
       },
       "dative": {
-        "singular": "Pigmentflecke",
+        "singular": "Pigmentfleck",
         "plural": "Pigmentflecken"
       },
       "genitive": {
-        "singular": "Pigmentfleckes",
-        "plural": "Pigmentflecken"
+        "singular": "Pigmentflecks",
+        "plural": "Pigmentflecke"
       }
     },
     "frequency": 0.000005000006250007812
@@ -11879,11 +11641,11 @@
         "plural": "Pinienkerne"
       },
       "dative": {
-        "singular": "Pinienkerne",
+        "singular": "Pinienkern",
         "plural": "Pinienkernen"
       },
       "genitive": {
-        "singular": "Pinienkerns",
+        "singular": "Pinienkernes",
         "plural": "Pinienkerne"
       }
     },
@@ -12152,11 +11914,11 @@
         "plural": "Plastiksäcke"
       },
       "dative": {
-        "singular": "Plastiksacke",
+        "singular": "Plastiksack",
         "plural": "Plastiksäcken"
       },
       "genitive": {
-        "singular": "Plastiksacks",
+        "singular": "Plastiksackes",
         "plural": "Plastiksäcke"
       }
     },
@@ -12340,11 +12102,11 @@
         "plural": "Plattfische"
       },
       "dative": {
-        "singular": "Plattfische",
+        "singular": "Plattfisch",
         "plural": "Plattfischen"
       },
       "genitive": {
-        "singular": "Plattfisches",
+        "singular": "Plattfischs",
         "plural": "Plattfische"
       }
     },
@@ -12376,7 +12138,7 @@
         "plural": "Plattfüße"
       },
       "dative": {
-        "singular": "Plattfuße",
+        "singular": "Plattfuß",
         "plural": "Plattfüßen"
       },
       "genitive": {
@@ -12946,19 +12708,19 @@
     "cases": {
       "nominative": {
         "singular": "Pontifex",
-        "plural": "Pontifices"
+        "plural": "Pontifizes"
       },
       "accusative": {
         "singular": "Pontifex",
-        "plural": "Pontifices"
+        "plural": "Pontifizes"
       },
       "dative": {
         "singular": "Pontifex",
-        "plural": "Pontifices"
+        "plural": "Pontifizes"
       },
       "genitive": {
         "singular": "Pontifex",
-        "plural": "Pontifices"
+        "plural": "Pontifizes"
       }
     },
     "frequency": 0.000005000006250007812
@@ -12986,11 +12748,11 @@
         "plural": "Pontifikalämter"
       },
       "dative": {
-        "singular": "Pontifikalamte",
+        "singular": "Pontifikalamt",
         "plural": "Pontifikalämtern"
       },
       "genitive": {
-        "singular": "Pontifikalamts",
+        "singular": "Pontifikalamtes",
         "plural": "Pontifikalämter"
       }
     },
@@ -13027,6 +12789,43 @@
       "genitive": {
         "singular": "Pontons",
         "plural": "Pontons"
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
+    "lemma": "Pop",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "pop",
+        "pop music"
+      ],
+      "fr": [
+        "musique pop",
+        "pop"
+      ]
+    },
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": true,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Pop",
+        "plural": null
+      },
+      "accusative": {
+        "singular": "Pop",
+        "plural": null
+      },
+      "dative": {
+        "singular": "Pop",
+        "plural": null
+      },
+      "genitive": {
+        "singular": "Pop",
+        "plural": null
       }
     },
     "frequency": 0.000005000006250007812
@@ -13121,11 +12920,11 @@
         "plural": "Portweine"
       },
       "dative": {
-        "singular": "Portweine",
+        "singular": "Portwein",
         "plural": "Portweinen"
       },
       "genitive": {
-        "singular": "Portweines",
+        "singular": "Portweins",
         "plural": "Portweine"
       }
     },
@@ -13320,44 +13119,6 @@
       "genitive": {
         "singular": "Poststation",
         "plural": "Poststationen"
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
-    "lemma": "Postulat",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "axiom",
-        "posit",
-        "postulate",
-        "postulation"
-      ],
-      "fr": [
-        "postulat"
-      ]
-    },
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Postulat",
-        "plural": "Postulate"
-      },
-      "accusative": {
-        "singular": "Postulat",
-        "plural": "Postulate"
-      },
-      "dative": {
-        "singular": "Postulat",
-        "plural": "Postulaten"
-      },
-      "genitive": {
-        "singular": "Postulates",
-        "plural": "Postulate"
       }
     },
     "frequency": 0.000005000006250007812
@@ -13625,11 +13386,11 @@
         "plural": "Präsentkörbe"
       },
       "dative": {
-        "singular": "Präsentkorbe",
+        "singular": "Präsentkorb",
         "plural": "Präsentkörben"
       },
       "genitive": {
-        "singular": "Präsentkorbs",
+        "singular": "Präsentkorbes",
         "plural": "Präsentkörbe"
       }
     },
@@ -13656,11 +13417,11 @@
         "plural": "Präsidentenämter"
       },
       "dative": {
-        "singular": "Präsidentenamte",
+        "singular": "Präsidentenamt",
         "plural": "Präsidentenämtern"
       },
       "genitive": {
-        "singular": "Präsidentenamts",
+        "singular": "Präsidentenamtes",
         "plural": "Präsidentenämter"
       }
     },
@@ -13754,7 +13515,7 @@
         "plural": "Presseportale"
       },
       "dative": {
-        "singular": "Presseportale",
+        "singular": "Presseportal",
         "plural": "Presseportalen"
       },
       "genitive": {
@@ -13787,11 +13548,11 @@
         "plural": "Presswerke"
       },
       "dative": {
-        "singular": "Presswerke",
+        "singular": "Presswerk",
         "plural": "Presswerken"
       },
       "genitive": {
-        "singular": "Presswerks",
+        "singular": "Presswerkes",
         "plural": "Presswerke"
       }
     },
@@ -14619,37 +14380,6 @@
     "commonNouns": []
   },
   {
-    "lemma": "Protestierender",
-    "type": "noun",
-    "translations": {
-      "en": [],
-      "fr": []
-    },
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Protestierender",
-        "plural": "Protestierenden"
-      },
-      "accusative": {
-        "singular": "Protestierenden",
-        "plural": "Protestierenden"
-      },
-      "dative": {
-        "singular": "Protestierenden",
-        "plural": "Protestierenden"
-      },
-      "genitive": {
-        "singular": "Protestierenden",
-        "plural": "Protestierenden"
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
     "lemma": "Protestmarsch",
     "type": "noun",
     "translations": {
@@ -14838,44 +14568,6 @@
       "genitive": {
         "singular": "Provinzhauptstadt",
         "plural": "Provinzhauptstädte"
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
-    "lemma": "Prozessbevollmächtigte",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "attorney of record",
-        "authorised proxy",
-        "authorized proxy",
-        "proxy"
-      ],
-      "fr": [
-        "la mandataire de procédure"
-      ]
-    },
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Prozessbevollmächtigte",
-        "plural": "Prozessbevollmächtigten"
-      },
-      "accusative": {
-        "singular": "Prozessbevollmächtigte",
-        "plural": "Prozessbevollmächtigten"
-      },
-      "dative": {
-        "singular": "Prozessbevollmächtigten",
-        "plural": "Prozessbevollmächtigten"
-      },
-      "genitive": {
-        "singular": "Prozessbevollmächtigten",
-        "plural": "Prozessbevollmächtigten"
       }
     },
     "frequency": 0.000005000006250007812
@@ -15096,11 +14788,11 @@
         "plural": null
       },
       "dative": {
-        "singular": "Prunke",
+        "singular": "Prunk",
         "plural": null
       },
       "genitive": {
-        "singular": "Prunkes",
+        "singular": "Prunks",
         "plural": null
       }
     },
@@ -15193,7 +14885,7 @@
         "plural": "Publikumserfolgen"
       },
       "genitive": {
-        "singular": "Publikumserfolges",
+        "singular": "Publikumserfolgs",
         "plural": "Publikumserfolge"
       }
     },
@@ -15257,7 +14949,7 @@
         "plural": "Pulverfässer"
       },
       "dative": {
-        "singular": "Pulverfasse",
+        "singular": "Pulverfass",
         "plural": "Pulverfässern"
       },
       "genitive": {
@@ -15357,11 +15049,11 @@
         "plural": null
       },
       "dative": {
-        "singular": "Pumpe",
+        "singular": "Pump",
         "plural": null
       },
       "genitive": {
-        "singular": "Pumpes",
+        "singular": "Pumps",
         "plural": null
       }
     },
@@ -15394,6 +15086,37 @@
       "genitive": {
         "singular": "Pumphose",
         "plural": "Pumphosen"
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
+    "lemma": "Pumpspeicherwerk",
+    "type": "noun",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Pumpspeicherwerk",
+        "plural": "Pumpspeicherwerke"
+      },
+      "accusative": {
+        "singular": "Pumpspeicherwerk",
+        "plural": "Pumpspeicherwerke"
+      },
+      "dative": {
+        "singular": "Pumpspeicherwerk",
+        "plural": "Pumpspeicherwerken"
+      },
+      "genitive": {
+        "singular": "Pumpspeicherwerks",
+        "plural": "Pumpspeicherwerke"
       }
     },
     "frequency": 0.000005000006250007812
@@ -15651,43 +15374,6 @@
     "frequency": 0.000005000006250007812
   },
   {
-    "lemma": "Putschversuch",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "coup attempt",
-        "coup bid"
-      ],
-      "fr": [
-        "tentative de coup d'État",
-        "tentative de putsch"
-      ]
-    },
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Putschversuch",
-        "plural": "Putschversuche"
-      },
-      "accusative": {
-        "singular": "Putschversuch",
-        "plural": "Putschversuche"
-      },
-      "dative": {
-        "singular": "Putschversuche",
-        "plural": "Putschversuchen"
-      },
-      "genitive": {
-        "singular": "Putschversuchs",
-        "plural": "Putschversuche"
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
     "lemma": "Pyjama",
     "type": "noun",
     "translations": {
@@ -15783,7 +15469,7 @@
         "plural": null
       },
       "genitive": {
-        "singular": "Qis",
+        "singular": "Qi",
         "plural": null
       }
     },
@@ -15885,11 +15571,11 @@
         "plural": "Quantenpunkte"
       },
       "dative": {
-        "singular": "Quantenpunkte",
+        "singular": "Quantenpunkt",
         "plural": "Quantenpunkten"
       },
       "genitive": {
-        "singular": "Quantenpunkts",
+        "singular": "Quantenpunktes",
         "plural": "Quantenpunkte"
       }
     },
@@ -15947,7 +15633,7 @@
         "plural": "Quartalsergebnisse"
       },
       "dative": {
-        "singular": "Quartalsergebnisse",
+        "singular": "Quartalsergebnis",
         "plural": "Quartalsergebnissen"
       },
       "genitive": {
@@ -16140,7 +15826,7 @@
         "plural": "Raclettes"
       },
       "genitive": {
-        "singular": "Raclette",
+        "singular": "Raclettes",
         "plural": "Raclettes"
       }
     },
@@ -16198,19 +15884,19 @@
     "cases": {
       "nominative": {
         "singular": "Rädchen",
-        "plural": "Räderchen"
+        "plural": "Rädchen"
       },
       "accusative": {
         "singular": "Rädchen",
-        "plural": "Räderchen"
+        "plural": "Rädchen"
       },
       "dative": {
         "singular": "Rädchen",
-        "plural": "Räderchen"
+        "plural": "Rädchen"
       },
       "genitive": {
         "singular": "Rädchens",
-        "plural": "Räderchen"
+        "plural": "Rädchen"
       }
     },
     "frequency": 0.000005000006250007812
@@ -16310,6 +15996,39 @@
       "genitive": {
         "singular": "Radkarte",
         "plural": "Radkarten"
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
+    "lemma": "Radkasten",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "wheelhouse"
+      ],
+      "fr": []
+    },
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Radkasten",
+        "plural": "Radkästen"
+      },
+      "accusative": {
+        "singular": "Radkasten",
+        "plural": "Radkästen"
+      },
+      "dative": {
+        "singular": "Radkasten",
+        "plural": "Radkästen"
+      },
+      "genitive": {
+        "singular": "Radkastens",
+        "plural": "Radkästen"
       }
     },
     "frequency": 0.000005000006250007812
@@ -16425,7 +16144,7 @@
         "plural": "Rallys"
       },
       "genitive": {
-        "singular": "Rallys",
+        "singular": "Rally",
         "plural": "Rallys"
       }
     },
@@ -16664,41 +16383,6 @@
     "frequency": 0.000005000006250007812
   },
   {
-    "lemma": "Rapport",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "report"
-      ],
-      "fr": [
-        "rapport"
-      ]
-    },
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Rapport",
-        "plural": "Rapporte"
-      },
-      "accusative": {
-        "singular": "Rapport",
-        "plural": "Rapporte"
-      },
-      "dative": {
-        "singular": "Rapport",
-        "plural": "Rapporten"
-      },
-      "genitive": {
-        "singular": "Rapportes",
-        "plural": "Rapporte"
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
     "lemma": "Rapsöl",
     "type": "noun",
     "translations": {
@@ -16723,11 +16407,11 @@
         "plural": "Rapsöle"
       },
       "dative": {
-        "singular": "Rapsöle",
+        "singular": "Rapsöl",
         "plural": "Rapsölen"
       },
       "genitive": {
-        "singular": "Rapsöls",
+        "singular": "Rapsöles",
         "plural": "Rapsöle"
       }
     },
@@ -16770,6 +16454,39 @@
     "frequency": 0.000005000006250007812
   },
   {
+    "lemma": "Rasterelektronenmikroskop",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "scanning electron microscope"
+      ],
+      "fr": []
+    },
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Rasterelektronenmikroskop",
+        "plural": "Rasterelektronenmikroskope"
+      },
+      "accusative": {
+        "singular": "Rasterelektronenmikroskop",
+        "plural": "Rasterelektronenmikroskope"
+      },
+      "dative": {
+        "singular": "Rasterelektronenmikroskop",
+        "plural": "Rasterelektronenmikroskopen"
+      },
+      "genitive": {
+        "singular": "Rasterelektronenmikroskops",
+        "plural": "Rasterelektronenmikroskope"
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
     "lemma": "Ratatouille",
     "type": "noun",
     "translations": {
@@ -16798,7 +16515,7 @@
         "plural": "Ratatouilles"
       },
       "genitive": {
-        "singular": "Ratatouilles",
+        "singular": "Ratatouille",
         "plural": "Ratatouilles"
       }
     },
@@ -16945,39 +16662,6 @@
     "frequency": 0.000005000006250007812
   },
   {
-    "lemma": "Raubzug",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "raid"
-      ],
-      "fr": []
-    },
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Raubzug",
-        "plural": "Raubzüge"
-      },
-      "accusative": {
-        "singular": "Raubzug",
-        "plural": "Raubzüge"
-      },
-      "dative": {
-        "singular": "Raubzuge",
-        "plural": "Raubzügen"
-      },
-      "genitive": {
-        "singular": "Raubzugs",
-        "plural": "Raubzüge"
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
     "lemma": "Raucherbereich",
     "type": "noun",
     "translations": {
@@ -17000,11 +16684,11 @@
         "plural": "Raucherbereiche"
       },
       "dative": {
-        "singular": "Raucherbereiche",
+        "singular": "Raucherbereich",
         "plural": "Raucherbereichen"
       },
       "genitive": {
-        "singular": "Raucherbereichs",
+        "singular": "Raucherbereiches",
         "plural": "Raucherbereiche"
       }
     },
@@ -17408,6 +17092,37 @@
       ],
       "fr": []
     },
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Rechtsaußen",
+        "plural": "Rechtsaußen"
+      },
+      "accusative": {
+        "singular": "Rechtsaußen",
+        "plural": "Rechtsaußen"
+      },
+      "dative": {
+        "singular": "Rechtsaußen",
+        "plural": "Rechtsaußen"
+      },
+      "genitive": {
+        "singular": "Rechtsaußen",
+        "plural": "Rechtsaußen"
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
+    "lemma": "Rechtsaußen",
+    "type": "noun",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
     "gender": "f",
     "noArticle": false,
     "singularOnly": false,
@@ -17606,7 +17321,7 @@
         "plural": "Rechtssätze"
       },
       "dative": {
-        "singular": "Rechtssatze",
+        "singular": "Rechtssatz",
         "plural": "Rechtssätzen"
       },
       "genitive": {
@@ -17735,7 +17450,7 @@
         "plural": "Redaktionsschlüsse"
       },
       "dative": {
-        "singular": "Redaktionsschlusse",
+        "singular": "Redaktionsschluss",
         "plural": "Redaktionsschlüssen"
       },
       "genitive": {
@@ -17766,7 +17481,7 @@
         "plural": null
       },
       "dative": {
-        "singular": "Redeflusse",
+        "singular": "Redefluss",
         "plural": null
       },
       "genitive": {
@@ -18004,11 +17719,11 @@
         "plural": "Regalbretter"
       },
       "dative": {
-        "singular": "Regalbrette",
+        "singular": "Regalbrett",
         "plural": "Regalbrettern"
       },
       "genitive": {
-        "singular": "Regalbretts",
+        "singular": "Regalbrettes",
         "plural": "Regalbretter"
       }
     },
@@ -18038,7 +17753,7 @@
         "plural": "Regelkreise"
       },
       "dative": {
-        "singular": "Regelkreise",
+        "singular": "Regelkreis",
         "plural": "Regelkreisen"
       },
       "genitive": {
@@ -18172,7 +17887,7 @@
         "plural": "Regengüsse"
       },
       "dative": {
-        "singular": "Regengusse",
+        "singular": "Regenguss",
         "plural": "Regengüssen"
       },
       "genitive": {
@@ -18302,11 +18017,11 @@
         "plural": "Regierungsgeschäfte"
       },
       "dative": {
-        "singular": "Regierungsgeschäfte",
+        "singular": "Regierungsgeschäft",
         "plural": "Regierungsgeschäften"
       },
       "genitive": {
-        "singular": "Regierungsgeschäfts",
+        "singular": "Regierungsgeschäftes",
         "plural": "Regierungsgeschäfte"
       }
     },
@@ -18406,6 +18121,41 @@
     "frequency": 0.000005000006250007812
   },
   {
+    "lemma": "Reichskammergericht",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "Imperial High Court"
+      ],
+      "fr": [
+        "Chambre impériale"
+      ]
+    },
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": true,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Reichskammergericht",
+        "plural": null
+      },
+      "accusative": {
+        "singular": "Reichskammergericht",
+        "plural": null
+      },
+      "dative": {
+        "singular": "Reichskammergericht",
+        "plural": null
+      },
+      "genitive": {
+        "singular": "Reichskammergerichts",
+        "plural": null
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
     "lemma": "Reichspost",
     "type": "noun",
     "translations": {
@@ -18465,11 +18215,11 @@
         "plural": null
       },
       "dative": {
-        "singular": "Reife",
+        "singular": "Reif",
         "plural": null
       },
       "genitive": {
-        "singular": "Reifs",
+        "singular": "Reifes",
         "plural": null
       }
     },
@@ -18504,11 +18254,11 @@
         "plural": "Reife"
       },
       "dative": {
-        "singular": "Reife",
+        "singular": "Reif",
         "plural": "Reifen"
       },
       "genitive": {
-        "singular": "Reifs",
+        "singular": "Reifes",
         "plural": "Reife"
       }
     },
@@ -18577,7 +18327,7 @@
         "plural": "Reifenservices"
       },
       "genitive": {
-        "singular": "Reifenservices",
+        "singular": "Reifenservice",
         "plural": "Reifenservices"
       }
     },
@@ -18643,11 +18393,11 @@
         "plural": "Reihengräber"
       },
       "dative": {
-        "singular": "Reihengrabe",
+        "singular": "Reihengrab",
         "plural": "Reihengräbern"
       },
       "genitive": {
-        "singular": "Reihengrabs",
+        "singular": "Reihengrabes",
         "plural": "Reihengräber"
       }
     },
@@ -18863,37 +18613,6 @@
     "frequency": 0.000005000006250007812
   },
   {
-    "lemma": "Reisebuch",
-    "type": "noun",
-    "translations": {
-      "en": [],
-      "fr": []
-    },
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Reisebuch",
-        "plural": "Reisebücher"
-      },
-      "accusative": {
-        "singular": "Reisebuch",
-        "plural": "Reisebücher"
-      },
-      "dative": {
-        "singular": "Reisebuche",
-        "plural": "Reisebüchern"
-      },
-      "genitive": {
-        "singular": "Reisebuches",
-        "plural": "Reisebücher"
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
     "lemma": "Reisetagebuch",
     "type": "noun",
     "translations": {
@@ -18914,11 +18633,11 @@
         "plural": "Reisetagebücher"
       },
       "dative": {
-        "singular": "Reisetagebuche",
+        "singular": "Reisetagebuch",
         "plural": "Reisetagebüchern"
       },
       "genitive": {
-        "singular": "Reisetagebuches",
+        "singular": "Reisetagebuchs",
         "plural": "Reisetagebücher"
       }
     },
@@ -18945,11 +18664,11 @@
         "plural": "Reisewege"
       },
       "dative": {
-        "singular": "Reisewege",
+        "singular": "Reiseweg",
         "plural": "Reisewegen"
       },
       "genitive": {
-        "singular": "Reisewegs",
+        "singular": "Reiseweges",
         "plural": "Reisewege"
       }
     },
@@ -18980,11 +18699,11 @@
         "plural": "Reisgerichte"
       },
       "dative": {
-        "singular": "Reisgerichte",
+        "singular": "Reisgericht",
         "plural": "Reisgerichten"
       },
       "genitive": {
-        "singular": "Reisgerichtes",
+        "singular": "Reisgerichts",
         "plural": "Reisgerichte"
       }
     },
@@ -19149,12 +18868,43 @@
         "plural": "Rekordgewinne"
       },
       "dative": {
-        "singular": "Rekordgewinne",
+        "singular": "Rekordgewinn",
         "plural": "Rekordgewinnen"
       },
       "genitive": {
-        "singular": "Rekordgewinnes",
+        "singular": "Rekordgewinns",
         "plural": "Rekordgewinne"
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
+    "lemma": "Rekordversuch",
+    "type": "noun",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Rekordversuch",
+        "plural": "Rekordversuche"
+      },
+      "accusative": {
+        "singular": "Rekordversuch",
+        "plural": "Rekordversuche"
+      },
+      "dative": {
+        "singular": "Rekordversuch",
+        "plural": "Rekordversuchen"
+      },
+      "genitive": {
+        "singular": "Rekordversuches",
+        "plural": "Rekordversuche"
       }
     },
     "frequency": 0.000005000006250007812
@@ -19941,7 +19691,7 @@
         "plural": "Rettungshunden"
       },
       "genitive": {
-        "singular": "Rettungshundes",
+        "singular": "Rettungshunds",
         "plural": "Rettungshunde"
       }
     },
@@ -20274,6 +20024,41 @@
     "frequency": 0.000005000006250007812
   },
   {
+    "lemma": "Richterspruch",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "sentence"
+      ],
+      "fr": [
+        "sentence"
+      ]
+    },
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Richterspruch",
+        "plural": "Richtersprüche"
+      },
+      "accusative": {
+        "singular": "Richterspruch",
+        "plural": "Richtersprüche"
+      },
+      "dative": {
+        "singular": "Richterspruch",
+        "plural": "Richtersprüchen"
+      },
+      "genitive": {
+        "singular": "Richterspruches",
+        "plural": "Richtersprüche"
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
     "lemma": "Richtigstellung",
     "type": "noun",
     "translations": {
@@ -20329,7 +20114,7 @@
         "plural": "Richtsprüchen"
       },
       "genitive": {
-        "singular": "Richtspruches",
+        "singular": "Richtspruchs",
         "plural": "Richtsprüche"
       }
     },
@@ -20559,12 +20344,43 @@
         "plural": "Ringkämpfe"
       },
       "dative": {
-        "singular": "Ringkampfe",
+        "singular": "Ringkampf",
         "plural": "Ringkämpfen"
       },
       "genitive": {
-        "singular": "Ringkampfs",
+        "singular": "Ringkampfes",
         "plural": "Ringkämpfe"
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
+    "lemma": "Ringwall",
+    "type": "noun",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Ringwall",
+        "plural": "Ringwälle"
+      },
+      "accusative": {
+        "singular": "Ringwall",
+        "plural": "Ringwälle"
+      },
+      "dative": {
+        "singular": "Ringwall",
+        "plural": "Ringwällen"
+      },
+      "genitive": {
+        "singular": "Ringwalles",
+        "plural": "Ringwälle"
       }
     },
     "frequency": 0.000005000006250007812
@@ -20599,7 +20415,7 @@
         "plural": "Rinnsalen"
       },
       "genitive": {
-        "singular": "Rinnsales",
+        "singular": "Rinnsals",
         "plural": "Rinnsale"
       }
     },
@@ -20845,11 +20661,11 @@
         "plural": "Rizinusöle"
       },
       "dative": {
-        "singular": "Rizinusöle",
+        "singular": "Rizinusöl",
         "plural": "Rizinusölen"
       },
       "genitive": {
-        "singular": "Rizinusöls",
+        "singular": "Rizinusöles",
         "plural": "Rizinusöle"
       }
     },
@@ -20887,19 +20703,19 @@
     "cases": {
       "nominative": {
         "singular": "Robot",
-        "plural": "Robote"
+        "plural": "Roboten"
       },
       "accusative": {
         "singular": "Robot",
-        "plural": "Robote"
+        "plural": "Roboten"
       },
       "dative": {
         "singular": "Robot",
         "plural": "Roboten"
       },
       "genitive": {
-        "singular": "Robots",
-        "plural": "Robote"
+        "singular": "Robot",
+        "plural": "Roboten"
       }
     },
     "frequency": 0.000005000006250007812
@@ -21083,11 +20899,11 @@
         "plural": "Rohrstöcke"
       },
       "dative": {
-        "singular": "Rohrstocke",
+        "singular": "Rohrstock",
         "plural": "Rohrstöcken"
       },
       "genitive": {
-        "singular": "Rohrstocks",
+        "singular": "Rohrstockes",
         "plural": "Rohrstöcke"
       }
     },
@@ -21116,11 +20932,11 @@
         "plural": "Rohstoffmärkte"
       },
       "dative": {
-        "singular": "Rohstoffmarkte",
+        "singular": "Rohstoffmarkt",
         "plural": "Rohstoffmärkten"
       },
       "genitive": {
-        "singular": "Rohstoffmarkts",
+        "singular": "Rohstoffmarktes",
         "plural": "Rohstoffmärkte"
       }
     },
@@ -21250,7 +21066,7 @@
         "plural": "Rollenangeboten"
       },
       "genitive": {
-        "singular": "Rollenangebots",
+        "singular": "Rollenangebotes",
         "plural": "Rollenangebote"
       }
     },
@@ -21283,6 +21099,37 @@
       "genitive": {
         "singular": "Rollenklischees",
         "plural": "Rollenklischees"
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
+    "lemma": "Rollentausch",
+    "type": "noun",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Rollentausch",
+        "plural": "Rollentausche"
+      },
+      "accusative": {
+        "singular": "Rollentausch",
+        "plural": "Rollentausche"
+      },
+      "dative": {
+        "singular": "Rollentausch",
+        "plural": "Rollentauschen"
+      },
+      "genitive": {
+        "singular": "Rollentauschs",
+        "plural": "Rollentausche"
       }
     },
     "frequency": 0.000005000006250007812
@@ -21411,7 +21258,7 @@
         "plural": "Römertöpfen"
       },
       "genitive": {
-        "singular": "Römertopfs",
+        "singular": "Römertopfes",
         "plural": "Römertöpfe"
       }
     },
@@ -21440,11 +21287,11 @@
         "plural": "Röntgengeräte"
       },
       "dative": {
-        "singular": "Röntgengeräte",
+        "singular": "Röntgengerät",
         "plural": "Röntgengeräten"
       },
       "genitive": {
-        "singular": "Röntgengeräts",
+        "singular": "Röntgengerätes",
         "plural": "Röntgengeräte"
       }
     },
@@ -21471,11 +21318,11 @@
         "plural": null
       },
       "dative": {
-        "singular": "Röntgenlichte",
+        "singular": "Röntgenlicht",
         "plural": null
       },
       "genitive": {
-        "singular": "Röntgenlichtes",
+        "singular": "Röntgenlichts",
         "plural": null
       }
     },
@@ -21868,7 +21715,7 @@
         "plural": "Rückrundenauftakten"
       },
       "genitive": {
-        "singular": "Rückrundenauftaktes",
+        "singular": "Rückrundenauftakts",
         "plural": "Rückrundenauftakte"
       }
     },
@@ -21895,11 +21742,11 @@
         "plural": "Rückschlagspiele"
       },
       "dative": {
-        "singular": "Rückschlagspiele",
+        "singular": "Rückschlagspiel",
         "plural": "Rückschlagspielen"
       },
       "genitive": {
-        "singular": "Rückschlagspiels",
+        "singular": "Rückschlagspieles",
         "plural": "Rückschlagspiele"
       }
     },
@@ -21966,6 +21813,41 @@
       "genitive": {
         "singular": "Ruderclubs",
         "plural": "Ruderclubs"
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
+    "lemma": "Rudersport",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "rowing"
+      ],
+      "fr": [
+        "aviron"
+      ]
+    },
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": true,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Rudersport",
+        "plural": null
+      },
+      "accusative": {
+        "singular": "Rudersport",
+        "plural": null
+      },
+      "dative": {
+        "singular": "Rudersport",
+        "plural": null
+      },
+      "genitive": {
+        "singular": "Rudersports",
+        "plural": null
       }
     },
     "frequency": 0.000005000006250007812
@@ -22414,19 +22296,19 @@
     "cases": {
       "nominative": {
         "singular": "Russlanddeutsche",
-        "plural": "Russlanddeutschen"
+        "plural": "Russlanddeutsche"
       },
       "accusative": {
         "singular": "Russlanddeutsche",
-        "plural": "Russlanddeutschen"
+        "plural": "Russlanddeutsche"
       },
       "dative": {
-        "singular": "Russlanddeutschen",
+        "singular": "Russlanddeutscher",
         "plural": "Russlanddeutschen"
       },
       "genitive": {
-        "singular": "Russlanddeutschen",
-        "plural": "Russlanddeutschen"
+        "singular": "Russlanddeutscher",
+        "plural": "Russlanddeutscher"
       }
     },
     "frequency": 0.000005000006250007812
@@ -22483,11 +22365,11 @@
         "plural": "Rüstungskonzerne"
       },
       "dative": {
-        "singular": "Rüstungskonzerne",
+        "singular": "Rüstungskonzern",
         "plural": "Rüstungskonzernen"
       },
       "genitive": {
-        "singular": "Rüstungskonzerns",
+        "singular": "Rüstungskonzernes",
         "plural": "Rüstungskonzerne"
       }
     },
@@ -22518,7 +22400,7 @@
         "plural": "Rüstungsprojekten"
       },
       "genitive": {
-        "singular": "Rüstungsprojekts",
+        "singular": "Rüstungsprojektes",
         "plural": "Rüstungsprojekte"
       }
     },
@@ -22849,11 +22731,11 @@
         "plural": "Salzbäder"
       },
       "dative": {
-        "singular": "Salzbade",
+        "singular": "Salzbad",
         "plural": "Salzbädern"
       },
       "genitive": {
-        "singular": "Salzbads",
+        "singular": "Salzbades",
         "plural": "Salzbäder"
       }
     },
@@ -22989,7 +22871,7 @@
         "plural": "Sammelplätze"
       },
       "dative": {
-        "singular": "Sammelplatze",
+        "singular": "Sammelplatz",
         "plural": "Sammelplätzen"
       },
       "genitive": {
@@ -23195,7 +23077,7 @@
     "commonNouns": []
   },
   {
-    "lemma": "Sauerstoffbedarf",
+    "lemma": "Sauerstofftransport",
     "type": "noun",
     "translations": {
       "en": [],
@@ -23207,20 +23089,51 @@
     "pluralOnly": false,
     "cases": {
       "nominative": {
-        "singular": "Sauerstoffbedarf",
-        "plural": "Sauerstoffbedarfe"
+        "singular": "Sauerstofftransport",
+        "plural": "Sauerstofftransporte"
       },
       "accusative": {
-        "singular": "Sauerstoffbedarf",
-        "plural": "Sauerstoffbedarfe"
+        "singular": "Sauerstofftransport",
+        "plural": "Sauerstofftransporte"
       },
       "dative": {
-        "singular": "Sauerstoffbedarfe",
-        "plural": "Sauerstoffbedarfen"
+        "singular": "Sauerstofftransport",
+        "plural": "Sauerstofftransporten"
       },
       "genitive": {
-        "singular": "Sauerstoffbedarfs",
-        "plural": "Sauerstoffbedarfe"
+        "singular": "Sauerstofftransportes",
+        "plural": "Sauerstofftransporte"
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
+    "lemma": "Sauerstoffverbrauch",
+    "type": "noun",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Sauerstoffverbrauch",
+        "plural": "Sauerstoffverbräuche"
+      },
+      "accusative": {
+        "singular": "Sauerstoffverbrauch",
+        "plural": "Sauerstoffverbräuche"
+      },
+      "dative": {
+        "singular": "Sauerstoffverbrauch",
+        "plural": "Sauerstoffverbräuchen"
+      },
+      "genitive": {
+        "singular": "Sauerstoffverbrauchs",
+        "plural": "Sauerstoffverbräuche"
       }
     },
     "frequency": 0.000005000006250007812
@@ -23252,42 +23165,6 @@
       "genitive": {
         "singular": "Säugers",
         "plural": "Säuger"
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
-    "lemma": "Säulendiagramm",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "bar chart",
-        "bar graph"
-      ],
-      "fr": [
-        "diagramme à colonnes"
-      ]
-    },
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Säulendiagramm",
-        "plural": "Säulendiagramme"
-      },
-      "accusative": {
-        "singular": "Säulendiagramm",
-        "plural": "Säulendiagramme"
-      },
-      "dative": {
-        "singular": "Säulendiagramme",
-        "plural": "Säulendiagrammen"
-      },
-      "genitive": {
-        "singular": "Säulendiagrammes",
-        "plural": "Säulendiagramme"
       }
     },
     "frequency": 0.000005000006250007812
@@ -23422,7 +23299,7 @@
         "plural": "Schachtelsätze"
       },
       "dative": {
-        "singular": "Schachtelsatze",
+        "singular": "Schachtelsatz",
         "plural": "Schachtelsätzen"
       },
       "genitive": {
@@ -23492,41 +23369,6 @@
       "genitive": {
         "singular": "Schadenmeldung",
         "plural": "Schadenmeldungen"
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
-    "lemma": "Schadstoffgehalt",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "pollutant content"
-      ],
-      "fr": [
-        "teneur en polluants"
-      ]
-    },
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Schadstoffgehalt",
-        "plural": "Schadstoffgehalte"
-      },
-      "accusative": {
-        "singular": "Schadstoffgehalt",
-        "plural": "Schadstoffgehalte"
-      },
-      "dative": {
-        "singular": "Schadstoffgehalte",
-        "plural": "Schadstoffgehalten"
-      },
-      "genitive": {
-        "singular": "Schadstoffgehalts",
-        "plural": "Schadstoffgehalte"
       }
     },
     "frequency": 0.000005000006250007812
@@ -24038,11 +23880,11 @@
         "plural": "Schaukelpferde"
       },
       "dative": {
-        "singular": "Schaukelpferde",
+        "singular": "Schaukelpferd",
         "plural": "Schaukelpferden"
       },
       "genitive": {
-        "singular": "Schaukelpferdes",
+        "singular": "Schaukelpferds",
         "plural": "Schaukelpferde"
       }
     },
@@ -24230,11 +24072,11 @@
         "plural": "Scheinwerferlichter"
       },
       "dative": {
-        "singular": "Scheinwerferlichte",
+        "singular": "Scheinwerferlicht",
         "plural": "Scheinwerferlichtern"
       },
       "genitive": {
-        "singular": "Scheinwerferlichts",
+        "singular": "Scheinwerferlichtes",
         "plural": "Scheinwerferlichter"
       }
     },
@@ -24556,6 +24398,37 @@
     "frequency": 0.000005000006250007812
   },
   {
+    "lemma": "Schießbefehl",
+    "type": "noun",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Schießbefehl",
+        "plural": "Schießbefehle"
+      },
+      "accusative": {
+        "singular": "Schießbefehl",
+        "plural": "Schießbefehle"
+      },
+      "dative": {
+        "singular": "Schießbefehl",
+        "plural": "Schießbefehlen"
+      },
+      "genitive": {
+        "singular": "Schießbefehles",
+        "plural": "Schießbefehle"
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
     "lemma": "schiffen",
     "type": "verb",
     "translations": {
@@ -24662,6 +24535,74 @@
     "frequency": 0.000005000006250007812
   },
   {
+    "lemma": "Schimmelbefall",
+    "type": "noun",
+    "translations": {
+      "en": [],
+      "fr": [
+        "infestation de moisissures"
+      ]
+    },
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Schimmelbefall",
+        "plural": "Schimmelbefälle"
+      },
+      "accusative": {
+        "singular": "Schimmelbefall",
+        "plural": "Schimmelbefälle"
+      },
+      "dative": {
+        "singular": "Schimmelbefall",
+        "plural": "Schimmelbefällen"
+      },
+      "genitive": {
+        "singular": "Schimmelbefalls",
+        "plural": "Schimmelbefälle"
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
+    "lemma": "Schisma",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "schism"
+      ],
+      "fr": [
+        "schisme"
+      ]
+    },
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Schisma",
+        "plural": "Schismen"
+      },
+      "accusative": {
+        "singular": "Schisma",
+        "plural": "Schismen"
+      },
+      "dative": {
+        "singular": "Schisma",
+        "plural": "Schismen"
+      },
+      "genitive": {
+        "singular": "Schismas",
+        "plural": "Schismen"
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
     "lemma": "Schlacke",
     "type": "noun",
     "translations": {
@@ -24698,37 +24639,6 @@
     "frequency": 0.000005000006250007812
   },
   {
-    "lemma": "Schlafende",
-    "type": "noun",
-    "translations": {
-      "en": [],
-      "fr": []
-    },
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Schlafende",
-        "plural": "Schlafenden"
-      },
-      "accusative": {
-        "singular": "Schlafende",
-        "plural": "Schlafenden"
-      },
-      "dative": {
-        "singular": "Schlafenden",
-        "plural": "Schlafenden"
-      },
-      "genitive": {
-        "singular": "Schlafenden",
-        "plural": "Schlafenden"
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
     "lemma": "Schlaflied",
     "type": "noun",
     "translations": {
@@ -24754,11 +24664,11 @@
         "plural": "Schlaflieder"
       },
       "dative": {
-        "singular": "Schlafliede",
+        "singular": "Schlaflied",
         "plural": "Schlafliedern"
       },
       "genitive": {
-        "singular": "Schlafliedes",
+        "singular": "Schlaflieds",
         "plural": "Schlaflieder"
       }
     },
@@ -24851,12 +24761,46 @@
         "plural": "Schlaginstrumente"
       },
       "dative": {
-        "singular": "Schlaginstrumente",
+        "singular": "Schlaginstrument",
         "plural": "Schlaginstrumenten"
       },
       "genitive": {
-        "singular": "Schlaginstruments",
+        "singular": "Schlaginstrumentes",
         "plural": "Schlaginstrumente"
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
+    "lemma": "Schlagwerk",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "percussion",
+        "striking mechanism"
+      ],
+      "fr": []
+    },
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Schlagwerk",
+        "plural": "Schlagwerke"
+      },
+      "accusative": {
+        "singular": "Schlagwerk",
+        "plural": "Schlagwerke"
+      },
+      "dative": {
+        "singular": "Schlagwerk",
+        "plural": "Schlagwerken"
+      },
+      "genitive": {
+        "singular": "Schlagwerkes",
+        "plural": "Schlagwerke"
       }
     },
     "frequency": 0.000005000006250007812
@@ -24926,11 +24870,11 @@
         "plural": "Schlapphüte"
       },
       "dative": {
-        "singular": "Schlapphute",
+        "singular": "Schlapphut",
         "plural": "Schlapphüten"
       },
       "genitive": {
-        "singular": "Schlapphutes",
+        "singular": "Schlapphuts",
         "plural": "Schlapphüte"
       }
     },
@@ -25056,7 +25000,7 @@
         "plural": "Schleifpapieren"
       },
       "genitive": {
-        "singular": "Schleifpapiers",
+        "singular": "Schleifpapieres",
         "plural": "Schleifpapiere"
       }
     },
@@ -25177,19 +25121,19 @@
     "cases": {
       "nominative": {
         "singular": "Schleudertrauma",
-        "plural": "Schleudertraumata"
+        "plural": "Schleudertraumen"
       },
       "accusative": {
         "singular": "Schleudertrauma",
-        "plural": "Schleudertraumata"
+        "plural": "Schleudertraumen"
       },
       "dative": {
         "singular": "Schleudertrauma",
-        "plural": "Schleudertraumata"
+        "plural": "Schleudertraumen"
       },
       "genitive": {
         "singular": "Schleudertraumas",
-        "plural": "Schleudertraumata"
+        "plural": "Schleudertraumen"
       }
     },
     "frequency": 0.000005000006250007812
@@ -25250,11 +25194,11 @@
         "plural": "Schlicke"
       },
       "dative": {
-        "singular": "Schlicke",
+        "singular": "Schlick",
         "plural": "Schlicken"
       },
       "genitive": {
-        "singular": "Schlicks",
+        "singular": "Schlickes",
         "plural": "Schlicke"
       }
     },
@@ -25278,19 +25222,19 @@
     "cases": {
       "nominative": {
         "singular": "Schluff",
-        "plural": "Schlüffe"
+        "plural": "Schluffe"
       },
       "accusative": {
         "singular": "Schluff",
-        "plural": "Schlüffe"
+        "plural": "Schluffe"
       },
       "dative": {
         "singular": "Schluff",
-        "plural": "Schlüffen"
+        "plural": "Schluffen"
       },
       "genitive": {
-        "singular": "Schluffes",
-        "plural": "Schlüffe"
+        "singular": "Schluffs",
+        "plural": "Schluffe"
       }
     },
     "frequency": 0.000005000006250007812
@@ -25324,6 +25268,43 @@
       "genitive": {
         "singular": "Schlummers",
         "plural": null
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
+    "lemma": "Schlund",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "gullet",
+        "pharynx"
+      ],
+      "fr": [
+        "abîme",
+        "gosier"
+      ]
+    },
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Schlund",
+        "plural": "Schlünde"
+      },
+      "accusative": {
+        "singular": "Schlund",
+        "plural": "Schlünde"
+      },
+      "dative": {
+        "singular": "Schlund",
+        "plural": "Schlünden"
+      },
+      "genitive": {
+        "singular": "Schlundes",
+        "plural": "Schlünde"
       }
     },
     "frequency": 0.000005000006250007812
@@ -25441,6 +25422,39 @@
     "gerund": "schlüsselnd",
     "zuinfinitive": "zu schlüsseln",
     "withSein": false,
+    "frequency": 0.000005000006250007812
+  },
+  {
+    "lemma": "Schlüsselpaar",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "pair of keys"
+      ],
+      "fr": []
+    },
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Schlüsselpaar",
+        "plural": "Schlüsselpaare"
+      },
+      "accusative": {
+        "singular": "Schlüsselpaar",
+        "plural": "Schlüsselpaare"
+      },
+      "dative": {
+        "singular": "Schlüsselpaar",
+        "plural": "Schlüsselpaaren"
+      },
+      "genitive": {
+        "singular": "Schlüsselpaares",
+        "plural": "Schlüsselpaare"
+      }
+    },
     "frequency": 0.000005000006250007812
   },
   {
@@ -25567,11 +25581,11 @@
         "plural": "Schlussstriche"
       },
       "dative": {
-        "singular": "Schlussstriche",
+        "singular": "Schlussstrich",
         "plural": "Schlussstrichen"
       },
       "genitive": {
-        "singular": "Schlussstriches",
+        "singular": "Schlussstrichs",
         "plural": "Schlussstriche"
       }
     },
@@ -25603,11 +25617,11 @@
         "plural": "Schlussverkäufe"
       },
       "dative": {
-        "singular": "Schlussverkaufe",
+        "singular": "Schlussverkauf",
         "plural": "Schlussverkäufen"
       },
       "genitive": {
-        "singular": "Schlussverkaufs",
+        "singular": "Schlussverkaufes",
         "plural": "Schlussverkäufe"
       }
     },
@@ -26096,11 +26110,11 @@
         "plural": "Schmiergelder"
       },
       "dative": {
-        "singular": "Schmiergelde",
+        "singular": "Schmiergeld",
         "plural": "Schmiergeldern"
       },
       "genitive": {
-        "singular": "Schmiergelds",
+        "singular": "Schmiergeldes",
         "plural": "Schmiergelder"
       }
     },
@@ -26546,7 +26560,7 @@
         "plural": "Schneeballsysteme"
       },
       "dative": {
-        "singular": "Schneeballsysteme",
+        "singular": "Schneeballsystem",
         "plural": "Schneeballsystemen"
       },
       "genitive": {
@@ -26577,11 +26591,11 @@
         "plural": "Schneebrüche"
       },
       "dative": {
-        "singular": "Schneebruche",
+        "singular": "Schneebruch",
         "plural": "Schneebrüchen"
       },
       "genitive": {
-        "singular": "Schneebruchs",
+        "singular": "Schneebruches",
         "plural": "Schneebrüche"
       }
     },
@@ -26770,7 +26784,7 @@
         "plural": "Schneidewerkzeugen"
       },
       "genitive": {
-        "singular": "Schneidewerkzeuges",
+        "singular": "Schneidewerkzeugs",
         "plural": "Schneidewerkzeuge"
       }
     },
@@ -26797,11 +26811,11 @@
         "plural": "Schnellboote"
       },
       "dative": {
-        "singular": "Schnellboote",
+        "singular": "Schnellboot",
         "plural": "Schnellbooten"
       },
       "genitive": {
-        "singular": "Schnellboots",
+        "singular": "Schnellbootes",
         "plural": "Schnellboote"
       }
     },
@@ -26833,11 +26847,11 @@
         "plural": "Schnellzüge"
       },
       "dative": {
-        "singular": "Schnellzuge",
+        "singular": "Schnellzug",
         "plural": "Schnellzügen"
       },
       "genitive": {
-        "singular": "Schnellzugs",
+        "singular": "Schnellzuges",
         "plural": "Schnellzüge"
       }
     },
@@ -26866,11 +26880,11 @@
         "plural": "Schnittbilder"
       },
       "dative": {
-        "singular": "Schnittbilde",
+        "singular": "Schnittbild",
         "plural": "Schnittbildern"
       },
       "genitive": {
-        "singular": "Schnittbilds",
+        "singular": "Schnittbildes",
         "plural": "Schnittbilder"
       }
     },
@@ -26901,7 +26915,7 @@
         "plural": null
       },
       "genitive": {
-        "singular": "Schnittguts",
+        "singular": "Schnittgutes",
         "plural": null
       }
     },
@@ -27135,11 +27149,11 @@
         "plural": "Schnurrbärte"
       },
       "dative": {
-        "singular": "Schnurrbarte",
+        "singular": "Schnurrbart",
         "plural": "Schnurrbärten"
       },
       "genitive": {
-        "singular": "Schnurrbarts",
+        "singular": "Schnurrbartes",
         "plural": "Schnurrbärte"
       }
     },
@@ -27241,34 +27255,34 @@
     "frequency": 0.000005000006250007812
   },
   {
-    "lemma": "Schöpfwerk",
+    "lemma": "Schorle",
     "type": "noun",
     "translations": {
       "en": [
-        "water-engine"
+        "spritzer"
       ],
       "fr": []
     },
-    "gender": "n",
+    "gender": "f",
     "noArticle": false,
     "singularOnly": false,
     "pluralOnly": false,
     "cases": {
       "nominative": {
-        "singular": "Schöpfwerk",
-        "plural": "Schöpfwerke"
+        "singular": "Schorle",
+        "plural": "Schorlen"
       },
       "accusative": {
-        "singular": "Schöpfwerk",
-        "plural": "Schöpfwerke"
+        "singular": "Schorle",
+        "plural": "Schorlen"
       },
       "dative": {
-        "singular": "Schöpfwerke",
-        "plural": "Schöpfwerken"
+        "singular": "Schorle",
+        "plural": "Schorlen"
       },
       "genitive": {
-        "singular": "Schöpfwerks",
-        "plural": "Schöpfwerke"
+        "singular": "Schorle",
+        "plural": "Schorlen"
       }
     },
     "frequency": 0.000005000006250007812
@@ -27345,6 +27359,37 @@
     "gerund": "schrammend",
     "zuinfinitive": "zu schrammen",
     "withSein": false,
+    "frequency": 0.000005000006250007812
+  },
+  {
+    "lemma": "Schrankfach",
+    "type": "noun",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Schrankfach",
+        "plural": "Schrankfächer"
+      },
+      "accusative": {
+        "singular": "Schrankfach",
+        "plural": "Schrankfächer"
+      },
+      "dative": {
+        "singular": "Schrankfach",
+        "plural": "Schrankfächern"
+      },
+      "genitive": {
+        "singular": "Schrankfaches",
+        "plural": "Schrankfächer"
+      }
+    },
     "frequency": 0.000005000006250007812
   },
   {
@@ -27507,11 +27552,11 @@
         "plural": "Schrote"
       },
       "dative": {
-        "singular": "Schrote",
+        "singular": "Schrot",
         "plural": "Schroten"
       },
       "genitive": {
-        "singular": "Schrotes",
+        "singular": "Schrots",
         "plural": "Schrote"
       }
     },
@@ -27785,45 +27830,8 @@
         "plural": "Schulbuchverlagen"
       },
       "genitive": {
-        "singular": "Schulbuchverlags",
+        "singular": "Schulbuchverlages",
         "plural": "Schulbuchverlage"
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
-    "lemma": "Schuldenschnitt",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "debt cut",
-        "debt relief",
-        "haircut"
-      ],
-      "fr": [
-        "annulation de la dette"
-      ]
-    },
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Schuldenschnitt",
-        "plural": "Schuldenschnitte"
-      },
-      "accusative": {
-        "singular": "Schuldenschnitt",
-        "plural": "Schuldenschnitte"
-      },
-      "dative": {
-        "singular": "Schuldenschnitte",
-        "plural": "Schuldenschnitten"
-      },
-      "genitive": {
-        "singular": "Schuldenschnitts",
-        "plural": "Schuldenschnitte"
       }
     },
     "frequency": 0.000005000006250007812
@@ -27886,11 +27894,11 @@
         "plural": "Schulschiffe"
       },
       "dative": {
-        "singular": "Schulschiffe",
+        "singular": "Schulschiff",
         "plural": "Schulschiffen"
       },
       "genitive": {
-        "singular": "Schulschiffs",
+        "singular": "Schulschiffes",
         "plural": "Schulschiffe"
       }
     },
@@ -27952,11 +27960,11 @@
         "plural": "Schultore"
       },
       "dative": {
-        "singular": "Schultore",
+        "singular": "Schultor",
         "plural": "Schultoren"
       },
       "genitive": {
-        "singular": "Schultors",
+        "singular": "Schultores",
         "plural": "Schultore"
       }
     },
@@ -28183,11 +28191,11 @@
         "plural": "Schuppentiere"
       },
       "dative": {
-        "singular": "Schuppentiere",
+        "singular": "Schuppentier",
         "plural": "Schuppentieren"
       },
       "genitive": {
-        "singular": "Schuppentiers",
+        "singular": "Schuppentieres",
         "plural": "Schuppentiere"
       }
     },
@@ -28402,19 +28410,19 @@
     "cases": {
       "nominative": {
         "singular": "Schutzheiliger",
-        "plural": "Schutzheiligen"
+        "plural": "Schutzheilige"
       },
       "accusative": {
         "singular": "Schutzheiligen",
-        "plural": "Schutzheiligen"
+        "plural": "Schutzheilige"
       },
       "dative": {
-        "singular": "Schutzheiligen",
+        "singular": "Schutzheiligem",
         "plural": "Schutzheiligen"
       },
       "genitive": {
         "singular": "Schutzheiligen",
-        "plural": "Schutzheiligen"
+        "plural": "Schutzheiliger"
       }
     },
     "frequency": 0.000005000006250007812
@@ -28477,11 +28485,11 @@
         "plural": "Schutzzäune"
       },
       "dative": {
-        "singular": "Schutzzaune",
+        "singular": "Schutzzaun",
         "plural": "Schutzzäunen"
       },
       "genitive": {
-        "singular": "Schutzzauns",
+        "singular": "Schutzzaunes",
         "plural": "Schutzzäune"
       }
     },
@@ -28547,37 +28555,6 @@
       "genitive": {
         "singular": "Schwangerschaftshormons",
         "plural": "Schwangerschaftshormone"
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
-    "lemma": "Schwank",
-    "type": "noun",
-    "translations": {
-      "en": [],
-      "fr": []
-    },
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Schwank",
-        "plural": "Schwänke"
-      },
-      "accusative": {
-        "singular": "Schwank",
-        "plural": "Schwänke"
-      },
-      "dative": {
-        "singular": "Schwanke",
-        "plural": "Schwänken"
-      },
-      "genitive": {
-        "singular": "Schwankes",
-        "plural": "Schwänke"
       }
     },
     "frequency": 0.000005000006250007812
@@ -28976,19 +28953,19 @@
     "cases": {
       "nominative": {
         "singular": "Schwarzwasser",
-        "plural": "Schwarzwässer"
+        "plural": "Schwarzwasser"
       },
       "accusative": {
         "singular": "Schwarzwasser",
-        "plural": "Schwarzwässer"
+        "plural": "Schwarzwasser"
       },
       "dative": {
         "singular": "Schwarzwasser",
-        "plural": "Schwarzwässern"
+        "plural": "Schwarzwassern"
       },
       "genitive": {
         "singular": "Schwarzwassers",
-        "plural": "Schwarzwässer"
+        "plural": "Schwarzwasser"
       }
     },
     "frequency": 0.000005000006250007812
@@ -29022,7 +28999,7 @@
         "plural": "Schwefelwasserstoffen"
       },
       "genitive": {
-        "singular": "Schwefelwasserstoffes",
+        "singular": "Schwefelwasserstoffs",
         "plural": "Schwefelwasserstoffe"
       }
     },
@@ -29053,11 +29030,11 @@
         "plural": "Schweife"
       },
       "dative": {
-        "singular": "Schweife",
+        "singular": "Schweif",
         "plural": "Schweifen"
       },
       "genitive": {
-        "singular": "Schweifs",
+        "singular": "Schweifes",
         "plural": "Schweife"
       }
     },
@@ -29251,6 +29228,44 @@
     "frequency": 0.000005000006250007812
   },
   {
+    "lemma": "Schwenk",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "pan",
+        "swing",
+        "swivel",
+        "tilt"
+      ],
+      "fr": [
+        "contrechamp"
+      ]
+    },
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Schwenk",
+        "plural": "Schwenks"
+      },
+      "accusative": {
+        "singular": "Schwenk",
+        "plural": "Schwenks"
+      },
+      "dative": {
+        "singular": "Schwenk",
+        "plural": "Schwenks"
+      },
+      "genitive": {
+        "singular": "Schwenks",
+        "plural": "Schwenks"
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
     "lemma": "schwergewichtig",
     "type": "adjective",
     "translations": {
@@ -29364,11 +29379,11 @@
         "plural": "Schwertkämpfe"
       },
       "dative": {
-        "singular": "Schwertkampfe",
+        "singular": "Schwertkampf",
         "plural": "Schwertkämpfen"
       },
       "genitive": {
-        "singular": "Schwertkampfs",
+        "singular": "Schwertkampfes",
         "plural": "Schwertkämpfe"
       }
     },
@@ -29399,7 +29414,7 @@
         "plural": "Schwertransporten"
       },
       "genitive": {
-        "singular": "Schwertransportes",
+        "singular": "Schwertransports",
         "plural": "Schwertransporte"
       }
     },
@@ -29719,6 +29734,41 @@
     "commonNouns": []
   },
   {
+    "lemma": "Sechstagekrieg",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "six-day war"
+      ],
+      "fr": [
+        "guerre des six jours"
+      ]
+    },
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": true,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Sechstagekrieg",
+        "plural": null
+      },
+      "accusative": {
+        "singular": "Sechstagekrieg",
+        "plural": null
+      },
+      "dative": {
+        "singular": "Sechstagekrieg",
+        "plural": null
+      },
+      "genitive": {
+        "singular": "Sechstagekriegs",
+        "plural": null
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
     "lemma": "sechstgrößte",
     "type": "adjective",
     "translations": {
@@ -29975,32 +30025,36 @@
     "commonNouns": []
   },
   {
-    "lemma": "Seengebiet",
+    "lemma": "Seelenverwandter",
     "type": "noun",
     "translations": {
-      "en": [],
-      "fr": []
+      "en": [
+        "soulmate"
+      ],
+      "fr": [
+        "âme sœur"
+      ]
     },
-    "gender": "n",
+    "gender": "m",
     "noArticle": false,
     "singularOnly": false,
     "pluralOnly": false,
     "cases": {
       "nominative": {
-        "singular": "Seengebiet",
-        "plural": "Seengebiete"
+        "singular": "Seelenverwandter",
+        "plural": "Seelenverwandte"
       },
       "accusative": {
-        "singular": "Seengebiet",
-        "plural": "Seengebiete"
+        "singular": "Seelenverwandten",
+        "plural": "Seelenverwandte"
       },
       "dative": {
-        "singular": "Seengebiete",
-        "plural": "Seengebieten"
+        "singular": "Seelenverwandtem",
+        "plural": "Seelenverwandten"
       },
       "genitive": {
-        "singular": "Seengebiets",
-        "plural": "Seengebiete"
+        "singular": "Seelenverwandten",
+        "plural": "Seelenverwandter"
       }
     },
     "frequency": 0.000005000006250007812
@@ -30061,45 +30115,12 @@
         "plural": "Segenswünsche"
       },
       "dative": {
-        "singular": "Segenswunsche",
+        "singular": "Segenswunsch",
         "plural": "Segenswünschen"
       },
       "genitive": {
-        "singular": "Segenswunsches",
+        "singular": "Segenswunschs",
         "plural": "Segenswünsche"
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
-    "lemma": "Sehender",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "sighted person"
-      ],
-      "fr": []
-    },
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Sehender",
-        "plural": "Sehenden"
-      },
-      "accusative": {
-        "singular": "Sehenden",
-        "plural": "Sehenden"
-      },
-      "dative": {
-        "singular": "Sehenden",
-        "plural": "Sehenden"
-      },
-      "genitive": {
-        "singular": "Sehenden",
-        "plural": "Sehenden"
       }
     },
     "frequency": 0.000005000006250007812
@@ -30161,11 +30182,11 @@
         "plural": "Sehnerven"
       },
       "dative": {
-        "singular": "Sehnerve",
+        "singular": "Sehnerv",
         "plural": "Sehnerven"
       },
       "genitive": {
-        "singular": "Sehnerves",
+        "singular": "Sehnervs",
         "plural": "Sehnerven"
       }
     },
@@ -30196,11 +30217,11 @@
         "plural": "Sehsinne"
       },
       "dative": {
-        "singular": "Sehsinne",
+        "singular": "Sehsinn",
         "plural": "Sehsinnen"
       },
       "genitive": {
-        "singular": "Sehsinnes",
+        "singular": "Sehsinns",
         "plural": "Sehsinne"
       }
     },
@@ -30231,7 +30252,7 @@
         "plural": "Seidenschwänze"
       },
       "dative": {
-        "singular": "Seidenschwanze",
+        "singular": "Seidenschwanz",
         "plural": "Seidenschwänzen"
       },
       "genitive": {
@@ -30267,11 +30288,11 @@
         "plural": "Seidentücher"
       },
       "dative": {
-        "singular": "Seidentuche",
+        "singular": "Seidentuch",
         "plural": "Seidentüchern"
       },
       "genitive": {
-        "singular": "Seidentuches",
+        "singular": "Seidentuchs",
         "plural": "Seidentücher"
       }
     },
@@ -30298,11 +30319,11 @@
         "plural": "Seitenarme"
       },
       "dative": {
-        "singular": "Seitenarme",
+        "singular": "Seitenarm",
         "plural": "Seitenarmen"
       },
       "genitive": {
-        "singular": "Seitenarms",
+        "singular": "Seitenarmes",
         "plural": "Seitenarme"
       }
     },
@@ -30360,11 +30381,11 @@
         "plural": "Sekundentakte"
       },
       "dative": {
-        "singular": "Sekundentakte",
+        "singular": "Sekundentakt",
         "plural": "Sekundentakten"
       },
       "genitive": {
-        "singular": "Sekundentakts",
+        "singular": "Sekundentaktes",
         "plural": "Sekundentakte"
       }
     },
@@ -30591,7 +30612,7 @@
         "plural": "Selbstmordanschlägen"
       },
       "genitive": {
-        "singular": "Selbstmordanschlages",
+        "singular": "Selbstmordanschlags",
         "plural": "Selbstmordanschläge"
       }
     },
@@ -30618,11 +30639,11 @@
         "plural": "Selbstmordversuche"
       },
       "dative": {
-        "singular": "Selbstmordversuche",
+        "singular": "Selbstmordversuch",
         "plural": "Selbstmordversuchen"
       },
       "genitive": {
-        "singular": "Selbstmordversuchs",
+        "singular": "Selbstmordversuches",
         "plural": "Selbstmordversuche"
       }
     },
@@ -30808,7 +30829,7 @@
         "plural": "Selbstverteidigungskurse"
       },
       "dative": {
-        "singular": "Selbstverteidigungskurse",
+        "singular": "Selbstverteidigungskurs",
         "plural": "Selbstverteidigungskursen"
       },
       "genitive": {
@@ -31004,11 +31025,11 @@
         "plural": "Senfkörner"
       },
       "dative": {
-        "singular": "Senfkorne",
+        "singular": "Senfkorn",
         "plural": "Senfkörnern"
       },
       "genitive": {
-        "singular": "Senfkorns",
+        "singular": "Senfkornes",
         "plural": "Senfkörner"
       }
     },
@@ -31107,6 +31128,37 @@
       "genitive": {
         "singular": "Septemberausgabe",
         "plural": "Septemberausgaben"
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
+    "lemma": "Sergeant",
+    "type": "noun",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Sergeant",
+        "plural": "Sergeanten"
+      },
+      "accusative": {
+        "singular": "Sergeanten",
+        "plural": "Sergeanten"
+      },
+      "dative": {
+        "singular": "Sergeanten",
+        "plural": "Sergeanten"
+      },
+      "genitive": {
+        "singular": "Sergeanten",
+        "plural": "Sergeanten"
       }
     },
     "frequency": 0.000005000006250007812
@@ -31237,12 +31289,48 @@
         "plural": "Sexspielzeuge"
       },
       "dative": {
-        "singular": "Sexspielzeuge",
+        "singular": "Sexspielzeug",
         "plural": "Sexspielzeugen"
       },
       "genitive": {
-        "singular": "Sexspielzeugs",
+        "singular": "Sexspielzeuges",
         "plural": "Sexspielzeuge"
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
+    "lemma": "Sextett",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "sextet"
+      ],
+      "fr": [
+        "sextette",
+        "sextuor"
+      ]
+    },
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Sextett",
+        "plural": "Sextette"
+      },
+      "accusative": {
+        "singular": "Sextett",
+        "plural": "Sextette"
+      },
+      "dative": {
+        "singular": "Sextett",
+        "plural": "Sextetten"
+      },
+      "genitive": {
+        "singular": "Sextettes",
+        "plural": "Sextette"
       }
     },
     "frequency": 0.000005000006250007812
@@ -31438,43 +31526,12 @@
         "plural": "Sichtkontakte"
       },
       "dative": {
-        "singular": "Sichtkontakte",
+        "singular": "Sichtkontakt",
         "plural": "Sichtkontakten"
       },
       "genitive": {
-        "singular": "Sichtkontakts",
+        "singular": "Sichtkontaktes",
         "plural": "Sichtkontakte"
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
-    "lemma": "Siebenjährige",
-    "type": "noun",
-    "translations": {
-      "en": [],
-      "fr": []
-    },
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Siebenjährige",
-        "plural": "Siebenjährigen"
-      },
-      "accusative": {
-        "singular": "Siebenjährige",
-        "plural": "Siebenjährigen"
-      },
-      "dative": {
-        "singular": "Siebenjährigen",
-        "plural": "Siebenjährigen"
-      },
-      "genitive": {
-        "singular": "Siebenjährigen",
-        "plural": "Siebenjährigen"
       }
     },
     "frequency": 0.000005000006250007812
@@ -31571,39 +31628,6 @@
     "commonNouns": []
   },
   {
-    "lemma": "Siebter",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "seventh"
-      ],
-      "fr": []
-    },
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Siebter",
-        "plural": "Siebten"
-      },
-      "accusative": {
-        "singular": "Siebten",
-        "plural": "Siebten"
-      },
-      "dative": {
-        "singular": "Siebten",
-        "plural": "Siebten"
-      },
-      "genitive": {
-        "singular": "Siebten",
-        "plural": "Siebten"
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
     "lemma": "Siebträgermaschine",
     "type": "noun",
     "translations": {
@@ -31694,73 +31718,6 @@
       "genitive": {
         "singular": "Siedlungsbaus",
         "plural": "Siedlungsbauten"
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
-    "lemma": "Siedlungsraum",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "settlement area"
-      ],
-      "fr": []
-    },
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Siedlungsraum",
-        "plural": "Siedlungsräume"
-      },
-      "accusative": {
-        "singular": "Siedlungsraum",
-        "plural": "Siedlungsräume"
-      },
-      "dative": {
-        "singular": "Siedlungsraum",
-        "plural": "Siedlungsräumen"
-      },
-      "genitive": {
-        "singular": "Siedlungsraumes",
-        "plural": "Siedlungsräume"
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
-    "lemma": "Siegerland",
-    "type": "noun",
-    "translations": {
-      "en": [],
-      "fr": [
-        "pays gagnant",
-        "pays vainqueur"
-      ]
-    },
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Siegerland",
-        "plural": "Siegerländer"
-      },
-      "accusative": {
-        "singular": "Siegerland",
-        "plural": "Siegerländer"
-      },
-      "dative": {
-        "singular": "Siegerlande",
-        "plural": "Siegerländern"
-      },
-      "genitive": {
-        "singular": "Siegerlands",
-        "plural": "Siegerländer"
       }
     },
     "frequency": 0.000005000006250007812
@@ -32491,7 +32448,7 @@
         "plural": null
       },
       "genitive": {
-        "singular": "Skas",
+        "singular": "Ska",
         "plural": null
       }
     },
@@ -32585,7 +32542,7 @@
         "plural": "Skikurse"
       },
       "dative": {
-        "singular": "Skikurse",
+        "singular": "Skikurs",
         "plural": "Skikursen"
       },
       "genitive": {
@@ -32658,37 +32615,6 @@
     "frequency": 0.000005000006250007812
   },
   {
-    "lemma": "Skiunfall",
-    "type": "noun",
-    "translations": {
-      "en": [],
-      "fr": []
-    },
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Skiunfall",
-        "plural": "Skiunfälle"
-      },
-      "accusative": {
-        "singular": "Skiunfall",
-        "plural": "Skiunfälle"
-      },
-      "dative": {
-        "singular": "Skiunfall",
-        "plural": "Skiunfällen"
-      },
-      "genitive": {
-        "singular": "Skiunfalls",
-        "plural": "Skiunfälle"
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
     "lemma": "Skrupel",
     "type": "noun",
     "translations": {
@@ -32699,6 +32625,37 @@
       "fr": [
         "scrupule"
       ]
+    },
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Skrupel",
+        "plural": "Skrupel"
+      },
+      "accusative": {
+        "singular": "Skrupel",
+        "plural": "Skrupel"
+      },
+      "dative": {
+        "singular": "Skrupel",
+        "plural": "Skrupeln"
+      },
+      "genitive": {
+        "singular": "Skrupels",
+        "plural": "Skrupel"
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
+    "lemma": "Skrupel",
+    "type": "noun",
+    "translations": {
+      "en": [],
+      "fr": []
     },
     "gender": "n",
     "noArticle": false,
@@ -32996,7 +32953,7 @@
         "plural": null
       },
       "genitive": {
-        "singular": "Sodoms",
+        "singular": "Sodom",
         "plural": null
       }
     },
@@ -33135,6 +33092,41 @@
     "frequency": 0.000005000006250007812
   },
   {
+    "lemma": "Sojaanbau",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "soybean cultivation"
+      ],
+      "fr": [
+        "culture du soja"
+      ]
+    },
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": true,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Sojaanbau",
+        "plural": null
+      },
+      "accusative": {
+        "singular": "Sojaanbau",
+        "plural": null
+      },
+      "dative": {
+        "singular": "Sojaanbau",
+        "plural": null
+      },
+      "genitive": {
+        "singular": "Sojaanbaus",
+        "plural": null
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
     "lemma": "Sojaprodukt",
     "type": "noun",
     "translations": {
@@ -33161,7 +33153,7 @@
         "plural": "Sojaprodukten"
       },
       "genitive": {
-        "singular": "Sojaproduktes",
+        "singular": "Sojaprodukts",
         "plural": "Sojaprodukte"
       }
     },
@@ -33578,19 +33570,19 @@
     "cases": {
       "nominative": {
         "singular": "Soll",
-        "plural": "Solls"
+        "plural": "Soll"
       },
       "accusative": {
         "singular": "Soll",
-        "plural": "Solls"
+        "plural": "Soll"
       },
       "dative": {
         "singular": "Soll",
-        "plural": "Solls"
+        "plural": "Soll"
       },
       "genitive": {
-        "singular": "Solls",
-        "plural": "Solls"
+        "singular": "Soll",
+        "plural": "Soll"
       }
     },
     "frequency": 0.000005000006250007812
@@ -33689,7 +33681,7 @@
         "plural": "Sommeranfängen"
       },
       "genitive": {
-        "singular": "Sommeranfanges",
+        "singular": "Sommeranfangs",
         "plural": "Sommeranfänge"
       }
     },
@@ -34047,11 +34039,11 @@
         "plural": "Sonnenstiche"
       },
       "dative": {
-        "singular": "Sonnenstiche",
+        "singular": "Sonnenstich",
         "plural": "Sonnenstichen"
       },
       "genitive": {
-        "singular": "Sonnenstichs",
+        "singular": "Sonnenstiches",
         "plural": "Sonnenstiche"
       }
     },
@@ -34086,7 +34078,7 @@
         "plural": "Sonnentauen"
       },
       "genitive": {
-        "singular": "Sonnentaues",
+        "singular": "Sonnentaus",
         "plural": "Sonnentaue"
       }
     },
@@ -34128,6 +34120,41 @@
     "frequency": 0.000005000006250007812
   },
   {
+    "lemma": "Sonnenwind",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "solar wind"
+      ],
+      "fr": [
+        "vent solaire"
+      ]
+    },
+    "gender": "m",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Sonnenwind",
+        "plural": "Sonnenwinde"
+      },
+      "accusative": {
+        "singular": "Sonnenwind",
+        "plural": "Sonnenwinde"
+      },
+      "dative": {
+        "singular": "Sonnenwind",
+        "plural": "Sonnenwinden"
+      },
+      "genitive": {
+        "singular": "Sonnenwindes",
+        "plural": "Sonnenwinde"
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
     "lemma": "Sonntagsausflug",
     "type": "noun",
     "translations": {
@@ -34150,11 +34177,11 @@
         "plural": "Sonntagsausflüge"
       },
       "dative": {
-        "singular": "Sonntagsausfluge",
+        "singular": "Sonntagsausflug",
         "plural": "Sonntagsausflügen"
       },
       "genitive": {
-        "singular": "Sonntagsausflugs",
+        "singular": "Sonntagsausfluges",
         "plural": "Sonntagsausflüge"
       }
     },
@@ -34184,11 +34211,11 @@
         "plural": "Sonntagsblätter"
       },
       "dative": {
-        "singular": "Sonntagsblatte",
+        "singular": "Sonntagsblatt",
         "plural": "Sonntagsblättern"
       },
       "genitive": {
-        "singular": "Sonntagsblatts",
+        "singular": "Sonntagsblattes",
         "plural": "Sonntagsblätter"
       }
     },
@@ -34248,11 +34275,11 @@
         "plural": "Sonntagsfrühstücke"
       },
       "dative": {
-        "singular": "Sonntagsfrühstücke",
+        "singular": "Sonntagsfrühstück",
         "plural": "Sonntagsfrühstücken"
       },
       "genitive": {
-        "singular": "Sonntagsfrühstückes",
+        "singular": "Sonntagsfrühstücks",
         "plural": "Sonntagsfrühstücke"
       }
     },
@@ -34512,11 +34539,11 @@
         "plural": "Spanne"
       },
       "dative": {
-        "singular": "Spanne",
+        "singular": "Spann",
         "plural": "Spannen"
       },
       "genitive": {
-        "singular": "Spannes",
+        "singular": "Spanns",
         "plural": "Spanne"
       }
     },
@@ -34591,6 +34618,40 @@
     "frequency": 0.000005000006250007812
   },
   {
+    "lemma": "Sparpaket",
+    "type": "noun",
+    "translations": {
+      "en": [
+        "austerity package",
+        "cuts package"
+      ],
+      "fr": []
+    },
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Sparpaket",
+        "plural": "Sparpakete"
+      },
+      "accusative": {
+        "singular": "Sparpaket",
+        "plural": "Sparpakete"
+      },
+      "dative": {
+        "singular": "Sparpaket",
+        "plural": "Sparpaketen"
+      },
+      "genitive": {
+        "singular": "Sparpakets",
+        "plural": "Sparpakete"
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
     "lemma": "Sparschäler",
     "type": "noun",
     "translations": {
@@ -34651,7 +34712,7 @@
         "plural": "Sparzwängen"
       },
       "genitive": {
-        "singular": "Sparzwanges",
+        "singular": "Sparzwangs",
         "plural": "Sparzwänge"
       }
     },
@@ -34777,7 +34838,7 @@
         "plural": null
       },
       "genitive": {
-        "singular": "Speeds",
+        "singular": "Speed",
         "plural": null
       }
     },
@@ -34808,11 +34869,11 @@
         "plural": "Speerwürfe"
       },
       "dative": {
-        "singular": "Speerwurfe",
+        "singular": "Speerwurf",
         "plural": "Speerwürfen"
       },
       "genitive": {
-        "singular": "Speerwurfes",
+        "singular": "Speerwurfs",
         "plural": "Speerwürfe"
       }
     },
@@ -34995,6 +35056,37 @@
     "frequency": 0.000005000006250007812
   },
   {
+    "lemma": "Spezialgeschäft",
+    "type": "noun",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Spezialgeschäft",
+        "plural": "Spezialgeschäfte"
+      },
+      "accusative": {
+        "singular": "Spezialgeschäft",
+        "plural": "Spezialgeschäfte"
+      },
+      "dative": {
+        "singular": "Spezialgeschäft",
+        "plural": "Spezialgeschäften"
+      },
+      "genitive": {
+        "singular": "Spezialgeschäfts",
+        "plural": "Spezialgeschäfte"
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
     "lemma": "Spielautomat",
     "type": "noun",
     "translations": {
@@ -35057,7 +35149,7 @@
         "plural": "Spieleinsätze"
       },
       "dative": {
-        "singular": "Spieleinsatze",
+        "singular": "Spieleinsatz",
         "plural": "Spieleinsätzen"
       },
       "genitive": {
@@ -35159,6 +35251,37 @@
     "commonNouns": []
   },
   {
+    "lemma": "Spielfest",
+    "type": "noun",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Spielfest",
+        "plural": "Spielfeste"
+      },
+      "accusative": {
+        "singular": "Spielfest",
+        "plural": "Spielfeste"
+      },
+      "dative": {
+        "singular": "Spielfest",
+        "plural": "Spielfesten"
+      },
+      "genitive": {
+        "singular": "Spielfestes",
+        "plural": "Spielfeste"
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
     "lemma": "Spielfluss",
     "type": "noun",
     "translations": {
@@ -35179,7 +35302,7 @@
         "plural": null
       },
       "dative": {
-        "singular": "Spielflusse",
+        "singular": "Spielfluss",
         "plural": null
       },
       "genitive": {
@@ -35478,7 +35601,7 @@
         "plural": "Spinnennetze"
       },
       "dative": {
-        "singular": "Spinnennetze",
+        "singular": "Spinnennetz",
         "plural": "Spinnennetzen"
       },
       "genitive": {
@@ -35615,11 +35738,11 @@
         "plural": "Spitzenweine"
       },
       "dative": {
-        "singular": "Spitzenweine",
+        "singular": "Spitzenwein",
         "plural": "Spitzenweinen"
       },
       "genitive": {
-        "singular": "Spitzenweins",
+        "singular": "Spitzenweines",
         "plural": "Spitzenweine"
       }
     },
@@ -35732,42 +35855,6 @@
     "frequency": 0.000005000006250007812
   },
   {
-    "lemma": "Sporn",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "spur"
-      ],
-      "fr": [
-        "ergot",
-        "éperon"
-      ]
-    },
-    "gender": "m",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Sporn",
-        "plural": "Sporne"
-      },
-      "accusative": {
-        "singular": "Sporn",
-        "plural": "Sporne"
-      },
-      "dative": {
-        "singular": "Sporne",
-        "plural": "Spornen"
-      },
-      "genitive": {
-        "singular": "Spornes",
-        "plural": "Sporne"
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
     "lemma": "spornen",
     "type": "verb",
     "translations": {
@@ -35811,43 +35898,6 @@
     "gerund": "spornend",
     "zuinfinitive": "zu spornen",
     "withSein": false,
-    "frequency": 0.000005000006250007812
-  },
-  {
-    "lemma": "Sportflugzeug",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "sporting aircraft",
-        "sports aeroplane",
-        "sports airplane"
-      ],
-      "fr": [
-        "avion de tourisme"
-      ]
-    },
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Sportflugzeug",
-        "plural": "Sportflugzeuge"
-      },
-      "accusative": {
-        "singular": "Sportflugzeug",
-        "plural": "Sportflugzeuge"
-      },
-      "dative": {
-        "singular": "Sportflugzeuge",
-        "plural": "Sportflugzeugen"
-      },
-      "genitive": {
-        "singular": "Sportflugzeugs",
-        "plural": "Sportflugzeuge"
-      }
-    },
     "frequency": 0.000005000006250007812
   },
   {
@@ -36030,7 +36080,7 @@
         "plural": "Spottpreise"
       },
       "dative": {
-        "singular": "Spottpreise",
+        "singular": "Spottpreis",
         "plural": "Spottpreisen"
       },
       "genitive": {
@@ -36127,7 +36177,7 @@
         "plural": "Sprachschätze"
       },
       "dative": {
-        "singular": "Sprachschatze",
+        "singular": "Sprachschatz",
         "plural": "Sprachschätzen"
       },
       "genitive": {
@@ -36264,11 +36314,11 @@
         "plural": "Springpferde"
       },
       "dative": {
-        "singular": "Springpferde",
+        "singular": "Springpferd",
         "plural": "Springpferden"
       },
       "genitive": {
-        "singular": "Springpferds",
+        "singular": "Springpferdes",
         "plural": "Springpferde"
       }
     },
@@ -36359,11 +36409,11 @@
         "plural": "Spritzgießwerkzeuge"
       },
       "dative": {
-        "singular": "Spritzgießwerkzeuge",
+        "singular": "Spritzgießwerkzeug",
         "plural": "Spritzgießwerkzeugen"
       },
       "genitive": {
-        "singular": "Spritzgießwerkzeuges",
+        "singular": "Spritzgießwerkzeugs",
         "plural": "Spritzgießwerkzeuge"
       }
     },
@@ -36393,11 +36443,11 @@
         "plural": "Spruchbänder"
       },
       "dative": {
-        "singular": "Spruchbande",
+        "singular": "Spruchband",
         "plural": "Spruchbändern"
       },
       "genitive": {
-        "singular": "Spruchbands",
+        "singular": "Spruchbandes",
         "plural": "Spruchbänder"
       }
     },
@@ -36426,19 +36476,19 @@
     "cases": {
       "nominative": {
         "singular": "Sprudelwasser",
-        "plural": "Sprudelwässer"
+        "plural": "Sprudelwasser"
       },
       "accusative": {
         "singular": "Sprudelwasser",
-        "plural": "Sprudelwässer"
+        "plural": "Sprudelwasser"
       },
       "dative": {
         "singular": "Sprudelwasser",
-        "plural": "Sprudelwässern"
+        "plural": "Sprudelwassern"
       },
       "genitive": {
         "singular": "Sprudelwassers",
-        "plural": "Sprudelwässer"
+        "plural": "Sprudelwasser"
       }
     },
     "frequency": 0.000005000006250007812
@@ -36602,11 +36652,11 @@
         "plural": "Staatsorgane"
       },
       "dative": {
-        "singular": "Staatsorgane",
+        "singular": "Staatsorgan",
         "plural": "Staatsorganen"
       },
       "genitive": {
-        "singular": "Staatsorgans",
+        "singular": "Staatsorganes",
         "plural": "Staatsorgane"
       }
     },
@@ -36831,11 +36881,11 @@
         "plural": "Stachelschweine"
       },
       "dative": {
-        "singular": "Stachelschweine",
+        "singular": "Stachelschwein",
         "plural": "Stachelschweinen"
       },
       "genitive": {
-        "singular": "Stachelschweines",
+        "singular": "Stachelschweins",
         "plural": "Stachelschweine"
       }
     },
@@ -37052,11 +37102,11 @@
         "plural": "Stadtkinder"
       },
       "dative": {
-        "singular": "Stadtkinde",
+        "singular": "Stadtkind",
         "plural": "Stadtkindern"
       },
       "genitive": {
-        "singular": "Stadtkinds",
+        "singular": "Stadtkindes",
         "plural": "Stadtkinder"
       }
     },
@@ -37275,11 +37325,11 @@
         "plural": "Stahlbleche"
       },
       "dative": {
-        "singular": "Stahlbleche",
+        "singular": "Stahlblech",
         "plural": "Stahlblechen"
       },
       "genitive": {
-        "singular": "Stahlblechs",
+        "singular": "Stahlbleches",
         "plural": "Stahlbleche"
       }
     },
@@ -37383,7 +37433,7 @@
         "plural": "Stahlkolosse"
       },
       "dative": {
-        "singular": "Stahlkolosse",
+        "singular": "Stahlkoloss",
         "plural": "Stahlkolossen"
       },
       "genitive": {
@@ -37418,11 +37468,11 @@
         "plural": "Stahlseile"
       },
       "dative": {
-        "singular": "Stahlseile",
+        "singular": "Stahlseil",
         "plural": "Stahlseilen"
       },
       "genitive": {
-        "singular": "Stahlseiles",
+        "singular": "Stahlseils",
         "plural": "Stahlseile"
       }
     },
@@ -37652,7 +37702,7 @@
         "plural": "Standardtänze"
       },
       "dative": {
-        "singular": "Standardtanze",
+        "singular": "Standardtanz",
         "plural": "Standardtänzen"
       },
       "genitive": {
@@ -37718,7 +37768,7 @@
         "plural": "Standortnachteilen"
       },
       "genitive": {
-        "singular": "Standortnachteiles",
+        "singular": "Standortnachteils",
         "plural": "Standortnachteile"
       }
     },
@@ -37749,11 +37799,11 @@
         "plural": "Starkbiere"
       },
       "dative": {
-        "singular": "Starkbiere",
+        "singular": "Starkbier",
         "plural": "Starkbieren"
       },
       "genitive": {
-        "singular": "Starkbiers",
+        "singular": "Starkbieres",
         "plural": "Starkbiere"
       }
     },
@@ -37839,19 +37889,19 @@
     "cases": {
       "nominative": {
         "singular": "Staubpartikel",
-        "plural": "Staubpartikeln"
+        "plural": "Staubpartikel"
       },
       "accusative": {
         "singular": "Staubpartikel",
-        "plural": "Staubpartikeln"
+        "plural": "Staubpartikel"
       },
       "dative": {
         "singular": "Staubpartikel",
         "plural": "Staubpartikeln"
       },
       "genitive": {
-        "singular": "Staubpartikel",
-        "plural": "Staubpartikeln"
+        "singular": "Staubpartikels",
+        "plural": "Staubpartikel"
       }
     },
     "frequency": 0.000005000006250007812
@@ -37914,11 +37964,11 @@
         "plural": "Steinblöcke"
       },
       "dative": {
-        "singular": "Steinblocke",
+        "singular": "Steinblock",
         "plural": "Steinblöcken"
       },
       "genitive": {
-        "singular": "Steinblocks",
+        "singular": "Steinblockes",
         "plural": "Steinblöcke"
       }
     },
@@ -38019,12 +38069,43 @@
         "plural": "Steinzeuge"
       },
       "dative": {
-        "singular": "Steinzeuge",
+        "singular": "Steinzeug",
         "plural": "Steinzeugen"
       },
       "genitive": {
-        "singular": "Steinzeuges",
+        "singular": "Steinzeugs",
         "plural": "Steinzeuge"
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
+    "lemma": "Stelenfeld",
+    "type": "noun",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Stelenfeld",
+        "plural": "Stelenfelder"
+      },
+      "accusative": {
+        "singular": "Stelenfeld",
+        "plural": "Stelenfelder"
+      },
+      "dative": {
+        "singular": "Stelenfeld",
+        "plural": "Stelenfeldern"
+      },
+      "genitive": {
+        "singular": "Stelenfeldes",
+        "plural": "Stelenfelder"
       }
     },
     "frequency": 0.000005000006250007812
@@ -38824,7 +38905,7 @@
         "plural": null
       },
       "genitive": {
-        "singular": "Stickstoffmonoxides",
+        "singular": "Stickstoffmonoxids",
         "plural": null
       }
     },
@@ -38855,7 +38936,7 @@
         "plural": "Stickstoffoxiden"
       },
       "genitive": {
-        "singular": "Stickstoffoxides",
+        "singular": "Stickstoffoxids",
         "plural": "Stickstoffoxide"
       }
     },
@@ -39200,7 +39281,7 @@
         "plural": "Störenfrieden"
       },
       "genitive": {
-        "singular": "Störenfriedes",
+        "singular": "Störenfrieds",
         "plural": "Störenfriede"
       }
     },
@@ -39401,7 +39482,7 @@
         "plural": "Strafstöße"
       },
       "dative": {
-        "singular": "Strafstoße",
+        "singular": "Strafstoß",
         "plural": "Strafstößen"
       },
       "genitive": {
@@ -39538,6 +39619,37 @@
     "frequency": 0.000005000006250007812
   },
   {
+    "lemma": "Straßenfahrzeug",
+    "type": "noun",
+    "translations": {
+      "en": [],
+      "fr": []
+    },
+    "gender": "n",
+    "noArticle": false,
+    "singularOnly": false,
+    "pluralOnly": false,
+    "cases": {
+      "nominative": {
+        "singular": "Straßenfahrzeug",
+        "plural": "Straßenfahrzeuge"
+      },
+      "accusative": {
+        "singular": "Straßenfahrzeug",
+        "plural": "Straßenfahrzeuge"
+      },
+      "dative": {
+        "singular": "Straßenfahrzeug",
+        "plural": "Straßenfahrzeugen"
+      },
+      "genitive": {
+        "singular": "Straßenfahrzeuges",
+        "plural": "Straßenfahrzeuge"
+      }
+    },
+    "frequency": 0.000005000006250007812
+  },
+  {
     "lemma": "Straßenkünstler",
     "type": "noun",
     "translations": {
@@ -39595,146 +39707,6 @@
       "genitive": {
         "singular": "Straßenlärms",
         "plural": null
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
-    "lemma": "Straßenrennen",
-    "type": "noun",
-    "translations": {
-      "en": [],
-      "fr": []
-    },
-    "gender": "n",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Straßenrennen",
-        "plural": "Straßenrennen"
-      },
-      "accusative": {
-        "singular": "Straßenrennen",
-        "plural": "Straßenrennen"
-      },
-      "dative": {
-        "singular": "Straßenrennen",
-        "plural": "Straßenrennen"
-      },
-      "genitive": {
-        "singular": "Straßenrennens",
-        "plural": "Straßenrennen"
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
-    "lemma": "Straßenverbindung",
-    "type": "noun",
-    "translations": {
-      "en": [],
-      "fr": []
-    },
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Straßenverbindung",
-        "plural": "Straßenverbindungen"
-      },
-      "accusative": {
-        "singular": "Straßenverbindung",
-        "plural": "Straßenverbindungen"
-      },
-      "dative": {
-        "singular": "Straßenverbindung",
-        "plural": "Straßenverbindungen"
-      },
-      "genitive": {
-        "singular": "Straßenverbindung",
-        "plural": "Straßenverbindungen"
-      }
-    },
-    "frequency": 0.000005000006250007812
-  },
-  {
-    "lemma": "straucheln",
-    "type": "verb",
-    "translations": {
-      "en": [
-        "fall",
-        "stumble"
-      ],
-      "fr": [
-        "tomber",
-        "trébucher"
-      ]
-    },
-    "separable": false,
-    "superSeparable": false,
-    "modal": false,
-    "reflexive": false,
-    "present": {
-      "ich": "strauchle",
-      "du": "strauchelst",
-      "es": "strauchelt",
-      "ihr": "strauchelt",
-      "Sie": "straucheln"
-    },
-    "simple": {
-      "ich": "strauchelte",
-      "du": "straucheltest",
-      "es": "strauchelte",
-      "ihr": "straucheltet",
-      "Sie": "strauchelten"
-    },
-    "imperative": {
-      "du": "strauchle",
-      "ihr": "strauchelt"
-    },
-    "perfect": "gestrauchelt",
-    "gerund": "strauchelnd",
-    "zuinfinitive": "zu straucheln",
-    "withSein": false,
-    "frequency": 0.000005000006250007812
-  },
-  {
-    "lemma": "Streitfrage",
-    "type": "noun",
-    "translations": {
-      "en": [
-        "controversy",
-        "dispute"
-      ],
-      "fr": [
-        "controverse",
-        "litige"
-      ]
-    },
-    "gender": "f",
-    "noArticle": false,
-    "singularOnly": false,
-    "pluralOnly": false,
-    "cases": {
-      "nominative": {
-        "singular": "Streitfrage",
-        "plural": "Streitfragen"
-      },
-      "accusative": {
-        "singular": "Streitfrage",
-        "plural": "Streitfragen"
-      },
-      "dative": {
-        "singular": "Streitfrage",
-        "plural": "Streitfragen"
-      },
-      "genitive": {
-        "singular": "Streitfrage",
-        "plural": "Streitfragen"
       }
     },
     "frequency": 0.000005000006250007812

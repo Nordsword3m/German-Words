@@ -155,8 +155,8 @@ export const Endings = Object.values(Ending);
 export type Adjective = WordBase & {
   type: WordType.Adjective;
   singularOnly: boolean;
-  predicativeOnly: boolean;
-  notDeclinable: boolean;
+  predicativeOnly: boolean; // can die
+  notDeclinable: boolean; // can die
   strong: Declension;
   weak: Declension;
   mixed: Declension;
