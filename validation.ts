@@ -5,7 +5,6 @@ import {
   Forms,
   GenderedForms,
   Genders,
-  Levels,
   Noun,
   Pronouns,
   Verb,
@@ -139,11 +138,6 @@ export const validateWordBase = (word: WordBase) => {
     "Word must have at most one '·'"
   );
   validator.validateOneOfType('type', word.type, WordTypes);
-
-  if (word.level) {
-    // TODO - most words do not have a level assigned yet
-    validator.validateOneOfType('level', word.level, Levels);
-  }
 
   const allowedChars: { [key in LanguageCode]: string } = {
     en: " \\-\\'éè”&",

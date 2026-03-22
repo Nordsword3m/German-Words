@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository is a dataset of German words with type-safe TypeScript definitions. Each word entry is a JSON object containing the word's base form (lemma), type, translations, frequency, CEFR level, and grammatical forms.
+This repository is a dataset of German words with type-safe TypeScript definitions. Each word entry is a JSON object containing the word's base form (lemma), type, translations, frequency, and grammatical forms.
 
 ## Repository Structure
 
@@ -24,7 +24,6 @@ type WordBase = {
   type: WordType;             // 'noun' | 'verb' | 'adjective'
   translations: { [key in LanguageCode]: string[] };  // 'en' and 'fr'
   frequency?: number;         // 0–1 from Leipzig Web-public Germany 2019 1M Corpora
-  level?: Level;              // CEFR level: 'A1' | 'A2' | 'B1' | 'B2' | 'C1' | 'C2'
 };
 ```
 
@@ -82,15 +81,9 @@ type Adjective = WordBase & {
 ```
 `Declension` maps `Case` × `GenderedForm` (`m`, `f`, `n`, `p`) to `string | null`.
 
-### `Level`
-CEFR proficiency level (optional on all word types):
-```typescript
-enum Level { A1 = 'A1', A2 = 'A2', B1 = 'B1', B2 = 'B2', C1 = 'C1', C2 = 'C2' }
-```
-
 ## Conventions
 
-- All enum values have a corresponding array constant (`WordTypes`, `Genders`, `Cases`, `Forms`, `Pronouns`, `GenderedForms`, `Levels`, etc.) produced with `Object.values()`.
+- All enum values have a corresponding array constant (`WordTypes`, `Genders`, `Cases`, `Forms`, `Pronouns`, `GenderedForms`, etc.) produced with `Object.values()`.
 - Separable verbs have a `·` in their lemma and a space in conjugated forms (e.g. `'rufe an'`). `switchSeparable` in `wordLookup.ts` converts these to lookup-friendly forms.
 - Validation throws on the first invalid object and includes the full object + error map in the message.
 - Lookup tables (`getLookupTables`) build lowercased `string → Word` maps by enumerating all inflected forms of each word via `getNounLookups`, `getVerbLookups`, and `getAdjectiveLookups`.

@@ -16,7 +16,6 @@ type WordBase = {
   type: WordType;
   translations: { [key in LanguageCode]: string[] };
   frequency?: number;
-  level?: Level;
 };
 ```
 
@@ -27,13 +26,6 @@ type WordBase = {
   - `adjective`
 - `translations`: An object containing a list translations for the word in different languages.
 - `frequency`: The frequency of this word, as it appears in the Leipzig Web-public Germany 2019 1M Corpora. Note, not every word has an associated frequency. The frequency is a number between 0 and 1, where 1 means the word appears in every sentence.
-- `level`: The CEFR proficiency level of the word. Not every word has an associated level. `Level` is an enum with the following values:
-  - `A1`
-  - `A2`
-  - `B1`
-  - `B2`
-  - `C1`
-  - `C2`
 
 ### Word Types
 
