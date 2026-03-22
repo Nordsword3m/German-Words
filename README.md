@@ -77,28 +77,30 @@ Each verb entry in the list is represented by the following type
 type Verb = WordBase & {
   type: WordType.Verb;
   separable: boolean;
-  withSein: boolean;
+  superSeparable: boolean;
+  modal: boolean;
+  reflexive: boolean;
   present: Conjugation;
   simple: Conjugation;
-  conjunctive1: Conjugation;
-  conjunctive2: Conjugation;
-  imperative: Imperative | null;
+  imperative: Imperative;
   perfect: string;
   gerund: string;
   zuinfinitive: string;
+  withSein: boolean;
 };
 ```
 
-- `separable`: A boolean indicating if the verb is separable. The sepearation is indicated by a dot `·` in `WordBase.lemma` (e.g. `'weg·laufen'`, `'an·rufen'`, `'mit·kommen'`). Note, some verbs can be both separable and inseparable (e.g. `'anerkennen'` can be both `'an·erkennen'` and `'anerkennen'`).
-- `withSein`: A boolean indicating if `sein` is used as the helper verb (false indicates `haben`).
+- `separable`: A boolean indicating if the verb is separable. The separation is visible in conjugated forms, where the prefix appears at the end of the clause separated by a space (e.g. `'rufe an'` for `'anrufen'`). Note, some verbs can be both separable and inseparable (e.g. `'umfahren'`).
+- `superSeparable`: A boolean indicating if the verb has two separable parts.
+- `modal`: A boolean indicating if the verb is a modal verb (e.g. `dürfen`, `können`, `müssen`).
+- `reflexive`: A boolean indicating if the verb is a reflexive verb.
 - `present`: The present tense conjugation of the verb.
 - `simple`: The simple past tense conjugation of the verb.
-- `conjunctive1`: The first conjunctive conjugation of the verb.
-- `conjunctive2`: The second conjunctive conjugation of the verb.
-- `imperative`: An object containing the imperative forms of the verb. If the verb does not have an imperative form, this object becomes `null`.
+- `imperative`: An object containing the imperative forms of the verb (`du` and `ihr`). For modal verbs this object is still present, but its values are empty/ignored; callers should either guard with `!verb.modal` or check for non-empty strings before using them.
 - `perfect`: The perfect tense form of the verb, also known as the past participle.
 - `gerund`: The gerund form of the verb.
 - `zuinfinitive`: The zu-infinitive form of the verb (e.g. `'zu laufen'`, `'zu rufen'`, `'zu kommen'`).
+- `withSein`: A boolean indicating if `sein` is used as the helper verb (false indicates `haben`).
 
 `Conjugation` is an object that holds each form of the verb respective to the pronoun in a specified tense. It is defined as follows:
 
@@ -125,37 +127,25 @@ Each adjective entry in the list is represented by the following type
 type Adjective = WordBase & {
   type: WordType.Adjective;
   singularOnly: boolean;
-  pluralOnly: boolean;
   predicativeOnly: boolean;
-  absolute: boolean;
   notDeclinable: boolean;
-  noMixed: boolean;
   strong: Declension;
   weak: Declension;
   mixed: Declension;
   comparative?: string;
-  isComparative: boolean;
-  noComparative: boolean;
   superlative?: string;
-  isSuperlative: boolean;
-  superlativeOnly: boolean;
   commonNouns?: string[];
 };
 ```
 
 - `singularOnly`: A boolean indicating if the adjective only has a singular form (e.g. `eins`).
-- `pluralOnly`: A boolean indicating if the adjective only has a plural form (e.g. `acht`, `neun`).
 - `predicativeOnly`: A boolean indicating if the adjective only has a predicative form (e.g. `allein`, `egal`, `mehr`).
-- `noMixed`: A boolean indicating if the adjective does not have a mixed declension (e.g. `eins`).
-- `absolute`: A boolean indicating if the adjective is an absolute adjective, aka doesn't have any comparative forms (e.g. `extra`, `vegan`, `kostenlos`).
 - `notDeclinable`: A boolean indicating if the adjective is not declinable (e.g. `klasse`, `super`, `mehr`).
 - `strong`: The strong declension of the adjective.
 - `weak`: The weak declension of the adjective.
 - `mixed`: The mixed declension of the adjective.
 - `comparative`: The comparative form of the adjective.
-- `isComparative`: A boolean indicating if the adjective is a comparative form (e.g. 'weniger`, `kleiner`, `schneller`).
 - `superlative`: The superlative form of the adjective.
-- `isSuperlative`: A boolean indicating if the adjective is a superlative form (e.g. `falschesten`, `ältesten`, `klügsten`).
 - `commonNouns`: A list of noun lemmas commonly used with this adjective as they appear in the Leipzig Web-public Germany 2019 1M Corpora.
 
 `Declension` is an object that holds each gendered form of the adjective for each case. It is defined as follows:
@@ -163,7 +153,7 @@ type Adjective = WordBase & {
 ```typescript
 type Declension = {
   [key in Case]: {
-    [key in GenderedForm]: string;
+    [key in GenderedForm]: string | null;
   };
 };
 ```
