@@ -90,13 +90,13 @@ type Verb = WordBase & {
 };
 ```
 
-- `separable`: A boolean indicating if the verb is separable. The sepearation is indicated by a dot `·` in `WordBase.lemma` (e.g. `'weg·laufen'`, `'an·rufen'`, `'mit·kommen'`). Note, some verbs can be both separable and inseparable (e.g. `'anerkennen'` can be both `'an·erkennen'` and `'anerkennen'`).
+- `separable`: A boolean indicating if the verb is separable. The separation is visible in conjugated forms, where the prefix appears at the end of the clause separated by a space (e.g. `'rufe an'` for `'anrufen'`). Note, some verbs can be both separable and inseparable (e.g. `'anerkennen'`).
 - `superSeparable`: A boolean indicating if the verb has two separable parts.
 - `modal`: A boolean indicating if the verb is a modal verb (e.g. `dürfen`, `können`, `müssen`).
 - `reflexive`: A boolean indicating if the verb is a reflexive verb.
 - `present`: The present tense conjugation of the verb.
 - `simple`: The simple past tense conjugation of the verb.
-- `imperative`: An object containing the imperative forms of the verb (`du` and `ihr`). Modal verbs do not have imperative forms — guard with `verb.modal`.
+- `imperative`: An object containing the imperative forms of the verb (`du` and `ihr`). For modal verbs this object is still present, but its values are empty/ignored; callers should either guard with `!verb.modal` or check for non-empty strings before using them.
 - `perfect`: The perfect tense form of the verb, also known as the past participle.
 - `gerund`: The gerund form of the verb.
 - `zuinfinitive`: The zu-infinitive form of the verb (e.g. `'zu laufen'`, `'zu rufen'`, `'zu kommen'`).

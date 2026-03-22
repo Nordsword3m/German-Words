@@ -47,7 +47,7 @@ Extends `WordBase` with conjugation tables and boolean flags:
 ```typescript
 type Verb = WordBase & {
   type: WordType.Verb;
-  separable: boolean;         // prefix separated by '·' in lemma (e.g. 'weg·laufen')
+  separable: boolean;         // separable verb; prefix appears at end in conjugated forms (e.g. 'rufe an')
   superSeparable: boolean;    // two separable parts
   modal: boolean;             // modal verb (dürfen, können, etc.)
   reflexive: boolean;         // reflexive verb
@@ -84,7 +84,7 @@ type Adjective = WordBase & {
 ## Conventions
 
 - All enum values have a corresponding array constant (`WordTypes`, `Genders`, `Cases`, `Forms`, `Pronouns`, `GenderedForms`, etc.) produced with `Object.values()`.
-- Separable verbs have a `·` in their lemma and a space in conjugated forms (e.g. `'rufe an'`). `switchSeparable` in `wordLookup.ts` converts these to lookup-friendly forms.
+- Separable verbs have a space in their conjugated forms (the prefix appears at the end, e.g. `'rufe an'`); the lemma itself has no special marker. `switchSeparable` in `wordLookup.ts` reverses the space-separated parts for lookup.
 - Validation throws on the first invalid object and includes the full object + error map in the message.
 - Lookup tables (`getLookupTables`) build lowercased `string → Word` maps by enumerating selected lookup forms for each word via `getNounLookups`, `getVerbLookups`, and `getAdjectiveLookups`.
 - `getWordId` in `nlp.ts` produces a unique ID per word: `lemma + type (+ gender for nouns)`.
