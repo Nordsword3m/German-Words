@@ -8,7 +8,7 @@ This repository is a dataset of German words with type-safe TypeScript definitio
 
 - `types.ts` — All TypeScript types and enums for the data model
 - `validation.ts` — Validators for each word type (`validateWordBase`, `validateNoun`, `validateVerb`, `validateAdjective`)
-- `wordLookup.ts` — Functions to build lookup tables from word arrays and generate all inflected forms of each word
+- `wordLookup.ts` — Functions to build lookup tables from word arrays and generate selected lookup forms for each word
 - `nlp.ts` — NLP helpers: POS tag enums (`Tag`), sentence-matching logic (`matchSentence`, `getVocabWords`), and an API client (`ApiCall`) for the spaCy tagging service
 - `utils.ts` — General-purpose utility functions (`keys`, `entries`, `filterFalsey`, `removeEmojis`, etc.)
 - `data/` — The word data split across numbered JSON files plus `all.json`
@@ -53,7 +53,7 @@ type Verb = WordBase & {
   reflexive: boolean;         // reflexive verb
   present: Conjugation;       // present tense forms
   simple: Conjugation;        // simple past (Präteritum) forms
-  imperative: Imperative;     // du/ihr imperative forms (null only for modals — use verb.modal guard)
+  imperative: Imperative;     // du/ihr imperative forms (always present; for modal verbs usually empty/ignored — use verb.modal guard)
   perfect: string;            // past participle (Partizip II)
   gerund: string;             // gerund form
   zuinfinitive: string;       // zu-infinitive (e.g. 'zu laufen', 'wegzulaufen')
@@ -86,5 +86,5 @@ type Adjective = WordBase & {
 - All enum values have a corresponding array constant (`WordTypes`, `Genders`, `Cases`, `Forms`, `Pronouns`, `GenderedForms`, etc.) produced with `Object.values()`.
 - Separable verbs have a `·` in their lemma and a space in conjugated forms (e.g. `'rufe an'`). `switchSeparable` in `wordLookup.ts` converts these to lookup-friendly forms.
 - Validation throws on the first invalid object and includes the full object + error map in the message.
-- Lookup tables (`getLookupTables`) build lowercased `string → Word` maps by enumerating all inflected forms of each word via `getNounLookups`, `getVerbLookups`, and `getAdjectiveLookups`.
+- Lookup tables (`getLookupTables`) build lowercased `string → Word` maps by enumerating selected lookup forms for each word via `getNounLookups`, `getVerbLookups`, and `getAdjectiveLookups`.
 - `getWordId` in `nlp.ts` produces a unique ID per word: `lemma + type (+ gender for nouns)`.
